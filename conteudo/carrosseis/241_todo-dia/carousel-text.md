@@ -10,7 +10,7 @@ Por que essa família: análise das frases com foto do Hélio de 02 a 13/10. Aci
 Referência de forma pedida pelo João: a 232 (https://www.instagram.com/p/Dec3gduR3kH/), inclusive a fonte.
 
 ## Fotos (Hélio no MBV, mesmo palco, 3 min de diferença)
-- Cima: Hélio/DSCF3105.JPG (23/01/2026 08:53:57), P&B contraste 1.15, dedo na têmpora. Recorte zoom 1.0, cx 0.5, cy 0.24; img deslocada -230 px.
+- Cima: Hélio/DSCF3105.JPG (23/01/2026 08:53:57), P&B contraste 1.15, dedo na têmpora. v6 (15/10, pedido do João: zoom grande demais no rosto): foto INTEIRA (imagens/op3-cima-inteira.jpg) reduzida a 580x870 no HTML, left 40, com máscara radial que funde as bordas no preto; mostra até o microfone. A v5 (rosto perto, recorte -230 px) ficou em instagram/v5-cima-perto/.
 - Baixo: Hélio/DSCF3101.JPG (23/01/2026 08:50:37), cor. Recorte zoom 1.0, cx 0.5, cy 0.22 (v2: rosto descido a pedido do João, a v1 cortava o rosto na emenda); img deslocada -230 px.
 Texto à direita (left 600, margem direita 90 px), degradê lateral preto.
 
