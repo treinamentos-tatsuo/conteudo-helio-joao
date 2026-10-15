@@ -1,6 +1,6 @@
 {
  "_fonte": "painel Manychat (app.manychat.com > Automacao), leitura manual — nao ha API. Atualizar a cada ritual.",
- "_lido_em": "2026-10-13 12:20",
+ "_lido_em": "2026-10-15 12:05",
  "DONO": {
   "disparos": 6,
   "ctr": "83,3%",
@@ -153,10 +153,11 @@
   "utm": true
  },
  "307": {
-  "disparos": 4,
-  "ctr": "25%",
+  "disparos": 3,
+  "ctr": "66,7%",
+  "post": "sem-ficha (carrossel 15/10 \"margem que vale repost\", repost com a global 307)",
   "utm": true,
-  "post": "144_ler-o-negocio-repost"
+  "lido_em": "2026-10-15"
  },
  "_nota_utm": "LIQUIDO e LEAL verificados no link em 02/09: utm_campaign no formato data-PALAVRA (2026-09-01-LIQUIDO). O GHL grava tambem em minusculas — casar case-insensitive.",
  "DIVIDENDO": {
@@ -379,9 +380,9 @@
  "MBV": {
   "disparos": 0,
   "ctr": "N/A",
-  "post": "173_dia-do-vendedor",
+  "post": "234_cinco-coisas-38-anos",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "VINCULO": {
   "disparos": 14,
@@ -459,24 +460,24 @@
  },
  "FOCO": {
   "disparos": 18,
-  "ctr": "72,2%",
+  "ctr": "77,8%",
   "post": "189_foco",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "ESCOLA": {
   "disparos": 1,
   "ctr": "100%",
   "post": "188_escola",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "AGORA": {
-  "disparos": 15,
-  "ctr": "53,3%",
+  "disparos": 17,
+  "ctr": "58,8%",
   "post": "179_cenoura",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "ENTREGA": {
   "disparos": 4,
@@ -490,56 +491,56 @@
   "ctr": "56,3%",
   "post": "202_deus-nao-e-argumento-de-venda",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "CLAREZA": {
-  "disparos": 3,
-  "ctr": "33,3%",
+  "disparos": 4,
+  "ctr": "50%",
   "post": "220_seis-verdades",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "PEGADA": {
   "disparos": 8,
   "ctr": "62,5%",
   "post": "195_pegadas",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "REI": {
   "disparos": 1,
   "ctr": "100%",
   "post": "sem-ficha (reel 08/10 \"ideia bonita todo mundo tem\", execução)",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "MAESTRO": {
   "disparos": 7,
   "ctr": "57,1%",
   "post": "204_maestro-em-gente",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "PROSPERO": {
   "disparos": 7,
   "ctr": "100%",
   "post": "199_regra-numero-um",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "PULSO": {
   "disparos": 14,
   "ctr": "42,9%",
   "post": "200_empresario-nutella",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "GANA": {
   "disparos": 0,
   "ctr": "N/A",
   "post": "198_remedio-pro-desmotivado",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "PORTA": {
   "disparos": 4,
@@ -560,41 +561,55 @@
   "ctr": "N/A",
   "post": "205_sem-direcao",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "PLACAR": {
   "disparos": 11,
   "ctr": "72,7%",
   "post": "206_arquibancada-grita",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "GRANDE": {
-  "disparos": 12,
-  "ctr": "58,3%",
+  "disparos": 13,
+  "ctr": "61,5%",
   "post": "201_fe-de-empresario",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "NORTE": {
-  "disparos": 3,
-  "ctr": "66,7%",
+  "disparos": 4,
+  "ctr": "75%",
   "post": "207_empresario-coelho",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "DEZEMBRO": {
-  "disparos": 10,
-  "ctr": "60%",
+  "disparos": 12,
+  "ctr": "66,7%",
   "post": "226_decimo-terceiro-do-dono",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
  },
  "BASE": {
   "disparos": 1,
   "ctr": "100%",
   "post": "218_terceirizar-no-escuro",
   "utm": true,
-  "lido_em": "2026-10-13"
+  "lido_em": "2026-10-15"
+ },
+ "UNIR": {
+  "disparos": 43,
+  "ctr": "44,2%",
+  "post": "231_liderar-e-unir-repost",
+  "utm": true,
+  "lido_em": "2026-10-15"
+ },
+ "TREINO": {
+  "disparos": 3,
+  "ctr": "33,3%",
+  "post": "238_cinco-coisas-treinamento",
+  "utm": true,
+  "lido_em": "2026-10-15"
  }
 }

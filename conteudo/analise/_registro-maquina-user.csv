@@ -1,0 +1,174 @@
+data,data_publicacao,post_id,pasta,formato,semente,pilar,funil,objetivo,palavra_chave
+2026-08-18,2026-08-18,17882910351485304,45_contratou-um-curriculo,carrossel,D1-S7,Cultura,topo,lead,307
+2026-08-18,2026-08-19,18003793940783403,45_autoridade-moral,carrossel,D1-S9,Cultura,meio,lead,307
+2026-08-18,2026-08-20,18085568774673225,45_cara-do-lider,carrossel,D1-S12,Cultura,topo,lead,307
+2026-08-18,2026-08-20,17905465029522016,45_anda-dez-volta-oito,carrossel,D1-S2,Lucratividade,meio,lead,307
+2026-08-18,2026-08-19,17997462443797857,45_vontade-propria,carrossel,D1-S10,Cultura,meio,lead,307
+2026-08-18,2026-08-22,18153905275510070,46_nunca-e-dinheiro,carrossel,D1-S13,Lucratividade,meio,lead,307
+2026-08-19,2026-08-23,18081961592688182,41_papagaio,carrossel,D2-S14,Cultura,topo;meio,lead,PAPAGAIO
+2026-08-19,2026-08-21,18100709195364973,46_porta-pra-dentro,carrossel,D1-S11,Lucratividade,,lead,DENTRO
+2026-08-20,2026-08-21,18089942612161622,47_raiz,frase,própria,Cultura,topo,alcance,
+2026-08-20,2026-08-20,18381016612237337,48_inverno,frase,própria,Lucratividade,meio,alcance,
+2026-08-21,2026-08-23,18350913394223394,49_treinamento-diario,carrossel,D2-S39,Cultura,,lead,ROTINA
+2026-08-21,2026-08-21,18078782561338553,50_draga,carrossel,D2-S5,Lucratividade,,lead,DRAGA
+2026-08-25,2026-08-25,18112438888789386,50_nem-sonho-tem,carrossel,D2-S43,Cultura,,lead,SONHO
+2026-08-26,2026-08-26,17903279448333384,50_piloto-automatico,carrossel,D2-S17,Cultura,,lead,PILOTO
+2026-08-24,2026-08-24,18130161010674420,50_vendedor-estrela,carrossel,D2-S26,Cultura,meio,lead,ESTRELA
+2026-08-24,2026-08-24,17879009154686856,51_empresa-escondida,carrossel,D1-S58,Lucratividade,meio,lead,ESCONDIDA
+2026-08-25,2026-08-25,17934375213363224,52_ladrao-silencioso,carrossel,D1-S61,Lucratividade,,lead,LADRAO
+2026-08-21,2026-08-22,17929020339147714,53_afunda-de-pe,frase,própria,Lucratividade,meio,alcance,
+2026-08-21,2026-08-24,18018992975919296,54_peso-da-lacuna,frase,própria,Crescimento,topo,alcance,
+2026-08-21,2026-08-23,18098197586632515,55_idiota-em-movimento,frase,própria,Crescimento,topo,alcance,
+2026-08-25,2026-08-25,18103651301206827,roteiro4_explica-mil-vezes,reel,própria,Cultura,,lead,CULTURA
+2026-08-26,2026-08-26,18166606636463534,57_prateleira,frase,própria,Crescimento,,alcance,
+2026-08-18,2026-08-18,18085249484241109,33_decidir-no-escuro,carrossel,,Crescimento,,lead,307
+2026-08-22,2026-08-22,18223316659333329,51_piloto-automatico,carrossel,D1-S20,Cultura,,lead,DNA
+2026-08-26,2026-08-26,17868693768649979,58_cliente-virou-patrao,carrossel,externa,Lucratividade,,lead,PATRAO
+2026-08-27,2026-08-27,18485250919106755,59_atalho-pedagio,frase,banco-15,Cultura,,alcance,
+2026-08-25,2026-08-25,18114251269747522,56_abismo,frase,banco-16,Cultura,,alcance,
+2026-08-27,2026-08-27,17884497714617090,reel_casas-bahia,reel,externa,Lucratividade,,lead,LUCRO
+2026-08-27,2026-08-27,17961149366981532,60_solidao-da-presidencia,carrossel,externa,Cultura,,lead,LEVE
+2026-08-27,2026-08-27,17938736862357338,64_come-antes-de-voce,carrossel,externa,Lucratividade,,lead,DONO
+2026-08-28,2026-08-28,18111733394328963,65_feijao-pressao,frase,banco-21,Cultura,,alcance,
+2026-08-28,2026-08-29,18127316239688052,62_perna-que-falta,carrossel,externa,Cultura,,lead,FIRME
+2026-08-28,2026-08-28,17943484626316443,63_dois-cansacos,carrossel,externa,Cultura,,lead,FOLGA
+2026-08-28,2026-08-28,18104420627617093,61_um-setor-so,carrossel,externa,Cultura,,lead,VENDA
+2026-08-28,2026-08-29,17872512675576705,70_ladeira,frase,banco-23,Cultura,,alcance,
+2026-08-28,2026-08-30,18161325481489678,71_saco-vazio,frase,banco-27,Cultura,,alcance,
+2026-08-29,2026-08-29,18126087493749966,68_concurso-de-popularidade,carrossel,externa,Cultura,,lead,RESPEITO
+2026-08-31,2026-08-30,17891524545655757,69_camelo,carrossel,externa,Cultura,,lead,FOME
+2026-08-31,2026-08-30,17986765065027966,72_nao-tem-opcao,carrossel,externa,Cultura,,lead,CONSTANCIA
+2026-08-31,2026-08-31,18121411180887299,73_fechamento-do-mes,carrossel,propria,Lucratividade,,lead,LIVE-CARROSSEL
+2026-08-31,2026-08-31,17982496428078537,74_de-graca,frase,propria,Lucratividade,,alcance,LIVE-ESTATICO
+2026-08-31,2026-08-31,18024799142899702,75_lealdade-nao-vem-em-contrato,carrossel,propria,Cultura,,lead,LEAL
+2026-09-01,2026-09-01,18142327255605014,76_pedra-amola,frase,banco-28,Cultura,,alcance,
+2026-09-01,2026-09-01,17894434269398617,77_risco-tem-dono,carrossel,D1-S41,Lucratividade,,lead,LIQUIDO
+2026-09-01,2026-09-01,17968803192150168,79_dia-da-virada,carrossel,D1-S64,Lucratividade,,lead,VIRADA
+2026-09-02,2026-09-02,18180480499425602,80_alicerce,frase,banco-24,Cultura,,alcance,
+2026-09-02,2026-09-02,18076893416347904,78_biblia-de-vendas,carrossel,D2-S37,Crescimento,,lead,SAGRADO
+2026-09-02,2026-09-02,18620295862031409,81_tempo-de-resposta,carrossel,D2-S32,Crescimento,,lead,TEMPO
+2026-09-03,2026-09-03,18027669161680945,82_risco-repost,carrossel,repost-2026-05-21 (id 18131111467573692),Lucratividade,,lead,RISCO
+2026-09-03,2026-09-03,17909044671524439,83_ritual-de-comando,carrossel,externa (copy do marketing; peca refeita no editorial-punch),Cultura,,lead,RITUAL
+2026-09-04,2026-09-04,18113050600803239,84_calo-nao-se-herda,frase,banco-31,Cultura,,alcance,
+2026-09-04,2026-09-05,18095002310410479,85_roupa-apertada,frase,banco-30,Cultura,,alcance,
+2026-09-04,2026-09-06,18176088142430654,86_pneu-vazio,frase,banco-29,Cultura,,alcance,
+2026-09-04,2026-09-04,18193475029388988,87_time-que-voce-nao-prepara,carrossel,propria (repost da copy de 28/07/2025; slides 1-10 intactos; CTA novo; arte refeita no editorial-punch),Cultura,,lead,PREPARO
+2026-09-04,2026-09-04,17906891790495139,89_itai-doshin,carrossel,repost-adaptado-2026-02-20 (id 18549159916010888),Cultura,,lead,JUNTOS
+2026-09-04,2026-09-05,18069080522740295,88_loja-as-seis,carrossel,propria (filha do post de 31/12/2025 'A vontade come o talento no cafe da manha'; forma mantida; concreto novo),Cultura,,lead,METODO
+2026-09-04,2026-09-05,18107352371597912,90_obvio-do-dono,carrossel,externa,Cultura,,lead,OBVIO
+2026-09-06,2026-09-06,18004350122977313,91_caminho-mais-dificil,carrossel,propria,Lucratividade,,lead,DONO
+2026-09-06,2026-09-03,17971535922131905,66_filho-no-colo,frase,banco-26,Cultura,,alcance,
+2026-09-06,2026-09-06,18444204271124348,92_empresario-bobo-repost,carrossel,propria (repost do carrossel de 17/03/2026 id 17997110834874742; slides 1-16 intactos; slide 17 refeito so pra trocar a palavra do CTA),Cultura,,lead,BASICO
+2026-09-07,2026-09-07,18103037777230567,94_emprego-caro,carrossel,externa (arte e copy do marketing; formato print de tweet; 10 slides de texto puro; CTA DIVIDENDO ja impresso no slide 10),Lucratividade,,lead,DIVIDENDO
+2026-09-07,2026-09-07,18139302886580822,93_pipa,frase,banco-33,Cultura,,alcance,
+2026-09-07,2026-09-07,18076237796429420,95_cansado-demais-repost,carrossel,propria (repost da copy do marketing publicada em 04/08/2025 id 18379480924131991 e 04/01/2026 id 18108892132641894; slides 1-12 intactos; slide 13 refeito so pra tirar a data do evento e trocar a palavra do CTA),Cultura,,lead,ESTRUTURA
+2026-09-08,2026-09-08,18147710128544823,96_tranco,frase,banco-38,Cultura,,alcance,
+2026-09-08,2026-09-08,18136311181544254,97_pressao-repost,carrossel,propria (repost estendido da copy de 26/07/2025 id 17957994461825053; slides 1-10 com a copy intacta; slides 11-16 novos com a virada gestao/risco pago; arte inteira refeita no editorial-punch; CTA COMANDO -> RECOMPENSA),Lucratividade,,lead,RECOMPENSA
+2026-09-08,2026-09-08,17901937749581460,98_comeca-assim-repost,carrossel,propria (repost da copy de 22/07/2025 id 17997110834874742 permalink DMax_pfRD9b; slides 1-7 e 9 intactos; miolo e fecho refeitos com causa tecnica e empreendedor x empresario; arte inteira refeita no editorial-punch; CTA COMANDO -> NUMERO),Cultura,,lead,NUMERO
+2026-09-09,2026-09-09,17944836252337695,101_penca,frase,banco-45,Cultura,,alcance,
+2026-09-09,2026-09-09,17967399651160015,100_gente-boa-repost,carrossel,propria (repost da copy de 19/08/2025; slides 1-11 intactos; CTA novo no caminho diagnostico; arte refeita no editorial-punch),Cultura,,lead,DIAGNOSTICO
+2026-09-09,2026-09-09,18114494060095223,104_passar-a-caneta,carrossel,externa,Cultura,,lead,SUCESSÃO
+2026-09-09,2026-09-10,18089840723188739,105_so-o-time-nomeia,carrossel,D1-S9;D3-S17,Cultura,,lead,LIDER
+2026-09-09,2026-09-11,,106_nao-foi-dinheiro,carrossel,D1-S13,Lucratividade,,lead,DIAGNÓSTICO
+2026-09-09,2026-09-09,18112890545046570,reel_kongo-gumi,reel,externa (copy produzido; roteiros-helio v4 Lote 2 Roteiro 3 Nihon; calibragem A; kit em conteudo/videos/2026-09-09_kongo-gumi),Crescimento,,lead,PREPARO
+2026-09-09,2026-09-10,17890326423611092,102_pipoca,frase,banco-41 (frase do user),Cultura,,alcance,
+2026-09-09,2026-09-10,18119559388920387,107_outro-bicho,carrossel,D1-S17,Lucratividade,,lead,PEQUENO
+2026-09-10,2026-09-12,,108_bolso-furado,frase,banco-52 (lote 10; Seneca traduzido),Cultura,,alcance,
+2026-09-10,2026-09-11,,109_chuva,frase,banco-46 (lote 10; Epicteto traduzido),Cultura,,alcance,
+2026-09-11,2026-09-11,,111_loja-cheia,carrossel,própria (fala do Hélio no MBV dia 1; tema dado pelo user),Lucratividade,,lead,DIAGNÓSTICO
+2026-09-11,2026-09-14,,110_trilha,frase,banco-47 (lote 10; Aristoteles traduzido),Cultura,,alcance,
+2026-09-11,2026-09-15,18014301365745204,112_luz,frase,banco-48 (lote 10; Platao traduzido),Cultura,,alcance,
+2026-09-11,2026-09-13,,113_agulha,frase,banco-49 (lote 10; Seneca traduzido),Cultura,,alcance,
+2026-09-11,2026-09-11,,reel_google-aristoteles,reel,externa (copy produzido; roteiros-helio Lote 2 Cases 'contrate por carater'; hook Google/Projeto Aristoteles; kit em conteudo/videos/2026-09-11_google-aristoteles),Cultura,,lead,GENTE
+2026-09-12,2026-09-12,,114_limitada,carrossel,D1-S25;D1-S21,Lucratividade,,lead,DIAGNÓSTICO
+2026-09-12,2026-09-12,,115_todas-as-vezes,carrossel,D1-S20,Cultura,,lead,AUTOMATICO
+2026-09-13,2026-09-13,,118_afiar-o-machado,carrossel,propria,Lucratividade,,lead,MACHADO
+2026-09-13,2026-09-13,,117_domingo-a-noite,carrossel,D3-S42;D3-S39,Cultura,,lead,CLIMA
+2026-09-14,2026-09-14,,120_ultimo-da-fila,carrossel,D1-S22 (dono de startup vira empregado dos investidores; angulo: soberano recebe primeiro),Lucratividade,,lead,SOBERANO
+2026-09-14,2026-09-16,18107015924621229,119_problema-de-lugar,carrossel,D2-S40 (+D2-S15;S39;S48 no bloco de acompanhamento),Cultura,,lead,RAIZ
+2026-09-14,2026-09-14,,116_lenha-primeiro,carrossel,D2-S49,Cultura,,lead,ORGULHO
+2026-09-14,2026-09-15,18087944639413362,122_lenha-no-funcionario,carrossel,D2-S49,Cultura,,lead,LENHA
+2026-09-15,2026-09-15,18133901230643768,121_nao-e-caridade,carrossel,propria (fala do user na voz do Helio; defesa moral do lucro),Lucratividade,,lead,REMUNERADO
+2026-09-16,2026-09-16,17873184024634274,128_cansar-e-privilegio-repost,frase,propria (repost da frase de 18/02/2026 id 18093976702994880 permalink DU5yksqkQEk; imagem identica; legenda nova),Cultura,,alcance,
+2026-09-16,2026-09-16,18473773612115296,123_ponte-do-sonho,carrossel,D3-S30,Cultura,,lead,PONTE
+2026-09-16,2026-09-17,17926117461182468,125_nada-pessoal,carrossel,externa (frase de terceiro; ancora D2-S15 e D2-S39),Cultura,,lead,COMBINADO
+2026-09-17,2026-09-17,18088065026240739,129_rua,frase,banco-53 (lote 10; Kant traduzido),Cultura,,alcance,
+2026-09-17,2026-09-17,18102644081370027,126_foguete-pra-lua,carrossel,propria (conselho do user na voz do Helio: onibus pro fim da rua x foguete pra lua; tubarao em aquario raso; toda profundidade vem com pressao),Cultura,,lead,FOGUETE
+2026-09-17,2026-09-18,18109527797334235,130_ponte,frase,banco-50 (lote 10; Marco Aurelio traduzido),Cultura,,alcance,
+2026-09-17,2026-09-18,18343396582266427,127_para-de-trabalhar,carrossel,propria (conceito 3 da fila de 15/09; frase-ancora dono nao pode ser CLT da propria empresa),Cultura,,lead,RAIO-X
+2026-09-19,2026-09-19,18281249827291711,131_rio,frase,banco-51 (lote 10; Heraclito traduzido),Cultura,,alcance,
+2026-09-19,2026-09-19,18093842267392423,132_ser-dono-e-ser-chato-repost,carrossel,propria (repost com arte nossa do carrossel de 05/03/2026 id 18090467402466147 permalink DVg0pCTkQx6; espinha literal do OCR; CTA COMANDO global trocado por CHATO especifica; legenda nova),Cultura,,lead,CHATO
+2026-09-20,2026-09-20,18093334790404127,133_porque,frase,banco-54 (lote 11; Nietzsche traduzido),Cultura,,alcance,
+2026-09-21,2026-09-21,18101894678002639,134_calcada,frase,banco-55 (lote 11; Marco Aurelio traduzido),Cultura,,alcance,
+2026-09-21,2026-09-21,18128735647833379,135_pato-repost,carrossel,propria (repost com arte nossa do carrossel de 29/12/2025 id 18115280284607449 permalink DS2bN6YkbMp; 7 slides transcritos pelo user; espinha literal + ponte/LUCRO CAIXA GENTE/oferta/CTA novos; CTA lucro global trocado por PATO especifica; legenda nova),Crescimento,,lead,PATO
+2026-09-21,2026-09-21,17920692303223492,137_esse-alguem-e-voce,carrossel,D2-S9 (na feira nunca perdi uma noite de sono; texto final do user),Cultura,,lead,DECISAO
+2026-09-22,2026-09-22,18116161091074554,136_pouco,frase,banco-56 (lote 11; Epicuro traduzido),Cultura,,alcance,
+2026-09-22,2026-09-23,18103834286363616,138_grama,frase,banco-57 (lote 11; ditado ressignificado),Cultura,,alcance,
+2026-09-22,2026-09-22,18213295204360235,140_pessimo-negocio,carrossel,própria (tese do user: negócio que depende de capital externo pra funcionar é péssimo negócio com Selic a 14%),Lucratividade,,lead,MODELO
+2026-09-22,2026-09-22,18140215453525163,141_crise-pra-culpar,carrossel,propria (repost com texto refeito do carrossel de 09/12/2025 id 18511380565069049 permalink DSCyk-JEStm; regime tema a pedido do user; 11 slides; arte nossa),Lucratividade,,lead,DRE
+2026-09-23,2026-09-24,18137102509618834,139_troco,frase,banco-58 (lote 11; maxima traduzida),Cultura,,alcance,
+2026-09-24,2026-09-25,18125382628846260,145_joelho,frase,banco-59 (lote 12; dor necessaria),Cultura,,alcance,
+2026-09-25,2026-09-25,17952219282293817,148_porta-de-saida,carrossel,D2-S10 (refeita; o 41_porta-sem-saida de agosto nunca foi publicado),Lucratividade,,lead,PORTA
+2026-09-25,2026-09-25,18236616217318617,149_lucro-no-papel,carrossel,D1-S26;S27;S38;S49;S50;S64 (lista do MBV dia 1 ao vivo a pedido do user; fotos reais do Helio; so copy),Lucratividade,,lead,BOLSO
+2026-09-26,2026-09-26,18119460214945947,151_senna-no-fusca,carrossel,D1-S29;D1-S36 (apostila do MBV: 4 paginas do modelo de negocio; regime espinha; voz institucional Tatsuo Academy),Lucratividade,,lead,PODIO
+2026-09-26,2026-09-26,,158_mbv-dia-2-vender,carrossel,D2-S7;S11;S16;S20;S29;S37;S39 (lista do MBV dia 2 ao vivo; fotos reais do Helio; slides montados pelo marketing; legenda do Claude),Crescimento,,lead,VENDER
+2026-09-28,2026-09-28,18093043487240404,163_cozinheiro,frase,banco-63 (lote 12; Socrates traduzido),Cultura,,alcance,
+2026-09-28,2026-09-28,18435044614180041,147_ta-tudo-certo,carrossel,D3-S12 (angulo novo; a S12 ja rodou no 34_parou-de-olhar em 13/08 com 1.668 com),Cultura,,lead,RAIO-X
+2026-09-28,2026-09-28,18137302780628594,146_problema-bom,carrossel,D2-S24,Crescimento,,lead,PROBLEMA
+2026-09-29,2026-09-29,18104620478341345,166_laje,frase,banco-64 (lote 12; Seneca traduzido),Cultura,,alcance,
+2026-09-29,2026-09-29,18121445434898785,164_so-sobrou-a-casa,carrossel,D1-S27 (versao topo; nasceu como 146_igual-ao-aluguel),Lucratividade,,lead,RAIO-X
+2026-09-29,2026-09-29,18074256269754413,167_crianca,carrossel,D2-S38,Cultura,,lead,ADULTO
+2026-09-30,2026-09-30,18374101231208642,168_dente,frase,banco-60 (lote 12; dor necessaria),Cultura,,alcance,
+2026-09-30,2026-09-30,18178605955429081,165_telefone-sem-fio,carrossel,D3-S13 (angulo novo: telefone sem fio + cartilha Caminho Suave + acompanhamento; a S13 rodou em 12/08/2025 com 67 com),Cultura,,lead,PADRAO
+2026-09-30,2026-09-30,18096898433410084,169_bastidor,carrossel,D2-S45,Cultura,,lead,BASTIDOR
+2026-10-01,2026-10-01,17956507296017179,170_evita,frase,banco-65 (lote 13; Epicteto traduzido),Cultura,,alcance,
+2026-10-01,2026-10-01,17969239817962539,171_almoco-de-terca,carrossel,D3-S33,Cultura,,lead,VINCULO
+2026-10-01,2026-10-01,18123155566898309,173_dia-do-vendedor,carrossel,propria,Crescimento,,lead,MBV
+2026-10-02,2026-10-02,18115707025814776,174_coragem,frase,banco-coragem (lote 12; Aristoteles traduzido),Cultura,,alcance,
+2026-10-03,2026-10-03,18116844070779215,175_louca,frase,banco-louca (lote 12/13; Seneca traduzido),Cultura,,alcance,
+2026-10-02,2026-10-02,18191723170398035,172_tres-regras,carrossel,D3-S37,Cultura,,lead,EXEMPLO
+2026-10-03,2026-10-04,18031543163851388,176_feijao-sobremesa,frase,banco-62 (lote 12; dor necessaria),Cultura,,alcance,
+2026-10-02,2026-10-04,18105269320967981,179_cenoura,carrossel,D1-S40,Lucratividade,,lead,AGORA
+2026-10-02,2026-10-02,18159247102522725,183_passa-fome,carrossel,propria (pauta quente: divida de R$ 11;1 tri e R$ 1;18 tri de juros em 12 meses; lastro MBV dia 1 pagar o risco do empresario),Lucratividade,,lead,GARANTIA
+2026-10-02,2026-10-04,18107296283462381,184_sonho-do-funcionario,carrossel,externa (inspiracao 'ore pelo lugar onde voce trabalha'; regime tema) + D3-S30,Cultura,,lead,SONHO
+2026-10-03,2026-10-03,18041181122839268,182_quem-nao-brilha,carrossel,propria (fala literal do Helio MBV dia 3: brilho nao se treina + time e reflexo do lider),Cultura,,lead,BRILHO
+2026-10-03,2026-09-23,18627405292023838,143_basico-repost,carrossel,propria (repost do '4 pilares' de 03/01/2026 e 15/04/2026; arte e final adaptados pelo user),Crescimento,,lead,BASICO
+2026-10-03,2026-09-23,18624525025054020,144_ler-o-negocio-repost,carrossel,propria (repost do 'claude 4' de 02/07/2026; 83 dias; decisao do user),Lucratividade,,lead,307
+2026-10-03,2026-09-24,17986330773113852,ext_ta-foda-empreender,carrossel,externa (produzido fora desta maquina; sem pasta),Lucratividade,,lead,SOBRA
+2026-10-03,2026-09-24,18465531415142258,reel_erro-de-promocao,reel,externa (reel; sem pasta),Cultura,,lead,DIAGNOSTICO
+2026-10-03,2026-10-03,18106055528185281,180_folha-duas-vezes,carrossel,externa (texto de terceiro em regime tema) + doutrina MBV D3 (delegai e vigiai; delegou ou delargou),Cultura,,lead,ENTREGA
+2026-10-05,2026-10-05,18117136051955375,181_forte-onde-testado,frase,banco-66 (lote 13; lei direta; Aristoteles traduzido),Cultura,,alcance,
+2026-10-05,2026-10-02,18126934301308099,177_quem-lidera-repete,frase,externa (frase do user; lastro MBV dia 2: padre que repete a mesma coisa mil vezes),Cultura,,alcance,
+2026-10-05,2026-10-03,18023962223865890,185_so-nao-erra,frase,externa (inspiracao 'if you dont fail you are not even trying'; lastro MBV dia 2 jogo da porta pra fora),Crescimento,,alcance,
+2026-10-05,2026-10-04,18287031475294772,186_sacrificio-ou-sonho,frase,propria (frase do user; legenda com analogia do Senna de Fusca do MBV dia 2),Crescimento,,alcance,
+2026-10-05,2026-10-05,17905292931577712,190_extraordinario-e-o-basico,frase,propria (frase do user),Cultura,,alcance,
+2026-10-05,2026-10-05,18337511698274057,188_escola,carrossel,D3-S40,Cultura,,lead,ESCOLA
+2026-10-05,2026-10-05,18117201130778435,189_foco,carrossel,propria (inspiracao no '4 pilares' de 03/01/2026; repost 143_basico de 23/09 fez 310 com; regime tema sem lista numerada),Crescimento,,lead,FOCO
+2026-10-05,2026-10-06,18411691702094969,187_calma-conquistada,frase,banco-67 (lote 13; lei direta; Marco Aurelio traduzido),Cultura,,alcance,
+2026-10-06,2026-10-06,18191520946393188,193_mensalidade-da-ignorancia,carrossel,D2-S47 (+ historia do Helio MBV dia 1: filhos cresceram sem ver; D1-S28 clareza),Lucratividade,,lead,CLAREZA
+2026-10-06,2026-10-07,18151247116546232,195_pegadas,carrossel,própria (briefing do user; lastro MBV D1 l.230 / D2 l.415-700 e l.11050 / D2 l.10305 guru),Cultura,,lead,PEGADA
+2026-10-06,2026-10-06,17905513407566555,202_deus-nao-e-argumento-de-venda,carrossel,própria (briefing do user; lastro MBV D3 l.5443 'nao vou usar palavra de Deus pra convencer' / D2 l.10685),Cultura,,lead,VERDADE
+2026-10-06,2026-10-11,18091674998557495,207_empresario-coelho,carrossel,externa (reel de terceiro: síndrome da Alice; regime tema; virou fábula própria),Crescimento,,lead,NORTE
+2026-10-06,2026-10-06,18118365566071517,191_feira-quem-nao-grita,frase,propria (frase do user; lastro MBV dia 1: Helio feirante dos 10 aos 20 anos; legenda com autoridade Hoken 29 anos e 7 bi),Crescimento,,alcance,
+2026-10-07,2026-10-07,17911530288470791,208_plateia,frase,banco-68 (lote 13; lei direta; Seneca traduzido),Cultura,,alcance,
+2026-10-07,2026-10-07,18204257953374422,210_quebra-por-trabalhar-errado,frase,propria (frase do user; formato novo: manuscrito no vidro da sala; image-edit sobre foto real do escritorio),Lucratividade,,alcance,
+2026-10-08,2026-10-08,18128643602505138,199_regra-numero-um,carrossel,própria (briefing do user; lastro MBV D1 l.2686-2701 / l.3098 / l.3133-3145 regra numero um = dividendo),Lucratividade,,lead,PROSPERO
+2026-10-08,2026-10-08,18115981952047905,217_visao-lanterna,frase,propria (frase do user; faixas de foto do Helio 0019 P&B + 0018 cor; Inter + Times),Cultura,,alcance,
+2026-10-08,2026-10-08,18095052215540311,204_maestro-em-gente,carrossel,própria (fala do Hélio enviada pelo user; lastro MBV D3 l.390-401 maestro em gente / l.893-922 / l.8912-8918 quem reclama de gente),Cultura,,lead,MAESTRO
+2026-10-09,2026-10-10,18085073819314730,209_bicicleta,frase,banco-59b (lote 12; infancia; dor necessaria),Cultura,,alcance,
+2026-10-09,2026-10-09,17870570031648734,198_remedio-pro-desmotivado,carrossel,própria (briefing do user; lastro MBV D2 l.8330 'quem só faz o que gosta é criança' / D2 l.866 motivação com fundamento / D3 l.10612),Cultura,,lead,GANA
+2026-10-09,2026-10-09,18146202418562646,200_empresario-nutella,carrossel,própria (briefing do user; lastro MBV D1 l.1470-1525 líder frouxo / quem é bom sai e já tem outro emprego),Cultura,,lead,PULSO
+2026-10-10,2026-10-10,18353534347221700,221_dez-mil-vezes,frase,propria (frase literal do user; formato foto real do Hélio no palco MBV-TATSUOAC-337 em P&B; legenda com as 10 mil demonstrações do Hélio),Cultura,,alcance,
+2026-10-10,2026-10-10,18096027611426111,206_arquibancada-grita,carrossel,externa (texto de reel de terceiro sobre arquibancada x campo; regime tema; lastro MBV D3 l.8280-8285 / D2 l.291-293 / D3 l.7965-7968),Lucratividade,,lead,PLACAR
+2026-10-10,2026-10-10,18117977557761315,205_sem-direcao,carrossel,própria (fala do Hélio enviada pelo user; lastro MBV D3 l.1697-1700 estratégia é direção de longo prazo / l.2371 incêndio),Crescimento,,lead,RUMO
+2026-10-11,2026-10-11,18116763194143165,223_carrega-dentro,frase,banco-69 (lote 13; lei direta; Seneca traduzido),Cultura,,alcance,
+2026-10-11,2026-10-11,18636313027048895,201_fe-de-empresario,carrossel,própria (briefing do user; lastro MBV D2 l.9040-9068 sonho grande / D3 l.549-560 credo rito rotina / D1 l.9170-9186 orçamento de 50 milhões),Crescimento,,lead,GRANDE
+2026-10-12,2026-10-12,18352596397268178,225_desenho-torto,frase,propria (Dia das Criancas; semente 78 nascida no dia),Cultura,,alcance,
+2026-10-12,2026-10-12,18083293772510649,218_terceirizar-no-escuro,carrossel,serie Erros do Hélio nº 6 (conteudo/serie-erros-helio.md; MBV D3 l.4236-4252 'eu me ferrei' / D1 l.1270-1300 analfabeto empresarial),Cultura,,lead,BASE
+2026-10-12,2026-10-12,18245814763312003,220_seis-verdades,carrossel,propria,Lucratividade,,lead,CLAREZA
+2026-10-12,2026-10-12,18016104482954045,228_problema-oportunidade,frase,propria (frase do user; vidro manuscrito),Crescimento,,alcance,
+2026-10-13,2026-10-13,18111473660336410,230_varal,frase,banco-71 (lote 14; lei direta; Heraclito traduzido),Cultura,,alcance,
+2026-10-13,2026-10-13,18133289905754176,231_liderar-e-unir-repost,carrossel,propria (repost com arte nova do carrossel de 15/07/2026 permalink Da0c0xukYdq; 390 comentarios com a global 307; espinha literal; capa na diagramacao original; oferta MBV + CTA UNIR especifica novos; legenda original com UNIR) permalink novo DecUoY1EY3c,Cultura,,lead,UNIR
+2026-10-13,2026-10-13,18100793360566012,232_processo-recompensa,frase,externa (frase literal de outro influenciador; pedido explicito do user 13/10); faixas de foto do Helio 0020 P&B + 0018 cor,Cultura,,alcance,
+2026-10-14,2026-10-14,18096181442134499,234_cinco-coisas-38-anos,carrossel,propria,Crescimento,,lead,MBV
+2026-10-14,2026-10-14,17973416919137554,238_cinco-coisas-treinamento,carrossel,propria (aula da cupula de 14/10 sobre treinamento; 3 itens do user + 2 da transcricao),Cultura,,lead,TREINO
