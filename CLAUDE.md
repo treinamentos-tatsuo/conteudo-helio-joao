@@ -26,6 +26,7 @@ O operador é o **João**. Ele está aprendendo: chega sem saber o método e cos
 - `conteudo/carrosseis/_da-maquina-do-user/` — textos dos posts feitos na máquina de origem, chegados pelo pacote de analytics.
 - `~/Desktop/carrosseis claude/POSTADOS/` e `~/Desktop/frases claude/` — tudo o que já foi entregue e postado (inclusive "claude 1" a "claude 13"). É onde se busca post antigo pra repostar.
 - `~/Desktop/fotos para carrosséis/` — acervo de fotos reais do Hélio.
+- `~/Desktop/POSTS/` — **entrega por conversa.** Uma subpasta com o nome exato de cada conversa fixada no app (Caixinhas, Carrossel Tatsuo Academy, Carrossel foto, Carrossel sem rosto, Frase sem rosto, Frase foto). Ao fechar uma peça, copiar o material final (PNGs + `carousel-text.md` com a legenda; nas caixinhas, o texto) pra `POSTS/<título da conversa atual>/<pasta da peça>/`. O original continua em `conteudo/carrosseis/` (é o que vai pro commit). Se a subpasta não existir, criar com o título da conversa; se a conversa não for uma das fixadas, perguntar ao João onde salvar.
 - `_contexto/` — guia de voz (`preferencias.md`), transcrições do MBV e banco de scouting (material do treinamento pago: não compartilhar).
 
 ## As skills
