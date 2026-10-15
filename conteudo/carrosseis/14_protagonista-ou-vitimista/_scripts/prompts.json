@@ -1,0 +1,61 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A solitary man seen from behind, small at the bottom of the frame, standing on flat empty ground with one arm raised and finger pointing out toward a vast empty distant horizon, his back to the camera. Everything above him is a huge pale, blown out, empty sky."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A man standing with his arms tightly folded across his chest, jaw set, face turned away and slightly down in a closed defensive posture, standing alone in a bare empty room, his figure filling the lower third of the frame. The space above and behind him is a pale, empty, hazy wall."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A lone small man seen from behind standing at the foot of an enormous towering blank concrete wall that dwarfs him, the massive wall rising behind and around him and filling most of the lower frame. Above the top edge of the wall the frame opens to pale, empty, hazy white sky."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "An old apothecary glass medicine bottle with a faded blank paper label and a glass dropper beside it, resting on a worn wooden table in weak side light, filling the bottom third of the frame. The space above the bottle is pale, empty and hazy."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A bare dirt path that curves around and loops back on itself, a worn circular track pressed into an empty flat field, seen from a low angle, filling the bottom third of the frame and bleeding off the bottom edge. The space above is a pale, empty, hazy sky."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A single empty wooden chair standing alone in the middle of a bare, empty room, a hard shaft of light falling across it and casting a long shadow, the chair in the lower-middle of the frame. The space above and around it is pale, empty and hazy."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A bare dirt road that splits into two diverging paths at a fork in an open empty field, the fork sitting in the lower-middle of the frame, dry grass around it. The whole upper half of the frame is a pale, empty, blown out sky."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A man with his shirt sleeves rolled up, crouched and leaning in with both bare hands working, building and fitting something out of timber and tools laid out in front of him, filling the bottom third of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A tall blank stone wall closing off the left side of the frame, and on the right a narrow solitary footbridge spanning a deep gap or ravine, a small lone figure walking across the bridge, the wall and bridge sitting in the lower-middle of the frame. The upper half of the frame is pale, empty, hazy sky."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "An open accounting ledger book with neat ruled columns and rows of faint indistinct handwritten figures, lying on a wooden desk inside the small pool of light from a desk lamp, a magnifying glass resting on the open page, filling the bottom third of the frame. The space above the desk is dim then pale and empty toward the top."
+    },
+    {
+      "n": 11,
+      "kind": "cutout",
+      "scene": "A lone man in a simple worn mid-century work coat and boots walking forward with purpose, caught mid stride, seen from a three-quarter rear angle, upright and full figure."
+    }
+  ]
+}

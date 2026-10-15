@@ -1,0 +1,71 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "An exhausted middle-aged shop owner in a work apron standing in the middle of his small cluttered general store workshop, surrounded by wooden crates, stacked boxes and tools on the counters, shoulders heavy, tired gaze looking slightly down, 1950s atmosphere. He is LARGE in the frame; he and the counters fill the entire bottom half of the frame, bleeding off the bottom edge. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Close view of a man's hand passing a bunch of old worn keys on an iron ring into another man's open waiting hand over a worn wooden shop counter, the handover caught mid-motion. No faces visible. The hands and the counter fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "Still life: a pair of round antique wire-rimmed spectacles resting on an open ledger notebook on a worn wooden shop counter, a pencil beside it, low warm light. The pencil marks on the pages are blurred and completely illegible, no readable writing and no readable numbers. The counter fills the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A shop owner seen from the side, alone at night, pulling down the heavy iron roller shutter of his small shop with both arms raised, dark empty street around him. He and the shutter fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A slick traveling salesman in a flashy pinstripe suit and hat leaning over a worn wooden shop counter, holding up a small glass bottle of miracle elixir with a persuasive grin, offering it to a tired shopkeeper in an apron on the other side of the counter, classic snake-oil charlatan scene, 1950s. Both men are the same realistic size. The bottle has a plain blank label with no text. The two men and the counter fill the bottom half of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "Close view of a man's hands lifting a small plain blank paper price tag tied with string to a product on a shop counter, inspecting it against the light. The tag is completely blank with no text and no numbers. No face visible. The hands and counter fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "An abandoned small shop storefront, dusty cracked display window with a few empty shelves visible behind the glass, a heavy chain and padlock on the wooden door, peeling paint, deserted sidewalk in front. The storefront fills the bottom half of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "Close view of a man's hands hanging a worn leather work apron on an iron wall hook, caught mid-gesture. No face visible. The hands and the apron fill the bottom third of the frame. The wall above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A shop owner standing on the wooden mezzanine walkway of his small workshop, leaning on the rail and pointing forward, giving direction to two workers working at benches below him, all figures the same realistic human scale, 1950s workshop atmosphere. The scene fills the bottom half of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "Close view of a man's hand writing with white chalk on a small shop blackboard propped on a counter, the chalk marks are blurred abstract scribbles and column strokes, completely illegible, no readable letters and no readable numbers. No face visible. The blackboard and the hand fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A calm confident shop owner in an apron standing at the open front door of his small shop in soft morning light, seen from outside at a slight angle, watching his employees working inside, relaxed posture, faint satisfied expression. He and the doorway fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "Close view of a pair of weathered calloused working hands, open with palms facing up, marked by years of manual labor, held over a worn wooden counter. No face visible. The hands fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "cutout",
+      "scene": "A confident mature shop owner in a clean work apron over a shirt with rolled-up sleeves, arms crossed, standing with the calm authority of a man in command of his business, faint proud smile."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Every appliance, box, carton, sack or document in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers, booklets, ledgers or banknotes show only vague illegible marks, never readable letters or numbers, and money never looks like US dollars. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small neighborhood HOME APPLIANCE STORE in a Brazilian town in the late 1970s: rows of plain white refrigerators and gas stoves on the showroom floor, stacked boxed tube televisions, a laminate front counter with a mechanical cash register and a wooden card-file box of installment payment booklets, a cramped back office with a small iron safe, a stockroom piled with cardboard appliance boxes, a flatbed delivery truck at the door. The owner is a Brazilian man in his fifties, short-sleeved dress shirt with a pen in the pocket; salesmen wear thin ties; delivery men wear overalls. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "scene": "Behind the laminate front counter, the owner in his short-sleeved shirt, LARGE, chest up, looks DOWN into the cash register's drawer pulled OPEN in front of him and completely EMPTY, no money at all, the empty compartments clearly visible; on both sides of him, pressed against the counter, customers crowd in, seen from the shoulders up, close, all of them below the white band. The heads of everyone are in the lower half of the frame. A full store and an empty drawer.",
+   "fit": true
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "scene": "Still life on the laminate front counter, seen from close and low: the store's big ring of KEYS with the open PADLOCK lying beside the mechanical cash register, in warm early-morning sidelight, a folded rag and a cup of coffee next to them. Opening the store one more day. The objects are LARGE and fill the lower part of the frame; behind and above them nothing but the bare bright white wall. The padlock and keys are plain with no brand or lettering.",
+   "fit": true
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "scene": "Behind the front counter, the owner in his short-sleeved shirt leans over and SIGNS a contract with a pen, while a man in a dark suit and tie, holding a briefcase, stands beside the counter holding the paper open for him with a satisfied salesman's smile. Behind them the showroom floor with its rows of refrigerators and stoves, full of merchandise. The contract shows only vague illegible marks. Both men LARGE, chest up, heads fully inside the frame."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "scene": "On the laminate counter, the wooden card-file box of the store's installment credit sits OPEN, packed with DOZENS of small payment booklets standing on edge, separated by cardboard dividers, a few bundled with rubber bands, one booklet pulled halfway out. The box is LARGE and close, filling the lower frame; the money that is not money. All booklets are blank with only vague illegible marks, no letters, no numbers. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "scene": "At the front counter, the owner in his short-sleeved shirt hands a small installment payment booklet across the counter into the hand of a customer, a man in a plain shirt, the gesture solemn like handing over cash; both men VERY LARGE, chest up, close to the camera, filling the lower part of the frame. At the right edge, lower than them, two delivery men in overalls carry a plain white refrigerator past, also below the white band. Behind everyone only the bare bright white wall. The booklet shows only vague illegible marks.",
+   "fit": true
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "scene": "A large refrigerator packed in a plain brown cardboard box, tied with thick rope, standing upright on the wooden flatbed of the delivery truck parked at the store's door, ready to leave; the truck's wooden side rails and the sidewalk beside it. The boxed appliance is LARGE and close, filling the lower frame; the product going out. The cardboard box is completely plain, no printing. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "scene": "On the laminate counter, on the LEFT, a TALL stack of installment payment booklets piled high and bundled with rubber bands; on the RIGHT, the cash register's drawer pulled OPEN with only THREE coins lying in an otherwise empty compartment. The pile grows, the drawer does not. Both LARGE and close, filling the lower frame. Booklets show only vague illegible marks; coins with no legible design. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "scene": "The store's flatbed delivery truck LOADED HIGH with cardboard appliance boxes of refrigerators and stoves tied down with ropes, pulling away down the street; in the foreground on the sidewalk the owner in his short-sleeved shirt seen FROM BEHIND, raising one hand in a wave as it goes. The loaded truck is LARGE in the frame, the top of the load well below the pale band. Boxes completely plain, no printing."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "scene": "At night in the cramped stockroom at the back of the store, the owner sits alone on a wooden crate, elbows on his knees, surrounded on both sides by cardboard appliance boxes stacked high; beside him on the floor a small iron safe with its door OPEN and completely EMPTY inside; a single bare light bulb hangs above. Full stock, empty safe. The owner LARGE and close, head fully inside the frame below the pale band; the box stacks dissolve upward into the light, NO box edge crossing the top band."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "scene": "On the wooden desk of the back office, a cloth-bound cash ledger lies OPEN showing two hand-written pencil columns, one LONG column running far down the page and one SHORT column of only a few lines, with the pencil resting on the page; beside the ledger an old wind-up alarm clock with twin bells. A count of days. The ledger and clock LARGE and close, filling the lower frame. All writing in the ledger is vague illegible pencil marks; the clock face has no legible numbers. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "scene": "The showroom floor of the store PACKED with customers on a Saturday: men and women seen from behind and in profile, standing shoulder to shoulder between the rows of white refrigerators and gas stoves, a salesman in a thin tie pointing at a refrigerator, stacked boxed televisions at the back. Everything full. The crowd LARGE and close, chest up, every head fully inside the frame, well below the pale top band."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "scene": "At the front counter, the owner in his short-sleeved shirt and a consultant in a plain light shirt stand side by side, the cloth-bound cash ledger OPEN on the counter between them; the consultant points at one line with a pen and the owner listens, serious, looking at the page. Behind them the rows of refrigerators. Both LARGE, chest up, heads fully inside the frame. Ledger writing is vague illegible marks."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "scene": "Still life, close and low: the mechanical cash register on the laminate front counter with its drawer pulled OPEN, and inside it almost nothing: one single crumpled plain banknote and three coins in an otherwise EMPTY set of compartments. Money missing. The register and drawer are LARGE and fill the lower part of the frame; behind and above them only the bare bright white wall. The banknote has no legible printing and never looks like a US dollar.",
+   "fit": true
+  }
+ ],
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no appliances, no boxes, no doorway, no window, no sign, no ceiling line, no heads. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight."
+}

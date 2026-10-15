@@ -1,0 +1,66 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "base_wide": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. This is ONE single real photographic exposure, never a composite or a collage: every element shares the same light, the same grain and the same depth of field. The camera is pulled back enough that the scene is immediately readable at a glance. The subject sits in the LOWER HALF of the frame and runs from the left edge to the right edge, extending past the bottom edge. The ENTIRE UPPER THIRD of the frame is a pale light-grey evenly lit wall or haze, completely empty and free of any object, so it dissolves into a pale background. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. Close, low view of a steel order-ticket spike at the kitchen pass, crammed with a thick messy stack of handwritten paper order tickets, in the foreground and HUGE, reaching the middle of the frame; behind it the cooking line is EMPTY: the big steel stove with pans on it and nobody standing there. The tickets are tiny scribbles, completely ILLEGIBLE. Hard side light from a window. The steel surfaces stretch away and dissolve upward into bright haze; NO shelf, NO hood edge, NO pipe crossing the top."
+  },
+  {
+   "n": 2,
+   "base": "base_wide",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. A young line cook in his early twenties, white jacket and apron, ALONE at the big steel stove, a tall flame roaring up from the frying pan in his hand, his face lit by the fire, eyes locked on the pan, shoulders tense; every other station around him is empty, no one else in the kitchen. He stands in the lower half of the frame, whole head visible. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, white cook jackets. Seen from CLOSE, inside the kitchen, a few steps behind him: the head chef in a white jacket and tall toque, seen from BEHIND, standing in the open back door smoking, his back turned to the kitchen, LARGE in the frame, his shoulders at the middle of the frame and his toque reaching the upper part of the frame, daylight flooding in through the door around him. Beside him, the edge of the empty cooking line with a pot on the stove, nobody cooking. The doorway is a bright washed-out opening; the wall around it dissolves upward into bright haze with no horizontal edge and no tile line crossing the top."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. An old kitchen chalkboard, completely BLANK, a stub of chalk on its narrow wooden ledge, and a tall stack of plain white plates on the steel counter right below it, seen from close at counter height, the plates and the ledge large in the lower half of the frame. Hard side light. The board's upper part is washed out by strong light so it merges with the bright haze; no visible top edge, no frame line, no shelf crossing the top."
+  },
+  {
+   "n": 5,
+   "base": "base_wide",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. The steel kitchen pass crowded with RETURNED plates, food half eaten, forks and napkins thrown on them, large in the foreground; behind the pass the young cook in a white jacket stands with his head bowed and both hands on the steel, his whole head visible with space above it. The wall behind him dissolves into bright haze. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters. A single chef's knife standing UPRIGHT, its tip stuck firmly into a scrubbed wooden cutting board on an empty stainless steel counter, the handle pointing straight up, nothing else on the counter. Seen from counter height and close, the knife is TALL in the frame: the tip in the wood sits in the lower part of the frame and the top of the handle reaches ABOVE the middle of the frame, with the whole knife inside the frame and wide margins on both sides. Hard raking side light casting a long sharp shadow across the board. The counter behind stretches away and dissolves into bright haze; NO wall behind, NO shelf, NO counter edge visible."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. A chef's white jacket hanging EMPTY and limp on a wall hook, and a tall white toque hanging separately on a second hook BESIDE it (not above it, not on top of it), both hanging LOW in the frame so the jacket's shoulders sit at the middle of the frame; the jacket is clearly just cloth on a hook, nobody inside it; beside it, a sink piled high with dirty pots and pans, greasy and stacked at odd angles. Hard side light. The wall above the hook fades into bright haze with no pipe, no shelf and no tile line crossing the top."
+  },
+  {
+   "n": 8,
+   "base": "base_wide",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. The head chef, a man in his fifties in a white jacket and tall toque, standing at the pass with both hands planted firmly on the steel counter, facing the camera, looking straight ahead with a firm calm expression; behind him the brigade of three cooks working at their stations, all sharp. He is large in the frame, upper body and whole head visible with space above. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. A long row of big steel stoves, every burner OFF, cold and clean, and a line of empty steel stools in front of them, no people at all, seen from the end of the line at hip height so the stoves run from the left edge to the right edge in the lower half of the frame. Hard side light. The wall above dissolves into bright haze; no hood, no shelf, no pipe crossing the top."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. Extreme close-up of two pairs of hands on a wooden cutting board: an older chef's weathered hands guiding a young cook's hands on the handle of a chef's knife over a half-sliced onion; only hands and forearms in white sleeves are visible, NO faces, NO heads. The board and counter extend away and dissolve into bright haze; no wall behind."
+  },
+  {
+   "n": 11,
+   "base": "base_wide",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. The whole kitchen brigade, five cooks in white jackets and aprons, standing in a line along the cooking line, each at their own station, and the head chef in a tall toque standing in FRONT of them with his arms crossed, facing them, seen from the side so the line runs across the frame. Everyone stands in the lower half of the frame with whole heads visible and clear space above. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "scene": "Setting: the kitchen of a small family restaurant in Brazil in the 1970s, stainless steel counters, big gas stove, white cook jackets. Finished plates lined up on the steel pass ready to go out, the chef's two hands wiping the rim of the front plate with a folded white cloth, a small brass service bell beside the plates; seen from close and low so the plates are large in the lower half of the frame; hard side light. Only hands and forearms visible, no face. The steel dissolves upward into bright haze; no shelf, no lamp, no edge crossing the top."
+  }
+ ]
+}

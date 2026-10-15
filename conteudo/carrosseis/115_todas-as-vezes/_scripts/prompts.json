@@ -1,0 +1,92 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere. Natural unposed body language. Every pump, car, sign, clipboard, card or board in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers, cards or boards show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no roof, no canopy, no sign, no window, no doorway, no ceiling line, no lamp, no pole, no wires, no heads, no sky. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against the bare pale wall of the station in strong daylight. THE WALL IS ONE SURFACE: a single continuous plaster surface of ONE uniform pale tone from the very top edge of the frame all the way down to where the people and objects begin. No brighter strip at the top, no horizontal line, seam, band or change of tone anywhere on the wall.",
+ "setting": "Setting: a small neighbourhood GAS STATION in a Brazilian town in the late 1970s: two old mechanical fuel pumps with rolling number dials and a hose hung on the side, a concrete forecourt, and directly behind everything the big bare pale plaster wall of the low station shop. Attendants wear plain dark coveralls and flat caps; the owner is a Brazilian man in his fifties in a plain light short-sleeved work shirt. Cars are plain unbranded 1970s sedans. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": "Setting: a still-life photograph, WITH NO PEOPLE AT ALL, taken on the concrete forecourt of a small neighbourhood gas station in a Brazilian town in the late 1970s, with old mechanical fuel pumps and, directly behind, the big bare pale plaster wall of the station shop. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, LARGE, chest up, head fully in the frame, stands in the middle in front of the bare pale wall, caught in the middle of a sentence: mouth open, brow tense, right index finger raised in front of his chest; on each side of him, seen in three-quarter from behind, a young attendant in coveralls and flat cap with his head bowed, listening. The corner of a fuel pump at the left edge. Exactly three people. All heads stay in the lower half of the frame."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "A plain 1970s sedan stopped beside the fuel pump, seen from the side, low and close; the driver's bare forearm resting on the open window sill and his head turned back over his shoulder, looking around for someone who is not coming. NO attendant anywhere in the frame. A folded cleaning rag lies abandoned on top of the pump. Only the driver, seen in profile through the window. The roof of the car stays in the lower half of the frame; above it only the bare pale wall."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner seen FROM BEHIND, LARGE, positioned in the RIGHT THIRD of the frame but clearly away from the right edge, walking toward the low door of the station's small office, one hand already on the door pulling it shut behind him, shoulders slumped; in the LEFT THIRD of the frame, also clearly away from the left edge, an attendant in coveralls and cap leaning against a fuel pump with his arms crossed, looking away. Between them a fuel pump and empty forecourt. Exactly two people; both fully inside the frame with clear space between each of them and the side edges. The door frame and both heads stay in the lower half of the frame; above them only the bare pale wall."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: the fuel hose of the pump dropped and lying in loose loops on the concrete, the metal nozzle resting on the ground beside the base of the pump; the forecourt empty, no car anywhere. The hose, nozzle and base of the pump LARGE, low in the frame; behind them only the bare pale wall. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: the concrete forecourt seen from very low, close to the ground: two dark parallel tire tracks worn and stained into the concrete by years of cars stopping at exactly the same spot, leading to the base of the fuel pump at the right. The tracks and the base of the pump LARGE and low in the frame; behind them only the bare pale wall. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE-UP inside a plain 1970s car, the camera very near the gear lever: the driver's right hand, LARGE, resting firmly on the round knob of the floor gear lever, the forearm and the rolled cuff of a light work shirt, the base of the lever and a small part of the seat and dashboard edge; ONLY the hand and forearm, no face, no head, no other person anywhere, NOBODY visible through any window. The hand and lever fill the lower half of the frame. Above the dashboard edge, through the windshield, there is NOTHING but the bare pale plaster wall of the station in strong flat daylight, uniform to the top edge: no pumps, no cars, no people, no sky."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Early morning before opening: three attendants in coveralls and flat caps stand in a short row, LARGE, chest up, facing the owner, who stands at the right in three-quarter view holding a clipboard and checking them one by one with a serious face; the fuel pumps behind them, no cars. Exactly four people, all heads fully in the frame and in the lower half. Clipboard sheet blank with only faint illegible marks."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: on the bare pale wall of the station, hung LOW, a plain round wall clock with a simple face and no numbers, and directly beneath it a wooden clipboard with a single sheet hanging on a nail, and a small blank slotted board for shifts; all sheets and marks vague and illegible. The clock, clipboard and board LARGE and in the lower half of the frame, the rest of the wall above them bare. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "A young new attendant in a crisp brand-new coverall still showing the folding creases, and a brand-new flat cap, stands ALONE beside the fuel pump with both hands in his pockets, LARGE, chest up, looking off to the side with a lost expression, not knowing what to do; at the right edge the front bumper and headlight of a car arriving, partly cut by the edge. Only this one person. His head stays in the lower half of the frame."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: a LOW wooden shelf against the station wall holding a tall neat stack of identical folded cleaning rags, all the same size and fold, and beside the shelf one identical rag hanging on a hook on the side of the fuel pump. The stack and the hook LARGE and low in the frame; above them only the bare pale wall. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "An attendant in coveralls and flat cap, LARGE, chest up, wiping the windshield of a stopped car with a cleaning rag in a firm concentrated motion, the driver visible inside through the glass; nobody is telling him anything. Far in the background, small, the owner seen from behind walking away with a clipboard, busy with something else. Only these people. All heads in the lower half of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his plain light short-sleeved work shirt, LARGE, chest up, head fully in the frame, a clipboard tucked under his arm, looks straight into the camera with a firm, calm face; behind him the fuel pumps and, small in the background, two attendants in coveralls working at a car. Only these people. His head stays in the lower half of the frame."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: the old fuel pump with its nozzle hung neatly in its holder and a folded cleaning rag placed on top of it, the concrete forecourt clean and empty, late-afternoon light throwing a long shadow of the pump across the concrete. The pump LARGE and low in the frame; behind it only the bare pale wall. No person, no hand, no body part anywhere."
+  }
+ ]
+}

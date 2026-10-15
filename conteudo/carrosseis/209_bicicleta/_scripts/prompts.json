@@ -1,0 +1,42 @@
+{
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal still-life composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject small and dark, resting on the floor in the lower half of the frame, nothing entering from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "kind": "base",
+   "scene": "On a bare concrete floor against the plain plaster wall: ONE small training wheel (the side wheel of a child's bicycle) just removed, lying on its side with its bent metal bracket, and two screws beside it. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 2,
+   "kind": "base",
+   "scene": "On a dirt yard against the plain plaster wall: ONE small child's bicycle without training wheels, fallen on its side on the ground, front wheel turned, as if the child had just gotten off after a fall. The bicycle is low, entirely in the lower half of the frame, well below the middle. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 3,
+   "kind": "base",
+   "scene": "On a bare concrete floor against the plain plaster wall: ONE small child's bicycle without training wheels, standing upright on its own, seen from behind at low angle, the saddle empty, as if someone had just let go of it. The bicycle is small, in the lower half of the frame, its handlebar well below the middle. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 4,
+   "base": "base_cena",
+   "scene": "Camera low, just above the ground, looking down the street from behind. A small child on a little bicycle without training wheels is pedaling away from the camera, already a few meters ahead, slightly wobbly, seen only from the back. In the near foreground, at the bottom right, an adult hand is open in the air, fingers spread, having just let go of the saddle, slightly motion-blurred. The child and bicycle stay small and low in the frame."
+  },
+  {
+   "n": 5,
+   "base": "base_cena",
+   "scene": "Camera low, right behind the bicycle. Close view: the rear of a small child's bicycle moving away, the child's back and legs pedaling, seen from behind only, and an adult hand in the foreground opening and letting go of the saddle at this exact instant, fingers still curved, a few centimeters of air between the fingertips and the saddle. Shallow depth of field, the hand sharp, the bicycle slightly blurred by motion. Everything in the lower half of the frame."
+  },
+  {
+   "n": 6,
+   "base": "base_cena",
+   "scene": "Camera low, from behind and slightly to the side. An adult seen only from the waist down, stopped in mid-stride on the dirt street, arm still extended forward with the hand open and empty, while a small child on a little bicycle rides away ahead, small in the distance, seen from the back. The adult's legs enter from the right edge; the head is out of frame. Everything in the lower half of the frame."
+  },
+  {
+   "n": 7,
+   "base": "base_cena",
+   "scene": "Camera low, from behind. A small child on a little bicycle pedaling away down the dirt street, seen from the back, about five meters ahead, upright and steady, while a long adult shadow stretches on the ground in the foreground with one arm raised in a wave. No adult body visible, only the shadow. Everything in the lower half of the frame."
+  }
+ ],
+ "base_cena": "black-and-white documentary photograph, realistic, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. A quiet dirt street in a small Brazilian town, early morning, dense pale haze: the ENTIRE UPPER HALF of the image is bright, pale, empty sky and haze, fading to near-white at the top edge for clean compositing. Everything that matters sits in the lower half of the frame; nothing enters from above. No faces visible. No text, no words, no logos, no added color, no stock photo look."
+}

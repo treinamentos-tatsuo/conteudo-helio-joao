@@ -1,0 +1,110 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Every appliance, box, carton, sack or document in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers, booklets, ledgers or banknotes show only vague illegible marks, never readable letters or numbers, and money never looks like US dollars. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no appliances, no boxes, no doorway, no window, no sign, no ceiling line, no heads. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small neighborhood COFFEE ROASTERY in a Brazilian town in the 1970s: a cast-iron coffee roaster with its chimney, a hand grinder, jute coffee sacks stacked on the concrete floor, plain tin cans, a worn wooden front counter with an iron two-pan balance scale, a tiny office with a wooden desk and a tall chair, a flatbed truck at the door. The owner is a Brazilian man in his fifties, canvas apron over a shirt with rolled sleeves; the workers wear aprons and flat caps; bankers and shareholders wear dark suits. Pay envelopes are PLAIN unmarked kraft paper envelopes with NO writing at all. Every sack, can and paper is plain and unbranded. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the worn wooden counter, the owner in his canvas apron, LARGE, chest up, looks DOWN at a plain kraft pay envelope he holds OPEN in both hands, completely EMPTY inside; behind him, low, the iron roaster and a few jute sacks. He is alone. The envelope is plain, no writing. His head sits in the lower half of the frame, well below the pale wall."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "PAYDAY at the wooden counter, seen from the front: the owner in his apron stands behind the counter having just handed out the last envelope, his hands now EMPTY and open; a line of FOUR workers in aprons and flat caps is pressed along the counter, each one holding his own THICK plain kraft pay envelope. Everyone chest up, heads in the lower half of the frame. Envelopes plain, no writing."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life, camera low and close to the worn wooden counter top: FOUR THICK plain kraft pay envelopes standing on edge in a tight row, fat with money inside, and at the END of the row a FIFTH envelope that is EMPTY, open and flattened, limp on the wood. The five envelopes are HUGE, close together, centered, filling the whole lower half of the frame from left to right and reaching almost to the middle of the frame. Behind them nothing but the bare pale plaster wall, no roaster, no machine, no furniture. All envelopes plain with absolutely no writing. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on the wooden counter: an old plain TIN CASH BOX standing OPEN, completely EMPTY inside, its lid lying beside it, a few loose coffee beans scattered on the wood. The box is LARGE and close, filling the lower frame. No lettering on the tin. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "At the worn wooden counter of the roastery, seen from the owner's side: THREE MEN stand side by side on the far side of the counter, each one with his right hand held out OPEN over the counter, palm up, waiting to be paid. On the left a worker in a canvas apron and flat cap; in the middle a bank clerk in a white shirt, thin tie and sleeve garters; on the right a tax inspector in a dark suit and hat holding a folder. All three are LARGE and close, seen from the waist up, bodies fully visible, faces serious and impatient, heads in the lower half of the frame, fully inside the frame. The bare pale wall behind them."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "NIGHT in the roasting hall: the owner ALONE, sitting on a jute coffee sack on the concrete floor, elbows on his knees, holding the EMPTY open kraft envelope in his hands and staring at it; behind him, low, the cold dark roaster and a single bare light bulb hanging. He is LARGE, filling the lower frame, head in the lower half. Envelope plain, no writing."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his apron seen from BEHIND, small, standing still in the storeroom in front of a WIDE pile of jute coffee sacks stacked in front of him, the pile filling the lower half of the frame from edge to edge with the owner's back in the middle; above the pile, the bare pale wall. His whole head is below the middle of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "The tiny office of the roastery: THREE men in dark suits and ties sit at the owner's wooden desk, leaning over papers with only vague illegible marks, talking among themselves; the owner in his canvas apron stands OUT of the group, in the corner, back against the bare wall, arms hanging, left out of the conversation. All four heads in the lower half of the frame, fully inside, nobody cropped."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close view of a heavy old IRON PADLOCK locked through a thick chain on the handles of the roastery's iron door, seen from low and close, the padlock and chain LARGE in the lower frame; the flat pale painted door surface continues up, plain and blank. No lettering. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "In front of the plain pale wall of their simple house: the owner still in his canvas apron, his wife in a plain dress, and a small child between them, standing close together, serious, all three looking straight into the camera; the front fender of an old pickup truck partly visible at the side, low. All three LARGE, chest up, heads fully inside the frame in the lower half."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner ALONE behind the worn wooden counter of the roastery, upright and calm, looking straight at the camera with a faint satisfied smile, tucking ONE THICK plain kraft envelope into the chest pocket of his shirt under the canvas apron, the envelope half in the pocket. Nobody else in the frame, no workers, no line. Behind him, low, the iron roaster and a few jute sacks. He is LARGE, chest up, filling the lower half of the frame, head in the lower half. Envelope plain, no writing."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on the wooden counter: an old IRON two-pan BALANCE SCALE, a heap of roasted coffee beans in one pan and a stack of brass weights in the other, the pointer resting at center, the scale LARGE and close, filling the lower frame. No lettering on the weights. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "THIRTY YEARS LATER: the same owner, now an old man with WHITE hair and a lined face, still in his canvas apron, behind the same worn wooden counter, holding the same EMPTY open kraft envelope and looking down into it; beside him along the counter a line of much YOUNGER workers in aprons and caps, each with a thick envelope. Everyone chest up, heads in the lower half. Envelopes plain, no writing."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner seated at the small wooden office desk, a fountain pen held STILL in mid-air, the other hand pressed to his forehead, eyes down; in front of him a completely BLANK white sheet of paper with nothing written on it, a small desk lamp lit. He is LARGE, chest up, head in the lower half of the frame."
+  },
+  {
+   "n": 15,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on the worn wooden counter, close and low: a ring of old HOUSE KEYS and a single CAR KEY lying beside an EMPTY flattened plain kraft envelope, a few coffee beans scattered on the wood. The objects are LARGE and fill the lower frame. No lettering anywhere, envelope plain. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 16,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his apron and a man in a light shirt with rolled sleeves stand side by side next to the iron roaster; the man points toward the stacked jute sacks and talks, the owner listens with his arms crossed, serious. Both LARGE, chest up, heads fully inside the frame in the lower half."
+  },
+  {
+   "n": 17,
+   "cinema": false,
+   "fit": true,
+   "scene": "EXTREME CLOSE still life, camera very low and close to the worn wooden counter top: ONE single THICK, FULL plain kraft envelope lying flat on the bare wood, fat with money inside, and beside it an old white enamel coffee cup with a dark chipped rim, in warm sidelight. The envelope and the cup are HUGE, filling the whole lower half of the frame from edge to edge. Behind them there is NOTHING but the bare pale plaster wall directly behind the counter, completely blank, no roaster, no chimney, no pipe, no machine, no furniture, no door, no truck, nothing at all. Envelope plain, no writing. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  }
+ ]
+}

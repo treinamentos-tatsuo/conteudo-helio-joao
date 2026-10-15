@@ -1,0 +1,76 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A modest small-town chapel facade with a simple squat bell tower and a small plain cross on top, whitewashed walls, empty front steps, deserted dirt street in front, 1950s countryside atmosphere. The chapel sits low in the frame, filling the bottom half. The space above it is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A small group of townspeople in modest Sunday clothes seen entirely from behind, men holding hats and women in simple dresses, walking together toward the open door of a small chapel in soft morning light, unhurried and willing, 1950s. All figures the same realistic human scale. The people and the chapel door fill the bottom half of the frame, bleeding off the bottom edge. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "Close view of a man's hand inserting a plain blank paper time card into an antique wall-mounted factory punch clock machine, caught mid-motion. The card is completely blank with no text and no numbers, the clock face has simple stroke marks instead of numerals. No face visible. The hand and the machine fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A preacher in a plain dark suit standing at a wooden pulpit, arms spread wide mid-sermon, seen from the back of a small country church over the heads of the seated congregation, 1950s. All figures the same realistic human scale. The preacher, the pulpit and the rows of heads fill the bottom half of the frame, bleeding off the bottom edge. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A dusty cork notice board hanging on a plain plaster office wall, holding one single yellowed sheet of paper with a curling peeling corner, pinned by a single thumbtack. The sheet is completely blank with no readable text. Neglected forgotten atmosphere. The board sits low in the frame, filling the bottom third. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A carved stone baptismal font with still water inside, standing alone in a bare chapel interior, a single soft shaft of window light falling across it from the side, no people. The font fills the bottom third of the frame. The space above it is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "Close view of a man's hand wiping a school blackboard with a felt eraser, caught mid-motion: one half of the board still covered in blurred illegible chalk scribbles, the other half wiped clean and dark. No readable letters and no readable numbers. No face visible. The blackboard and the hand fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A wooden marionette control bar gripped from above by a man's tense hand, taut strings leading down to a small plain featureless wooden puppet figure standing on a worn wooden surface, caught mid-manipulation. No face visible, only the hand, the strings and the puppet. The puppet and the hand fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "The heavy wooden double door of a small chapel standing wide open, one single person in modest 1950s clothes seen entirely from behind stepping inside by their own will, soft warm light spilling from within the doorway. The person and the doorway fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A bronze church bell hanging inside a simple open stone bell tower arch, a worn rope hanging down from it, seen from below at a slight angle. The bell and the arch sit low in the frame, filling the bottom third. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A business owner standing in front of his small assembled team in a workshop early in the morning, gesturing while speaking to four workers in aprons who stand listening attentively, morning briefing scene, 1950s. All figures the same realistic human scale, seen from a slight distance. The whole group stays LOW in the frame, heads well below the middle line, filling only the bottom two fifths of the frame and bleeding off the bottom edge. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "An old round factory wall clock with a plain pale face and simple dark stroke marks instead of numerals, hanging on a bright empty plaster wall, slightly worn casing. The clock sits low in the frame, filling the bottom third. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "An empty wooden pulpit with a closed plain book resting on top, standing in a small empty church, rows of vacant wooden pews blurred in the background, quiet abandoned atmosphere, no people. The book cover is completely blank with no text. The pulpit fills the bottom half of the frame. The space above it is bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "cutout",
+      "scene": "A confident mature business owner in a shirt with rolled-up sleeves and a loosened collar, standing mid-speech with conviction, one open hand raised forward as if addressing his team, warm assured expression of a man who believes what he says."
+    }
+  ]
+}

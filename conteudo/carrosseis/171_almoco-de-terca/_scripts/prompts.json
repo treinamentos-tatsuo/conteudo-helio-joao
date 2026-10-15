@@ -1,0 +1,86 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a wooden table, side by side: an old silver picture frame holding a black-and-white wedding photograph (the couple small and soft, faces not distinct), and next to it an open aluminum lunch tin (marmita) with plain everyday food, rice and beans. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An empty dinner plate with a fork and knife crossed on it and a half-empty plain glass (copo americano), on a checkered tablecloth, the meal already over. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old rusty biscuit tin box, lid off, full of keepsakes: old black-and-white photographs, a tiny baby shoe, a satin ribbon, a folded letter (writing illegible). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A plain everyday 'prato feito' lunch on a simple bar counter: rice, beans, a thin steak and a little salad on a white enamel plate, a fork beside it and a plain glass of water, ordinary and forgettable, nothing special. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A wall-mounted blackboard of sales goals in an empty small-company office, the last line circled and checked with chalk (marks illegible), the chairs below pushed in and empty, the room silent. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Seen from BEHIND: a factory worker in plain clothes walking out through an open factory gate carrying a cardboard box with his belongings (a thermos, a framed photo sticking out), not looking back. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A single open aluminum lunch tin (marmita) sitting alone in the middle of a long empty wooden canteen table, rows of empty benches. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A brick barbecue grill (churrasqueira) cold and unused, empty metal grate, grey dead charcoal, a forgotten skewer leaning on it. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. The small team of a Brazilian company, six people in work clothes, standing around a table raising plain glasses (copo americano) in a toast and laughing, the owner in his fifties in the middle laughing with them; warm genuine joy. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A Brazilian owner in his fifties firmly shaking hands with an older long-time employee and patting his shoulder, both smiling, inside a small workshop. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a factory floor during a coffee break: the owner in a white short-sleeved shirt sitting on a wooden crate right beside a young worker, leaning in, listening closely, both holding small glasses of coffee, a real one-to-one conversation. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A simple birthday cake with lit candles on an office desk, surrounded by the hands of coworkers clapping; only hands and forearms visible at the edges, no faces. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A framed black-and-white group photo of a small company team hanging on an office wall next to an old punch clock (time clock) and a rack of time cards (blank, no writing). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject is LARGE and TALL, its top reaching up to just below the middle of the frame."
+  }
+ ]
+}

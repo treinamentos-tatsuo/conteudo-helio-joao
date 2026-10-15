@@ -1,0 +1,103 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small family metalworking shop (serralheria) in Brazil in the 1970s: a big hydraulic press, a coal forge, an anvil, welding sparks, steel bars and finished wrought-iron gates stacked against brick walls, grease-stained work shirts with rolled sleeves, a corner office with a steel desk. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "The ram of a big hydraulic press coming down on a glowing red-hot steel bar, the metal squashing and bulging under the pressure, sparks and scale flying, seen from close at the level of the die; the press and the glowing bar VERY LARGE filling the lower three quarters of the frame from edge to edge; the machine's upper column dissolves into the pale light at the top. NO PEOPLE anywhere in the frame, no hands, no faces, no shirts: a still life of objects only."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner, a man in his fifties in a grease-stained work shirt with rolled sleeves, standing right in front of the glowing forge, wiping the sweat off his forehead with his forearm, a small tired half-smile of satisfaction, eyes looking slightly off camera. Chest up, LARGE and CLOSE, whole head visible with clear empty space above it."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": false,
+   "scene": "The corner office of the workshop: a steel desk with a metal spike crammed with a thick messy stack of paper payment slips, a pile of small brown pay envelopes held by a rubber band, an old mechanical adding machine and an enamel mug, seen from close at desk level, the pile VERY LARGE in the lower two thirds. ALL the printed and handwritten text is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines, while everything else in the photo stays sharp. NO PEOPLE anywhere in the frame, no hands, no faces, no shirts: a still life of objects only."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner alone in the narrow back alley behind the workshop at dawn, leaning with one hand flat against the brick wall, eyes closed, chest rising in a deep breath, head slightly bowed, grease-stained work shirt. Chest up, LARGE and CLOSE, whole head visible with clear empty space above it. The brick wall dissolves upward into pale light."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": false,
+   "scene": "A workshop wall completely crowded with dozens of pinned handwritten order slips overlapping each other and curling at the edges, hooks with paper tags hanging below them, a metal rack of steel offcuts under it, seen from close and straight on. The pinned slips cover the wall from edge to edge and continue UPWARD past the top of the frame, growing paler and dissolving into the bright light at the top: there is NO board, NO frame and NO visible top edge of any kind, no horizontal line anywhere; just slips fading into light. ALL the handwriting on the slips is completely BLURRED and ILLEGIBLE, soft grey smudges, the rest of the photo sharp. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close-up of the owner's scarred, grease-blackened hands holding a heavy ring of old iron keys, the keys of the workshop, cupped in both palms as if weighing them; only hands and forearms in rolled work sleeves are visible, NO face, NO head, NO other people. The steel workbench behind dissolves into pale light."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner seen from BEHIND and from VERY CLOSE, the camera right behind his shoulders, pushing open the two CHEST-HIGH wrought-iron gates of his own workshop entrance at dawn, one hand on each gate, the gates swinging outward toward a bright pale empty street. His back, shoulders and head are HUGE in the frame, filling the middle and lower part from edge to edge, the top of his curly head sitting just below the narrow pale band at the top; the gate tops reach only his shoulders. Above his head there is ONLY pale, evenly lit, empty dawn sky spanning the full width: NO lintel, NO beam, NO wall, NO roof, NO tall bars and NO object of any kind near the top of the frame."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": false,
+   "scene": "A blacksmith's heavy hammer resting on a massive anvil, a pair of tongs beside it, the glow of the forge reflecting on the anvil's polished face, seen from VERY CLOSE at anvil height so the anvil and the hammer fill the frame from the left edge to the right edge in the lower three quarters. Right behind the anvil there is only a plain, pale, evenly lit whitewashed brick wall, very close, filling everything above the anvil: NO room, NO gates, NO machines, NO shelves, NO objects and nothing else visible behind. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the anvil and the hammer only."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": false,
+   "scene": "A finished ornate wrought-iron scroll, its edges still glowing, held in a pair of long tongs just lifted off the lower die of the press, seen from CLOSE and LOW at the level of the die so that the whole machine above is completely OUT OF FRAME; the glowing scroll and the tongs VERY LARGE filling the lower two thirds of the frame; behind and above them only the pale, evenly lit far wall of the workshop dissolving into light. Only the tongs are visible: no hands, no faces, NO PEOPLE in the frame."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner holding up a finished heavy wrought-iron piece with both scarred hands, turning it toward the light of a high window, examining it with a firm proud face. Chest up, LARGE and CLOSE, whole head visible with clear empty space above it."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner sitting on an upturned steel bucket in the empty workshop at closing time, elbows on his knees, work shirt soaked with sweat, staring at the floor with a blank exhausted face, the press and the stacked gates dark behind him. Chest up, LARGE and CLOSE, whole head visible with clear empty space above it."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": false,
+   "scene": "Two brown pay envelopes side by side on the steel desk under a hard raking side light: the LEFT one THIN, flat and almost empty, its flap hanging open; the RIGHT one THICK, bulging fat, tied with a rubber band because it cannot close. Seen from close at desk level, the two envelopes VERY LARGE filling the lower two thirds. No visible banknotes, no writing on the envelopes. NO PEOPLE anywhere in the frame, no hands, no faces, no shirts: a still life of objects only."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": false,
+   "scene": "An old slate chalkboard on the workshop wall with a chalk-drawn grid of rows and columns, each cell filled only with tally strokes and small circles, a stub of chalk and a rag on its ledge, a steel ruler hanging beside it, seen from close and straight on, the board VERY LARGE in the lower three quarters. The chalk marks are abstract strokes and circles only: no letters, no readable numbers, no words. NO PEOPLE anywhere in the frame, no hands, no faces, no shirts: a still life of objects only."
+  },
+  {
+   "n": 14,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner and two workers in grease-stained shirts standing around the steel desk at the start of the week, the owner pointing with a pencil at an open ledger while the two workers lean in and look at it, an enamel mug of coffee on the desk. All three chest up, LARGE and CLOSE, whole heads visible with clear empty space above, nobody touching the left or right edges. ALL the printed and handwritten text is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines, while everything else in the photo stays sharp."
+  },
+  {
+   "n": 15,
+   "base": "base",
+   "cinema": false,
+   "scene": "The workshop's old heavy steel safe standing OPEN, its thick door swung wide, the keys still hanging in the lock, inside a neat stack of fat brown envelopes tied with string and a small cloth bag, seen from close at knee height, the safe VERY LARGE in the lower three quarters. No visible banknotes, no writing. NO PEOPLE anywhere in the frame, no hands, no faces, no shirts: a still life of objects only."
+  },
+  {
+   "n": 16,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner standing in the wide open doorway of his workshop at the end of the day, facing the camera straight on, arms crossed over his chest, a firm calm look straight into the lens; behind him the glow of the forge and the shapes of his two workers still at work. Chest up, LARGE and CLOSE, whole head visible with clear empty space above it."
+  }
+ ]
+}

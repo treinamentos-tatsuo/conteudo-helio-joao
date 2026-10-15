@@ -1,0 +1,90 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. Brazilian small-business world: workshop, warehouse, small shop, simple canteen. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. Brazilian small-business world. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a man in his fifties in a plain work shirt with rolled-up sleeves standing on the floor of his own small workshop, arms down at his sides, looking slightly uncomfortable, while a small group of four workers gathered around him clap their hands toward him. The whole group stands LOW in the frame and the concrete floor fills the bottom third. The air and the whole upper half of the frame are washed out, pale and completely empty."
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a small plain meeting table seen from the side: on one side three people leaning in and talking at the same time with open gesturing hands, on the other side a single man in a work shirt sitting still, hands folded, only listening. The table and the people fill the bottom third of the frame. The wall behind them is bare, bright and completely empty across the whole upper half."
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a single rough wooden prop beam standing alone and holding up a heavy overhead structural beam inside a warehouse, the wood visibly compressed and marked by the load, dust in the raking light. The prop fills the bottom half of the frame and bleeds off the bottom edge. Everything above is pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "base": "close",
+      "scene": "two bare working hands gripping a thick tensioned rope that holds a heavy load out of frame, forearms strained, veins and calluses visible, the rope running diagonally and bleeding off the bottom edge. Nothing else in the frame. The whole upper part is bright, pale and empty."
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a man in a work shirt standing beside a workbench holding out a small cup of coffee toward a seated worker, who takes it without lifting his eyes from the piece he is working on. The bench and both men fill the bottom third of the frame. The workshop wall behind them is bare and washed out, the entire upper half empty."
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a plain unmarked paper envelope being handed across a wooden counter from one working hand to another, both hands still holding it, the counter surface filling the bottom of the frame and bleeding off the bottom edge. The envelope is completely blank with no writing at all. Everything above the hands is pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "photo",
+      "base": "close",
+      "scene": "an open shop counter drawer seen from slightly above, holding a thick stack of small worn paper slips clipped together, the handwriting on them reduced to faint illegible scribbles with no readable words or numbers, a pen lying across the stack. The drawer fills the bottom half of the frame. The area above is bright, pale and empty."
+    },
+    {
+      "n": 8,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a large empty cork noticeboard on a workshop wall with one single small blank card pinned in the middle of it and nothing else, and on the counter directly below it a plain unmarked pay envelope. The counter and the bottom of the board fill the lower third. The board surface and the whole upper half of the frame are blank, bright and washed out, with no writing anywhere."
+    },
+    {
+      "n": 9,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a warehouse late at night: one lone man in a work shirt pushing a loaded hand trolley across the empty floor, and on the wall beside him a long row of coat hooks with no jackets left on it. The man and the trolley sit low in the frame, the concrete floor fills the bottom third. The dark warehouse air above him opens into a pale, hazy, empty upper half."
+    },
+    {
+      "n": 10,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a warehouse late at night with four people working together around one single large table, sleeves rolled up, leaning over the same work, nobody leaving, one hanging lamp above them. The group and the table fill the bottom third of the frame. The space above the lamp is pale, hazy and completely empty."
+    },
+    {
+      "n": 11,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a man in a work shirt pointing his finger down at a clipboard lying on a workbench while a worker on the other side of the bench looks down at the floor. Behind them the workshop wall is completely bare: no board, no poster, no paper, nothing pinned on it. The two men and the bench fill the bottom third. The bare wall above them is bright, washed out and empty."
+    },
+    {
+      "n": 12,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a group of five workers standing together in a warehouse, seen from behind and slightly below, all facing and looking up at one large blank board mounted on the wall in front of them. The board is completely blank and glowing pale, with no writing or marks of any kind. The workers fill the bottom third of the frame; the board and the wall above are bright, washed out and empty."
+    },
+    {
+      "n": 13,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a man in a work shirt standing in the middle of a working warehouse in the daytime, mid-sentence with one hand raised, while two workers stand still and listen to him attentively and others keep working around them. The people fill the bottom third of the frame. The warehouse air above them is bright, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a portrait of a man in his fifties in a plain work shirt standing in front of his team, all of them on their feet in a half circle behind him inside the workshop, his expression calm and firm, looking straight at the camera. He and the team fill the bottom third of the frame. The wall and air above them are bright, pale and completely empty."
+    }
+  ]
+}

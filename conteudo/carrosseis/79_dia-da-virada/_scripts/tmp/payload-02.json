@@ -1,0 +1,10 @@
+{
+  "model": "gpt-5.4-mini",
+  "input": [
+    {"role": "developer", "content": "You are an image generation assistant. Your sole function is to invoke the image_generation tool. Never respond with plain text."},
+    {"role": "user", "content": "Generate an image: A small shop owner alone behind his counter at the end of the working day, low warm lamplight, his hand propped against his forehead, tired. A stack of paid invoices and receipts sits on the counter beside him, seen edge-on and out of focus so no printed text is readable. He sits LOW and to the LEFT of the frame; the wall and air above him are empty and pale. black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. The subject sits LOW in the frame with a large pale and empty upper half for clean compositing. Brazilian small-business setting, humble and real, never corporate. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look."}
+  ],
+  "tools": [{"type": "image_generation", "quality": "medium", "size": "1536x1024", "moderation": "low"}],
+  "tool_choice": "auto",
+  "stream": true
+}

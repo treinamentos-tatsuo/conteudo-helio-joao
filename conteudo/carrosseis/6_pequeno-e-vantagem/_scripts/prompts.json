@@ -1,0 +1,96 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s maritime archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s maritime archive look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small wooden motor launch cutting fast through open water in the lower half of the frame, spray and short wake at its stern; far behind it, faint and dissolving in haze, the colossal dark hull of an ocean liner. The sea and sky above are pale, empty and washed out."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "An antique brass and glass ship's sandglass standing upright on a weathered wooden chart table, the fine sand running through its waist, a coiled line and a worn chart beside it, filling the bottom third of the frame. The space above the sandglass is pale, empty and hazy."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "Top-down aerial view of a single small motorboat carving a tight sharp turn, a bright white foam wake curling in an arc behind it. The water around is rendered almost pure white, flat and empty. The boat sits low in the frame."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "The colossal riveted steel hull of an ocean liner towering over a stone quay, seen from below at the waterline, a few tiny human figures standing on the quay at the very bottom edge for scale. The sky above the hull is pale, blown out and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A single small wooden motor launch alone on wide open water, seen from a high angle, a short wake trailing behind it. The water above it is pale, flat and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "Seen from high above looking straight down: a tiny fast motor launch carving a curved white wake close alongside the enormous dark hull and deck of an ocean liner, both vessels fully visible in the same frame, the difference in size extreme. The open water in the upper part of the frame is pale, flat and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "Close view of a fisherman's weathered bare hands mending a fishing net with a wooden needle, the tangled net filling the bottom third of the frame. The space above the hands is pale, out of focus and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "The wide bridge and control room of a large ocean liner, a whole wall of brass dials, gauges, engine telegraphs, levers and instruments filling the lower half, completely empty of people. Blown-out pale window light washes the upper half of the frame to near white."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "Close view of an old brass voice pipe speaking tube mounted on a ship bulkhead, its flared funnel mouth in the lower half of the frame. The riveted metal wall above it is pale, washed out and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "Still life of a small dented metal fuel can and a neatly coiled rope resting on the weathered wooden deck planks of a small boat, filling the bottom third. The deck fades upward into pale empty white light."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "The colossal engine room of an ocean liner, a long receding row of riveted boilers, pipes and pressure valves, completely empty of people. Steam haze washes the upper half of the frame pale and near white."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A single small faded curling blank paper notice nailed to an enormous blank riveted steel bulkhead wall. The vast empty metal wall fills the frame and fades to pale washed-out white in the upper half. The paper is blank with no writing on it."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "An absurdly enormous ship's anchor lying across the tiny deck of a small wooden boat, far too big for it, overwhelming the whole vessel, calm water around. The sky above is pale, empty and hazy."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A massive thick mooring rope wound in a heavy knot around an iron bollard on a stone quay, seen close, filling the bottom third of the frame. The quay surface fades upward into pale empty light."
+    },
+    {
+      "n": 15,
+      "kind": "foto",
+      "scene": "A boat wedged tight inside a narrow canal lock, towering wet concrete walls pressing in on both sides with almost no clearance, still dark water below. The narrow slot of sky at the top is blown out to pale white."
+    },
+    {
+      "n": 16,
+      "kind": "foto",
+      "scene": "The skeleton of a new ship hull under construction in a shipyard, curved wooden ribs and scaffolding rising, timber and tools on the ground in the foreground. The upper half is pale, hazy and empty."
+    },
+    {
+      "n": 17,
+      "kind": "foto",
+      "scene": "Still life seen from above: an open nautical chart spread across a wooden table with a brass compass, a parallel ruler and dividers resting on it, filling the bottom two thirds. The chart is blank with no readable text. The table fades upward into pale empty light."
+    },
+    {
+      "n": 18,
+      "kind": "cutout",
+      "scene": "A lone man in a simple work jacket standing upright on the bow of a small boat, seen from behind, hands at his sides, looking straight ahead at an open horizon."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "base": "black-and-white editorial fine-art still-life photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Immaculate, clean, minimal scene. The ENTIRE UPPER THIRD of the image is bright, pale, empty and softly hazy, fading to near-white at the top edge for clean compositing. Subject in the lower half of the frame, small against the space around it. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "images": [
+    {
+      "n": 3,
+      "kind": "base",
+      "scene": "ONE single popped popcorn kernel, alone, resting on a smooth clean matte dark stone surface, seen from slightly above table level, macro. The popcorn is white and sharply detailed, every fold of the burst lit by hard side light; behind it the surface recedes into a very dark, almost black void so the white popcorn stands out, and the darkness lifts into pale haze towards the top. Nothing else in the frame. Museum-like stillness."
+    },
+    {
+      "n": 4,
+      "kind": "base",
+      "scene": "ONE single popcorn kernel photographed at the exact instant it bursts, alone in the frame, macro, frozen mid-pop: the dark shiny hull splitting open and the white starch erupting outward in sharp detail, a few tiny fragments suspended in the air around it. It floats a little above a smooth clean matte dark surface, against a very dark, almost black background so the white burst stands out; the darkness lifts into pale haze towards the top. Hard side light. Nothing else in the frame."
+    }
+  ]
+}

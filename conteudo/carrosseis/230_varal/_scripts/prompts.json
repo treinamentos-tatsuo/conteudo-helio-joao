@@ -1,0 +1,48 @@
+{
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Everything that matters sits in the lower half of the frame; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "kind": "base",
+   "scene": "A backyard clothesline seen at low height against the plain plaster wall: ONE sagging, slack clothesline rope hangs low across the lower third of the frame between two short wooden posts at the edges, and a single wet white shirt pinned to it with wooden pegs has sagged so much that its sleeves and hem touch and drag on the dirty cement floor. The rope's sag and the shirt stay entirely in the lower half of the frame. Nothing else. Hard low side light, long shadows."
+  },
+  {
+   "n": 2,
+   "kind": "base",
+   "scene": "Close view at low height against the plain plaster wall: the end of a clothesline rope tied in a tight knot around a short wooden post, the rope leaving the knot perfectly taut toward the right edge, fibers tense, one wooden clothes peg clipped near the knot. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 3,
+   "kind": "base",
+   "scene": "A backyard clothesline seen at low height against the plain plaster wall: on the left, a slack rope sagging to the floor with a wet shirt dragging on the cement; on the right, a second rope pulled taut and straight with an identical shirt hanging clean and clear of the ground. Both lines stay low, entirely in the lower half of the frame, short posts at the edges. Nothing else. Hard low side light, long shadows."
+  },
+  {
+   "n": 4,
+   "base": "base_alto",
+   "scene": "A backyard clothesline seen at low height against the plain plaster wall: two TALL wooden posts at the left and right edges, their tops at about 35% from the top of the frame, with ONE sagging, slack clothesline rope tied at the top of each post and hanging in a deep curve, and a single wet white shirt pinned to the lowest point of the rope with wooden pegs, sagged so much that its sleeves and hem touch and drag on the dirty wet cement floor at the bottom. Nothing else. Hard low side light, long shadows."
+  },
+  {
+   "n": 5,
+   "base": "base_alto",
+   "scene": "A backyard clothesline seen at low height against the plain plaster wall: two TALL wooden posts at the left and right edges, their tops at about 40% from the top of the frame, with ONE sagging, slack clothesline rope tied at the top of each post and hanging in a deep curve, and a single wet white shirt pinned to the lowest point of the rope with wooden pegs, sagged so much that its sleeves and hem touch and drag on the dirty wet cement floor at the bottom. Nothing else. Hard low side light, long shadows."
+  },
+  {
+   "n": 6,
+   "base": "base_apto",
+   "scene": "A modern retractable clothesline inside a clean apartment laundry area, seen straight on: the thin plastic-coated line is stretched between two neat chrome wall brackets at left and right, mounted at about 35% from the top of the frame, but the line is slack and sags deeply in the middle. ONE wet white dress shirt pinned to the lowest point with plastic pegs has sagged so much that its hem touches the clean white tiled floor. Light tiled wall below, clean washing machine partly visible at the far right edge. Nothing else. Soft daylight from a window at the side."
+  },
+  {
+   "n": 7,
+   "base": "base_apto",
+   "scene": "A modern retractable clothesline inside a clean apartment laundry area, seen straight on: the thin plastic-coated line is stretched between two neat chrome wall brackets at left and right, mounted at about 35% from the top of the frame, but the line is slack and sags deeply in the middle. ONE wet white dress shirt pinned to the lowest point with plastic pegs has sagged so much that its hem touches the clean light porcelain floor. Light plain painted wall below, nothing else in the room. Soft daylight from a window at the side."
+  },
+  {
+   "n": 8,
+   "base": "base_apto",
+   "scene": "A modern retractable clothesline inside a clean apartment laundry area, seen straight on: TWO parallel thin plastic-coated lines between chrome wall brackets at left and right, mounted at about 35% from the top of the frame. The front line is slack and sags deeply, with ONE wet white dress shirt pinned to it whose hem touches the clean tiled floor; the back line is pulled taut and straight, with an identical shirt hanging clean and well clear of the floor. Nothing else. Soft daylight from a window at the side."
+  }
+ ],
+ "base_alto": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The upper 30% of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "base_apto": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Clean, modern, middle-class Brazilian apartment laundry area (área de serviço), tidy, well kept. The upper 30% of the image is a plain, smooth, light painted wall, bright and empty, fading to near-white at the top edge for clean compositing; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face."
+}

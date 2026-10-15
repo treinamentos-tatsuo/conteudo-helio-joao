@@ -1,0 +1,71 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "One businessman leaning in close to murmur a secret tip into the ear of another attentive businessman who listens with raised eyebrows, both in plain mid-century work clothes, standing in a modest workshop office, their two figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A close view of a chess board in mid-game, one confident hand decisively lifting the opponent's queen off the board in a capture, scattered captured pieces beside the board, the board and hand filling the bottom third of the frame and bleeding off the bottom edge. No faces. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A skilled machinist absorbed in his work at an old lathe inside a busy workshop, hands on the piece, other workers blurred in motion behind him, his figure and the workbench filling the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "An older shop owner's hand resting firmly on the shoulder of a young worker in an apron at a workbench, seen from behind at mid-torso height with no full faces visible, a gesture of trust and appreciation, the two figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A small-business owner in an apron leaning against the doorway of his modest shop, arms crossed, looking down an empty quiet street, waiting for someone who never comes, his figure and the storefront filling the bottom third of the frame. The sky and upper facade are blown out, pale and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "Seen from the street through the glass of a well-kept shop window, a focused employee working contentedly inside at a counter, faint reflections on the glass, the window and counter filling the bottom third of the frame. No signage, no lettering anywhere. The upper part of the frame is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A street market vendor in the middle of his sales pitch, leaning over his stall of fruit crates and gesturing with open conviction toward a customer standing across from him, lively and confident, the stall and figures filling the bottom third of the frame. The awning and sky above are bright, washed out and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "An old sturdy wooden staircase climbing upward toward a bright wash of daylight pouring from above, worn steps, a tight quiet still-life, the lower steps filling the bottom third of the frame and bleeding off the bottom edge. No people. The top of the frame dissolves into pure bright light."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "An older craftsman teaching a grinning young apprentice at a workbench, both sharing a genuine light-hearted laugh while working together on a piece, warm camaraderie in a modest workshop, their two figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "Two men sitting at a small round cafe table, one leaning forward talking with conviction and an open hand gesture, the other listening with genuine interest, two small coffee cups between them, the table and figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A small neglected back office in half shadow, stacks of loose papers and folders piled on a cluttered desk, a dusty shelf, no one working, stale and directionless, the desk filling the bottom third of the frame. The papers are blank with no legible text. The space above is pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "The hands of a small team gathered around one large blank planning sheet spread on a wooden table, one hand pointing at a spot on the sheet, another holding a pencil, seen from above at an angle with no faces, the table filling the bottom third of the frame. The sheet is completely blank with no text. The space above is bright, pale and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A small-business owner standing in the middle of an engaged, busy team all working together in a lively modest workshop or shop, a sense of momentum and shared purpose, the whole group low in the frame filling only the bottom third, every head well below the vertical midpoint of the image. The entire upper two thirds of the image are bright, pale, hazy and empty, fading to near-white."
+    }
+  ]
+}

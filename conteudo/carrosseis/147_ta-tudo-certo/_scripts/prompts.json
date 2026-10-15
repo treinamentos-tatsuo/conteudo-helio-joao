@@ -1,0 +1,101 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil, 2020, a small neighborhood ice cream parlor (sorveteria) run by its owner, a man in his fifties (short-sleeved work shirt, white apron); the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil, 2020; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Behind the counter of a small ice cream parlor, seen close and low: a wooden crate of fruit (strawberries, bananas, mangoes) on the counter; the fruit on TOP of the crate still looks fresh and perfect, but the fruit in the LOWER layers, visible between the wooden slats, is rotten, dark, collapsed and moldy. The crate is LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "The horizontal chest freezer of a small ice cream parlor with its lid open, seen from above at an angle: rows of plain metal ice cream tubs with several EMPTY GAPS where tubs are missing, thick frost built up along the edges; a clipboard hangs from the freezer handle with a blank yellowed sheet (no writing at all). The freezer is LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "The manager of the ice cream parlor, a man in his thirties with a paper cap and a white apron, stands behind the counter, LARGE, chest up, with a calm relaxed smile, giving a THUMBS UP toward the camera; on the counter in the foreground, right in front of him, a cup of ice cream is melting, overflowing and dripping down the front of the counter. He is the only person in the frame, fully inside it, head well below the top of the frame."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "The drawer of an old mechanical cash register pulled fully open, seen close from above: the compartments are EMPTY, no banknotes at all, only a few small plain loose coins scattered at the bottom (the only exception to the no-money rule: a few plain coins with no readable markings). The drawer is LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "ONLY HANDS AND FOREARMS, no face, no head, no shoulders: over the counter of the ice cream parlor, the owner's hand (a man in his fifties, rolled-up sleeve) drops a ring of shop keys into the open palm of a younger person's hand. The two hands and the keys are LARGE in the center of the lower part of the frame; the counter edge runs along the bottom."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "A small modest home kitchen: an old aluminum pressure cooker on a gas stove with the flame lit, DARK SMOKE puffing out of its valve, the bottom of the pan blackened and burning; nobody in the kitchen, a bath towel thrown over the back of a chair beside the stove. The stove and the pan are LARGE, filling the lower part of the frame. The smoke rises only a little and stays in the lower half. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "At the counter of the ice cream parlor: the owner (fifties, white apron) holds a clipboard and a pencil and asks a question; beside him the manager (thirties, paper cap, apron) answers, pointing at the ice cream display case. Both LARGE, chest up, side by side, fully inside the frame, heads well below the top of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "An old plain sedan car (no badge, no logo, no license plate) stopped on the dirt shoulder of a country road, hood raised, white steam rising from the engine; seen from the front at a three-quarter angle, close. The car is LARGE, filling the lower part of the frame; the steam stays low. NO PEOPLE anywhere in the frame. This scene is outdoors: instead of the wall, the entire upper part of the frame is a plain, pale, flat, evenly lit overcast sky, uniform to the top edge, with nothing crossing it.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner (fifties, white apron) crouches in front of the open chest freezer of the ice cream parlor, a clipboard in one hand, a pencil behind his ear, counting the ice cream tubs with his finger, concentrated. He is LARGE, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "An open account notebook lying on the counter of the ice cream parlor, seen at a low grazing angle: ruled pages with several columns of pencil marks, one column per day, every mark vague and illegible (no readable numbers or letters), a sharpened pencil and a metal ruler beside it. The notebook is LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Early morning before opening, behind the counter of the ice cream parlor: the owner (fifties, white apron) holds an open notebook and talks; three young employees in aprons and paper caps stand in a tight small circle around him, listening attentively. The group is LARGE, seen from the waist up, filling the lower half of the frame, everyone fully inside the frame, nobody cut by the left or right edges, heads well below the top of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "A small table at the back of the ice cream parlor: four empty coffee cups, the chairs pushed back away from the table as if a meeting just ended, and absolutely nothing else on the table: no paper, no notebook, no pen. The table and chairs are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": false,
+   "scene": "CLOSE view looking down into an open chest freezer of an ice cream parlor: the open freezer FILLS the lower THREE QUARTERS of the frame from edge to edge; in the CENTER, between the ice cream tubs, a puddle of melted water is spreading and dripping down, and a lit flashlight lying on the tubs points its beam straight at the puddle. Only the TOP QUARTER of the frame is a plain, flat, evenly lit very pale off-white wall (like unbleached linen paper, hex F3F3F3), completely empty and uniform to the top edge, with nothing crossing it. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner of the ice cream parlor (fifties, white apron) stands behind the counter, directly in front of the bare pale plain wall, a clipboard tucked under one arm, looking straight into the camera, firm and confident, a slight serious half smile. In front of him, low in the frame, the glass ice cream display case with the tubs. There is NO doorway, NO door frame, NO window and NO dark opening anywhere: only the pale wall behind him. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  }
+ ]
+}

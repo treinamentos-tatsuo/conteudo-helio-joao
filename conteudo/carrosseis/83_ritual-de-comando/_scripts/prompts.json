@@ -1,0 +1,86 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "base_wide": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. This is ONE single real photographic exposure, never a composite or a collage: every element shares the same light, the same grain and the same depth of field. The camera is pulled back enough that the scene is immediately readable at a glance. The subject sits in the LOWER HALF of the frame and runs from the left edge to the right edge, extending past the bottom edge. The ENTIRE UPPER THIRD of the frame is a pale light-grey evenly lit wall or haze, completely empty and free of any object, so it dissolves into a pale background. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "base": "base_wide",
+   "scene": "ULTRA-WIDE fisheye-like lens, camera lying on the packed dirt ground only a few steps from the open door of a small rustic wooden chapel, looking steeply up (extreme contre-plongee): the chapel front looms tall and close, its rough plank facade filling the middle of the frame, and right above the doorway a large old bronze bell hangs from a weathered wooden beam, rope pulled taut, caught mid-swing. Working people in simple clothes and hats stream past the camera into the door on BOTH sides, their legs and backs large and close at the left and right edges, dust on their shoes, filling the frame edge to edge. The chapel is humble, built by a small town with its own hands. The top of the chapel and the sky dissolve upward into bright overexposed haze."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "scene": "A meeting table right after a pointless meeting, no people: crumpled plastic cups, a cold half-full coffee pot, a cup tipped over with a coffee stain, crumpled napkins, a pen left uncapped, chairs pushed back at odd angles, seen from close at table height. Hard side light from a window. Pale bare wall above fills the top fifth."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "scene": "A heavy old mechanical stopwatch lying on top of a closed notebook on a long wooden desk, a pen beside it, seen from very close and low so the stopwatch is HUGE, its top edge reaching the middle of the frame, morning light raking from the side. The surface the objects rest on extends away from the camera and fades softly into bright haze; there is NO wall behind it and NO visible table edge."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "scene": "Inside a small Brazilian company: the owner, a man in his fifties in a plain button-up shirt, standing at a whiteboard tapping a hand-drawn bar chart of simple blocks, while three employees in matching company polo shirts sit at a meeting table with open notebooks looking at the board; a plain wall clock on the wall beside the board. The owner is large in the frame, upper body and head fully visible. The whiteboard has no frame and its upper part is washed out by strong window light so it merges with the bright haze above; the wall dissolves upward into light with no painted band and no horizontal line. Any marks on the board are tiny scribbles, completely ILLEGIBLE. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "scene": "A tear-off daily desk calendar on a wooden desk with a huge heap of its torn-off pages piled beside it, hundreds of small torn sheets spilling across the desk, seen from close and slightly above, hard side light. Any printed or handwritten marks are tiny scribbles, completely ILLEGIBLE, reduced to grey smudged lines; the photograph itself stays sharp. Pale wall above fills the top fifth."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "scene": "Inside the cab of an old pickup truck on a dirt road: the driver's two hands gripping the big thin steering wheel, seen from just behind his shoulder, the dusty road ahead through the windshield bending to the left, and far ahead the small wooden chapel with its bell tower at the end of the road. The wheel and hands are large in the frame; the sky through the windshield dissolves into bright haze. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light."
+  },
+  {
+   "n": 7,
+   "base": "base_wide",
+   "scene": "An old pickup truck stopped at the edge of a dirt road with its hood propped open, the driver in a hat leaning deep into the engine bay, one foot on the bumper, a rag in his back pocket, dust settling, the empty road stretching behind him. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 8,
+   "base": "base_wide",
+   "scene": "An old car broken down in the middle of a dirt road, thick white steam pouring out of its open hood, the driver standing beside it with one arm raised waving for help toward two townspeople in hats walking past on the roadside, all of them fully inside the frame. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "scene": "A small-town boss in a hat, seen from the side, shouting and pointing at three farmhands standing in a row beside a truck loaded with sacks in the town square, the workers with arms crossed and heads down, everyone large in the frame with heads fully visible. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "scene": "Inside the back room of a small-town general store: the owner's index finger pressed on a line of a big handwritten ledger book open on a wooden counter, a young clerk leaning in beside him, a kerosene lamp on the counter. Any writing in the ledger is tiny scribbles, completely ILLEGIBLE. The counter extends away and dissolves into bright haze, no wall behind. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "scene": "Close view of a clipboard on a long workshop table with a handwritten checklist, several rows ticked with a pen, the pen resting on the board, a coffee mug beside it. Any marks are tiny scribbles, completely ILLEGIBLE, the photograph itself sharp. The surface the objects rest on extends away from the camera and fades softly into bright haze; there is NO wall behind it and NO visible table edge, the desk simply dissolves into light."
+  },
+  {
+   "n": 12,
+   "base": "base_wide",
+   "scene": "An old farmer standing right beside a young farmhand at a wooden fence on the edge of the town, watching the young man's hands closely as he twists a wire to fix the fence, the old man's hand resting on the post, both fully inside the frame. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "scene": "An old cash register with its drawer pulled open showing only a few coins in the compartments, seen from very close and slightly above so the register is HUGE and its keys reach the middle of the frame, on a long shop counter. The surface the objects rest on extends away from the camera and fades softly into bright haze; there is NO wall behind it and NO visible table edge."
+  },
+  {
+   "n": 14,
+   "base": "base",
+   "scene": "Close on a driver's greasy hands tightening a bolt with a wrench inside the open engine bay of the old pickup truck parked on the dirt road, dust on the fender, the same truck from the road scenes; the hands and wrench large in the frame; the top of the picture dissolves into bright haze. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light."
+  },
+  {
+   "n": 15,
+   "base": "base_wide",
+   "scene": "Inside the small wooden chapel used as the town's meeting hall: rows of townspeople in hats and simple clothes seated on rough wooden benches, seen from behind at shoulder height, all facing one man standing at the front holding a sheet of paper and speaking, sunlight cutting through the plank walls in long beams, everyone fully inside the frame with air above their heads. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light. CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist."
+  },
+  {
+   "n": 16,
+   "base": "base_wide",
+   "scene": "A weathered hand gripping the worn rope of the large old bronze bell and pulling it down hard; the camera is pulled back so the ENTIRE bell, its wooden beam and the rope are completely visible in the LOWER HALF of the frame, nothing cut off, the rough plank front of the same small wooden chapel behind, and the sky above the beam dissolving into bright overexposed haze. Same world as the opening scene: a small Brazilian rural town, packed dirt roads, rough wooden buildings, working people in simple clothes and hats, dust in the light."
+  }
+ ]
+}

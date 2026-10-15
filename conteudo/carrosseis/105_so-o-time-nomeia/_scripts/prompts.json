@@ -1,0 +1,91 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white sky or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED SKY, and the transition from the scene into that sky is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no horizon line, no rail, no rope, no mast, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no mast, no rigging, no rope, no gull, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze, NO sea spray and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small wooden fishing trawler (a Brazilian traineira) and its home quay in a Brazilian coastal town in the 1970s: a worn wooden deck, piles of fishing net with cork floats, coiled ropes, the small wheelhouse with a big wooden ship's wheel, the fish hold hatch, wooden crates, oilskin rain jackets on hooks, a stone quay. The owner-skipper (the mestre) is a Brazilian man in his fifties, weathered face, flat cap, rolled sleeves; his crew are four fishermen in worn shirts and caps. Whenever the sea is visible, the horizon sits LOW in the frame, well below the top band, and the sky above is blank bright white. No fog, no spray. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": true,
+   "scene": "The mestre in his flat cap seen from BEHIND in the near foreground, standing at the wheelhouse door, back to the camera, head and shoulders a big dark shape; facing him on the deck, his four fishermen stand still in a row among the nets, arms crossed, all four staring at him with hard, cool, judging eyes, nobody smiling, nobody working. The four fishermen are LARGE and close, chest up, faces sharp and fully inside the frame, the mestre's back filling the bottom edge. The punch of the picture is the crew's judging stare."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of a man's two weathered hands gripping the big worn wooden ship's wheel inside the wheelhouse: the LEFT hand on the left side of the wheel and the RIGHT hand on the right side, each hand anatomically perfect with exactly five fingers, thumbs on top, fingers wrapped naturally around the wooden handles, wrists and forearms leading out of the bottom corners of the frame; a ring of old keys hanging from a nail beside the wheel. Only hands and forearms visible, no face, no body. The hands and the wheel VERY LARGE filling the lower three quarters of the frame from edge to edge, the camera is INSIDE the wheelhouse looking at the wheel from behind the skipper's position, and everything above the wheel is a single wide window completely blown out to pure white light with NO window frame, NO posts, NO bars, NO wall edge visible anywhere in the top third of the frame: just the top of the wheel against white. NO other people anywhere, no faces, no extra hands, no extra fingers."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": true,
+   "scene": "A veteran Brazilian fisherman in his fifties, cap and worn shirt, sitting on the deck mending a fishing net with a wooden netting needle, seen from behind and slightly to the side, his body turned to the net but his head turned back over his shoulder to look past the camera with a cool, skeptical, sizing-up expression, one eyebrow slightly raised. He is the ONLY person in the frame, VERY LARGE and close, chest up, head complete with empty pale space above it, nobody else anywhere."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of a small worn brown paper PAY ENVELOPE lying on the wooden lid of the fish hold hatch, its flap OPEN with a thick stack of banknotes clearly sticking halfway out of it, the bills slightly fanned, a few fish scales and a coil of rope beside it; the envelope and the money VERY LARGE filling the lower three quarters of the frame from edge to edge, the deck planks dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the pay envelope only. The banknotes are plain generic old paper money, NOT US dollars, no green tint, no portraits, no readable text, numbers or symbols on them, seen at a low grazing angle so any printing is just soft illegible smudges."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": false,
+   "scene": "A single brand-new, stiff, spotless oilskin rain jacket hanging perfectly still from a single wooden peg, fold creases still visible, obviously never worn, the neighboring pegs empty; the jacket is photographed against a whitewashed wall that is completely OVEREXPOSED to pure blank white everywhere, so the jacket appears to hang in bright white space with no visible wall texture, no planks, no tiles, no grey field at all; the jacket VERY LARGE filling the lower three quarters of the frame, the peg near the top of the jacket, and above it nothing but white. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of one new jacket only."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": true,
+   "scene": "The mestre in his flat cap standing in the middle of the deck with both hands pressed together in front of his chest in a desperate pleading, begging gesture, eyebrows raised, mouth open mid-plea, looking at his crew; around him in the foreground and at his sides, two fishermen keep their heads down coiling ropes and sorting net, deliberately not looking at him, indifferent. Literal and slightly absurd. The mestre VERY LARGE and close in the center, chest up, head complete with empty pale space above it; the fishermen at his shoulder height, nobody cropped, nobody touching the side edges."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": false,
+   "scene": "The trawler moored at the stone quay at dawn, hard early light coming in low from one side, the deck EMPTY, the wheelhouse lamp already lit, the nets and crates already laid out ready on the deck, a thermos and a tin cup on the hatch lid in the near foreground; the deck and gear VERY LARGE filling the lower three quarters of the frame from edge to edge, everything dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the boat before anyone arrives. No horizon line, no sea visible above the deck."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of one thick wet fishing-net rope running HORIZONTALLY across the lower third of the frame, and five pairs of weathered hands gripping it side by side, all straining equally in the same direction; every hand is COMPLETE and fully inside the frame, the forearms entering from the BOTTOM edge and from the LEFT and RIGHT sides of the frame, never from the top; one pair of hands older and more weathered than the others but doing exactly the same work; only hands and forearms visible, no faces, no bodies; the rope and hands VERY LARGE across the lower three quarters of the frame, and the entire upper half of the frame is empty blank white sky with nothing in it. No faces anywhere."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": true,
+   "scene": "The veteran Brazilian fisherman in his fifties, cap and worn shirt, standing on the deck in front of a pile of nets looking STRAIGHT INTO THE CAMERA with a completely flat, blank, unreadable expression, arms crossed tightly over his chest, jaw set, saying nothing. He is the ONLY person in the frame, VERY LARGE and close, chest up, head complete with empty pale space above it, nobody else anywhere."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": true,
+   "scene": "On the deck of the small wooden fishing boat, two young Brazilian fishermen hauling together on a rope to trim the boat's canvas sail, adjusting it without being told, both looking up at the sail with focus; in the background the mestre in his flat cap stands at the wheel looking straight ahead at the sea, NOT looking at them, trusting them. The two fishermen VERY LARGE and close in the foreground, chest up, heads complete with empty pale space above them, nobody cropped, nobody touching the side edges; the sail canvas stays LOW and to the side, never crossing the top band, which is blank white sky. No horizon line in the top band. Only these three people."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": true,
+   "scene": "After the haul, the mestre and his four fishermen sit together on crates and coiled rope on the deck, eating from tin plates, shirts wet and stained, caps pushed back, laughing and talking, the mestre sitting in the MIDDLE of them, not apart, one fisherman clapping him on the shoulder. Everyone VERY LARGE and close, chest up, every head complete with empty pale space above it, nobody cropped at the neck or shoulders, nobody touching the left or right edges. Five people, all fully inside the frame. No horizon line in the top band. TOP BAND REINFORCED: the camera sits slightly higher so the whole top fifth of the frame is blank overexposed white sky with NOTHING in it: no net, no floats, no mast, no rope, no rigging, no wheelhouse roof, no hill, no building reaching up there; the wheelhouse and the pile of nets stay LOW, entirely below the men's heads."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": false,
+   "scene": "A row of five worn, salt-stained, wrinkled oilskin rain jackets hanging side by side from wooden pegs on the plank wall inside the wheelhouse, all equally used and equally battered, none different from the others; the row of jackets VERY LARGE filling the lower three quarters of the frame from edge to edge, the plank wall dissolving upward into pale light with no visible edge at the top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of five used jackets only."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": true,
+   "scene": "The trawler at work: the mestre in his flat cap in the CENTER of the line of men at the rail, hauling the heavy net over the side with both hands together with his crew, sleeves rolled, straining, focused; two fishermen at his sides pulling the same net, all three in motion but perfectly sharp, fish spilling onto the deck in the foreground. The mestre VERY LARGE and close in the middle, chest up, head complete with empty pale space above it; the fishermen at his shoulder height, nobody cropped, nobody touching the side edges. The sea, if visible, stays low behind them with no horizon line in the top band. No spray."
+  },
+  {
+   "n": 14,
+   "base": "base",
+   "cinema": true,
+   "scene": "The mestre standing on the stone quay, flat cap, sleeves rolled, hands at his sides, looking STRAIGHT INTO THE CAMERA with a calm, firm, proud face; behind him, moored at the quay, his trawler with the crew working on the deck, smaller and farther back, at his shoulder height only. The mestre VERY LARGE and close, chest up, head complete with empty pale space above it, nobody cropped, nobody touching the left or right edges. No horizon line in the top band."
+  }
+ ]
+}

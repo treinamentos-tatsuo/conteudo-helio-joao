@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;position:relative;color:#fff}
+.L{position:absolute;left:0;width:1080px}
+.g{position:absolute;inset:0}
+.big{position:absolute;left:0;right:0;text-align:center;font-family:'Anton',sans-serif;font-size:208px;line-height:1;letter-spacing:2px;white-space:nowrap}
+.sm{position:absolute;left:0;right:0;text-align:center;font-family:'Montserrat',sans-serif;font-weight:700;font-size:40px;letter-spacing:.5px;line-height:1.25}
+</style></head><body>
+  <img class="L" src="../imagens/v9-base.jpg" style="top:180px">
+  <div class="g" style="background:linear-gradient(to bottom,#000 0%,#000 12%,rgba(0,0,0,0) 30%)"></div>
+  <div class="sm" style="top:150px">Na feira, quem não grita<br>volta pra casa com a</div>
+  <div class="big" id="big" style="top:275px">BANCA CHEIA.</div>
+  <img class="L" src="../imagens/v9-sujeito.png" style="top:180px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 80%,rgba(0,0,0,.85) 100%)"></div>
+<script>
+document.fonts.ready.then(()=>{const b=document.getElementById('big');let fs=200;b.style.fontSize=fs+'px';
+const s=document.createElement('span');s.textContent=b.textContent;s.style.font=getComputedStyle(b).font;s.style.letterSpacing='2px';s.style.position='absolute';s.style.visibility='hidden';document.body.appendChild(s);
+for(let i=0;i<20;i++){s.style.fontSize=fs+'px';fs=fs*980/s.getBoundingClientRect().width;}b.style.fontSize=fs+'px';});
+</script>
+</body></html>

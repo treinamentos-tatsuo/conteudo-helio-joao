@@ -1,0 +1,56 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small-shop owner in a work apron standing on the sidewalk in front of his own modest shop, seen from behind at a slight angle, hands on his hips, looking up at the storefront facade, the awning and shop front filling the bottom third of the frame. The blank sign board above the shop carries no lettering. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A small shop inauguration in a mid-century Brazilian small town: a ribbon stretched across the open doorway being cut with large scissors, Brazilian men in modest suits shaking hands, a small group of Latin American people clapping around them, festive but humble, the doorway and the group filling the bottom third of the frame. No lettering anywhere. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A close view of two hands holding open a thin worn leather wallet, revealing only a couple of loose banknotes inside, worn cuffs of a work shirt, plain wooden table below, the wallet and hands filling the bottom third of the frame and bleeding off the bottom edge. No faces. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A single enormous over-inflated balloon stretched taut and shiny, visibly strained and about to burst, tethered by a cord to a small antique hand air pump on the floor beside it, still-life, no people, the balloon and pump filling the bottom third of the frame and bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "An antique two-pan balance scale in perfect equilibrium: a heap of loose banknotes piled on one pan, a stack of paper bills and envelopes piled on the other pan, both pans level, standing on a worn wooden counter, still-life, no people, the scale filling the bottom third of the frame. All papers are blank with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A close view of hands over a large open accounting ledger with neat ruled columns, one hand holding a fountain pen pointing at the very bottom line of the page, a magnifying glass resting beside the book on the wooden desk, seen from above at an angle with no faces, the ledger and hands filling the bottom third of the frame and bleeding off the bottom edge. The pages show only faint illegible marks, no legible text. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A plaster wall with several old horizontal pencil height marks scratched at different levels, a hand holding a wooden folding carpenter ruler vertically against the wall while another hand draws a new higher mark with a pencil, no faces, the wall and hands filling the bottom third of the frame. The marks are plain short dashes with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A weary shop owner late at night sitting on a low wooden stool in the narrow aisle of his own storeroom, sleeves rolled up, head bowed and hands clasped, hemmed in by tall stacks of wooden crates and cardboard boxes rising on both sides of him, a single bare light bulb glow, his figure and the crates filling the bottom third of the frame. No lettering on the boxes. The space above is pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A shop owner with rolled-up sleeves standing in front of neatly organized shelves of his small shop, holding a clipboard and pencil, checking the stock with a calm focused expression, sense of routine and control, his figure and the shelves filling the bottom third of the frame. No lettering anywhere. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A confident Brazilian shopkeeper in a buttoned work shirt and shop apron standing behind the long wooden counter of his tidy mid-century corner grocery, arms crossed, a slight assured smile, photographed from farther away so his figure appears SMALL, his whole figure and the counter compressed into the LOWEST QUARTER of the frame, his head far below the vertical midpoint of the image. Above him rises a vast tall blank pale wall taking up the entire upper three quarters of the image, bright, hazy and empty, fading to near-white at the top."
+    }
+  ]
+}

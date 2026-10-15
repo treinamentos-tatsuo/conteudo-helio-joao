@@ -1,0 +1,74 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old business owner in his seventies, white hair, tired face, plain shirt, standing behind the counter of a large, busy, well-stocked wholesale store full of goods on the shelves behind him (the business clearly grew), holding his own worn leather wallet open in both hands and looking down at it: it is completely EMPTY. A heavy, silent moment of realization. The man and wallet are CENTERED and LARGE, chest up, head in the lower half of the frame; nothing touches the left or right edges; the shelves stay low and below the middle of the frame."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Close view of a business owner's two hands (white shirt cuffs, wristwatch) coming in from the BOTTOM of the frame, counting a thick fold of banknotes on his wooden desk, right now; only hands and forearms, no face. Notes seen at an angle, no readable print, not US dollars. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On the owner's wooden desk: the open blueprint of a new warehouse with a ruler, a pencil and a builder's hard hat resting on it (lines faint and illegible). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old desk flip calendar with many pages turned over, next to a closed, dusty brown pay envelope that was never opened (plain, no writing). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A pair of very worn leather work boots with holes in the soles, standing on a dirt floor. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An empty wooden wheelbarrow standing on a dirt road, its handles facing the camera, as if someone just let go of it. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A paper shooting-range target riddled with bullet holes, standing upright on a small wooden easel on a table, holes scattered all over it, coming from every direction. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A pair of old, completely worn-out running shoes next to an empty, opened brown pay envelope with nothing inside, on a wooden bench. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Two clay piggy banks side by side on a wooden table, one big and one small, both with a few coins on top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Close view of a business owner's hands coming in from the BOTTOM of the frame, taking banknotes out of his own worn personal leather wallet and putting them into the open drawer of the company's old cash register; only hands and forearms, no face. Notes with no readable print. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A plain brown paper pay envelope lying open on the owner's wooden desk with a fold of banknotes showing (notes seen edge-on, no readable print, not US dollars). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  }
+ ]
+}

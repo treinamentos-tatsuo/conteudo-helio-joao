@@ -1,0 +1,47 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;font-family:'Montserrat',sans-serif;color:#fff}
+.p{position:absolute;left:0;width:1080px;overflow:hidden}
+.p img{position:absolute}
+.g{position:absolute;inset:0}
+.blk{position:absolute;left:70px;width:450px;display:flex;flex-direction:column;align-items:flex-start;text-shadow:0 1px 3px rgba(0,0,0,.45)}
+.ln{white-space:nowrap;line-height:1;display:inline-block}
+.sm{font-weight:600;letter-spacing:.5px}
+.bg{font-weight:700;letter-spacing:-.5px}
+.r{align-self:flex-end}
+</style></head><body>
+<img src="../imagens/fundo-user.jpg" style="position:absolute;left:0;top:0;width:1080px;height:1350px">
+<div style="position:absolute;inset:0;background:linear-gradient(to right,rgba(0,0,0,.6) 0%,rgba(0,0,0,.3) 40%,rgba(0,0,0,0) 55%)"></div>
+<div style="position:absolute;left:0;top:300px;width:700px;height:360px;background:radial-gradient(ellipse at 35% 60%,rgba(0,0,0,.55) 0%,rgba(0,0,0,0) 70%)"></div>
+<div class="blk" style="left:70px;top:420px">
+    <div class="ln sm" style="font-size:46px">Um</div>
+    <div class="ln bg" id="lf" data-w="470" style="margin-top:6px">líder forte</div>
+    <div class="ln sm r" style="font-size:46px;margin-top:4px">é firme</div>
+</div>
+<div class="blk" style="left:70px;top:1010px">
+    <div class="tet" style="position:relative">
+      <div class="ln bg" id="hum" data-w="470">humano.</div>
+      <div class="ln sm" id="sds" style="position:absolute;font-size:34px">sem deixar de ser</div>
+    </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('[data-w]').forEach(e=>{
+ const W=+e.dataset.w;let fs=40;e.style.fontSize=fs+'px';
+ for(let i=0;i<30;i++){fs=fs*W/e.getBoundingClientRect().width;e.style.fontSize=fs+'px';}
+});
+ const hum=document.getElementById('hum'),sds=document.getElementById('sds');
+ const fs=parseFloat(hum.style.fontSize);
+ const r=document.createRange();r.setStart(hum.firstChild,0);r.setEnd(hum.firstChild,1);
+ const hw=r.getBoundingClientRect().width;
+ const box=hum.getBoundingClientRect();
+ // largura disponivel = do fim do h ao fim da palavra
+ const avail=box.width-hw-14; let f=30; sds.style.fontSize=f+'px';
+ for(let i=0;i<20;i++){f=f*avail/sds.getBoundingClientRect().width;sds.style.fontSize=f+'px';}
+ sds.style.left=(hw+14)+'px';
+ // base da linha pequena encosta no topo do x-height de "umano"
+ const xh=fs*0.53, base=fs*0.80; sds.style.top=(base-xh-sds.getBoundingClientRect().height*0.86-12)+'px';
+});
+</script>
+</body></html>

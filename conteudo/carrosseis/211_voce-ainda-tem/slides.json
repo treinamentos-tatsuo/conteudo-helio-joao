@@ -1,0 +1,42 @@
+[
+ {
+  "f": "MBV-TATSUOAC-240.jpg",
+  "cx": 0.45,
+  "cy": 0.42,
+  "z": 1.25,
+  "t1": "1 hora ruim.",
+  "t2": "Você ainda tem 23."
+ },
+ {
+  "f": "MBV-TATSUOAC-248.jpg",
+  "cx": 0.5,
+  "cy": 0.45,
+  "z": 1.6,
+  "t1": "1 dia ruim.",
+  "t2": "Você ainda tem 364."
+ },
+ {
+  "f": "MBV-TATSUOAC-211.jpg",
+  "cx": 0.36,
+  "cy": 0.45,
+  "z": 1.75,
+  "t1": "1 semana ruim.",
+  "t2": "Você ainda tem 51."
+ },
+ {
+  "f": "MBV-TATSUOAC-187.jpg",
+  "cx": 0.74,
+  "cy": 0.5,
+  "z": 1.8,
+  "t1": "1 mês ruim.",
+  "t2": "Você ainda tem 11."
+ },
+ {
+  "f": "ARB0810211152.jpg",
+  "cx": 0.62,
+  "cy": 0.5,
+  "z": 1.3,
+  "t1": "1 ano ruim.",
+  "t2": "Você ainda tem a sua<br>vida inteira pela frente."
+ }
+]

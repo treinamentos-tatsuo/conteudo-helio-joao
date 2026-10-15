@@ -1,0 +1,9 @@
+PROMPT DO PAPEL — o usado no 212 (literal, 07/10).
+Trocar SÓ: as 4 linhas entre aspas simples (2 pretas + 2 vermelhas) e a frase dos acentos
+(no 212: "The only accent is on the É (the word 'É' alone)."). Se não tiver acento: "No accents."
+Não mexer no resto: tamanho de letra de nota, texto centralizado na metade do meio da folha e tinta falhada
+já estão acertados e aprovados.
+Base: imagens/base-papel.png (cópia de .claude/skills/frase-foto/bases/mesa-v3.png).
+
+----- copiar daqui pra baixo -----
+Keep this photo exactly as it is (same paper, marble, light, angle). Write by hand on the blank paper, in the CENTER of the sheet, at a normal natural handwriting size, the text block occupying only about the middle half of the paper with generous white margins all around, like a person writing a note. Exactly four lines, all capital letters, spelled exactly: line 1 and line 2 in BLACK marker: '<PRETO 1>' / '<PRETO 2>' then a small gap, line 3 and line 4 in RED marker: '<VERMELHO 1>' / '<VERMELHO 2>' <FRASE DOS ACENTOS> No other words. Real human handwriting with a slightly worn marker: uneven pressure, varying stroke width, streaky semi-dry passes where the ink thins, darker dots where the pen started and stopped, slightly irregular letters and wavy baselines; physically written, not a font. The ink is absorbed into the paper fibers.

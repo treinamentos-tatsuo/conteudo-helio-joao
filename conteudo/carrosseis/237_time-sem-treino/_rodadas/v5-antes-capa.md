@@ -1,0 +1,35 @@
+# Post 237 — "Seu time só se encontra no dia do jogo" (modelo handmade, perfil Tatsuo Academy)
+
+**Origem:** direcionamento do user em 14/10: time de futebol que só se junta no dia do jogo, sem treino; treinar dá trabalho, não treinar dá mais; em empresa pequena (empresa de dono) quem puxa o treino é o dono.
+**Fonte do método:** apostila do MBV, p. 122 ("o time é treinado todos os dias, mesmo sem ninguém chamar de treino"; "o time evolui para onde é treinado") e p. 174 (treina + repete + repete + reconhecimento).
+**Modelo:** handmade. **Perfil:** Tatsuo Academy (sem /etiqueta, sem Manychat, CTA link na bio).
+**Interlocutor:** dono de PME. **Causa técnica:** o time não tem rotina de treino puxada pelo dono; o dia a dia vira o treino.
+**Caminho do CTA:** imersão MBV (a peça ensina e o dono sai querendo o como; o treinamento ensina gestão).
+
+## Slides (v4, 14/10: ponte do 6 pro 7 — o "você deixa acontecer" vira o motivo de não treinar; v3: capa mais provocativa, storytelling do futebol em 2 slides, grito sem vício de ponto final, "amigão, empresa pequena não paga sênior", fechamento fluido)
+
+1. **Capa** — Seu funcionário está treinando agora. / **COM O SEU MELHOR CLIENTE.**
+2. Imagina um time de futebol que só se encontra no vestiário, dez minutos antes do jogo. Ninguém treinou passe, ninguém combinou jogada.
+3. O técnico manda entrar em campo e cada um corre pra um lado. O time toma de goleada e a culpa cai no jogador. **E a sua empresa joga assim todo santo dia.**
+4. O funcionário entra, alguém explica em meia hora e ele já vai atender. Promete o que não pode, erra o pedido. **E quem paga é o cliente que você levou anos pra conquistar.**
+5. Aí o telefone toca e quem entra em campo é você. Você refaz o orçamento, liga pro cliente, pede desculpa e resolve. **Toda semana, o mesmo incêndio.**
+6. E o pior: ele está aprendendo. Cada vez que você resolve no lugar dele, ele aprende que não precisa resolver. **O time aprende exatamente o que você deixa acontecer.**
+7. E você deixa, porque treinar dá trabalho e tempo é a coisa que você menos tem / **MAS NÃO TREINAR DÁ MUITO MAIS**
+8. E amigão, empresa pequena não tem dinheiro pra pagar funcionário sênior, não. Quem chega aqui chega cru, **e o que deixa ele bom é o treino.**
+9. É ensinar, repetir, repetir de novo e reconhecer quando ele acerta, acompanhando todo dia até aquilo virar o jeito da sua empresa trabalhar.
+10. E numa empresa de dono, quem marca esse treino é você, porque se o dono não marcar, ninguém marca por ele. **O seu time vai evoluir exatamente pra onde você treinar.**
+11. **CTA** — No MBV, imersão de três dias para donos de pequenas e médias empresas, você aprende gestão, inclusive gestão de pessoas, nos três pilares: Lucratividade, Crescimento e Cultura. · **QUERO PARTICIPAR DO MBV** · link na bio
+
+## Legenda (post)
+
+```
+Nenhum time de futebol entra em campo sem ter treinado a semana inteira. Na maioria das empresas pequenas, o time entra em campo todo dia sem ter treinado nunca, e o primeiro treino do funcionário acontece na frente do cliente.
+
+O resultado todo dono conhece: a promessa que não podia ser feita, o pedido errado, o cliente irritado. E quem entra em campo para consertar é sempre o dono, que refaz, liga, pede desculpa e resolve, semana após semana. Só que o time aprende com isso também: cada vez que o dono resolve no lugar dele, ele aprende que não precisa resolver.
+
+E não adianta esperar gente pronta. Empresa pequena não tem dinheiro para pagar funcionário sênior, então quem chega, chega cru, e o que transforma essa pessoa num bom profissional é o treino: ensinar, repetir, repetir de novo e reconhecer quando ela acerta, com acompanhamento todo dia. Treinar dá trabalho, mas não treinar dá muito mais. E em empresa de dono, se o dono não marca esse treino, ninguém marca.
+
+No MBV, imersão de três dias da Tatsuo Academy para donos de pequenas e médias empresas, você aprende gestão, inclusive gestão de pessoas, nos três pilares: Lucratividade, Crescimento e Cultura. Clique no link da bio e garanta a sua participação.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```

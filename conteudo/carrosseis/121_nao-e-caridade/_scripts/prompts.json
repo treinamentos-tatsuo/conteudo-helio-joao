@@ -1,0 +1,104 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Every appliance, box, carton, sack or document in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers, booklets, ledgers or banknotes show only vague illegible marks, never readable letters or numbers, and money never looks like US dollars. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no appliances, no boxes, no doorway, no window, no sign, no ceiling line, no heads. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: Brazil in the 1970s, the world of small family businesses. Only the people explicitly named in the scene appear; nobody else is in the frame. Pay envelopes are PLAIN unmarked kraft paper envelopes with NO writing at all; every sign, box, paper and object is plain and unbranded, and any written marks are vague and illegible. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the wooden counter of a small neighbourhood shop: the OWNER, a Brazilian man in his fifties in a plain work shirt, LARGE, chest up, looking STRAIGHT into the camera with a hard closed face, his right hand raised toward the camera, palm OPEN and flat in a firm 'no' gesture, like refusing something; the other hand flat on the counter. The plain pale wall behind him. Head in the lower half of the frame, well below the pale wall."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a worn wooden office desk of a small business: a tall stack of THICK plain kraft pay envelopes, an old hand-crank ADDING MACHINE with its paper roll showing only blurred illegible marks, a pencil and an ashtray. Objects LARGE and close, filling the lower half of the frame; behind them nothing but the bare pale plaster wall. No lettering anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "A COMPLETELY DIFFERENT WORLD, no brickworks at all: a FAT rich man in a three-piece pinstripe suit with a watch chain, a lit CIGAR in his mouth, seated behind a HUGE polished dark wooden desk in a clean modern glass-walled office, leaning back, smug. He is LARGE, chest up, filling the lower half of the frame, head in the lower half. The plain pale wall behind him."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "BEFORE DAWN at the back door of a small neighbourhood grocery: the OWNER, a Brazilian man in his forties in a white apron, carrying a tall stack of FOUR heavy wooden vegetable crates in his arms, chin pressed on the top crate, body straining under the weight, walking toward the camera. He is LARGE, chest up, the crates and his head in the lower half of the frame, the plain pale wall behind him."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "EXTREME CLOSE still life, camera very LOW and CLOSE to the edge of a plain wooden KITCHEN TABLE in the owner's simple house at night, lit by one warm lamp from the side: a closed cardboard bank folder with a sheet of paper sticking out showing only vague illegible smudged marks, a ring of old HOUSE KEYS, a single CAR KEY, and a small dented TIN TOY TRUCK of a child, all lying tightly grouped together, HUGE and filling the whole lower half of the frame from the left edge to the right edge and reaching almost to the middle of the frame. Behind them nothing but the bare pale plaster wall. No lettering anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "NIGHT in a simple Brazilian home: a YOUNG WOMAN in her twenties, hair tied back, sewing at an old black hand-crank sewing machine on the kitchen table under a single bulb, a heap of cut fabric beside her, and a small child ASLEEP on a chair next to her with its head on the table. She is LARGE, chest up, head in the lower half of the frame, the plain pale kitchen wall behind."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "EXTREME CLOSE still life on a worn wooden shop counter: an old brown leather WALLET STUFFED TO BURSTING with folded banknotes, so full it cannot close, thick wads of money bulging out of every fold and spilling over the edges, the notes seen only from their EDGES and folds, generic worn old paper money with NO readable text, no faces, no numbers, never US dollars. Beside it a small bunch of shop keys. The wallet is HUGE and close, filling the lower half of the frame; behind it nothing but the bare pale plaster wall. NO PEOPLE anywhere in the frame, no faces: a still life of objects only."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Inside a small neighbourhood shop after a SHELF COLLAPSE: a HUGE heap of fallen goods, plain cardboard boxes, tin cans, sacks, bottles and broken shelf boards piled HIGH in a mound, and from UNDER the mound only ONE man's HAND and FOREARM stick out, palm open, fingers spread, reaching upward; nothing else of the man is visible, he is completely buried under the products. The heap is LARGE and fills the lower half of the frame from edge to edge; above it only the plain pale wall. No faces anywhere."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "EARLY MORNING at the iron gate of a factory: a QUEUE of men waiting for a job, and among them the former shop OWNER, a man in his fifties in a CLEAN buttoned white shirt, holding a plain cardboard folder against his chest, looking down at the ground, defeated; the other men in the line in worn clothes and caps. All LARGE, chest up, heads in the lower half of the frame, fully inside, the plain pale factory wall behind."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "EXTREME CLOSE: a man's work-worn OPEN HAND, palm up, held out toward the camera at chest height, holding only a FEW small old worn COINS, four or five, dull and plain with NO readable markings, a few crumbs of change. Only the hand and the cuff of a plain work shirt are in the frame, nothing else of the man. The hand is HUGE, filling the lower half of the frame; behind it nothing but the bare pale plaster wall. No faces anywhere."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the wooden counter of a small neighbourhood grocery: the OWNER (a man in his fifties in a worn white grocer's apron) and his MANAGER (a younger man in a clean buttoned shirt and thin tie) standing SIDE BY SIDE, each holding up ONE plain kraft pay envelope, the two envelopes IDENTICAL, the same thickness. Both LARGE, chest up, heads in the lower half of the frame, fully inside, the plain pale wall behind. Envelopes plain, no writing."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "THE SALE at the wooden counter of a small fabric shop: the OWNER, a man in his fifties with a tape measure around his neck, handing a wrapped paper parcel across the counter to a WOMAN customer in a plain dress, who hands him a few folded banknotes seen only from the EDGE, never face on, in the same instant. Both LARGE, chest up, heads in the lower half of the frame, the plain pale wall behind, bolts of fabric low on the counter."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "LATE NIGHT in the back office of a small shop: the OWNER, a Brazilian man in his fifties in a shirt with rolled sleeves, ALONE at a wooden desk under a desk lamp, one hand on the crank of an old ADDING MACHINE and the other holding a pencil over an open ledger whose written lines are completely BLURRED and ILLEGIBLE, soft grey smudges, a cup of coffee beside. He is LARGE, chest up, head in the lower half of the frame, the plain pale wall behind."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life in the stockroom of a small shop: an old dented TIN BUCKET on the concrete floor catching a steady DRIP of water from a rusty pipe joint low on the wall, the drip caught mid-fall, a small puddle spreading around the bucket, plain cardboard boxes stacked low beside it. The bucket is LARGE and close, filling the lower half of the frame; above it only the plain pale plaster wall, the pipe running low along the wall, never crossing the upper part of the frame. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "At the wooden counter of a small hardware store: the OWNER (a man in his fifties in a work apron) and a MAN in a light clean shirt with rolled sleeves standing side by side; the man holds an open notebook with illegible smudged marks and explains, pointing at the page, the owner listens with his arms crossed, serious. Both LARGE, chest up, heads fully inside the frame in the lower half, the plain pale wall behind, a few plain tools low on the counter."
+  },
+  {
+   "n": 16,
+   "cinema": false,
+   "fit": true,
+   "scene": "EXTREME CLOSE still life, camera very low: the OPEN wooden cash DRAWER of an old shop counter, and lying inside it ONE single THICK, FULL plain kraft envelope, fat with money inside, beside a small bunch of shop keys. The drawer and the envelope are HUGE, filling the whole lower half of the frame from edge to edge. Behind them NOTHING but the bare pale plaster wall. Envelope plain, no writing. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  }
+ ]
+}

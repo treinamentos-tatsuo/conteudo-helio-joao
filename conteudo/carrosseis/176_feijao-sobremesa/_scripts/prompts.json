@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal still-life composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject small and dark, resting on a surface in the lower half of the frame, nothing entering from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "On a bare wooden kitchen table against the plain plaster wall, seen at table level: in the sharp foreground a simple deep plate of rice and beans with a spoon, and further back, slightly out of focus, a small bowl of pudding covered with a cloth, waiting. Nothing else. Hard low side light, long shadows."},
+    {"n": 2, "kind": "base", "scene": "On a bare wooden kitchen table against the plain plaster wall, seen at table level: ONE simple deep plate of rice and beans, half eaten, spoon resting on the rim, small in the lower half of the frame. Nothing else on the table. Hard low side light, long shadow."}
+  ]
+}

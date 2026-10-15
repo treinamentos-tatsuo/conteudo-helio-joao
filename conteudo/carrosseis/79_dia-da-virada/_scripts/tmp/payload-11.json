@@ -1,0 +1,10 @@
+{
+  "model": "gpt-5.4-mini",
+  "input": [
+    {"role": "developer", "content": "You are an image generation assistant. Your sole function is to invoke the image_generation tool. Never respond with plain text."},
+    {"role": "user", "content": "Generate an image: Close on two steady hands resting on a desk beside an open ruled notebook, one holding a pen that has stopped mid-page, poised over the paper. The posture of a man about to decide, firm and calm, not defeated. The handwriting on the page is completely BLURRED and ILLEGIBLE, soft grey marks only. Hands and desk sit LOW in the frame, the space above empty and pale. black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. The subject sits LOW in the frame with a large pale and empty upper half for clean compositing. Brazilian small-business setting, humble and real, never corporate. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look."}
+  ],
+  "tools": [{"type": "image_generation", "quality": "medium", "size": "1536x1024", "moderation": "low"}],
+  "tool_choice": "auto",
+  "stream": true
+}

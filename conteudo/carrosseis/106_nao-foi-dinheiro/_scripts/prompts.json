@@ -1,0 +1,85 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no roof line, no shelf, no beam, no pipe, no sign crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no pipe, no sign, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze, NO steam and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small family-run business in a Brazilian town in the late 1970s, deliberately GENERIC with no identifiable trade: a plain back office with a heavy wooden desk, a rotary telephone, a dented metal cash box with a hinged lid, a dog-eared ledger notebook with a pencil, a wooden filing cabinet, a bare plaster wall; out front a simple shop door with a metal roll-up shutter and a blank weathered sign board. NO tools, NO machines, NO products, NO merchandise that reveals what the business sells. The owner is a Brazilian man in his fifties in a plain short-sleeved shirt with the top button open, no uniform, no apron, no tie, a pen in the shirt pocket, tired working hands. The bank manager is a slim man in a dark suit and tie with a leather briefcase. Bare plain walls: NO posters, NO pin-ups, NO calendars, NO pictures, NO cards pinned anywhere. No steam, no smoke, no dust in the air. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "The side wall of a small commercial building seen from the sidewalk: a long deep CRACK running through the old plaster, and the wall held up from outside by a row of heavy raw timber props wedged diagonally against it, their feet braced on the pavement; the wall and the props are VERY LARGE filling the lower three quarters of the frame edge to edge, camera low and close, the top of the wall dissolving upward into pale light with no roofline visible. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the propped wall only."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": true,
+   "scene": "Night in the small back office: the owner alone at the heavy wooden desk, lit by a small desk lamp sitting LOW on the desk at the bottom left corner of the frame, its shade well BELOW the level of his shoulders; sleeves rolled, one hand rubbing his eyes, the other flat on a spread of papers, the ledger notebook open beside him; his face tired and lit from below-left, the room around him dark and EMPTY: behind and above him only a bare plain plaster wall, NO cabinet, NO shutter, NO door, NO shelf, nothing at all crossing the upper part of the frame, the wall fading upward into pale light. The papers are seen at an angle with their print reduced to soft illegible grey smudges. He is the ONLY person, LARGE and close, chest up, his head fully inside the frame with pale empty space above it. Working late for the bank: exhaustion, not drama."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": false,
+   "scene": "The street front of the small shop at closing time, camera LOW on the sidewalk and CLOSE: the corrugated metal roll-up shutter pulled HALFWAY down fills the middle of the frame edge to edge, and above it an old hand-painted wooden sign board seen from below at a steep upward angle so that its TOP EDGE IS OUT OF THE FRAME; the board's paint is badly weathered and flaked so whatever was painted on it is only faded unreadable smudges with no legible letters at all, and the board's pale flaking paint brightens and DISSOLVES upward into the overexposed light with no straight edge visible anywhere. Cracked sidewalk in the near foreground bleeding off the bottom edge. Nothing visible through the gap under the shutter but darkness. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the storefront only."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": true,
+   "scene": "In the small back office, the owner in his plain short-sleeved shirt, SEATED behind the wooden desk, shakes hands across the desk with the bank manager in a dark suit, who is also SEATED on the visitor's chair; the owner smiling a grateful, almost humble smile, the manager smiling a thin salesman's smile with the leather briefcase on his lap. Both men chest up, LARGE and close, both heads at about ONE QUARTER of the height from the top of the frame with a wide band of empty pale wall above them. THE ENTIRE BACKGROUND ACROSS THE FULL WIDTH OF THE FRAME IS ONE BARE PLAIN PALE PLASTER WALL: no door, no window, no shutter, no cabinet, no shelf, no poster, no calendar, nothing at all on or in front of the wall; the wall fades upward into pale light. The handshake at the center of the frame above the desk; on the desk the rotary telephone and the closed metal cash box."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of the wooden desk: an open checkbook lying flat with a ballpoint pen resting on it, and right beside it the dented metal cash box with its lid open and completely EMPTY except for a couple of loose coins. The checkbook is seen at a raking low angle and slightly out of the focal plane so that every line of print and handwriting on it is reduced to soft grey smudges, completely ILLEGIBLE; the rest of the scene is sharp. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. The checkbook and cash box VERY LARGE filling the lower three quarters, the bare pale wall behind dissolving upward into light."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": true,
+   "scene": "Inside a bank branch: the owner in his plain short-sleeved shirt bends over the bank manager's polished desk signing a sheet of paper with a ballpoint pen; across the desk the bank manager in a dark suit sits watching with his hands folded; between the two men, on the desk, lies a single car KEY on a plain ring. The paper is seen at a raking angle with all its print reduced to soft illegible grey smudges. Both men chest up, LARGE and close, heads fully inside the frame with pale empty wall above. The punch of the picture is the car key on the desk between them."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": false,
+   "scene": "The front of a modest family house on a quiet residential street in a Brazilian town: a low iron gate closed with a heavy CHAIN and a big PADLOCK, and just inside the gate, on the small cement yard, a child's tricycle left on its side. Camera low and close on the padlocked gate, the gate and chain VERY LARGE in the lower three quarters of the frame, the whitewashed house facade behind dissolving upward into pale light with no roofline visible. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of the locked gate only."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": true,
+   "scene": "After closing, the owner sits alone on the front step of his shop under the half-lowered shutter, elbows on his knees, holding a small worn payment booklet open in his hands, not reading it, staring past the camera at nothing, face heavy and blank. The booklet is seen at an angle so any print on it is only soft illegible smudges. He is the ONLY person, LARGE and close, chest up, head fully inside the frame with pale empty space above."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": true,
+   "scene": "The bank manager in his dark suit and tie stands in the MIDDLE of the owner's small plain back office holding his leather briefcase in front of him with both hands, smiling his thin salesman's smile straight at the camera; framed CHEST UP, VERY LARGE and close, his head at about ONE QUARTER of the height from the top of the frame with a wide band of empty pale wall above it. THE ENTIRE BACKGROUND ACROSS THE FULL WIDTH OF THE FRAME IS ONE BARE PLAIN PALE PLASTER WALL: no door, no window, no shutter, no cabinet, no shelf, no street, no sign, nothing at all; the wall fades upward into pale light. The wooden desk with the closed metal cash box LOW in the frame in front of him; in the near foreground at the LEFT edge, seen from behind and out of focus and staying BELOW the middle of the frame, the owner's shoulder in a plain shirt. The manager is the main subject."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of the wooden desk: the dog-eared ledger notebook lying open, and on the right-hand page a single neat column of pencil TALLY MARKS (groups of four vertical strokes crossed by a diagonal fifth stroke, like a prisoner counting days, NO digits and NO letters of any kind) running down the page and closed off by a firm horizontal pencil line ruled underneath the column, the pencil resting in the gutter; the left-hand page blank ruled paper. Beside the notebook a pair of folded reading glasses and an old hand-cranked mechanical adding machine. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. The notebook VERY LARGE filling the lower three quarters, the bare pale wall behind dissolving upward into light."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of the wooden desk, calm and tidy, camera very CLOSE and low: the dented metal cash box CLOSED with its lid down at the left, the ledger notebook CLOSED with the pencil lying on top of its cover at the center, and the rotary telephone resting on its hook at the right, the three objects grouped tightly together near the CENTER of the frame, none of them touching the left or right edges, all three VERY LARGE and tall in the frame so that the top of the telephone and the top of the cash box reach about ONE THIRD of the height from the top; the desk surface bleeds off the bottom edge. Nothing open, nobody needed to call. Sharp focus everywhere, no text visible anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. Behind them only bare pale plaster wall dissolving upward into light, no cabinet, no shelf."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": true,
+   "scene": "In the small back office, the owner in his plain short-sleeved shirt and a visiting consultant in a light shirt with rolled sleeves (no tie, no suit) sit side by side at the wooden desk with the ledger notebook open between them; the consultant points at a line in the notebook with a pencil while the owner leans in listening, serious, chin in his hand. The notebook's pencil marks are soft illegible smudges. Both men chest up, LARGE and close, heads fully inside the frame with pale empty bare wall above. Two people only."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner stands in the doorway of his shop under the half-raised metal roll-up shutter, plain short-sleeved shirt, arms relaxed at his sides, looking STRAIGHT at the camera with a calm, firm, direct expression; behind him only the dim plain interior with the wooden desk, nothing that reveals the trade. He is the ONLY person, LARGE and close, chest up, his head fully inside the frame with pale empty space above it, the pale shutter and wall dissolving upward into light."
+  }
+ ]
+}

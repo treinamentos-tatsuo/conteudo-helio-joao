@@ -1,0 +1,71 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "Two workmen at a heavy wooden workbench in a bare workshop: the man on the left leans in with both hands busy working on a task, focused and engaged; the man on the right stands back with his arms folded tightly across his chest and his face turned away, closed and disengaged. Both figures fill the lower third of the frame. The whole upper half is pale, empty and hazy."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Close view over a wooden workbench with a single broken machine part lying on it; one man's hand reaches in gripping a tool ready to fix it, while beside it another man's open empty hand lifts in a helpless shrugging gesture of not my fault, both hands and forearms filling the bottom third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A man in a work apron standing turned to one side, one arm crossed over his body and the other hand raised pointing away out of the frame, his face shut and looking off, a closed defensive blaming posture, filling the lower third of the frame. The space above and behind him is a pale, empty, hazy wall."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "Two workers standing beside a large idle silent machine in a workshop; one throws his hands up mid-complaint with his mouth open, while the untouched unfinished work sits ignored on the bench behind them, the men filling the lower third of the frame. The upper half is pale, empty and hazy."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A determined workman with his shirt sleeves rolled up, crouched low and leaning in with both bare hands working on a machine, seen from a slightly low heroic angle, filling the lower third of the frame and bleeding off the bottom edge. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A workman bent close over an opened machine, studying its inner gears intently with a focused frown as he works out the fault with his hands, tools laid around him, filling the lower third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A single plain blank sheet of paper resembling a resume and a small stack of documents lying flat on a dark wooden desk, a fountain pen resting on the top page. A soft pool of light falls on the papers from the upper right, but NO lamp or fixture or tall object is visible anywhere in the frame. The paper is completely blank with no readable text of any kind. The documents fill only the bottom third of the frame. The ENTIRE upper half of the image is completely empty, pale, hazy and clear, fading to near-white at the top."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A working man seen from the waist up, his weathered face and gripping hands lit with fierce determination as he heaves a heavy load forward with visible effort and sweat, filling the lower portion of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A small group of workers gathered around a table; one man sits pulled back and slumped with a sour disengaged expression that sours the whole mood, while the others lean away from him looking down and aside, the group filling the lower third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A team of workers straining together to haul a heavy rope and load forward across open ground, while off to one side a single man sits idle on the ground doing nothing as dead weight, the pulling team and the seated man together filling the lower third of the frame. The upper half is a pale, empty, hazy sky."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "An older leader in a work coat standing close beside a younger workman at a bench, leaning in to guide the young man's hands and show him how the work is done, a patient teaching moment between them, the two filling the lower third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A leader standing at the front and a row of workers lined up behind him, all facing the same direction with the same upright steady posture, the team clearly mirroring his stance, seen in a wide shot with the whole group filling the lower third of the frame. The upper half is a pale, empty, hazy sky."
+    },
+    {
+      "n": 13,
+      "kind": "cutout",
+      "scene": "A lone man in a simple worn mid-century work coat and boots, standing tall and resolute with his sleeves rolled up and both hands resting on his hips, chin lifted, looking forward with a steady determined expression. Arms are NOT folded or crossed. Open confident stance, upright and full figure."
+    }
+  ]
+}

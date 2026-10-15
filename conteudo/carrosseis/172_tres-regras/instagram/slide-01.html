@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,600;1,700&family=Anton&display=swap" rel="stylesheet">
+<style>*{margin:0;padding:0;box-sizing:border-box}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;background:#0B0B0B;font-family:'Source Serif Pro',serif}
+.ph{position:absolute;left:0;top:0;width:1080px}.shade{position:absolute;inset:0}.b{position:absolute;z-index:2}
+.s{font-size:42px;line-height:1.32;font-weight:400;color:#F3F3F3}.s b{font-weight:600}
+.big{font-size:64px;line-height:1.12;font-weight:600;color:#F3F3F3}
+.r{color:#A91C20;font-weight:600}
+.a{font-family:'Anton',sans-serif;color:#A91C20;text-transform:uppercase;letter-spacing:.5px}
+.rule{width:84px;height:6px;background:#A91C20}
+</style></head><body><div class="slide"><img class="ph" src="../imagens/v1/img-01.png"><div class="shade" style="background:linear-gradient(to bottom,rgba(11,11,11,0) 0%,rgba(11,11,11,0) 40%,rgba(11,11,11,0.9) 58%,rgba(11,11,11,1) 68%)"></div><div class="b" style="bottom:165px;left:120px;right:120px;text-align:center"><div class="big" style="font-size:58px"><span class="ul">Liderança tem 3 regras.</span></div><div class="a" style="font-size:132px;line-height:.96;margin-top:30px">SEJA EXEMPLO.<br>SEJA EXEMPLO.<br>SEJA EXEMPLO.</div></div></div><script>
+const NS='http://www.w3.org/2000/svg';
+function svg(){const s=document.createElementNS(NS,'svg');s.setAttribute('width','1080');s.setAttribute('height','1350');s.style.cssText='position:absolute;left:0;top:0;z-index:3;overflow:visible;pointer-events:none';document.querySelector('.slide').appendChild(s);return s;}
+function brush(el){const r=el.getBoundingClientRect(),s=svg(),x0=r.left-10,x1=r.right+10,y=r.bottom-2,w=x1-x0;
+ s.innerHTML=`<path d="M${x0} ${y+4} C ${x0+w*.3} ${y-3}, ${x0+w*.62} ${y+9}, ${x1} ${y-1}" stroke="#A91C20" stroke-width="10" fill="none" stroke-linecap="round" opacity=".95"/>`+
+ `<path d="M${x0+18} ${y+12} C ${x0+w*.38} ${y+6}, ${x0+w*.7} ${y+15}, ${x1-26} ${y+7}" stroke="#A91C20" stroke-width="4.5" fill="none" stroke-linecap="round" opacity=".85"/>`;}
+function arrow(a,b){const ra=a.getBoundingClientRect(),rb=b.getBoundingClientRect(),s=svg();
+ const x0=ra.left+ra.width*.5,y0=ra.bottom+10,x1=rb.right+16,y1=rb.top+rb.height*.45;
+ const c1x=x0+150,c1y=y0+260,c2x=x1+170,c2y=y1-230;
+ const ang=Math.atan2(y1-c2y,x1-c2x),L=34,sp=.5;
+ const h1=[x1-L*Math.cos(ang-sp),y1-L*Math.sin(ang-sp)],h2=[x1-L*Math.cos(ang+sp),y1-L*Math.sin(ang+sp)];
+ s.innerHTML=`<path d="M${x0} ${y0} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${x1} ${y1}" stroke="#A91C20" stroke-width="7" fill="none" stroke-linecap="round"/>`+
+ `<path d="M${h1[0]} ${h1[1]} L${x1} ${y1} L${h2[0]} ${h2[1]}" stroke="#A91C20" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;}
+document.fonts.ready.then(()=>{document.querySelectorAll('.fit').forEach(e=>{e.style.whiteSpace='nowrap';let f=parseFloat(getComputedStyle(e).fontSize);const W=e.parentElement.clientWidth;while(e.scrollWidth>W&&f>28){f-=1;e.style.fontSize=f+'px';}});const g=[...document.querySelectorAll('.big.fit')];if(g.length){const m=Math.min(...g.map(e=>parseFloat(e.style.fontSize||getComputedStyle(e).fontSize)));g.forEach(e=>e.style.fontSize=m+'px');}document.querySelectorAll('.ul').forEach(brush);const a=document.getElementById('af'),b=document.getElementById('at');if(a&&b)arrow(a,b);});
+</script></body></html>

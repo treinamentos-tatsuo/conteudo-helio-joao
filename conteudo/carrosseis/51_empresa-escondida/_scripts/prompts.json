@@ -1,0 +1,83 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. CLOSE framing on the subject, who fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A single weathered wooden shipping crate sitting LOW in the frame on the clean floor of a vintage warehouse, seen from a few steps back, its heavy lid slightly PRIED OPEN at one corner with an iron crowbar leaning against its side, warm bright light GLOWING strongly from inside the crate through the gap, soft rays cutting upward through the dim air, nothing else around it, minimal and clean. The crate occupies only the BOTTOM HALF of the frame, its top edge at the vertical middle, bleeding off the bottom edge. The ENTIRE upper half of the image is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A weary middle-aged business owner in rolled-up shirt sleeves standing SMALL between towering stacks of wooden crates and boxes rising on both sides of him, end of a long day, hands on hips, head slightly bowed, 1950s Brazilian small factory. The stacks and the man fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "close",
+      "base": "close",
+      "scene": "A man's hand firmly pressing a single CLEAN BLANK sheet of white paper down on top of a wooden desk buried in messy piles of old papers, receipts and worn ledgers; his other hand holds a wooden pencil ready to draw, vintage 1950s office. The blank sheet is the bright center of the scene. All papers completely blank with no readable writing."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A sheet of white paper on a dark wooden desk with a single simple clean rectangle drawn in pencil at its center, a wooden pencil and a worn eraser resting beside the sheet, a warm pool of light from a vintage desk lamp, everything around dim and quiet. The desk and sheet fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "Weathered hands sorting plain blank index cards into two piles on a wooden desk: a SMALL neat pile placed close to a blank sheet of paper with a pencil rectangle drawn on it, and a much larger scattered pile pushed away to the far side of the desk, 1950s. All cards completely blank. The hands and desk fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "An old heavy industrial machine covered with a dusty canvas tarp tied with ropes, pushed against the wall in the corner of an empty factory yard, out of use, weeds at its base, quiet late light, no people. The covered machine fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "Seen from directly above: a sheet of white paper on a dark wooden desk with a SMALL tidy pencil diagram of a few simple boxes and connecting lines occupying only the center of the sheet, vast empty white space all around it, a wooden pencil resting at the sheet's edge. The sheet fills the lower two thirds of the frame, bleeding off the bottom edge. The area above is bright, pale and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "On a wooden desk under dim warm lamp light: the sheet of paper with a small pencil diagram, an open ledger book with completely blank pages, and beside them a THICK neat stack of plain banknotes tied with string, solid and heavy, the notes completely plain with no readable engraving, 1950s. The desk fills the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A confident middle-aged business owner in rolled-up shirt sleeves and suspenders standing at a workbench, pen in hand over an open blank ledger, giving a slight satisfied nod as if the numbers just proved him right, vintage 1950s workshop tools around, pages completely blank. He fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "At the far back of a dark quiet warehouse, a wooden door slightly ajar with STRONG bright light streaming through the narrow gap, cutting a blade of light across the floor and lighting dust in the air, dark stacked crates framing the foreground, no people. The crates and door fill the bottom half of the frame, bleeding off the bottom edge. The space above dissolves into bright pale haze."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "Tall piles of wooden crates and stacked stock filling the foreground wall to wall, almost completely burying a small tidy workbench behind them: only a corner of the bench and its little glowing lamp visible through a narrow gap between the stacks, 1950s warehouse. The stacks fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "An old cast-iron balance scale standing alone on a wooden counter: a LARGE heavy wooden crate pressing one pan all the way down, a few small coins sitting high up on the other pan, stark, simple, nothing else on the counter, 1950s. The scale fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A warm family lunch table by a bright window in a modest 1950s Brazilian home: a mother and two children already seated passing serving dishes, and the father in shirt sleeves arriving EARLY with an easy smile, pulling out his chair to join them, generous food on the table, joyful ease. The table and family fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A focused business owner seated at a wooden desk by a bright window, the sheet of paper with a small pencil diagram flat in front of him beside an open blank ledger, one hand flat and firm on the desk, upright confident posture of command, 1950s. He and the desk fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 15,
+      "kind": "foto",
+      "scene": "A confident business owner standing in the wide open doorway of a tidy organized warehouse, arms crossed, strong daylight flooding in around him, neat shelves and orderly stacked crates inside, master of the place, 1950s. He and the doorway fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    }
+  ]
+}

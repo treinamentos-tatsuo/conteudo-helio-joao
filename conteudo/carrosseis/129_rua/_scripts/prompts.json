@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. SQUARE 1:1 aspect ratio. Dense morning haze; the ENTIRE UPPER THIRD of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no people.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "A clean, empty Brazilian street of old cobblestones (paralelepipedo) at dawn, camera extremely low, almost resting on the stones. In the sharp foreground, ONE single crumpled paper ball lies on the clean stones, the only thing out of place, hard side light raking across it. Behind it the street and the plain house fronts recede and dissolve into the pale haze. Nothing else on the ground. No people, no text."},
+    {"n": 2, "kind": "base", "scene": "A Brazilian sidewalk at dawn, camera extremely low at ground level. In the sharp foreground, at the foot of a plain concrete lamp post, a heap of rubbish has accumulated: many different tied plastic bags, boxes, a broken chair, each clearly left by a different person, piled against the post. The rest of the sidewalk and the street are clean and empty, receding into the pale haze. Hard low side light. No people, no text."}
+  ]
+}

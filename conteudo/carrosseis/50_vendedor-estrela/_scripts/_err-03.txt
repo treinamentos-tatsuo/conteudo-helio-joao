@@ -1,0 +1,17 @@
+event: response.created
+data: {"type":"response.created","response":{"id":"resp_08af77d647e21ed8016a887a7f3fa887d28e592dbdbab702f0","object":"response","created_at":1787329151,"status":"in_progress","background":false,"completed_at":null,"error":null,"frequency_penalty":0.0,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-5.4-mini-2026-03-17","moderation":null,"output":[],"parallel_tool_calls":true,"presence_penalty":0.0,"previous_response_id":null,"prompt_cache_key":"32328839-95bc-43ba-9a2c-79c9284a6872","prompt_cache_retention":"24h","reasoning":{"context":"current_turn","effort":"medium","mode":"standard","summary":null},"safety_identifier":"user-QnZrW1KBMdYRmOOqHUbgvfCn","service_tier":"auto","store":false,"temperature":1.0,"text":{"format":{"type":"text"},"verbosity":"medium"},"tool_choice":"auto","tool_usage":{"image_gen":{"input_tokens":0,"input_tokens_details":{"image_tokens":0,"text_tokens":0},"output_tokens":0,"output_tokens_details":{"image_tokens":0,"text_tokens":0},"total_tokens":0},"web_search":{"num_requests":0}},"tools":[{"type":"image_generation","background":"auto","model":"gpt-image-2-codex","moderation":"low","n":1,"output_compression":100,"output_format":"png","quality":"auto","size":"auto"}],"top_logprobs":0,"top_p":0.98,"truncation":"disabled","usage":null,"user":null,"metadata":{}},"sequence_number":0}
+
+event: response.in_progress
+data: {"type":"response.in_progress","response":{"id":"resp_08af77d647e21ed8016a887a7f3fa887d28e592dbdbab702f0","object":"response","created_at":1787329151,"status":"in_progress","background":false,"completed_at":null,"error":null,"frequency_penalty":0.0,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-5.4-mini-2026-03-17","moderation":null,"output":[],"parallel_tool_calls":true,"presence_penalty":0.0,"previous_response_id":null,"prompt_cache_key":"32328839-95bc-43ba-9a2c-79c9284a6872","prompt_cache_retention":"24h","reasoning":{"context":"current_turn","effort":"medium","mode":"standard","summary":null},"safety_identifier":"user-QnZrW1KBMdYRmOOqHUbgvfCn","service_tier":"auto","store":false,"temperature":1.0,"text":{"format":{"type":"text"},"verbosity":"medium"},"tool_choice":"auto","tool_usage":{"image_gen":{"input_tokens":0,"input_tokens_details":{"image_tokens":0,"text_tokens":0},"output_tokens":0,"output_tokens_details":{"image_tokens":0,"text_tokens":0},"total_tokens":0},"web_search":{"num_requests":0}},"tools":[{"type":"image_generation","background":"auto","model":"gpt-image-2-codex","moderation":"low","n":1,"output_compression":100,"output_format":"png","quality":"auto","size":"auto"}],"top_logprobs":0,"top_p":0.98,"truncation":"disabled","usage":null,"user":null,"metadata":{}},"sequence_number":1}
+
+event: response.output_item.added
+data: {"type":"response.output_item.added","item":{"id":"ig_08af77d647e21ed8016a887a80078c87d2be36576ac7f0a44c","type":"image_generation_call","status":"in_progress"},"output_index":0,"sequence_number":2}
+
+event: response.image_generation_call.in_progress
+data: {"type":"response.image_generation_call.in_progress","item_id":"ig_08af77d647e21ed8016a887a80078c87d2be36576ac7f0a44c","output_index":0,"sequence_number":3}
+
+event: response.image_generation_call.generating
+data: {"type":"response.image_generation_call.generating","item_id":"ig_08af77d647e21ed8016a887a80078c87d2be36576ac7f0a44c","output_index":0,"sequence_number":4}
+
+
+---STDERR---

@@ -1,0 +1,97 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "papel": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. Any handwriting or print on paper is faint, blurred, ILLEGIBLE scribble with no readable words or numbers. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "close",
+      "scene": "A single heavy iron crown, thick and plain with no jewels and no ornament, worn and scratched, resting alone on the seat of a simple wooden chair in an empty room. The crown is medium sized, clean and solitary in the frame, and its sheer mass presses down on the old wood. Dramatic raking light from the left carves the metal and throws a long shadow to the right. Nothing else in the room. The chair fills the bottom half of the frame and bleeds off the bottom edge. The wall behind and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A crowded family dinner table seen from the side, five or six people laughing with glasses raised, plates and bottles filling the bottom third of the frame. At the near END of the table one man in a shirt sits slightly apart, a phone held low against his thigh under the table, his face turned away from the group and staring off out of frame, not laughing. The upper part of the room is pale and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A quiet residential street at night in a small Brazilian town, modest two-storey houses in a row filling the bottom third of the frame. EVERY window is dark except ONE single lit window on an upper floor. Empty street, no people, no cars. The sky above is pale, hazy and washed out to near-white."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A man in an undershirt sitting on the edge of a bed in a dark modest bedroom, elbows on his knees, head hanging down, hands clasped. He sits low in the frame. The rest of the house behind him is unlit and empty. The upper part of the frame is pale, hazy, empty wall."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A single old worn leather office chair standing completely ALONE in the middle of a large empty room with a bare cold concrete floor. No desk, no other furniture, nobody. The chair sits in the lower-middle of the frame. The walls and the entire upper half of the frame are pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "papel",
+      "scene": "Close view of a single sheet of contract paper lying on a wooden desk, with a long EMPTY signature line ruled across it and nothing written on it. A rubber stamp and a fountain pen rest beside the sheet, untouched. All print on the paper is faint blurred illegible scribble."
+    },
+    {
+      "n": 7,
+      "kind": "close",
+      "scene": "Close view of an old mechanical desk clock showing ten past two in the middle of the night, standing on a wooden desk among scattered loose papers and an empty coffee cup. A desk lamp lights it from the side. The upper part of the frame is pale and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "An empty bare dirt lot with wooden surveying stakes driven into the ground and taut string lines running between them, filling the bottom third of the frame. Directly behind the lot stands a working industrial warehouse shed with its doors open and activity inside. No people in the foreground. The sky above is pale, hazy, washed to near-white."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A man in a plain suit sitting alone on a wooden bench in the waiting area of an old bank branch, a worn leather folder on his lap, hat in his hands, looking down at the floor. The bench continues empty on both sides of him. He sits low in the frame. The upper part of the hall is pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "close",
+      "scene": "Close view of an old metal toolbox sitting open on a workshop bench, its trays pulled out and almost completely EMPTY, with only ONE single tool lying inside it. Bare bench surface around it. The upper part of the frame is pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A brightly lit empty stage seen from the very back of a large auditorium, rows of empty folding chairs filling the bottom third of the frame in the dark foreground. A very small distant figure of a man in a suit stands alone at a microphone on the stage. The upper part of the frame is pale and hazy."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A man in a shirt standing in the middle of a small factory floor with his arms crossed and his chin raised, jaw set hard, standing very still. Behind him three workers are busy at their benches, all of them turned away, none of them looking at him. He stands in the lower-middle of the frame. The upper part of the shed is pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "papel",
+      "scene": "Close overhead view of two pairs of hands over a sheet of paper on a wooden table: one hand firmly holds a pen poised over the page, the other hand belongs to a second person and only POINTS a finger at a figure on the sheet, not touching the pen. All writing on the paper is faint blurred illegible scribble."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "Morning light through a factory skylight. A man in a shirt stands at a workbench with two other men in work clothes, all three leaning in over a single sheet of paper opened flat between them, discussing it. They fill the lower-middle of the frame. The upper part of the shed is bright, pale, hazy and empty."
+    },
+    {
+      "n": 15,
+      "kind": "close",
+      "scene": "Six plain wooden chairs arranged in a tight circle facing inward in a completely bare room. LOW camera placed close to the circle so the chairs are LARGE and fill the bottom half of the frame, the nearest chair cropped by the bottom edge of the picture. No table, no stage, no podium, nobody sitting, bare floor. The wall above and the entire upper part of the frame are pale, hazy and empty."
+    },
+    {
+      "n": 16,
+      "kind": "papel",
+      "scene": "Close view of a single sheet of lined notebook paper lying on a wooden table, with only a few short handwritten lines on it and ONE figure circled heavily in ink. A pen lies beside it. All handwriting is faint blurred illegible scribble."
+    },
+    {
+      "n": 17,
+      "kind": "close",
+      "scene": "Close view of a work jacket hanging on the back of a wooden chair, with a folded sheet of paper sticking out of its pocket. The empty room behind is out of focus. The chair and jacket fill the bottom half of the frame. The upper part is pale, hazy and empty."
+    },
+    {
+      "n": 18,
+      "kind": "foto",
+      "scene": "Two men in work clothes standing together in a factory corridor, one holding out a single sheet of paper and the other leaning in, BOTH of them looking down at the same page. They stand close, shoulder to shoulder, in the lower-middle of the frame. The corridor behind them is bright, pale, hazy and empty."
+    }
+  ]
+}

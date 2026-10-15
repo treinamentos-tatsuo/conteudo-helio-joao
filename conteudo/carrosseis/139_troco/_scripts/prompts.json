@@ -1,0 +1,21 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {
+      "n": 3,
+      "kind": "base",
+      "scene": "Extreme minimal still life: ONE single old worn coin lying alone on a bare, dark wooden table, camera at table level, the coin small and sharp in the lower part of the frame, everything else empty and dissolving into pale haze. Hard low side light, long thin shadow of the coin. No hands, no text."
+    },
+    {
+      "n": 4,
+      "kind": "base",
+      "scene": "Minimal still life on a bare dark surface, camera low: a small old iron key lying in the foreground, sharp, and behind it, out of focus and larger, the closed door of an old iron safe with its dial, dissolving into pale haze. Nothing else. Hard low side light. No hands, no text."
+    },
+    {
+      "n": 5,
+      "kind": "base",
+      "scene": "Minimal still life on a worn wooden shop counter, camera at counter level: a single folded old banknote with two small coins placed on top of it, pushed toward the camera as change being returned, sharp in the lower part of the frame; the rest of the counter and the shop behind dissolve into pale haze. Hard low side light, long shadows. No hands, no people, no text."
+    }
+  ]
+}

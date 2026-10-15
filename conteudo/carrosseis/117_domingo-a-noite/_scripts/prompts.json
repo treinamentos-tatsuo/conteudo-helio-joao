@@ -1,0 +1,125 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere. Natural unposed body language. Every machine, garment, card, envelope, clock or television in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any cards, papers or screens show only vague illegible marks, never readable letters or numbers; the television screen never shows a readable picture, only soft grey glow; money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no pictures, no window, no doorway, no ceiling line, no lamp, no wires, no heads, no sky. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. THE WALL IS ONE SURFACE: a single continuous plaster surface of ONE uniform pale tone from the very top edge of the frame all the way down to where the people and objects begin. No brighter strip at the top, no horizontal line, seam, band or change of tone anywhere on the wall.",
+ "setting": "Setting: a small neighbourhood GARMENT WORKSHOP (a sewing shop) in a Brazilian town in the late 1970s: a row of old black industrial sewing machines on wooden tables, a long cutting table with folded garments, a plain round wall clock hung LOW, and directly behind everything the big bare pale plaster wall of the workshop. Seamstresses wear plain dark work smocks; the owner is a Brazilian man in his fifties in a plain light short-sleeved dress shirt. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_home": "Setting: the small living room of a modest Brazilian home on a Sunday evening in the late 1970s: a plain sofa, a small tube television on a low stand, a round wall clock hung LOW, a plain door with a work smock hanging pressed on a hanger, and directly behind everything the bare pale plaster wall of the room. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": "Setting: a still-life photograph, WITH NO PEOPLE AT ALL, taken inside a small neighbourhood garment workshop in a Brazilian town in the late 1970s (old black industrial sewing machines, a cutting table with folded garments), with the big bare pale plaster wall of the workshop directly behind. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "setting_home_still": "Setting: a still-life photograph, WITH NO PEOPLE AT ALL, taken in the small living room of a modest Brazilian home on a Sunday evening in the late 1970s (a plain sofa, a small tube television on a low stand, a round wall clock hung LOW, a work smock hanging on a plain door), with the bare pale plaster wall of the room directly behind. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small accounting office: a clerk in his thirties in a short-sleeved shirt and thin tie sits at a metal desk, LARGE, chest up, both hands resting motionless on the keys of a typewriter, his head turned to stare at the plain round wall clock hung LOW on the wall right beside him; a sheet of paper in the typewriter shows only faint illegible marks. Only this one person. His head and the clock in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_home",
+   "scene": "NIGHT, Sunday evening, in the small living room, with the ceiling light on so the pale wall stays evenly lit. The camera is BEHIND the sofa and a little to the LEFT, at a three-quarter angle from behind. A man in his thirties in a plain T-shirt sits on the sofa in the LOWER LEFT of the frame, hunched forward with his elbows on his knees, one hand pressed hard against his forehead and pulling at his hair, his face partly visible in profile: eyes shut, brow knotted, jaw clenched, the body language of dread and anguish. In front of him, LARGE, in the centre-right and in SHARP FOCUS, a tube television on a low wooden stand, its screen glowing brightly in the room, and on the screen the opening title card of a Brazilian Sunday night television show: the single word FANTASTICO in big bold rounded 1970s television-logo lettering across the whole screen, with a stylised swirling globe emblem behind the letters. The word FANTASTICO is spelled exactly like that and clearly readable; it is the ONLY text anywhere in the image. It is clearly NIGHT: at the right, LOW in the frame, a small window with its curtain half open shows only pitch-black darkness outside, and a small table lamp with a fabric shade glows warmly on the side table next to the television; on the plain door hangs his pressed dark work smock on a hanger. NO CLOCK anywhere in the room. Only this one person. The top of the television, the window, the lamp, his head and the door hanger stay in the lower half of the frame; above them only the bare pale evenly lit wall."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_home_still",
+   "scene": "STILL LIFE, NO PEOPLE: on a small side table next to the sofa, a wind-up alarm clock with a plain face, hands at seven o'clock, beside a dark work smock neatly folded; behind them the dark screen of the switched-off tube television reflecting the empty room. Objects LARGE and low in the frame; above them only the bare pale wall. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "Monday morning behind the counter of a small auto-parts store: two attendants in plain work shirts lean on the counter, LARGE, chest up, faces dull and tired, one of them with his chin in his hand looking up at the plain round wall clock hung LOW on the wall behind the counter; shelves of unbranded boxes low behind them. Exactly two people. All heads and the clock in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner of a small delivery warehouse, a man in his fifties in a plain light shirt, stands in PROFILE in the doorway at the left, LARGE, chest up, hands on his hips, watching; beyond him, smaller, two workers in plain overalls carry a cardboard box between them without any hurry, faces blank. Exactly three people. All heads in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small print shop: the owner in a plain shirt stands over a young worker at a work table, LARGE, chest up, his index finger jabbing at a printed sheet on the table, his face hard; the young man keeps his head bowed; the printed sheets show only vague illegible marks. Exactly two people. All heads in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "STILL LIFE, NO PEOPLE: the street front of the small garment workshop on a Sunday afternoon, its corrugated roll-up steel door fully lowered and closed, the pavement empty, long late-afternoon light across the door and the pavement; the top of the door frame low in the frame and above it only the bare pale plaster wall of the facade, continuous to the top edge. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_loose_still",
+   "scene": "STILL LIFE, NO PEOPLE: on the bare wall of a factory corridor, hung LOW, a mechanical time clock and beside it a wooden rack with a row of identical punch cards standing in slots, all alike; cards blank with only faint illegible marks; a worn wooden bench below. Clock and rack LARGE and in the lower half of the frame; above them only the bare pale wall. No person, no hand, no body part anywhere."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Start of the day in a small hardware store: the owner in a plain light shirt stands behind the counter facing a loose semicircle of four employees in plain work aprons, all LARGE, chest up, listening to him with open faces; one young employee is smiling. Exactly five people. All heads in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small barbershop: an old barber with grey hair, seen in profile, guides the hand of a young apprentice holding scissors over the head of a seated customer, all LARGE, the two barbers concentrated and close together; on the counter beside the barber chair a plain sealed pay envelope lies flat. Exactly three people (old barber, apprentice, customer). All heads in the lower half of the frame. Envelope blank.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Lunch break on a small construction site: four builders in plain work clothes and dusty caps sit side by side on a low concrete beam with open lunch tins on their knees, LARGE, chest up; one is laughing out loud with his head back, another is grinning and pointing at him. Exactly four people. All heads in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_home_still",
+   "scene": "STILL LIFE, NO PEOPLE: the small tube television switched on in the empty living room on a Sunday evening, its screen only a soft grey glow with no readable picture, lighting the empty sofa beside it where the cushion still holds the hollow of a body; on the plain door at the right the dark work smock hangs pressed on a hanger. Objects LARGE and low in the frame; above them only the bare pale wall. No person, no hand, no body part, no reflection of anyone anywhere."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner of a small workshop sits alone at a desk in a tiny glass-walled office, seen FROM BEHIND, LARGE, shoulders slumped, one hand on the back of his neck, looking through the low interior window at his shop floor beyond, where two workers in plain overalls stand at a workbench small and far away. Only these people. The window frame, his head and everything else stay in the lower half of the frame; above them only the bare pale wall.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Monday morning on the pavement in front of a small shop: three employees in plain work shirts push up the corrugated roll-up steel door of the shop together, LARGE, chest up, laughing and talking as they do it, early morning light on their faces; the door is only half open, low in the frame. Exactly three people. All heads and the top of the half-open door stay in the lower half of the frame; above them only the bare pale plaster wall of the facade.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner of a small hardware store, a Brazilian man in his fifties in a plain light short-sleeved shirt, LARGE, chest up, head fully in the frame, arms folded, looks straight into the camera with a firm calm face; behind him, smaller, two employees in plain aprons work at the counter and one of them glances at him with a smile. Only these people. All heads in the lower half of the frame.",
+   "setting": "setting_loose"
+  },
+  {
+   "n": 16,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_home_still",
+   "scene": "STILL LIFE, NO PEOPLE: the empty sofa of the living room on a Sunday evening, close and low, the cushion holding the hollow where someone was sitting, the pale grey glow of the television falling across it from the side; on the plain door behind, at the right, the dark work smock hangs pressed on a hanger. Objects LARGE and low in the frame; above them only the bare pale wall. No person, no hand, no body part, no reflection of anyone anywhere."
+  }
+ ],
+ "setting_loose": "Setting: Brazil in the late 1970s, real working people in an ordinary small business; the scene below names the exact place. Directly behind everything there is always a big bare pale plaster wall. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_loose_still": "Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil in the late 1970s; the scene below names the exact place; directly behind everything a big bare pale plaster wall. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. "
+}

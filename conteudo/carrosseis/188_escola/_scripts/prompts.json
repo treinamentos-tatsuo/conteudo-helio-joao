@@ -1,0 +1,74 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. In the foreground on the LEFT, the owner in shirt and loosened tie stands beside his desk seen from behind and slightly to the side, one hand resting on the desk, watching. On the RIGHT, through a LOW wide open doorway at the end of the office, his best young employee walks away out of the building into bright daylight carrying a cardboard box of his belongings, small in the light. The distance between the two men is the subject of the photograph. The doorway's top edge stays below the middle of the frame; above it the wall continues plain and pale. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. Two men shaking hands beside a desk: the younger employee holds a cardboard box of his belongings under one arm, the older owner shakes his hand with a polite but heavy face. Both from the waist up. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. On a cleared, empty office desk: a cardboard box holding a coffee mug, a framed photo seen from the back, a desk nameplate face down and a fountain pen. NO PEOPLE. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. A capable young employee sitting at his desk, chin resting on his hand, staring at a tall stack of identical old binders and forms in front of him, bored, the same work as always. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. An older senior manager and a young employee leaning over the same document on a desk, the senior pointing at a detail with his pen and the young man watching closely, absorbed. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. Close view of an experienced man's hands holding open a worn, dog-eared notebook full of handwritten notes on a desk (only vague illegible marks, no readable writing). Only the hands and the notebook, no faces. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. The senior manager standing behind a young employee seated at a desk, one hand on the young man's shoulder, the other pointing at a ledger open in front of him, teaching, both focused. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. An empty desk cleared of everything, its chair pushed in, and on the chair's seat a suit jacket left neatly folded with an ID badge on top (blank, no text), as if returned on someone's last day. NO PEOPLE. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. An older manager handing a thick folder to a young employee who is standing up from his desk to receive it with both hands, proud and serious, a moment of promotion and trust. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, inside the office of a mid-sized company: plain walls, wooden desks, filing cabinets, typewriters, rotary phones. The owner standing between two employees at a meeting table, the three of them leaning over the same large sheet of paper with a hand-drawn plan and arrows (only vague illegible lines), discussing it together. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. Everything sits on the floor or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, an office. On a plain wooden desk, ONLY three potted plants of the same kind, nothing else on the desk: lined up side by side from a small seedling to a medium plant to a large strong leafy plant, the three pots LARGE in the frame and CENTERED, filling the middle of the picture. No typewriter, no phone, no other objects. NO PEOPLE. COMPOSITION DETAIL: the plants and desk are centered, the tallest leaf ends below the middle of the frame; nothing hangs or descends from the top."
+  }
+ ]
+}

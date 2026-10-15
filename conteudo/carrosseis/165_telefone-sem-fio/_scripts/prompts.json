@@ -1,0 +1,121 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil, 2020, a mid-size shoe factory with about forty workers (cutting and stitching benches, leather hides, shoe lasts, boxes in the expedition area), run by its owner, a man in his fifties (short-sleeved work shirt, sleeves rolled up); the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil, 2020; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Factory floor: the owner stands holding up against the light a finished leather shoe assembled WRONG (the sole clearly belongs to another model, too thick and the wrong shape), staring at it in disbelief, eyebrows raised. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Expedition area of a shoe factory, seen close: an open shoe box on a wooden table holding a mismatched pair of the same black leather shoe model where one shoe is DRAMATICALLY bigger than the other, almost twice its length, an absurd and obvious size error; a plain order slip beside the box with only vague illegible marks. The box and the shoes are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner sits alone at a desk in a glass-walled mezzanine office of the shoe factory, one hand pressed on his forehead, exasperated, eyes closed; through the glass behind him, lower, the tops of the production benches. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden workbench of a shoe factory: THREE shoes of exactly the SAME model lined up side by side, each one finished in a DIFFERENT way: the first with laces, the second with a metal buckle, the third with thick visible contrast stitching. The three shoes are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Six children standing in a line in the school courtyard, playing the whispering game: each child cups a hand and whispers into the ear of the next one; the last child at the end of the line has a puzzled, confused face. The line of children is LARGE, seen from the waist up, filling the lower half of the frame, every child fully inside the frame, heads well below the top of the frame, nobody cut by the left or right edges.",
+   "setting": "setting_school"
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden workbench: two old tin-can telephones connected by a long string that is completely tangled, knotted and twisted into a messy bundle between them. The cans and the tangled string are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "At the factory gate: the owner seen from BEHIND walking out through the open gate, jacket thrown over his shoulder; in the foreground on the right, a young worker at a workbench holds a shoe box in both hands, looking after him, lost, not knowing what to do. Both are fully inside the frame, heads well below the top of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "A blank production order form clipped to a hook on the side of a shoe factory workbench: the printed fields are EMPTY (only faint illegible lines, nothing filled in), a pencil hanging from a string beside it, leather scraps on the bench. The form and the bench are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "A young worker alone at a cutting bench of the shoe factory, scratching his head, confused, looking down at a pile of cut leather pieces spread in front of him. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "An old wooden school desk from the 1960s with an open children's literacy primer book on it: the two pages show simple drawings of a bee and of a dog, and only vague illegible letters (no readable words); a short pencil lies beside the book. The desk and the book are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a shoe factory workbench: a thick bound procedures manual lies open, and right beside it an old children's school primer book of the same kind, both with only vague illegible marks on the pages. The two books are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The factory showroom counter: a salesman in a work shirt shows a leather shoe to a customer across the counter, a bound manual lying open on the counter beside them; behind the salesman a young new worker watches and learns. Everyone LARGE, chest up, fully inside the frame, heads well below the top of the frame, nobody cut by the edges."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "The open drawer of a wooden shoe factory workbench: inside the drawer lies a thick bound procedures manual, closed, covered with a layer of dust and a few leather scraps thrown on top of it, clearly forgotten. The drawer and the manual are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "Still life on the factory floor: a wooden crate overflowing with defective rejected leather shoes (crooked soles, loose stitching, mismatched pieces), and right beside the crate, on a stool, a thick bound procedures manual, closed and pristine, never opened. The crate and the manual are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "At a workbench of the shoe factory: the owner stands holding a finished shoe next to an open bound manual on the bench, comparing the shoe with the drawing on the page; beside him a young worker points at the shoe, showing what he did. Both LARGE, chest up, fully inside the frame, heads well below the top of the frame, nobody cut by the edges."
+  },
+  {
+   "n": 16,
+   "cinema": true,
+   "fit": true,
+   "scene": "On the factory floor the owner teaches two workers, holding a bound manual open and pointing at a page; the two workers lean in, paying close attention. The three are LARGE, chest up, fully inside the frame, heads well below the top of the frame, nobody cut by the left or right edges."
+  },
+  {
+   "n": 17,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner stands in front of the bare pale wall of his shoe factory, a bound manual tucked under one arm, looking straight into the camera, firm and confident, a slight serious half smile. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  }
+ ],
+ "setting_school": " Setting: Brazil, 1960s, the courtyard of a public primary school; children in simple school uniforms (plain white shirts, no emblem, no badge, no writing). Only the children described in the scene appear. "
+}

@@ -1,0 +1,95 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere. Natural unposed body language. Every box, hide, document, envelope, card or ledger in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers, contracts, booklets, ledgers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no staircase. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight.",
+ "setting": "Setting: a small family SHOE FACTORY on the ground floor of a two-storey house in a Brazilian town in the late 1970s: a long wooden cutting bench covered with leather hides, wooden shoe lasts on LOW shelves, a post-bed leather sewing machine, stacked plain cardboard shoe boxes; the family lives upstairs. No staircase is visible unless the scene explicitly mentions one. The owner is a Brazilian man in his fifties wearing a leather apron over a plain work shirt. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his leather apron stands ALONE at the cutting bench, LARGE, chest up, looking straight into the camera with a serious, tired face, both hands resting flat on a leather hide; on the corner of the bench, among the wooden shoe lasts and cutting knives, sits a small pair of children's shoes. Nobody else is in the frame. Behind him only the bare pale wall; no staircase, no shelves rising behind his head."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden office desk, seen close and low: a partnership contract lying open on its last page, with the impression of a round notary rubber stamp and a signature, both only vague illegible marks; a pair of folded eyeglasses and a fountain pen resting on the page. The paper and objects are LARGE and fill the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts, no reflections of people. Pure still life."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "At the cutting bench, the owner in his leather apron, LARGE, chest up, head fully in the frame, looks DOWN and signs the last page of a long contract with a pen; beside him a bank manager in a dark suit and tie, also chest up with his head fully in the frame, holds the page open and points at the signature line with one finger. Only these two people. The contract shows only vague illegible marks. Both heads stay in the lower half of the frame. THE WALL IS ONE SURFACE: the wall behind is a single continuous plaster surface of ONE uniform pale tone from the very top edge of the frame all the way down to where the people and objects begin. No brighter strip at the top, no horizontal line, seam, band or change of tone anywhere on the wall."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "A court officer in a dark suit, briefcase in hand, seen FROM BEHIND, LARGE, his right foot on the first step of a wooden interior staircase that leads up from the workshop; around him on the floor and low shelves, wooden shoe lasts and stacked plain shoe boxes. Only the first three steps are visible, low in the frame, cut off by the right edge; the staircase, its handrail and the man's head all stay in the LOWER HALF of the frame; nothing rises into the pale wall above. Nobody else is in the frame."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a simple family kitchen table with an oilcloth: three sealed plain envelopes lying side by side, next to a dented enamel coffee pot and a small cup. The envelopes have no lettering at all, only faint illegible marks. Objects LARGE, close and low in the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts, no reflections of people. Pure still life."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "A simple living room with the furniture pushed together into the middle of the floor for an auction: an old wooden rocking chair, a tabletop valve radio on a small stand and a table lamp, each with a small blank paper tag tied on with string. Nothing hangs on the wall. The furniture is LARGE and low in the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts, no reflections of people. Pure still life."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close-up of the owner's hand, LARGE, holding aside a sheer lace curtain, the lace backlit and translucent with light passing through its holes; the curtain fabric is gathered low in the frame, and behind it, softly blurred, wooden shoe lasts on a low shelf. No face, no head. The curtain does not reach the top of the frame; above the hand and the lace only the bare pale wall. No faces and no heads anywhere in the frame; only the hands and objects described. THE WALL IS ONE SURFACE: the wall behind is a single continuous plaster surface of ONE uniform pale tone from the very top edge of the frame all the way down to where the objects begin. No brighter strip at the top, no horizontal line, seam, band, shadow line or change of tone anywhere on the wall; the same even daylight over the whole wall."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside the workshop, three men stand in a short line at a mechanical time clock mounted LOW on the wall, each holding a plain punch card: two young workers in front, and at the back of the line the owner himself in his leather apron, holding his own card, waiting his turn like one of them. All three LARGE, chest up, seen from the side; the time clock and every head stay in the lower half of the frame. Cards blank. Exactly three people, nobody else."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL LIFE, NO PEOPLE: on the leather-covered bench, seen close and low, on the LEFT a thick, tall stack of documents with round stamp impressions on the top sheet, and on the RIGHT, alone on the bare leather, a single thin small pay envelope. Papers show only vague illegible marks. Objects LARGE and low in the frame; behind them only the bare pale wall. No person, no hand, no body part anywhere.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner stands in the doorway of the factory under its half-raised roll-up steel door, leather apron, arms crossed, looking firmly into the camera, LARGE, chest up; behind him the cutting bench and wooden shoe lasts. The rolled-up edge of the door is ABOVE the frame, out of view; above his head only the bare pale wall of the facade."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL LIFE, NO PEOPLE: on the wooden bench, seen close and low, a single sheet of paper, the last page of a document with an EMPTY signature line at the bottom, a fountain pen lying across that line, and a wooden-handled rubber stamp with its ink pad beside it. All marks on the paper vague and illegible. Objects LARGE, low in the frame; behind them only the bare pale wall. No person, no hand, no body part anywhere.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his leather apron over a plain work shirt, LARGE, chest up, head fully in the frame, looks DOWN at his own chest while his hand tucks a thick plain blank envelope into the chest pocket of his shirt, beneath the strap of the apron; behind him the cutting bench with wooden shoe lasts. Only this one person. His head stays in the lower half of the frame. THE WALL IS ONE SURFACE: the wall behind is a single continuous plaster surface of ONE uniform pale tone from the very top edge of the frame all the way down to where the people and objects begin. No brighter strip at the top, no horizontal line, seam, band or change of tone anywhere on the wall."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner in his leather apron and a consultant in a light plain shirt stand side by side at the cutting bench, an open ledger between them; the consultant points at a line with a pen and the owner listens with a serious face. Both LARGE, chest up. The ledger shows only faint illegible marks. Exactly two people, nobody else."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on the leather-covered cutting bench, close and low: a ring of keys with two keys on the same ring, one large old iron key for the factory's roll-up door and one small brass house key, lying on the leather. No lettering anywhere. The keys LARGE, low in the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts, no reflections of people. Pure still life."
+  }
+ ],
+ "setting_still": "Setting: a still-life photograph, WITH NO PEOPLE AT ALL, taken on a long wooden cutting bench covered with leather hides inside a small family shoe factory in a Brazilian town in the late 1970s; wooden shoe lasts on a LOW shelf and plain cardboard shoe boxes far in the background. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. "
+}

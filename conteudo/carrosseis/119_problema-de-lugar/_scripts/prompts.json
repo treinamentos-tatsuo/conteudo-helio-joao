@@ -1,0 +1,104 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Every car, sign, badge, board, form, folder or document in the scene is PLAIN and UNBRANDED: no printed brand names, no car emblems, no logos, no legible writing of any kind; any papers, forms, name badges, nameplates, chalkboards or price cards show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+  "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no cars, no boxes, no doorway, no window, no sign, no ceiling line, no heads. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight.",
+  "setting": "Setting: a small neighborhood USED CAR DEALERSHIP in a Brazilian town in the late 1970s: a concrete lot with half a dozen plain 1970s sedans lined up with paper price cards on the windshields (illegible), a small glass-partitioned sales office with a salesman's desk (rotary-dial telephone, ashtray, a small desk nameplate, a pad of proposal forms), a chalkboard on the wall with the week's targets in chalk (illegible), a coat rack with a suit jacket and a name badge hanging on it, and the owner's desk at the back with a small iron safe. The owner is a Brazilian man in his fifties, short-sleeved dress shirt and a loosened thin tie; the salesmen wear suit jackets and thin ties. ",
+  "images": [
+    {
+      "n": 1,
+      "cinema": true,
+      "fit": true,
+      "scene": "The owner sits LARGE at his back-office desk, elbows on the desk and both hands covering his face, exhausted, shoulders dropped. On the desk in front of him a small stack of three plain name badges and a single sheet of paper, a résumé with only illegible marks. Behind him nothing but the bare pale wall. The photo says: tired of firing salesmen."
+    },
+    {
+      "n": 2,
+      "cinema": true,
+      "fit": true,
+      "scene": "The NEW young salesman, in a suit jacket clearly too big for him, sits at the salesman's desk VERY LARGE and CLOSE to the camera, chest up, holding the rotary-dial telephone receiver to his ear, mouth half open, eyes lost, not knowing what to say; a blank pad of proposal forms and an ashtray on the desk in the foreground. The owner stands just ONE STEP behind him, also LARGE, arms crossed, watching him over his shoulder, his head slightly higher than the salesman's. The two figures fill the lower half of the frame from side to side. NO window, NO cars, NO chalkboard, NO shelves behind them: only the bare pale wall of the office, continuing up to the top edge."
+    },
+    {
+      "n": 3,
+      "cinema": false,
+      "fit": true,
+      "scene": "Still life, close and low: THREE sheets of sales proposal forms lying side by side on the salesman's desk, each one with the SAME smudged correction in the SAME spot (only vague illegible marks), a ballpoint pen lying across them, the corner of the rotary telephone at the edge. The forms are LARGE and fill the lower part of the frame; above them only the bare pale wall. NO PEOPLE, no hands."
+    },
+    {
+      "n": 4,
+      "cinema": false,
+      "fit": true,
+      "scene": "VERY CLOSE and LOW on the salesman's wooden swivel chair, EMPTY and turned sideways, a suit jacket hanging on its back, the edge of the desk in front of it with the rotary telephone receiver OFF THE HOOK lying on the desk. The chair, the jacket and the desk edge are LARGE and fill the whole lower 55 percent of the frame from side to side. Behind them NOTHING but the bare pale wall: NO window, NO cars, NO chalkboard, NO coat rack, NO safe. NO PEOPLE."
+    },
+    {
+      "n": 5,
+      "cinema": false,
+      "fit": true,
+      "scene": "EXTREME CLOSE-UP, camera at desk level: a small wooden desk NAMEPLATE with a new strip of paper glued crookedly OVER the old name strip (both show only illegible marks), LARGE across the lower half of the frame, the rotary telephone and a blank pad of forms right beside it, slightly behind. Behind the desk NOTHING but the bare pale wall: NO window, NO cars, NO chalkboard, NO coat rack. NO PEOPLE, no hands."
+    },
+    {
+      "n": 6,
+      "cinema": true,
+      "fit": true,
+      "scene": "The owner ALONE at his back desk at night under one small desk lamp, a TALL stack of résumés (illegible) on one side of the desk and an open ledger on the other, his hand pressed to his forehead, eyes down. The lamp light hits the bare pale wall behind him; nothing else on that wall. He is LARGE, chest up, head in the lower half of the frame."
+    },
+    {
+      "n": 7,
+      "cinema": false,
+      "fit": true,
+      "scene": "In the concrete car lot, ONE plain 1970s sedan with a paper price card in the windshield (illegible) parked in the same marked spot, a film of DUST on its hood and roof, the parking spaces on both sides EMPTY; behind the car the bare pale wall of the building fills the whole upper part of the frame. The car is LARGE and low in the frame. NO PEOPLE."
+    },
+    {
+      "n": 8,
+      "cinema": true,
+      "fit": true,
+      "scene": "The owner standing beside the new young salesman in front of a plain 1970s sedan in the lot, the owner's hand flat on the hood as he explains, turned to the salesman; the salesman listens holding a small notepad and pencil. Both LARGE, chest up, heads in the lower half; behind them the bare pale wall of the building."
+    },
+    {
+      "n": 9,
+      "cinema": false,
+      "fit": true,
+      "scene": "CLOSE on the office wall at eye level: a single sheet of paper HANDWRITTEN as a list (only illegible marks) taped with two strips of tape to the wall, LARGE at the lower center of the frame, the edge of a small chalkboard right beside it, and the top of the salesman's wooden chair back at the very bottom. Above the sheet the bare pale wall continues to the top edge: NO window, NO cars, NO ceiling line. NO PEOPLE."
+    },
+    {
+      "n": 10,
+      "cinema": false,
+      "fit": true,
+      "scene": "CLOSE on the meeting table after a training session, camera low: a CLOSED notepad with a pencil on it LARGE in the foreground, two wooden chairs pushed apart and askew right behind the table, and low behind them the bottom half of a chalkboard whose chalk title is HALF ERASED (smeared, illegible). Everything in the lower 55 percent; above, only the bare pale wall: NO window, NO cars, NO coat rack. NO PEOPLE."
+    },
+    {
+      "n": 11,
+      "cinema": true,
+      "fit": true,
+      "scene": "Early morning: the owner and the salesman standing side by side in front of the small chalkboard, the owner pointing with his finger at one line of chalk (illegible), the salesman holding a small coffee cup and looking at the board. Both LARGE, chest up, heads in the lower half of the frame; the chalkboard low behind them; the bare pale wall above everything."
+    },
+    {
+      "n": 12,
+      "cinema": false,
+      "fit": true,
+      "scene": "Very close on the small chalkboard: THREE short lines of chalk writing (illegible) and rows of small chalk TALLY MARKS, one row for each weekday, a felt eraser and a piece of chalk on the wooden tray at the bottom. The board is LARGE in the lower part of the frame; the bare pale wall continues above it. NO PEOPLE."
+    },
+    {
+      "n": 13,
+      "cinema": true,
+      "fit": true,
+      "scene": "During business hours the owner stands beside the salesman's desk, leaning slightly, looking together at the proposal form that the SEATED salesman is filling in with a pen; the salesman looks confident and focused. Both LARGE, heads in the lower half; the bare pale wall behind them."
+    },
+    {
+      "n": 14,
+      "cinema": true,
+      "fit": true,
+      "scene": "The salesman, now experienced and relaxed in his jacket, teaching a YOUNGER new salesman in front of a plain 1970s sedan in the lot, gesturing at the car; the young one holds a notepad. The owner is NOT in the scene. Both LARGE, chest up, heads in the lower half; the bare pale wall of the building above."
+    },
+    {
+      "n": 15,
+      "cinema": true,
+      "fit": true,
+      "scene": "The owner standing calm in the doorway of the glass office, arms relaxed, watching the lot work: two salesmen talking with customers beside the cars, one sedan being driven out. The owner LARGE in the foreground, the others smaller behind; all heads in the lower half; the bare pale wall above."
+    },
+    {
+      "n": 16,
+      "cinema": true,
+      "fit": true,
+      "scene": "The owner sitting in the salesman's chair at the salesman's desk, the small desk nameplate turned toward the camera (illegible), a BLANK name badge lying on the desk beside the rotary telephone, looking straight into the camera with a calm, direct expression. He is LARGE, chest up, head in the lower half; the bare pale wall behind him."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal still-life composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject small and dark, resting on a surface in the lower half of the frame, nothing entering from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "A short stack of fine old porcelain dinner plates with a thin gold rim, still wrapped in yellowed clear plastic, resting on a bare wooden shelf, covered in a visible layer of dust, seen at eye level, small in the lower half of the frame against the plain plaster wall. Nothing else. Hard low side light."},
+    {"n": 2, "kind": "base", "scene": "ONE fine old porcelain dinner plate standing upright on its edge on a bare wooden shelf, with a thick layer of dust on it and a clean ring on the shelf beside it where another plate stood for years, seen at eye level, small in the lower half of the frame against the plain plaster wall. Nothing else. Hard low side light."}
+  ]
+}

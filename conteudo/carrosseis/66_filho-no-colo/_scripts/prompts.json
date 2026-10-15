@@ -1,0 +1,20 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture, mid-century archival look. SQUARE 1:1 aspect ratio. Dense soft haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge for clean compositing. Subject dark and low in the frame, bleeding off the bottom edge. No text, no words, no letters, no numbers, no logos, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "scene",
+      "scene": "Seen from behind and slightly below: a working adult in plain dark clothes walking away from the camera down a simple narrow street, carrying a sleeping child against the shoulder. The child's small arm hangs completely loose and limp down the adult's back — the unmistakable sign of a child deep asleep. The adult's posture is steady and unstrained: shoulders level, one hand firm under the child, walking calmly. The weight is real but the body does not struggle. Their dark silhouette fills the lower half of the frame; the street ahead dissolves into pale empty haze. Faces are not visible. No other people."
+    },
+    {
+      "n": 2,
+      "kind": "scene",
+      "scene": "Tight intimate crop, shot from behind: only the shoulder and upper back of an adult in a dark worn shirt, and over that shoulder the small limp arm and open relaxed hand of a sleeping child hanging down, plus the adult's weathered working hand holding the child securely. No faces at all, no heads visible. The dark shirt and the arm fill the lower two thirds of the frame against a plain very pale hazy background. Sculptural, quiet, a single detail — like a study of hands. Nothing else in the frame."
+    },
+    {
+      "n": 3,
+      "kind": "scene",
+      "scene": "Seen from below at street level: an adult in plain dark work clothes climbing a few worn concrete steps, carrying a sleeping child high against the chest and shoulder. The body clearly bears the load — the supporting arm is tense and the back is set — yet the movement is unhurried and the step is sure. The child's limp arm hangs down. Faces turned away and not visible. The steps and figure occupy the lower half; above them only pale empty haze. No other people, no handrail clutter."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small-shop owner standing behind the worn wooden counter of his modest shop, brow furrowed, holding and examining a thick fan of paper payment slips in both hands, dim shelves behind him, his figure and the counter filling the bottom third of the frame. All papers are completely blank with no legible text. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A shopkeeper leaning on his counter hand-writing on a small blank cardboard price sign with a pencil, eyes narrowed in a guessing, deciding expression, shelves of goods behind him, his figure and the counter filling the bottom third of the frame. The sign and every surface are completely blank with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A close view of two pairs of hands exchanging change over a worn wooden shop counter, one hand handing over crumpled banknotes and loose coins to the other, no faces visible, the hands and counter filling the bottom third of the frame and bleeding off the bottom edge. The banknotes are plain and blank with no legible engraving. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A worn suit jacket hanging on the back of a wooden chair, one side pocket torn open with a visible hole, coins spilling out of the hole and scattered across the plank floor below, still-life, no people, the chair and scattered coins filling the bottom third of the frame and bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A tall pile of old payment booklets and receipt papers stacked on a wooden desk next to a wooden-handled rubber stamp and a small ink pad, still-life, no people, the pile and stamp filling the bottom third of the frame and bleeding off the bottom edge. All papers show only faint illegible smudged marks, no legible text or numbers. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A shop owner facing the camera head-on, both hands planted firmly on his wooden counter, stern hard stare straight into the lens, sleeves rolled up, modest shop shelves softly blurred behind him, his figure and the counter filling the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A relaxed shop owner leaning back comfortably at his counter sipping from a small coffee cup, unbothered easy posture, while a disordered pile of blank papers and envelopes accumulates on the counter beside him slightly out of focus, his figure filling the bottom third of the frame. All papers are blank with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A close view of hands leafing through a small worn pocket notebook filled with faint illegible pencil scribbles, loose blank paper price tags with strings scattered on the wooden table around it, no faces, the hands and table filling the bottom third of the frame and bleeding off the bottom edge. No legible text or numbers anywhere. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "Two large worn dice resting on a rough wooden table next to a folded wad of plain banknotes held by a rubber band, dramatic side light, still-life, no people, the dice and money filling the bottom third of the frame and bleeding off the bottom edge. The banknotes are plain and blank with no legible engraving. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A close view of steady hands arranging plain banknotes into several neat aligned stacks on a clean uncluttered wooden table, sense of order and control, no faces, the hands and stacks filling the bottom third of the frame and bleeding off the bottom edge. The banknotes are plain and blank with no legible engraving. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A weary shop owner seen from behind pulling down the corrugated metal security shutter of his small shop at the end of the day, alone on an empty sidewalk, tired sagging posture, the shutter and his figure filling the bottom third of the frame. No lettering on the shutter or anywhere. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A confident small-shop owner standing with arms crossed and a slight assured smile in the open doorway of his tidy shop in clear morning light, sense of order and control, his figure low in the frame filling only the bottom third, his head well below the vertical midpoint of the image. The entire upper two thirds of the image are bright, pale, hazy and empty, fading to near-white."
+    }
+  ]
+}

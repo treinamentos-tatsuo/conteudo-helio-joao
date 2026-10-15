@@ -1,0 +1,15 @@
+{
+  "error": {
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 7f243a96-bd88-441c-8535-72374fecde38.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "moderation_blocked",
+    "moderation_details": {
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ]
+    }
+  }
+}
+---STDERR---

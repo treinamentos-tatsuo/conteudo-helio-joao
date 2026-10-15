@@ -1,0 +1,92 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil in the 1970s, the world of ordinary working people and small family businesses; the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil in the 1970s; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "HIGH ENERGY, like a sales floor going wild: a 1970s Brazilian sales office, SIX men in suits, ties loosened, sleeves rolled up, in collective ecstasy: shouting with joy, mouths open, fists pumping, one man in the center standing on a desk chair with both arms raised, the others around him cheering, slapping backs, chest-bumping, papers flying; faces lit, eyes shining, pure electric energy. Everyone LARGE, chest up, fully inside the frame, all raised arms and heads staying WELL BELOW the top of the frame in the lower part of the picture. No screens, no signs, no posters, no legible paper; the flying papers are blank. No religion, no church."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "Still life on a plain kitchen table with a checkered oilcloth in a modest Brazilian home: a sealed, thick, plain brown pay envelope lying flat, and beside it a plain cardboard box filled with groceries in unlabeled paper packets (rice, beans, coffee, sugar); a single tin mug. The objects are LARGE and fill the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "On the floor of a small Brazilian factory, the owner (a man in his fifties, shirt sleeves rolled up) has his hand firmly on the shoulder of a young worker in overalls, the two of them LARGE in the center, in profile facing each other, the owner speaking with a proud, warm face; behind them, THREE other workers have stopped and are looking at the two. Everyone fully inside the frame, chest up, all heads well below the top of the frame."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "The ECSTASY of being awarded, at a small company end-of-year party in a decorated hall: a young worker, LARGE in the center, chest up, holding up a small plain trophy with both hands, his face lit by a strong camera flash from the front, eyes shining wet with emotion, a huge open smile; paper confetti and streamers falling around him; around him, slightly behind, FOUR colleagues clapping and cheering with their faces toward him, like paparazzi around a celebrity. Everyone fully inside the frame, all heads well below the top of the frame. The confetti stays in the lower part of the frame."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "The owner's small office at night, empty: a wooden desk under a single desk lamp, his chair pushed back and empty, piles of papers and a ledger (all illegible), a cold cup of coffee, a telephone, a wall clock is NOT visible; the rest of the room dark. The desk and the empty chair are LARGE and fill the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life, the loneliness of the empty chair."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "The same neglect repeated, in a small Brazilian sewing workshop: the owner (a man in his fifties with a clipboard) walks past with his back three-quarters turned, eyes on the clipboard, not looking; right beside him a young seamstress stands holding up a finished dress with both hands, offering it to be seen, her face expectant and falling, waiting for a word that does not come. Both LARGE, chest up, only these two people appear, fully inside the frame."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "The living room of a modest Brazilian house in winter: an old brick FIREPLACE seen straight on and close, the hearth COLD and unlit, only grey cold ashes and two charred black logs inside, an iron grate; beside the fireplace a neat, untouched stack of dry split firewood, and an empty wooden armchair with a folded blanket facing the cold hearth. The fireplace, the firewood and the chair are LARGE, filling the lower part of the frame; no mantel decorations, no pictures above. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "FIRE is the subject: close on the same brick fireplace, the hearth BLAZING with big bright flames, sparks flying, glowing embers, strong warm light on the bricks; entering from the bottom of the frame, ONLY the calloused hands and forearms of a man laying one more split log onto the fire. No face, no head, no body beyond the forearms; the flames and the hands are LARGE, filling the lower part of the frame. A little smoke rising from the fire is allowed but it stays low, never reaching the pale upper wall."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "End-of-month ceremony on the floor of a small Brazilian factory: the owner (fifties, shirt sleeves rolled up) is handing a SMALL plain trophy to a worker in overalls, the two of them LARGE in the center, chest up; around them, in a loose semicircle, FOUR other workers stand clapping and smiling; behind the group, at shoulder height, a cork notice board with a few plain photographs pinned with thumbtacks (the photographs show only faces, no text). Everyone fully inside the frame, all heads well below the top of the frame."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "setting": "setting_still",
+   "scene": "What the trophy means to him: the place of honor in the living room of a modest Brazilian home, a wooden sideboard against the wall; on it, in the very center, the SMALL plain trophy, polished and GLEAMING, lit by a warm lamp like a spotlight, the brightest thing in the picture; beside it a plain framed family photograph (faces only, no text), a crocheted doily under the trophy, a small radio. The sideboard and the trophy are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "PRIDE: a young worker in clean overalls stands ALONE in front of the machine he runs on a small factory floor, LARGE, chest up, arms crossed, chest out, chin slightly raised, a contained proud smile, looking straight into the camera. Nobody else appears."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The daily routine: early morning on the floor of a small Brazilian factory, the owner (fifties, shirt sleeves rolled up, clipboard in hand) standing in front of his team of FIVE workers in overalls lined up in a loose semicircle, speaking to them, pointing at one of them with an open hand; the workers attentive. Everyone LARGE, chest up, fully inside the frame, all heads well below the top of the frame."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "The gesture of the whole piece, seen from BEHIND: an older man's calloused hand resting firmly on the shoulder of a younger man in work overalls; both seen from the back at a three-quarter angle, the camera slightly above shoulder height and a little further back so that the younger man's head (dark hair, back of the head, no face visible) is COMPLETELY inside the frame with clear empty pale wall above it; the older man appears only as the arm and the shoulder entering from the left. No faces visible. Against the bare pale wall."
+  }
+ ]
+}

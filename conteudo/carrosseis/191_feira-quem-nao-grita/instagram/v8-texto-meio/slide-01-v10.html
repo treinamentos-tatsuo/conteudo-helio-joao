@@ -1,0 +1,28 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;position:relative;color:#fff}
+.L{position:absolute;left:0;width:1080px}
+.g{position:absolute;inset:0}
+.ttl{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center}
+.a{font-family:'Anton',sans-serif;line-height:.98;letter-spacing:2px;white-space:nowrap}
+.m{font-family:'Montserrat',sans-serif;font-weight:600;font-size:36px;letter-spacing:1px;white-space:nowrap;line-height:1}
+</style></head><body>
+  <img class="L" src="../imagens/v9-base.jpg" style="top:300px">
+  <div class="g" style="background:linear-gradient(to bottom,#000 0%,#000 24%,rgba(0,0,0,.6) 31%,rgba(0,0,0,0) 40%)"></div>
+  <div class="ttl" style="top:80px">
+    <div class="m">Na feira,</div>
+    <div class="a" data-w="720" style="margin-top:34px">QUEM NÃO GRITA</div>
+    <div class="m" style="margin-top:16px">volta pra casa com a</div>
+    <div class="a" data-w="980" style="margin-top:12px">BANCA CHEIA.</div>
+  </div>
+  <img class="L" src="../imagens/v9-sujeito.png" style="top:300px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 82%,rgba(0,0,0,.85) 100%)"></div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('[data-w]').forEach(e=>{
+ const W=+e.dataset.w;let fs=100;e.style.fontSize=fs+'px';
+ for(let i=0;i<25;i++){fs=fs*W/e.getBoundingClientRect().width;e.style.fontSize=fs+'px';}
+});});
+</script>
+</body></html>

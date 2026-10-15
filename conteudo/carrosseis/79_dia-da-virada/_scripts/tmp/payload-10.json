@@ -1,0 +1,10 @@
+{
+  "model": "gpt-5.4-mini",
+  "input": [
+    {"role": "developer", "content": "You are an image generation assistant. Your sole function is to invoke the image_generation tool. Never respond with plain text."},
+    {"role": "user", "content": "Generate an image: A small shop owner standing in his own doorway with arms crossed, looking out at a busy street, the blurred motion of passersby in front of him. The look of a man about to bet on selling more. He stands LOW and to the RIGHT of the frame, cut at the chest by the bottom edge; the upper half of the image is bright empty sky and building wall. black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. The subject sits LOW in the frame with a large pale and empty upper half for clean compositing. Brazilian small-business setting, humble and real, never corporate. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look."}
+  ],
+  "tools": [{"type": "image_generation", "quality": "medium", "size": "1536x1024", "moderation": "low"}],
+  "tool_choice": "auto",
+  "stream": true
+}

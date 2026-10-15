@@ -1,0 +1,107 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil, 2020, the world of a small business owner in his fifties (shirt, sleeves rolled up); the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil, 2020; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden desk, seen close and low: a thick stack of legal case files bound with string, and leaning against the wall behind them a plain tear-off wall calendar page with a grid of days, about half of the days crossed out with a pen stroke; the calendar shows only a bare grid with tiny illegible marks, NO readable month name and NO readable numbers. The files and the calendar are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "A long empty meeting table in a plain room; the owner sits ALONE at one end, LARGE, chest up, his head resting on one hand, eyes down, a thick closed folder in front of him; all the other chairs empty. He is fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "The glass front door of a small franchise store seen from the street, close: the metal roll-up shutter lowered BEHIND the glass, and a plain blank sheet of paper taped to the inside of the glass (no writing at all); the door handle with a chain and padlock. The door is LARGE, filling the lower part of the frame; above it only the pale flat facade wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "A boardroom: two tall empty leather armchairs side by side at a polished wooden table, two untouched glasses of water in front of them, a closed leather folder; the chairs' backs stay LOW in the frame. The chairs and the table are LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Three empty wooden chairs pulled up around a small round table covered with scattered papers (all blank or with vague illegible marks), an old telephone in the center of the table, a cold cup of coffee; nobody sitting. The table and chairs are LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Night, the small kitchen of a modest Brazilian home: the owner stands ALONE with an old wall-mounted telephone receiver pressed to his ear, the other hand on his forehead, eyes closed, tense; the counter behind him with a kettle. He is LARGE, chest up, fully inside the frame, head well below the top of the frame; the wall behind him pale and plain."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "A dirt-road crossroads seen from LOW, close to the ground: three dirt tracks splitting in front of the camera, and a weathered wooden signpost with three blank arrows pointing different ways (no writing at all); dust, dry grass. The tracks and the signpost are LARGE, filling the lower part of the frame; the signpost stays low; above only the pale flat sky, plain and uniform. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "A long corridor of a public building with identical closed doors on both sides; the owner walks away from the camera, seen from BEHIND, alone, shoulders low, one hand trying a door handle; the corridor stays LOW in the frame. He is LARGE, fully inside the frame, head well below the top; above only the pale plain wall."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden desk, close: a magnifying glass resting on top of a closed, dusty leather ledger; beside it an old oil lamp, UNLIT, with a dusty glass. The ledger, the magnifying glass and the lamp are LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Seen from inside a car: the owner in the back seat, LARGE, chest up, in profile, looking out of the side window with a distant face, a briefcase on the seat beside him; through the window, small and far away, the low roofline of a factory passing by. He is fully inside the frame, head well below the top of the frame; the car ceiling is out of frame."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "The head of a long polished meeting table: a single tall leather chair EMPTY at the head, in front of it a blank contract (no writing at all) and an uncapped fountain pen laid across it; the other chairs pushed away. The chair, the contract and the pen are LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner standing, LARGE, chest up, looking straight into the camera with a serious calm face, holding an open ledger turned toward the camera so that its two pages face the viewer: the pages are completely BLANK. He is fully inside the frame, head well below the top of the frame, against the bare pale wall."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "An antique two-pan brass balance scale on a wooden table, close: on one pan a small stack of books, on the other pan a single big old iron shop key; the pan with the key has dropped DOWN, the pan with the books is up. The scale is LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner leaning over a desk, LARGE, chest up, holding a lit hand torch (flashlight) that throws a bright beam onto a large open ledger with columns of vague illegible figures; his face concentrated, reading one line closely with his finger on it. He is fully inside the frame, head well below the top of the frame, against the bare pale wall."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner seen from BEHIND, alone, stepping through a wide open door into strong bright daylight, one hand on the door frame, the light flooding in from the doorway; the door frame stays LOW in the frame. He is LARGE, fully inside the frame, head well below the top; above the door only the pale plain wall."
+  }
+ ]
+}

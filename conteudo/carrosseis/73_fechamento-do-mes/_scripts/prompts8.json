@@ -1,0 +1,7 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall. No logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {"n": 8, "scene": "SCENE: Two identical old paper wall calendars hanging side by side on a bare plaster wall, each a plain grid of empty day squares. The calendar on the LEFT is worn and used, nearly every square crossed out with a heavy pencil X, its bottom corner curled. The calendar on the RIGHT is pristine and completely unmarked, brand new. No month names, no readable words, no letters anywhere. Hard side light, long shadows on the plaster."},
+    {"n": 88, "scene": "SCENE: Two old paper wall calendars hanging side by side on a bare plaster wall. The left one is worn and used with days crossed out, printed with the single clear word AGOSTO in large capital letters at its top. The right one is pristine and unmarked, printed with the single clear word SETEMBRO in large capital letters at its top. Both words must be spelled exactly and printed crisply. Hard side light."}
+  ]
+}

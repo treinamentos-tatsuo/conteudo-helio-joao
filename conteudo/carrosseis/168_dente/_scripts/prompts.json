@@ -1,0 +1,16 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject in the lower half of the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no face, no blood.",
+  "setting": "",
+  "images": [
+    {
+      "n": 5,
+      "kind": "base",
+      "scene": "Close-up of an ADULT man's hand, weathered working hand, seen from the side, entering the frame from below, holding up ONE tiny baby tooth pinched between thumb and index finger, the tooth small and white and sharp against the large fingers. Only the hand and wrist in frame in the lower half; plain smooth light plaster wall behind. Hard low side light. No face, no text."
+    },
+    {
+      "n": 6,
+      "kind": "base",
+      "scene": "Close-up of an ADULT man's open palm, weathered working hand, held out toward the camera in the lower half of the frame, with ONE tiny baby tooth resting in the middle of the palm, very small against the big hand. Only the hand and wrist in frame; plain smooth light plaster wall behind. Soft side light. No face, no text."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+// Mede a largura real da linha Anton e casa a margem. 'ref' = linha serif acima.
+const { chromium } = require('/Users/pedrohenrique/Documents/tatsuo-carrossel/node_modules/playwright');
+const path = '/Users/pedrohenrique/Documents/tatsuo-carrossel/conteudo/carrosseis/45_anda-dez-volta-oito/instagram';
+
+const TARGETS = { 1: 930, 7: 640 };
+
+(async () => {
+  const browser = await chromium.launch();
+  const page = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
+  const out = {};
+  for (const n of Object.keys(TARGETS)) {
+    const f = `${path}/slide-${String(n).padStart(2, '0')}.html`;
+    await page.goto('file://' + f);
+    await page.waitForTimeout(1200);
+    const size = await page.evaluate((target) => {
+      const w = (el) => { const r = document.createRange(); r.selectNodeContents(el); return r.getBoundingClientRect().width; };
+      const antons = [...document.querySelectorAll('.anton')];
+      const anton = antons.slice().sort((a, b) => b.textContent.length - a.textContent.length)[0];
+      const lines = [...document.querySelectorAll('.line')];
+      const idx = lines.indexOf(antons[0]);
+      const goal = target === 'ref' ? w(lines[idx - 1]) : target;
+      // mede pela linha mais longa do conteudo (respeita <br>: mede cada segmento)
+      const segs = anton.innerHTML.split(/<br\s*\/?>(?:\s*)?/i);
+      const probe = document.createElement('div');
+      probe.className = 'line anton';
+      probe.style.whiteSpace = 'nowrap';
+      probe.style.position = 'absolute';
+      probe.style.visibility = 'hidden';
+      document.body.appendChild(probe);
+      const longest = segs.sort((a, b) => b.length - a.length)[0];
+      probe.textContent = longest.replace(/<[^>]+>/g, '');
+      let lo = 40, hi = 260;
+      for (let i = 0; i < 26; i++) {
+        const mid = (lo + hi) / 2;
+        probe.style.fontSize = mid + 'px';
+        if (w(probe) > goal) hi = mid; else lo = mid;
+      }
+      return Math.round(lo);
+    }, TARGETS[n]);
+    out[n] = Math.min(size, 110);
+    console.log(`slide ${n}: anton ${out[n]}px (medido ${size})`);
+  }
+  require('fs').writeFileSync(__dirname + '/antonfit.json', JSON.stringify(out, null, 2));
+  await browser.close();
+})();

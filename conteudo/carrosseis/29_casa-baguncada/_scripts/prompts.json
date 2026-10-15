@@ -1,0 +1,76 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A man in a collared shirt, vest and rolled-up sleeves holding the front door of his modest house wide open in a welcoming gesture, half turned toward the doorway; around and behind him the living room is crammed with stacked cardboard boxes, furniture covered in white sheets and piled clutter. The man, the door and the mess are LARGE in the frame, filling the entire bottom half and bleeding off the bottom edge. The wall space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Seen from inside a cluttered living room: stacked cardboard boxes and furniture covered in sheets fill the bottom foreground bleeding off the bottom edge, and in the middle distance a visitor in a long coat and hat stands still in the open front doorway, pausing to look at the mess. The visitor sits low in the frame, no face detail. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A long hallway of an old house with open doors on both sides, each open doorway revealing a room crammed with stacked boxes and piled furniture, clutter spilling onto the corridor floorboards. The hallway floor and the doorways sit low in the frame, filling the bottom half. The ceiling and upper walls dissolve into bright, pale, hazy emptiness."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A single closed wooden door at the end of a narrow hallway, the only closed door of the house, a thin strip of warm light leaking from under it, bare worn floorboards leading to it. The door sits low in the frame filling the bottom third. The hallway walls above dissolve into bright, pale, hazy emptiness."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "Close view of a man's hands hastily wrapping a parcel in plain brown paper and twine on a cluttered wooden workbench, loose papers, tools and small boxes piled around the parcel. No face visible. The wrapping paper is completely plain with no lettering and no labels. The hands and bench fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "Rows and stacks of identical parcels wrapped in plain brown paper piling up on the floor of an old warehouse, receding into the distance, some stacks leaning crooked. The parcels are completely plain with no lettering and no labels. The stacks fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "The facade of a small old shop under expansion construction works: wooden scaffolding against the wall, a leaning ladder, bricks and rubble piled on the sidewalk, no people. The shop sign board is completely blank with no lettering. The facade and scaffolding fill the bottom third of the frame. The sky above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A man sitting at a desk between two tall piles of paperwork, elbows on the desk, head buried in his hands, low warm lamp light, dark room fading behind. All papers are blurred and completely illegible with no readable writing and no readable numbers. He and the desk fill the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "An elegant ornate framed picture still half-wrapped in brown paper and string, leaning against a peeling plaster wall, surrounded by cardboard boxes and clutter on the floor. The visible corner of the artwork is a plain unrecognizable landscape with no text. The frame and boxes fill the bottom third of the frame. The wall above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A slender elegant porcelain vase perched on top of a crooked tilting stack of cardboard boxes, in the middle of a messy room with clutter spread around the floor. The boxes are plain with no lettering. The stack fills the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "Close view of hands sweeping a wide-plank wooden floor with a straw broom, a small pile of dust caught in a soft beam of light, neatly aligned boxes against the wall in the background. No face visible. The hands, broom and floor fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A man's hands resting on an open ledger notebook on a clean tidy wooden counter, a pencil held pointing at a column, everything else cleared away, soft bright morning light. The pencil marks on the page are blurred and completely illegible, no readable writing and no readable numbers. The hands and counter fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "The interior of a small shop in perfect order: a clean wooden counter and LOW neatly stocked shelves kept below counter-top height, everything aligned, swept floor, bright morning light washing across the room. No people. All products are plain with no lettering and no labels. The counter and low shelves fill the bottom third of the frame. The upper walls are bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "cutout",
+      "scene": "A confident shop owner in a work apron over a collared shirt with rolled-up sleeves, arms crossed, subtle relaxed half-smile, standing at ease, looking slightly off camera."
+    }
+  ]
+}

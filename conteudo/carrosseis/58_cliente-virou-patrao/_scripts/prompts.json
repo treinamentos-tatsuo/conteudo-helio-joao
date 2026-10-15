@@ -1,0 +1,95 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "papel": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. Any handwriting or print on paper is faint, blurred, ILLEGIBLE scribble with no readable words or numbers. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A 1950s small-business owner in a worn suit standing with his hat held in both hands in front of his belly, head bowed, shoulders low, facing a heavy dark wooden desk where a well-dressed client sits leaning back in a tall chair pointing an accusing finger up at him. Side view of both men, seen from the waist up, occupying only the BOTTOM HALF of the frame, the desk filling the bottom third. The entire upper half is a bright, pale, empty, hazy office wall fading to near-white at the top."
+    },
+    {
+      "n": 2,
+      "kind": "close",
+      "base": "close",
+      "scene": "A thick stack of old banknotes lying on a worn wooden shop counter, and a hand sliding a large portion of the notes away toward the far edge of the counter, leaving only a thin pile behind. The counter and the money occupy the BOTTOM THIRD of the frame. The entire upper two thirds are bright, pale, empty hazy air fading to near-white at the top edge."
+    },
+    {
+      "n": 3,
+      "kind": "close",
+      "base": "close",
+      "scene": "An old mechanical adding machine sitting on a wooden desk, its long narrow paper tape curling up out of the machine completely BLANK and empty, no marks on the paper at all. The machine sits LOW in the frame, in the bottom third. The entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "base": "base",
+      "scene": "A worn wooden shop counter in an old 1950s store, with a small blank paper price tag tied by a short string to a metal hook, hanging above the counter. The tag is SMALL in the frame, occupying less than one sixth of the frame width, seen from a normal distance, NOT a macro close-up. The tag is completely empty with absolutely nothing written on it. There are NO PEOPLE in this image: no person, no human figure, no head, no face, no hands, no body parts. The counter fills the bottom third of the frame; the entire upper half is a bright, pale, empty and hazy shop wall fading to near-white at the top."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A customer in a heavy overcoat and hat standing on the far side of a 1950s shop counter with his arms crossed tight over his chest, waiting, impatient, seen from the shopkeeper's side. The man and the counter occupy the BOTTOM HALF of the frame. The entire upper half is a bright, pale, empty and hazy shop wall fading to near-white at the top."
+    },
+    {
+      "n": 6,
+      "kind": "close",
+      "base": "close",
+      "scene": "The drawer of an old cash register pulled wide open and almost completely empty, only three or four coins lying in one compartment, seen from slightly above. The register and drawer fill the BOTTOM HALF of the frame. The entire upper part is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A skilled workshop craftsman in overalls seen FROM BEHIND walking out through the open workshop door into bright pale daylight, carrying his heavy wooden toolbox under his arm, his empty workbench visible at the side. The man and the floor occupy the BOTTOM HALF of the frame. The entire upper half is bright, pale, blown-out daylight fading to near-white at the top."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "Seen from inside an empty 1950s shop: the glass front door swinging closed and a customer's back already out on the sidewalk walking away, the shop interior deserted, one empty chair by the counter. The door, floor and figure occupy the BOTTOM HALF of the frame. The entire upper half is bright, pale, blown-out light through the glass, fading to near-white at the top."
+    },
+    {
+      "n": 9,
+      "kind": "close",
+      "base": "close",
+      "scene": "A badly made metal part lying on a scarred workshop bench under one harsh lamp: crooked lumpy weld seam, rough burred edges, misaligned joint, clearly poor workmanship. The part and the bench fill the BOTTOM HALF of the frame. The entire upper part is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A stained, spotted old mirror on the wall of an empty shop reflecting a middle-aged man in a suit standing alone, no one else in the room, dust in the air. The mirror and the reflected man occupy the BOTTOM HALF of the frame. The entire upper half is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "Two men in 1950s suits standing face to face at exactly the same height, shaking hands firmly, both looking straight into each other's eyes, equal posture, equal weight, seen from the side. The two men are shown from the waist up and occupy the BOTTOM HALF of the frame. The entire upper half is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A busy 1950s workshop in full operation: three craftsmen at their benches working with concentration, tools in hand, shavings on the floor, a wide shaft of bright light falling in from a skylight above. The men and benches occupy the BOTTOM HALF of the frame. The entire upper half is bright, blown-out light and pale haze fading to near-white at the top."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A customer stepping back in through the front door of a 1950s shop while the owner stands behind the counter with his back straight, chin up, shoulders squared, confident and calm. Both men and the counter occupy the BOTTOM HALF of the frame. The entire upper half is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 14,
+      "kind": "close",
+      "base": "papel",
+      "scene": "A tall stack of old paper work orders on a wooden desk with a vintage mechanical adding machine resting on top of the pile and a sharpened pencil lying beside it, all the handwriting on the papers faint and completely illegible. The stack and desk fill the BOTTOM HALF of the frame. The entire upper part is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 15,
+      "kind": "papel",
+      "base": "papel",
+      "scene": "A shop owner alone at night in his closed store, standing behind the counter under one hanging lamp, writing carefully in a large open ledger book, the writing on the page an illegible faint scribble, the rest of the shop dark and quiet. The man, counter and ledger occupy the BOTTOM HALF of the frame. The entire upper part is bright, pale, empty and hazy, fading to near-white at the top."
+    },
+    {
+      "n": 16,
+      "kind": "close",
+      "base": "close",
+      "scene": "A man's hand flipping over a small blank wooden sign hanging by a chain on the inside of a shop's glass door, the sign completely empty with no writing on it at all, daylight beyond the glass. The hand and sign sit LOW in the frame, in the bottom third. The entire upper part is bright, pale, blown-out daylight fading to near-white at the top."
+    }
+  ]
+}

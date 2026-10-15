@@ -1,0 +1,66 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small-shop owner in a work apron standing behind the worn wooden counter of his modest grocery shop at closing time, tired eyes, leaning heavily on the counter, dim shelves behind him, his figure and the counter filling the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A close view of two hands pulling open the cash drawer of an antique cash register, revealing only a few loose banknotes and scattered coins inside, worn wooden counter, the register and hands filling the bottom third of the frame and bleeding off the bottom edge. No faces. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A street market vendor at the peak of a sale, arms wide offering goods over a stall packed with crates of produce, a customer reaching in, lively confident energy, the stall and figures filling the bottom third of the frame. The awning and sky above are bright, washed out and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "An antique cash register with an absurdly long paper receipt tape overflowing and cascading in loose curls over the counter and spilling toward the floor, still-life, no people, the register and spilling tape filling the bottom third of the frame and bleeding off the bottom edge. The paper is completely blank with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "An old galvanized zinc bucket riddled with small holes, thin jets of water spraying out from every hole, standing on wet ground under an open faucet still pouring water into it, a puddle spreading below, still-life, no people, the bucket filling the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A businessman adjusting his necktie in front of an old standing mirror, staring hard at his own reflection, seen from behind at a slight angle so his face appears only inside the mirror, modest office, his figure and the mirror filling the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A shop owner standing in the open doorway of his shop seen from inside, gazing out at the street with his back turned to a counter piled with disordered stacks of paperwork and unopened envelopes behind him, the doorway and cluttered counter filling the bottom third of the frame. All papers are blank with no legible text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A cluttered desk covered with loose papers bearing only faint illegible pencil scribbles, a worn vintage desk calculator, a pencil stub and an old coffee cup, still-life, no people, the desk surface filling the bottom third of the frame and bleeding off the bottom edge. No legible text anywhere. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A small shop with its corrugated metal security shutter rolled down and padlocked, a blank unlit sign board above, empty sidewalk with a few dead leaves, still and abandoned, no people, the shuttered storefront filling the bottom third of the frame. No lettering anywhere. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A close view of hands over a large open accounting ledger with neat ruled columns, one hand pointing at a spot on the page, the other holding a pen, seen from above at an angle with no faces, the ledger and hands filling the bottom third of the frame and bleeding off the bottom edge. The pages show only faint illegible marks, no legible text. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A weary shop owner alone late at night, hunched over his shop counter beneath a single bare hanging light bulb, sleeves rolled up, the rest of the small shop dissolving into darkness around him, his lit figure and the counter filling the bottom third of the frame. The space above him is pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "cutout",
+      "scene": "A confident small-shop owner in a work apron standing with arms crossed and a slight assured smile, sense of order and control, seen from the waist up."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist.",
+ "setting": "Setting: a small neighborhood grocery store (mercearia) in Brazil in the 1960s: long worn wooden counter, wooden shelves packed with tins and glass jars, a hand-crank cash register, a black wall telephone, cloth aprons over shirts. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "Close view at counter height of a plain cardboard EGG CARTON sitting on the worn wooden counter of the store, VERY LARGE, filling the lower two thirds of the frame from edge to edge. The carton is OPEN: the lid is lifted up and tilted back so its front face is fully visible to the camera, and inside the carton a full dozen white eggs sit in their cups, plainly visible. On the raised lid, stamped in big plain black block capital letters, perfectly legible and facing the camera, the Portuguese words \"CONTÉM OVOS\" and nothing else. The eggs and the stamped label are both clearly readable at a glance; the obviousness is the whole point. Behind it, the shelves of the store dissolve into bright haze. Hard raking side light, deep shadow under the carton.",
+   "prompt": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No logos, no emojis, no gradients, no added color, no stock photo look. The ONLY text in the whole image is the stamped label described in the scene, spelled exactly. SCENE: Setting: a small neighborhood grocery store (mercearia) in Brazil in the 1960s: long worn wooden counter, wooden shelves packed with tins and glass jars, a hand-crank cash register, a black wall telephone, cloth aprons over shirts. Close view at counter height of a plain cardboard EGG CARTON sitting on the worn wooden counter of the store, VERY LARGE, filling the lower two thirds of the frame from edge to edge. The carton is OPEN: the lid is lifted up and tilted back so its front face is fully visible to the camera, and inside the carton a full dozen white eggs sit in their cups, plainly visible. On the raised lid, stamped in big plain black block capital letters, perfectly legible and facing the camera, the Portuguese words \"CONTÉM OVOS\" and nothing else. The eggs and the stamped label are both clearly readable at a glance; the obviousness is the whole point. Behind it, the shelves of the store dissolve into bright haze. Hard raking side light, deep shadow under the carton."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner, a man in his fifties in a cloth apron over a rolled-sleeve shirt, standing behind the wooden counter, caught mid-sentence in exasperation: both hands open and raised at shoulder height, palms up, eyebrows lifted, mouth open, the face of someone saying \"come on, this is obvious!\"; in front of him at the counter, seen from behind and to the side, the backs of two young employees in aprons, heads slightly lowered. The owner is the subject, large and close, whole head visible, facing the camera."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": false,
+   "scene": "Two cloth shop aprons hanging side by side from two iron wall hooks, seen from VERY CLOSE and straight on so that the two aprons together fill the frame from the left edge to the right edge and from the hooks near the top down past the bottom edge: the left one old, faded, stained and frayed from years of use; the right one brand new, stiff, with the sharp fold creases of a shop-bought garment still visible. The hooks sit just below the bright haze at the top; the wall above the hooks is washed out. Hard side light. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": false,
+   "scene": "An old cork notice board on the store wall, completely EMPTY, with a single thumbtack stuck in it and a pale rectangular mark where a sheet of paper never was, seen from close and straight on, the board VERY LARGE and filling most of the frame width, its lower edge resting just above the wooden counter; on the counter in front of it, a big glass candy jar and a brass scale, large. The board's upper part washes into the bright haze. Hard side light. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": true,
+   "scene": "A young shop assistant in his early twenties in a brand-new cloth apron, ALONE in the aisle in front of a tall wooden shelf of tins, holding one tin in his hand and staring at the shelf, unsure where it goes, shoulders slightly raised; nobody else in the store. He is large and close, whole head visible."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "scene": "An old heavy iron wall safe, CLOSED, its thick door with a round dial and a brass handle, set into the wall right behind the counter, seen from VERY CLOSE and straight on so the safe door fills the frame from the left edge to the right edge and from just below the top haze down past the bottom edge; a small key hanging from a single nail on the wall beside it. The top of the safe dissolves into the bright haze. Hard side light, deep shadow in the door recess. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": false,
+   "scene": "Close view of the owner's weathered hands and forearms, rolled sleeves, one hand holding a hammer and the other steadying a plain wooden notice board against the store wall, the board still slightly CROOKED, a nail half driven; only the hands, forearms and the board, no face. Large in the lower two thirds of the frame. Hard side light."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": true,
+   "scene": "The young shop assistant in his cloth apron behind the wooden counter, handing a brown paper parcel across the counter to an elderly woman customer with a headscarf and a wicker basket; the two of them large and close, both whole heads visible, nobody else in the store, the owner absent."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": false,
+   "scene": "A wooden store shelf seen from VERY CLOSE and straight on, tins and glass jars lined up in perfect rows, every label turned the same way, labels plain and unreadable, the rows filling the frame from the left edge to the right edge and from just below the top haze down past the bottom edge. Hard raking side light, the upper part washed into bright haze, no shelf edge crossing the top. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of the shelf only."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner in his fifties and the young shop assistant standing SIDE BY SIDE behind the same wooden counter, both in cloth aprons, the owner's hand resting on the counter, both looking forward at the camera with calm faces; large and close, both whole heads visible, the store shelves behind them dissolving into the light."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/pedrohenrique/Documents/tatsuo-carrossel/conteudo/carrosseis/100_gente-boa-repost/_scripts/gen.py", line 69, in <module>
+    res = gen(n, prompt)
+  File "/Users/pedrohenrique/Documents/tatsuo-carrossel/conteudo/carrosseis/100_gente-boa-repost/_scripts/gen.py", line 30, in gen
+    r = subprocess.run(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 507, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1134, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1980, in _communicate
+    self._check_timeout(endtime, orig_timeout, stdout, stderr)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1178, in _check_timeout
+    raise TimeoutExpired(
+subprocess.TimeoutExpired: Command '['curl', '-sS', '-N', '-X', 'POST', 'http://127.0.0.1:10531/v1/responses', '-H', 'Content-Type: application/json', '-H', 'Accept: text/event-stream', '-d', '@/Users/pedrohenrique/Documents/tatsuo-carrossel/conteudo/carrosseis/100_gente-boa-repost/_scripts/_payload-12.json']' timed out after 600 seconds

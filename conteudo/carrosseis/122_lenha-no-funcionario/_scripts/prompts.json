@@ -1,0 +1,107 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil in the 1970s, the world of ordinary working people and small family businesses; the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil in the 1970s; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close, seen from below at chest height: a man's hand and forearm in a rolled-up white shirt sleeve raised HIGH, the fist gripping a rough SPLIT LOG of firewood held like a club, arm tensed, as if about to bring it down; nothing else visible, no face, no other body, no fireplace, only the raised arm and the log against the bare pale wall. The hand and the log are LARGE, filling the lower part of the frame. Ambiguous and tense: it should read like a threat.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "The reveal of the same moment, pulled back: the same man in a white shirt with rolled-up sleeves is kneeling on one knee in front of an old brick fireplace, his raised arm coming down to PLACE that same split log onto the small fire starting in the hearth; right beside him a young worker in overalls crouches warming his open hands at the flames, calm, both faces relaxed and warm. Both LARGE, fully inside the frame, all heads well below the top of the frame; the fireplace opening low. Nobody is threatened; it was only firewood."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner (a man in his fifties, shirt sleeves rolled up) standing with arms crossed in front of an old brick fireplace that is COLD and unlit, only grey ashes inside, staring at the hearth with an impatient, expectant face, as if waiting for heat that will not come. He is LARGE, chest up, fully inside the frame; the fireplace opening at his side, low. Nobody else appears."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Metaphor of the eight hours: an old mechanical PUNCH CLOCK (time clock) mounted LOW on the bare pale wall, with a plain time card inserted in its slot and a rack of blank time cards beside it, seen close and straight on; the clock face plain, with hands but no readable numbers; the cards completely blank, no printed text. The clock and the card rack are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close on an old brick fireplace, cold: ONLY a man's hand and forearm entering from the right, fanning the grey cold ashes in the hearth with a woven straw hand-fan (Brazilian abano), a small cloud of ash dust rising, and NOT A SINGLE flame or ember anywhere. No face, no body beyond the forearm. The hearth and the hand are LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner (fifties) sitting in a wooden armchair in front of an old brick fireplace that is COLD and unlit, a folded blanket on his lap, rubbing his hands together as if to warm them, face expectant, looking at the empty hearth. He is LARGE, chest up, fully inside the frame; the cold fireplace beside him, low. Nobody else appears."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small Brazilian workshop, the master (fifties, shirt sleeves rolled up) sits close BESIDE a young apprentice in a canvas apron at a wooden workbench, the master's hands guiding the apprentice's hands on a hand tool over the workpiece, both looking down at the work, patient. Both LARGE, chest up, fully inside the frame, heads well below the top of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life with hands on a wooden workbench: a neat ROW of six identical finished handmade wooden pieces lined up, and ONLY the hands and forearms of a young worker entering from the bottom, shaping one more piece exactly like the others with a chisel. No face, no body beyond the forearms. The row of pieces and the hands are LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Dawn, the street still dark: a young worker in overalls, ALONE, seen from behind at a three-quarter angle, lifting the corrugated metal roll-up shutter of a small business with both hands, keys in his pocket, nobody around, a single street lamp still on. He is LARGE, fully inside the frame, head well below the top; the shutter is only half raised and stays LOW in the frame; above him only the pale flat facade wall."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close on an old brick fireplace, still UNLIT: ONLY the calloused hands and forearms of a man, entering from the bottom of the frame, carefully stacking split logs into the hearth, building the pile before lighting it; no flame yet, a box of matches beside the hearth. No face, no body beyond the forearms. The hands and the logs are LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "An old brick fireplace BLAZING with big bright flames, sparks, glowing embers, strong warm light on the bricks, and in front of it a wooden armchair EMPTY, a folded blanket on the seat; nobody watching the fire. The fireplace and the empty chair are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. A little smoke stays low, never reaching the pale upper wall.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "An outdoor fire pit after rain: a pile of split logs BLACK, wet and soaked, water dripping, grey ash washed into mud around the stones, not a single ember or flame, a few dry leaves stuck to the wood; low camera. The wet logs and stones are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "Ashes in the wind: ONLY a man's open hand and forearm, entering from the bottom of the frame, palm up, holding a small heap of grey cold ash that the wind is blowing away in fine streaks and swirls across the frame, dissolving into the pale air; no face, no body beyond the forearm. The hand and the drifting ash are LARGE, filling the lower part of the frame, against the bare pale wall.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Early morning in a small Brazilian workshop: the owner (fifties, shirt sleeves rolled up) kneeling on one knee in front of the brick fireplace, striking a match to light the stacked logs, the first flame catching; behind him, LOW in the frame, THREE workers in overalls arriving, taking off their jackets, greeting him. Everyone fully inside the frame, all heads well below the top of the frame."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "Night: a team of FIVE workers in overalls and their owner (fifties, shirt sleeves rolled up) gathered in a tight semicircle around a big roaring bonfire, hands stretched toward the flames, faces lit warm by the fire, laughing and talking; the owner in the middle of them, one of the group. The fire stays LOW; everyone LARGE, chest up, fully inside the frame, all heads well below the top of the frame; above them only the pale flat wall of the building behind."
+  }
+ ]
+}

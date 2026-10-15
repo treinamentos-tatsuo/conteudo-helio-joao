@@ -1,0 +1,20 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture, mid-century archival look. SQUARE 1:1 aspect ratio. Dense morning fog; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge for clean compositing. Subject dark and low in the frame, bleeding off the bottom edge. No text, no words, no letters, no numbers, no signage, no painted lettering, no logos, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "scene",
+      "scene": "A narrow rutted dirt track with deep tire ruts, puddles and loose stones runs straight away from the camera and dissolves into the fog. Camera extremely low, a hand's width above the ground, so the ruts converge toward the center. Blocking the track sits a single old toll-gate boom barrier, lowered horizontally, its diagonal stripes worn and dirty, resting on two simple concrete posts. There is NO booth, NO building, NO attendant, NO vehicle and NO person anywhere. Directly behind the barrier a very dark low mass of wet roadside vegetation fills only the lower third of the frame so that the pale striped barrier reads clearly against it. Above that dark mass everything is pale empty fog."
+    },
+    {
+      "n": 2,
+      "kind": "scene",
+      "scene": "A fork in a country road seen from a camera a hand's width above the ground. On the left a smooth paved asphalt road curves away and vanishes into the fog, its surface even and unbroken. On the right a rutted dirt shortcut branches off at a sharp angle, deeply scarred with tire ruts, puddles and loose stones, and disappears into the same fog. The wedge of dark earth between the two roads points at the camera and fills the bottom of the frame. No vehicles, no people, no barriers, no buildings. The two roads and the wedge occupy the lower half of the frame; above them only pale empty fog."
+    },
+    {
+      "n": 3,
+      "kind": "scene",
+      "scene": "A single old concrete toll-booth cabin stands alone in the middle of a bare, flat expanse of packed dirt. There is NO asphalt road, NO lane markings, NO barrier arm and NO road of any kind around it, just open bare earth stretching in every direction. The cabin is small, weathered, with a dark empty window opening and NO person inside. Camera low, a hand's width above the ground, so the cabin sits squarely in the lower third of the frame with the cracked dirt filling the bottom edge. No vehicles, no people, no other buildings. Above the cabin only pale empty fog."
+    }
+  ]
+}

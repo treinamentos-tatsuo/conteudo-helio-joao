@@ -1,0 +1,97 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small family tailor shop (alfaiataria) in a Brazilian town in the 1960s/70s: a long wooden cutting table, tailor's shears, a cloth tape measure around the neck, tailor's chalk, brown paper patterns, a treadle sewing machine, a dress form, bolts of cloth on shelves, a tall fitting mirror, plain pale plaster walls, harsh side light through the shop window. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "The rickety wooden cutting table with one leg propped up on a folded newspaper, wobbling; on it an old treadle sewing machine whose drive belt is knotted with string, worn chalk stubs, loose threads, a bent pair of scissors. The table and machine VERY LARGE filling the lower three quarters of the frame from edge to edge. The plain pale wall behind rises into the pale top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": true,
+   "scene": "The shop owner, a stocky man in his fifties with a cloth tape measure around his neck and shirt sleeves rolled up, and a customer in a jacket, both laughing hard at the wooden counter, the owner slapping the counter with his open hand, heads thrown back. Both LARGE and CLOSE, chest up, whole heads visible with clear empty pale wall above them."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": true,
+   "scene": "The shop owner alone, tape measure around his neck, on an old wall telephone, the coiled cord stretched tight, his free hand raised in the air, mouth open mid-complaint, brow furrowed. LARGE and CLOSE, chest up, whole head visible with clear empty pale wall above."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": false,
+   "scene": "The apprentice's bare workbench: one single needle, one spool of thread and one plain ordinary pair of scissors lying on the empty wooden surface. No pattern, no chalk marks, no measurements, nothing else. The three objects and the bench VERY LARGE and CLOSE filling the lower three quarters from edge to edge, the pale wall behind rising into the top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of a tailor's horseshoe magnet held just above a cluttered metal tray, lifting a clump of bent rusty pins, crooked needles and metal filings up toward it, the pins hanging in a chain from the magnet. The tray and magnet VERY LARGE filling the lower three quarters from edge to edge. The pale wall behind rises into the top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "scene": "A bolt of fine dark wool cloth being unrolled across the wooden cutting table, next to it a heavy professional tailor's shears, a full set of well-kept tools laid in perfect order: pattern wheel, chalk, thimbles, pins in a cushion, a leather roll of tools. The cloth and tools VERY LARGE filling the lower three quarters from edge to edge. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": true,
+   "scene": "An experienced tailor seen from BEHIND, close to the camera, walking out through the open shop door, a wooden case of shears under one arm and his coat over the other, leaving; around him the messy workshop with cloth scraps on the floor and tools scattered. His back and shoulders LARGE in the frame, head fully inside the frame with pale space above it, the bright doorway ahead of him."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of the master tailor's hand drawing a chalk line on dark cloth along a brown paper pattern on the cutting table, while the apprentice's two younger hands hold the cloth flat and stretched. Only hands and forearms visible, no faces, no bodies. The hands, chalk, pattern and cloth VERY LARGE filling the lower three quarters from edge to edge."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": true,
+   "scene": "The master tailor, a grey-haired man with a tape measure around his neck, standing right beside a young apprentice at the cutting table, the master's hand placed over the apprentice's hand guiding the heavy shears through dark cloth, both looking down at the cut. Both LARGE and CLOSE, chest up, whole heads visible with clear pale wall above."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": false,
+   "scene": "A wooden clothes rack with a row of half-finished suit jackets hanging side by side, sleeves dangling loose, shoulders uneven and lopsided, pins sticking out of the lapels, basting thread visible. The rack and jackets VERY LARGE filling the lower three quarters from edge to edge, the pale wall behind. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": true,
+   "scene": "The shop owner standing in front of the tall fitting mirror of the shop, looking straight at his own reflection, wearing his own badly fitting jacket with the shoulders sitting wrong, tape measure around his neck, serious face. Seen from behind at three-quarter angle so his face is clearly visible in the mirror. LARGE and CLOSE, chest up, whole head visible with pale space above."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": true,
+   "scene": "Three tailors standing SHOULDER TO SHOULDER at one long cutting table, the group tightly packed and occupying ONLY THE CENTRAL HALF of the frame, with wide plain empty pale wall on the left quarter and on the right quarter of the frame; all three making exactly the same gesture at the same moment: pinning a lapel on a jacket held up in front of their chests, elbows out the same way; the master tailor in the middle, slightly in front. Camera very close: the three men LARGE, chest up, their heads at about one sixth from the top of the frame, heads fully inside the frame with clear pale wall above; nobody anywhere near the left or right edges."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": true,
+   "scene": "The master tailor, a grey-haired man with a cloth tape measure around his neck, standing beside the shop owner in front of the tall fitting mirror, stretching the tape measure across the owner's shoulder and pointing with a stick of tailor's chalk at the exact spot on the shoulder seam where the owner's own jacket sits wrong; the owner looking down at the spot. Both LARGE and CLOSE, chest up, whole heads visible with clear pale wall above, nobody touching the left or right edges."
+  },
+  {
+   "n": 14,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of the master tailor's hands stretching a cloth tape measure across the shoulder of a suit jacket on a dress form, the other hand marking with tailor's chalk the exact spot where the shoulder seam sits wrong. Only hands and forearms visible, no face, no body. The jacket shoulder, tape and hands VERY LARGE filling the lower three quarters from edge to edge."
+  },
+  {
+   "n": 15,
+   "base": "base",
+   "cinema": true,
+   "scene": "The shop owner standing in the open front doorway of the tailor shop, arms crossed, cloth tape measure around his neck, looking straight into the camera with a firm calm face; behind him inside the tidy workshop two tailors at work at the cutting table, shears hanging in order on the wall. The owner LARGE and CLOSE, chest up, whole head visible with clear pale space above; every person fully inside the frame."
+  }
+ ]
+}

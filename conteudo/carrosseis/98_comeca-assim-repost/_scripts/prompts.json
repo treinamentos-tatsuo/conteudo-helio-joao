@@ -1,0 +1,85 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: the building site (obra) of a small family construction firm in a Brazilian town in the 1970s: brick walls going up, rough wooden scaffolding, a cement mixer, wheelbarrows, stacked bags of cement, a plain wooden site table with a rolled blueprint, the foreman in a sweat-stained work shirt, cement dust and harsh sunlight. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close view of a bricklayer's two hands laying the VERY FIRST brick of a new wall: the first course of bricks on a fresh concrete footing, a trowel spreading wet mortar, dusty forearms, only hands and forearms visible. The hands and the first course of bricks VERY LARGE filling the lower three quarters of the frame from edge to edge. No face, no body, just hands and forearms. The pale empty sky fills the top band."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": false,
+   "scene": "Three wheelbarrows in a row, each heaped with wet mortar, parked in front of a tall stack of clay bricks, cement dust on the ground; the wheelbarrows and the brick stack VERY LARGE filling the lower three quarters of the frame from edge to edge, the stack dissolving into the pale sky at the top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": false,
+   "scene": "A brick wall going up VISIBLY CROOKED: the wall leans out of plumb, the courses of bricks are wavy, stepped and badly misaligned, some bricks sticking out, thick mortar oozing unevenly from every joint, the whole wall obviously built by eye without a line; in the foreground, LARGE and close, a spirit level and a plumb bob lie abandoned in the cement dust at the foot of the wall, unused; the crooked wall VERY LARGE filling the lower three quarters of the frame from edge to edge, its top dissolving into the pale sky. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": true,
+   "scene": "A Brazilian foreman in his forties, sweat-stained work shirt, climbing the wooden ramp of the building site carrying two heavy bags of cement stacked on one shoulder, jaw set, eyes forward, face firm and determined, dust on his skin; he is VERY LARGE and close, chest up, fully inside the frame with clear empty space above his head, the pale sky filling the top band."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": false,
+   "scene": "A single small bricklayer's trowel lying alone in the middle of an ENORMOUS freshly poured concrete slab that stretches to every edge of the frame, the trowel tiny and lost in the vast grey surface, seen from a low angle so the slab fills the lower three quarters and its far edge dissolves into the pale sky. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": true,
+   "scene": "A Brazilian foreman in a sweat-stained shirt standing close to a half-built brick wall, one eye squeezed shut, his arm stretched out with the thumb held up in front of his face to measure the wall by eye (the classic eyeballing gesture), a rolled blueprint tucked unopened under his other arm; he is VERY LARGE and close, chest up, fully inside the frame with clear empty space above his head, the pale sky filling the top band."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": true,
+   "scene": "A Brazilian construction owner in a hard hat standing in the middle of his building site, a rolled blueprint in one hand, the other hand on his hip, looking up and away toward the floors rising above him, focused and calm; wooden scaffolding and brick walls behind him at his shoulder height only; he is VERY LARGE and close, chest up, fully inside the frame with clear empty space above his head, the pale sky filling the top band."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": false,
+   "scene": "A rough wooden site table seen from close and slightly above: a large blueprint unrolled and pinned flat by a steel tape measure, a flat carpenter's pencil and an old mechanical adding machine, cement dust on everything; ALL the lines and lettering on the blueprint are completely BLURRED and ILLEGIBLE, reduced to soft smudged grey marks, while the objects stay sharp; the table VERY LARGE filling the lower three quarters of the frame from edge to edge, its far side dissolving into the pale light at the top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": false,
+   "scene": "A big old cement mixer with its drum spinning, the turning drum rendered as a long-exposure MOTION BLUR (this spinning drum is the ONLY blurred element; everything else is perfectly sharp), a worker seen from BEHIND standing beside it with a shovel, back to the camera, no face visible; the mixer and the worker's back VERY LARGE filling the lower three quarters of the frame, the pale sky filling the top band."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": false,
+   "scene": "Two pairs of hands on the same rough wooden site table, seen from close: on the LEFT a pair of hands gripping a mortar-caked bricklayer's trowel, on the RIGHT a pair of hands holding a rolled blueprint; only hands and forearms visible, no faces, no bodies; the hands and the table VERY LARGE filling the lower three quarters of the frame from edge to edge, the far side of the table dissolving into the pale light at the top."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": false,
+   "scene": "An abandoned half-built building: empty wooden scaffolding, a stack of bricks with weeds and tall grass growing through it, a faded weathered wooden sign board with nothing readable on it, cement dust turned to dried mud; the stalled construction VERY LARGE filling the lower three quarters of the frame, its top dissolving into the pale sky. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": false,
+   "scene": "End of the working day: a scuffed hard hat resting on top of an unrolled blueprint on the rough wooden site table, a steel tape measure and a carpenter's pencil beside it, the blueprint lines soft and illegible smudges, low warm side light; the table and the hard hat VERY LARGE filling the lower three quarters of the frame from edge to edge, the background dissolving into the pale light at the top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": true,
+   "scene": "A Brazilian construction owner in his forties, hard hat, arms crossed, standing in front of the finished brick building he built, looking straight into the camera with a firm proud face; two bricklayers working at a wall behind him, smaller and farther back, at his shoulder height only; he is VERY LARGE and close, chest up, fully inside the frame with clear empty space above his head, the pale sky filling the top band."
+  }
+ ]
+}

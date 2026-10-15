@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "Early morning on a quiet Brazilian street, camera very low at sidewalk level. A single man in simple clothes, seen from BEHIND, small in the lower part of the frame, sweeps the sidewalk in front of a plain house with a straw broom, bent slightly, unhurried. The swept stretch of sidewalk in the foreground is clean; the street beyond dissolves into haze. Nothing else in the frame. Soft low light."},
+    {"n": 2, "kind": "base", "scene": "A plain plastered wall of a simple Brazilian house at dawn, camera low at sidewalk level. One old straw broom leans against the wall beside a closed door, and the stretch of sidewalk in front is freshly swept and clean. No people. Nothing else in the frame; wall and street dissolve into haze above. Soft low light, long shadow of the broom."}
+  ]
+}

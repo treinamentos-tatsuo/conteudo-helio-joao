@@ -1,0 +1,45 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "scene": "An old wooden cash drawer pulled open on a worn counter, its coin and note compartments completely empty, hard side light raking across the empty dividers. Drawer low in the frame, pale empty wall above."
+    },
+    {
+      "n": 2,
+      "scene": "A man's hands holding a phone in near darkness at a plain office desk late at night, the screen glow the only light on his hands. Hands low in the frame, dark room fading to pale haze above."
+    },
+    {
+      "n": 3,
+      "scene": "A pair of weathered hands counting a thick stack of banknotes on a wooden table, bills fanned under a single lamp. Hands and money low in the frame, empty pale space above."
+    },
+    {
+      "n": 4,
+      "scene": "A tall untidy pile of unopened bills and envelopes stacked on a wooden desk, edges curling, one slipping off the top. Pile low in the frame, bright empty wall above."
+    },
+    {
+      "n": 5,
+      "scene": "An antique two-pan balance scale on a table, one pan holding nothing at all and tipped high, the other resting down. Scale low in the frame, pale empty background above."
+    },
+    {
+      "n": 6,
+      "scene": "An old wooden abacus lying on a desk beside a worn fountain pen, beads pushed to one side, strong side light. Objects low in the frame, empty pale surface above."
+    },
+    {
+      "n": 7,
+      "scene": "Three old iron keys hanging from separate nails on a bare plaster wall, casting long shadows. Keys low in the frame, large expanse of empty pale wall above."
+    },
+    {
+      "n": 8,
+      "scene": "A heavy warehouse door standing slightly ajar in darkness, a single thin blade of light escaping through the gap onto a concrete floor. Door base low in the frame, dark haze rising to pale at the top."
+    },
+    {
+      "n": 9,
+      "scene": "An older man in a plain buttoned shirt sitting alone at a simple office desk, seen from behind and slightly to the side, window light falling across the empty desk in front of him. Figure low in the frame, bright window haze filling the upper half."
+    },
+    {
+      "n": 10,
+      "scene": "Rows of empty simple wooden chairs in a plain hall, window light falling across them, no people. Chairs low in the frame, bright empty air above."
+    }
+  ]
+}

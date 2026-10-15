@@ -1,0 +1,100 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil, 1970s; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "setting": " Setting: Brazil, 1970s, a mid-size textile mill with about forty workers (rows of weaving looms, spools of yarn, bolts of cloth, a glass-walled office on the mezzanine), run by its owner, a man in his fifties (white dress shirt, dark tie loosened, sleeves rolled up). Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "The owner's large wooden desk in his office at night, seen close: tall unstable stacks of folders, order books and loose papers piled high all over it, so much work that the desk surface is invisible, a single desk lamp switched on lighting the pile, an empty leather chair pushed back. All papers show only vague illegible marks. The piles are LARGE, filling the lower part of the frame and resting on the desk.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "Night, the owner sits alone at his desk under a single desk lamp, pen in hand, checking a large open ledger book line by line, tired eyes, sleeves rolled up, a cold cup of coffee beside him; the ledger shows only illegible marks. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close still life on a wooden desk: two identical plain brown pay envelopes lying side by side; on the first envelope rests nothing, on the second one rests a man's wristwatch with its strap open, as if the watch itself were the payment. Envelopes plain, unmarked. The objects are LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "Weaving floor: the owner, in white dress shirt and loosened tie, bends over a weaving loom fixing the threads with his own hands, focused and irritated; behind him, slightly out of focus, a foreman stands with his arms crossed, watching. The owner is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "A new employee's desk in an office, seen close: a bare wooden desk with only one closed plain folder lying on it, completely empty of instructions, a chair waiting, nothing else. The desk is LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Weaving floor: a young newly hired worker in a clean work shirt stands between two rows of looms, holding a blank clipboard, looking around lost and unsure, not knowing what to do. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "A production chalkboard mounted LOW on a wall of the textile mill, seen close, its bottom edge near the bottom of the frame: the grid of columns is drawn but every cell is EMPTY, a piece of chalk resting untouched on the ledge. The board is LARGE, filling the lower part of the frame, and sits low, never reaching the upper part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "The owner's office: his empty leather executive chair turned toward a low window that looks down on the weaving floor; the desk beside it untouched. The chair is LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close still life on a desk corner: a thick plain bound planning folder for the year, closed, covered in a visible layer of dust, a pair of reading glasses folded on top of it, untouched for months. The folder is LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "An office desk with a messy pile of folders dumped on it, papers sliding out, the chair pushed away and turned aside, abandoned, nobody there. All papers show only vague illegible marks. The pile is LARGE, filling the lower part of the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Weaving floor: the owner stands beside the foreman in front of a weaving loom, pointing at the threads and explaining, while the foreman's own hands do the work on the loom, both attentive. The two men are CENTERED in the frame, with clear empty space to the left of the owner and to the right of the foreman; nobody touches the left or right edges. Both men are LARGE, chest up, heads well below the top of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner sits calmly at a clean, tidy desk with only one report open in front of him, reading it with full attention, a cup of coffee beside him, serene and focused. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "Weaving floor: the owner stands talking to TWO foremen in work shirts who listen attentively, the three men in a tight group CENTERED in the frame, with clear empty space on both sides; nobody touches the left or right edges; looms behind them. All three men are LARGE, chest up, heads well below the top of the frame."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Weaving floor in full production, seen from a low angle: three women weavers each at her own loom, working with confidence and focus, each one doing her job, nobody looking at the camera. The women are LARGE, chest up, fully inside the frame, heads well below the top of the frame."
+  }
+ ]
+}

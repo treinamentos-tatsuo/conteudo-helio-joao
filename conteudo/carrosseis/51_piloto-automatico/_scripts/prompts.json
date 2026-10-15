@@ -1,0 +1,76 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+ "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "kind": "foto",
+   "scene": "Interior of a 1940s aircraft cockpit in flight seen from behind the EMPTY pilot seat: the worn leather seat vacant, the control yoke standing alone with no hands on it, round instrument dials on the panel, soft clouds visible through the windshield. The empty seat, yoke and panel fill the bottom half of the frame, bleeding off the bottom edge. The windshield sky above is bright, pale, hazy and empty. The dial faces show only faint abstract tick marks, no readable numbers or letters."
+  },
+  {
+   "n": 2,
+   "kind": "foto",
+   "scene": "A 1940s flight crew briefing inside a hangar: the flight chief in uniform pointing at a large unfolded blank map on a wooden table, four mechanics and airmen gathered around him nodding in agreement, a propeller blade leaning at the edge of the frame. The group and the table fill the bottom half of the frame, bleeding off the bottom edge. The hangar space above them is bright, pale, hazy and empty. The map is blank with only faint abstract hatching, no readable letters."
+  },
+  {
+   "n": 3,
+   "kind": "foto",
+   "scene": "Weathered calloused mechanic hands in rolled-up sleeves tightening the same bolt on a radial engine part with a worn wrench, repeating the habitual gesture of decades, the workbench and engine part filling the bottom half of the frame, bleeding off the bottom edge. The space above the hands is bright, pale, hazy and empty."
+  },
+  {
+   "n": 4,
+   "kind": "foto",
+   "scene": "A 1940s pilot wearing a leather flight cap and goggles seated in an open cockpit, gloved hand resting on the control stick by pure reflex, gaze fixed straight ahead, unthinking routine in his posture. The pilot and cockpit rim fill the bottom half of the frame, bleeding off the bottom edge. The sky above him is bright, pale, hazy and empty."
+  },
+  {
+   "n": 5,
+   "kind": "foto",
+   "scene": "A vintage aircraft instrument panel seen up close: altimeter, compass and airspeed dials with worn needles set in riveted dark metal, a gloved hand resting beside them. The panel fills the bottom half of the frame, bleeding off the bottom edge. The space above the panel is bright, pale, hazy and empty. The dial faces show only faint abstract tick marks, no readable numbers or letters."
+  },
+  {
+   "n": 6,
+   "kind": "foto",
+   "scene": "A hangar wall covered with many pinned paper notices and framed posters, and two mechanics in overalls walking straight past it without looking, carrying a toolbox. The wall base and the walking men fill the bottom half of the frame, bleeding off the bottom edge. The upper wall fades bright, pale, hazy and empty. Every notice and poster contains ONLY faint abstract hatching marks, absolutely no readable letters or numbers."
+  },
+  {
+   "n": 7,
+   "kind": "foto",
+   "scene": "Three mechanics in overalls and flat caps leaning idly against the wing of a parked 1930s biplane, arms crossed, one with a cigarette, killing time in their usual unspoken pause ritual. The men and the wing fill the bottom half of the frame, bleeding off the bottom edge. The airfield haze above them is bright, pale and empty."
+  },
+  {
+   "n": 8,
+   "kind": "foto",
+   "scene": "Still life on a wooden tool bench: several abandoned enamel coffee cups scattered among wrenches and engine bolts, a full ashtray, work visibly stopped, the blurred silhouette of a parked aircraft far behind in the haze. The bench and cups fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+  },
+  {
+   "n": 9,
+   "kind": "foto",
+   "scene": "A small 1930s propeller monoplane flying visibly tilted, banking crookedly through thick fog with no correction, alone and drifting off course. The tilted plane sits in the lower third of the frame, dark against the mist, with the vast pale foggy sky filling everything above, bright and empty near the top edge."
+  },
+  {
+   "n": 10,
+   "kind": "foto",
+   "scene": "A squadron of airmen standing in one straight disciplined line on the airfield at dawn, facing their commander who holds a clipboard, the same daily ritual at the same hour, aircraft silhouettes soft in the haze behind them. The line of men fills the bottom half of the frame, bleeding off the bottom edge. The dawn sky above is bright, pale, hazy and empty. The clipboard shows only faint abstract hatching, no readable letters."
+  },
+  {
+   "n": 11,
+   "kind": "foto",
+   "scene": "Inside a cockpit: a pilot's gloved hand marking items one by one with a pencil on a worn paper checklist strapped to his thigh, disciplined routine gesture. The thigh, hand and checklist fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty. The checklist paper shows ONLY faint abstract hatching lines, absolutely no readable letters or numbers."
+  },
+  {
+   "n": 12,
+   "kind": "foto",
+   "scene": "An older veteran mechanic with grey stubble gently guiding the hands of a young apprentice as they adjust a radial engine part together, side by side, a patient teaching gesture between generations. The two men and the engine fill the bottom half of the frame, bleeding off the bottom edge. The hangar light above them is bright, pale, hazy and empty."
+  },
+  {
+   "n": 13,
+   "kind": "foto",
+   "scene": "A calm squadron commander in uniform standing at first light holding an open pocket watch in his hand, his aligned crew and the row of aircraft soft in the mist behind him, everything running in order without a word. The commander fills the bottom half of the frame, bleeding off the bottom edge. The dawn sky above is bright, pale, hazy and empty."
+  },
+  {
+   "n": 14,
+   "kind": "foto",
+   "scene": "A vintage propeller plane climbing steadily and confidently above a sea of clouds toward the high sun, wings level, certain of its course. The plane and the cloud sea sit in the lower third of the frame, bleeding off the bottom edge, with the luminous pale sky filling everything above, fading to near-white at the top edge."
+  }
+ ]
+}

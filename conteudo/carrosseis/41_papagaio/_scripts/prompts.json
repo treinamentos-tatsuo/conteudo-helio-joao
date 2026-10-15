@@ -1,0 +1,85 @@
+{
+  "base": "vintage 19th-century storybook pen-and-ink engraving, black and white line art, fine cross-hatching and stippling, etching illustration, clean off-white background, light airy line art, mostly white, pure line art (NOT watercolor, no grey wash, NOT dark). WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. RECURRING CHARACTER (must look identical in every image): an anthropomorphic parrot as a Victorian gentleman-businessman: plump feathered body, large curved beak, short feather crest on his head, feathers rendered in fine hatching, three-piece tweed suit, long overcoat, bowler hat, monocle on a chain, leather briefcase. SECOND RECURRING CHARACTERS (when mentioned): anthropomorphic worker ants as tiny diligent shop clerks: slender insect bodies, simple work aprons and flat caps, all nearly identical; the ELDER ANT is distinguished by tiny round wire spectacles and a knotted neck scarf. IMPORTANT SCALE RULE: the ants are TINY, about knee-height to the parrot, all ants exactly the same size; the parrot is a normal townsfolk-sized gentleman, never gigantic relative to the buildings around him. Setting: a cobblestone medieval-European fairytale town with half-timbered Tudor houses, twisted old trees and lamp posts; other anthropomorphic animals (rabbits, badgers, foxes, birds) as townsfolk in period clothing may appear in the background. CRITICAL RULE FOR FRAMES AND SIGNS: any framed picture, poster, sign, plaque or document appearing in the scene contains ONLY faint abstract hatched scribble lines, completely illegible, purely decorative. NO text, NO words, NO letters, NO signage lettering, NO numbers, NO logos, no color.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "scene",
+      "scene": "Medium heroic shot in the town square: the parrot businessman standing proudly on the cobblestones, chest puffed out, one wing pressed flat on his chest in a grand orator's pose, the other wing holding his leather briefcase, beak slightly raised; a few townsfolk animals strolling in the background."
+    },
+    {
+      "n": 2,
+      "kind": "scene",
+      "scene": "Eye-level portrait in front of his shop: the parrot businessman proudly gesturing with one open wing toward his storefront: a charming half-timbered shop with a bay window, striped awning and a hanging wooden sign (the sign is completely blank, only faint decorative hatching). IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 3,
+      "kind": "scene",
+      "scene": "Low-angle view (contra-plongee) inside the shop: a tall wall covered with many ornate picture frames of different sizes, each frame holding only faint abstract hatched scribbles; the parrot businessman at the top of a small wooden stepladder, carefully hanging yet another ornate frame. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 4,
+      "kind": "scene",
+      "scene": "Frontal wide shot inside the shop: the parrot businessman standing on a wooden crate behind the counter, both wings spread wide in grand theatrical oratory, beak open mid-speech; in front of him his small team of clerks (a badger, a rabbit and a rat in work aprons) listening with politely bored, tired faces. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 5,
+      "kind": "scene",
+      "scene": "Strong depth composition seen from inside the shop: in the foreground the parrot businessman from BEHIND, bowler hat on, walking out through the open front door into the bright street; in the background inside the shop, a customer (an old fox lady with a basket) waiting unattended at the counter while a young rabbit clerk lounges against a shelf looking away, distracted. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 6,
+      "kind": "scene",
+      "scene": "Tight near-still-life shot of a shop wall CRAMMED with overlapping crooked ornate picture frames of every size, all containing only faint abstract hatched scribbles, frames bumping into each other with no wall left visible; at the edge of the frame the parrot businessman on tiptoe pushing one more ornate frame into the very last gap. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 7,
+      "kind": "scene",
+      "scene": "Wide interior shot of an immaculate little general store run entirely by tiny ants: perfectly ordered shelves, dozens of tiny worker ants in aprons moving in calm orderly flow, carrying parcels up little wooden ramps and ladders, weighing goods on a small brass scale, serving animal customers; the walls are completely bare, nothing hangs on them; at the doorway stands the parrot businessman, large and astonished, bowler hat held in his wing."
+    },
+    {
+      "n": 8,
+      "kind": "scene",
+      "scene": "Close shot inside the ants' store: the parrot businessman bent forward, monocle raised to his eye, inspecting a completely BARE smooth wooden wall where nothing hangs; at his feet tiny worker ants hurry past carrying small parcels, ignoring him, busy and content."
+    },
+    {
+      "n": 9,
+      "kind": "scene",
+      "scene": "View from the cobblestone street through the large front window of the ants' store: the parrot businessman seen from behind and slightly to the side, pressed near the glass, peeking inside; within the shop, the tiny elder ant with round spectacles demonstrates folding a parcel with precise gestures while a younger ant beside her repeats exactly the same gesture with her own parcel."
+    },
+    {
+      "n": 10,
+      "kind": "scene",
+      "scene": "Intimate close-up composed low to the floorboards: the tiny elder ant with round wire spectacles and knotted neck scarf looking up and speaking calmly; the huge parrot businessman down on one knee, bent all the way down to her level, bowler hat held respectfully in his wing, listening humbly. Affectionate contrast of scale."
+    },
+    {
+      "n": 11,
+      "kind": "scene",
+      "scene": "Wide airy shot in the town square: the parrot businessman sitting alone on a wooden bench beneath a huge twisted old tree next to a lamp post, bowler hat resting on his lap, shoulders low, head bowed in thought; the little street with his shop far in the background. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 12,
+      "kind": "scene",
+      "scene": "Lively eye-level scene inside the parrot's shop: the parrot businessman in rolled-up shirtsleeves and waistcoat (no overcoat) working side by side with his clerks at the counter, handing a neatly wrapped parcel to a smiling customer. CRITICAL: the shop walls are now completely BARE, no picture frames hanging anywhere, only faint pale rectangular marks on the wall where frames used to hang; ALL the frames are stacked in a dusty pile leaning against the wall on the floor in the corner. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and non-insect townsfolk animals."
+    },
+    {
+      "n": 13,
+      "kind": "scene",
+      "scene": "From the cobblestone sidewalk at dusk: the parrot businessman STANDING STILL outside, seen mostly from BEHIND, stopped and leaning toward the large front window of his OWN shop, one wing resting on the glass, his head turned toward the window, clearly peering INSIDE; he is NOT walking. Warm light glows from inside; within, his clerks (badger, rabbit, rat in aprons) attentively serve a happy customer at the counter, working in perfect calm coordination, no boss among them. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and non-insect townsfolk animals."
+    },
+    {
+      "n": 14,
+      "kind": "scene",
+      "scene": "Quiet storybook still-life: a single large empty ornate picture frame leaning against the wall on wooden floorboards in the foreground; behind it, slightly soft, the living counter of the shop with clerks at work and a customer being served. The empty frame is the subject. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 15,
+      "kind": "scene",
+      "scene": "Tight tense shot inside the shop, the parrot businessman as he USED to be: standing stiffly with wings clasped behind his back, leaning over the shoulder of a nervous young rabbit clerk at the counter, monocle glinting, scrutinizing every move; the little clerk hunched, tense, glancing sideways. Rigid, uncomfortable atmosphere, but still light airy line art. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    },
+    {
+      "n": 16,
+      "kind": "scene",
+      "scene": "Welcoming wide shot: the front door of the parrot's shop wide open onto the cobblestone street, the parrot businessman warmly greeting an arriving customer with an open-wing gesture of welcome; behind him the shop full of life, clerks busy and cheerful, shelves neat, a couple of townsfolk animals browsing. IMPORTANT: the ants do NOT appear in this image, not a single ant; the only characters are the parrot and (if mentioned) non-insect townsfolk animals."
+    }
+  ]
+}

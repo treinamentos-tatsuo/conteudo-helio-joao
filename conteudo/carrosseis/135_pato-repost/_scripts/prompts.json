@@ -1,0 +1,101 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, late 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "base_out": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white overcast sky, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. The scene itself is crisp, with no haze on the subject; only the sky band at the top is pale and featureless. Natural unposed body language. Brazil, late 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "fit_out": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit overcast sky in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), completely featureless: no clouds with edges, no trees, no branches, no hills, no horizon of vegetation, no birds, nothing crossing it. That pale sky is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "base": "base_out",
+   "cinema": false,
+   "fit": "fit_out",
+   "scene": "Outdoors at the edge of a small farm pond in rural Brazil, late 1970s: a single domestic white duck in PROFILE, WALKING along the muddy bank, alone, webbed feet in the mud, the pond water still and low in the frame. DUCK FRAMING: the camera is low and CLOSE, the duck is VERY LARGE, filling the lower half of the frame from side to side, sharp feathers and eye, natural unposed posture; the pond water and muddy bank low in the frame, no reeds or plants rising above the duck. NO PEOPLE."
+  },
+  {
+   "n": 2,
+   "base": "base_out",
+   "cinema": false,
+   "fit": "fit_out",
+   "scene": "Outdoors at a small farm pond in rural Brazil, late 1970s: a single domestic duck in a CLUMSY low flight skimming the surface of the pond, wings spread wide, webbed feet stretched forward, water drops splashing up from the surface; the pond low in the frame. DUCK FRAMING: the camera is low and CLOSE, the duck is VERY LARGE, filling the lower half of the frame from side to side, sharp feathers and eye, natural unposed posture; the pond water and muddy bank low in the frame, no reeds or plants rising above the duck. NO PEOPLE."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: the OWNER, a man in his fifties in a plain work apron, standing in the middle of the shop floor holding a clipboard in one hand and a wooden hand plane in the other, looking off toward the side, alert, thinking; workbenches low in the frame behind him. He is LARGE, chest up, head in the lower half of the frame; the bare pale wall above him."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: the OWNER leaning over the workbench beside a carpenter, POINTING with his index finger at one exact joint of a wooden drawer held on the bench; the carpenter holds the drawer and looks at exactly that spot. Both LARGE, chest up, heads in the lower half of the frame; the bare pale wall above them."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: the OWNER seen FROM BEHIND, standing in the doorway of the small office, HANDING a thick folder of papers to a man in a plain dress shirt (the accountant) WITHOUT looking at him, the owner's body and head already turned away toward the shop floor; the accountant takes the folder. Both LARGE, in the lower half of the frame; the owner's face NOT visible (back of his head); the bare pale wall above them."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "fit": "fit",
+   "scene": "STILL LIFE, close: the desk in the small office of a carpentry workshop in Brazil, late 1970s: a CLOSED ledger book with a visible layer of dust on its cover, a metal spike (bill spike) holding a stack of old invoices (vague illegible marks only), and an empty enamel coffee cup; the desk and objects low in the frame; the pale wall continues empty above. NO PEOPLE, no hands."
+  },
+  {
+   "n": 7,
+   "base": "base_out",
+   "cinema": false,
+   "fit": "fit_out",
+   "scene": "Outdoors at a small farm pond in rural Brazil, late 1970s: a single domestic duck CLIMBING OUT of the water onto the muddy bank, half of its body still in the pond and half on the earth, water dripping from its feathers, mid-step. DUCK FRAMING: the camera is low and CLOSE, the duck is VERY LARGE, filling the lower half of the frame from side to side, sharp feathers and eye, natural unposed posture; the pond water and muddy bank low in the frame, no reeds or plants rising above the duck. NO PEOPLE."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: the OWNER with both hands on a wooden hand plane, SHOWING the planing stroke on a board clamped to the bench to a young apprentice standing right beside him, who watches the hands closely; wood shavings curling; both LARGE, chest up, heads in the lower half of the frame; the bare pale wall above them."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": false,
+   "fit": "fit",
+   "scene": "STILL LIFE, close: on a workbench in a carpentry workshop in Brazil, late 1970s: a small wooden cabinet with one DRAWER assembled CROOKED, jammed at an angle, sticking out and unable to close; a chisel and a wooden mallet lying beside it; the cabinet low in the frame; the pale wall continues empty above. NO PEOPLE, no hands."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "At night, inside the small office of a carpentry workshop in Brazil, late 1970s: the OWNER alone at his desk, seen FROM BEHIND over his shoulder, a desk lamp lit beside him, the ledger book open on the desk (vague illegible marks only), the pen lying still on the page, his hand resting flat beside it; his back and shoulders LARGE in the lower half of the frame, the back of his head low; the bare pale wall above the desk, no shelves."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: morning: the OWNER in a work apron standing in front of his team of four carpenters, holding up THREE FINGERS of one hand while speaking, firm and calm; the four carpenters in aprons listening, facing him; all LARGE, chest up, heads in the lower half of the frame; workbenches low; the bare pale wall above them."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": true,
+   "fit": "fit",
+   "scene": "Inside a small family carpentry workshop (marcenaria) in Brazil, late 1970s, wooden workbenches, hand tools, sawdust, plain pale plaster walls: the OWNER alone, holding a long wooden board up at eye level and SIGHTING ALONG ITS GRAIN with one eye closed, checking the wood from the inside, light raking from the side; he is LARGE, chest up, head in the lower half of the frame; the bare pale wall above him."
+  },
+  {
+   "n": 13,
+   "base": "base_out",
+   "cinema": false,
+   "fit": "fit_out",
+   "scene": "Outdoors at a small farm pond in rural Brazil, late 1970s: a single domestic duck STANDING STILL on the muddy bank, FACING THE CAMERA, looking straight into the lens, webbed feet in the mud, the pond water behind it. DUCK FRAMING: the camera is low and CLOSE, the duck is VERY LARGE, filling the lower half of the frame from side to side, sharp feathers and eye, natural unposed posture; the pond water and muddy bank low in the frame, no reeds or plants rising above the duck. NO PEOPLE."
+  }
+ ]
+}

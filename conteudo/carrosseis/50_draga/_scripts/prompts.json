@@ -1,0 +1,78 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. CLOSE framing on the subject, who fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A majestic vintage merchant sailing ship gliding on a perfectly calm, glassy sea, seen from the side. The dark hull is LARGE in the frame, filling the bottom half and bleeding off the bottom edge. Along the waterline, subtle clusters of barnacles and mussels crust the hull plates, and two or three SMALL, almost innocent-looking holes pierce the wood just above the waterline, quiet and easy to miss, no drama, no sinking, the ship perfectly serene and proud. The masts and sails dissolve upward into bright pale haze."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A busy prosperous 1950s harbor quay: stevedores carrying sacks and wooden crates up a gangplank onto a moored cargo ship, a dockside crane lifting a loaded net, stacked goods everywhere, thriving trade in motion. The workers and cargo fill the bottom half of the frame, bleeding off the bottom edge. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "The dark wooden hold of an old cargo ship: a single THIN trickle of water seeping through a seam between two hull planks, catching the dim glow of a hanging oil lantern, a small puddle barely forming on the floor, stacked dry crates nearby, quiet and almost invisible. The hull planks and trickle fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "The same dark wooden ship hold much later: still water flooding the floor and rising halfway up the stacked wooden crates, soaked burlap sacks, gentle reflections on the water surface, a shaft of pale light falling from an open hatch above, no people. The flooded cargo fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "The sunlit main deck of a vintage sailing ship: a heavy CLOSED wooden cargo hatch with iron fittings in the immediate foreground, coiled ropes and rigging around it, bright daylight, everything calm and orderly, no people. The closed hatch fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "close",
+      "base": "close",
+      "scene": "A serene middle-aged businessman in a dark tailored 1950s suit and tie, eyes gently closed, completely relaxed peaceful expression, wearing a vintage medical anesthesia mask over his nose and mouth, head tilted slightly back as if blissfully asleep standing up. Close framing from the chest up, his figure filling the bottom half of the frame and bleeding off the bottom edge, plain pale hazy background above."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "An old rusted hand-operated bilge pump standing idle and unused in a ship hold, its handle locked in place, cobwebs on the mechanism, dark still water slowly rising around its base, dim lantern light, no people. The pump fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "Weathered hands of a man pulling plain banknotes out of a worn thin leather wallet, over a wooden desk scattered with plain blank paper slips and a few coins, vintage 1950s, the notes completely plain with no readable engraving. The hands, wallet and desk fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "An old cargo ship listing heavily to one side against a stone quay, half-lowered in the water, its tilted bare masts leaning at a wrong angle against a pale empty sky, abandoned, no people, quiet aftermath. The tilted hull fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A wooden gangplank seen from the side, connecting a stone quay on the left to the dark hull of a moored ship on the right: two porters bent under heavy full sacks walking UP the plank toward the ship, a third waiting behind them on the quay with another sack, one single direction of movement, into the ship, 1950s. The plank and porters fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A thriving 1950s harbor scene of abundance: a proud merchant ship moored at the quay unloading CLOSED wooden crates and full burlap sacks of general goods DOWN to the dock, no food and no produce visible, the owner in a suit standing on the quay receiving the cargo with a confident smile, workers busy, tall stacks of closed crates, rich generous light, prosperity everywhere. The scene fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "Weathered hands holding a pencil over an open ship logbook with completely blank pages, an oil lantern beside it and a few coins stacked on the wooden table, concentrated late-night accounting mood, 1950s, the pages completely blank with no writing of any kind. The hands and logbook fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A firm ship captain in a dark coat and cap gripping the large wooden spoked helm wheel with both hands, jaw set, looking straight ahead at a bright open calm sea, in full command, 1950s. The captain and the helm fill the bottom half of the frame, bleeding off the bottom edge. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A ship captain seen from BEHIND in the immediate foreground, hands clasped behind his back, standing on a tidy orderly deck of a steady ship, looking out at a wide clear bright horizon over calm water, quiet authority, 1950s. The captain's dark figure is LARGE, filling the bottom half of the frame and bleeding off the bottom edge. The space above him is bright, pale, hazy and empty."
+    }
+  ]
+}

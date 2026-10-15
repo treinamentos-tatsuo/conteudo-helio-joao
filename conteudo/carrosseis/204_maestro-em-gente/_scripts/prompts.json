@@ -1,0 +1,98 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An empty wooden concert stage floor with TWO old metal music stands side by side, both empty, one angled toward the left and the other angled toward the right, as if pointing to two different directions. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A row of empty wooden orchestra chairs on a stage, with instruments resting on them and leaning against them: two violins on the seats, a cello lying on its side on the floor, a closed music folder on a chair, all waiting for the musicians. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A middle-aged street one-man-band musician in a worn suit jacket, seen in three-quarter view from behind, playing alone on a plain sidewalk: a big bass drum strapped on his back, a harmonica held on a wire holder at his mouth, small cymbals tied to his knees, an accordion in his arms. He is tired, sweating, playing everything at once. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the man is fully inside the frame, his head well below the upper 45 percent, nothing above him."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a plain wooden office desk, an enormous heavy ring of dozens of old keys lying next to an old rubber stamp and a small stack of papers with illegible marks. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A wide orchestra pit seen from the edge of the stage: dozens of empty wooden chairs and metal music stands arranged in curved rows, filling the whole width low in the frame. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old paper desk diary lying open on a wooden desk, both pages completely crammed with handwritten appointments in illegible scribbles, crossed out lines and notes squeezed in the margins, a fountain pen lying across it. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Close view of the hands of several different orchestra musicians tuning their instruments at the same time, side by side: one turning the peg of a violin, one adjusting a cello string, one holding a clarinet, one with a bow raised low. Only hands, forearms and instruments, no faces. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A middle-aged businessman in shirt sleeves and loose tie, seen from behind in three-quarter view, awkwardly trying to hold three instruments at once in his arms: a violin, a trumpet and a small drum, one of them slipping. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the man is fully inside the frame, his head well below the upper 45 percent, nothing above him."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old wooden pyramid metronome, stopped, its pendulum still, standing alone on the closed lid of an upright piano. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. The same kind of street one-man-band musician sitting exhausted on the curb of a sidewalk, head down, elbows on his knees, the bass drum, accordion, harmonica holder and cymbals dropped on the ground around his feet. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the man sits low in the frame, fully inside it, his head well below the upper 45 percent, nothing above him."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An older music teacher standing beside a teenage student who plays the violin, the teacher's hand gently correcting the position of the student's bow arm, in a plain rehearsal room. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: both are fully inside the frame, their heads well below the upper 45 percent, nothing above them."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An orchestra conductor seen from behind, in a dark jacket, baton raised, and in front of him, lower in the frame, a full orchestra of musicians playing violins, cellos and winds, all in one shared light. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the conductor's head and raised baton stay below the upper 45 percent, the orchestra spreads low across the width, nothing above them."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A conductor's thin white baton resting alone across a closed music score on a metal music stand, the stand short and seen low. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An orchestra rehearsal in a plain hall: musicians in everyday clothes playing together in curved rows, violins and cellos, seen from the side, everybody concentrated. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. The hand of an orchestra conductor holding a thin baton in mid-movement, wrist and cuff of a dark jacket visible, and below it the blurred-free rows of musicians playing. Plain unbranded clothes and instruments, no logos, no printed names. COMPOSITION DETAIL: the hand and baton rise from the bottom of the frame and stay below the middle; nothing hangs or descends from the top."
+  }
+ ]
+}

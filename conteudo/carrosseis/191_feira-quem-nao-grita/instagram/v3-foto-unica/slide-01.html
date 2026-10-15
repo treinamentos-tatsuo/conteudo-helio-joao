@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;font-family:'Montserrat',sans-serif;color:#fff;position:relative}
+img{position:absolute}
+.g{position:absolute;inset:0}
+.blk{position:absolute;left:0;right:0;bottom:95px;display:flex;flex-direction:column;align-items:center;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+.ln{white-space:nowrap;line-height:1.08;display:inline-block;font-weight:700}
+</style></head><body>
+  <img src="../imagens/terno-peixe.jpg" style="width:1080px;left:0;top:-170px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 55%,rgba(0,0,0,.6) 72%,rgba(0,0,0,.92) 88%,#000 100%)"></div>
+  <div class="blk">
+    <div class="ln" data-w="880">Na feira, quem não grita</div>
+    <div class="ln" data-w="880" style="margin-top:6px">volta pra casa com a banca cheia.</div>
+  </div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('[data-w]').forEach(e=>{
+ const W=+e.dataset.w;let fs=40;e.style.fontSize=fs+'px';
+ for(let i=0;i<30;i++){fs=fs*W/e.getBoundingClientRect().width;e.style.fontSize=fs+'px';}
+});});
+</script>
+</body></html>

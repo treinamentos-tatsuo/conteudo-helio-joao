@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no face.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "Close-up in a simple kitchen: a weathered hand holds an old wooden spoon lifted from a dark iron pot on the stove, a little steam rising, the spoon paused halfway up as if about to taste, seen from the side. Only the hand, the spoon and the rim of the pot in the lower half of the frame; everything else dissolves into pale haze. Hard low side light. No face, no text."},
+    {"n": 2, "kind": "base", "scene": "Extreme minimal still life: one old wooden spoon resting across the rim of a dark iron pot on a simple gas stove, a wisp of steam rising, camera at stove level, the pot small in the lower part of the frame. Nothing else; the kitchen dissolves into pale haze above. Hard low side light. No people, no text."}
+  ]
+}

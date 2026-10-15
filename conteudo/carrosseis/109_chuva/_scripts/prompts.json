@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. SQUARE 1:1 aspect ratio. Heavy rain; the ENTIRE UPPER THIRD of the image is bright, pale, empty and hazy with rain, fading to near-white at the top edge for clean compositing. Subject dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no modern cars.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "A quiet Brazilian residential street, camera extremely low, almost resting on the wet asphalt, looking along the curb. An old 1970s Volkswagen Beetle, freshly washed and gleaming, parked at the curb in the lower half of the frame, being hammered by heavy rain: fat drops bouncing off the roof and hood, water streaming down the fenders, rain splashing on the street around the tyres. On the sidewalk beside it, a plastic bucket and a wet rag left behind. No people. The street behind dissolves into the pale rain haze. Hard low light catching the raindrops."},
+    {"n": 2, "kind": "base", "scene": "A quiet Brazilian residential street in heavy rain, camera low at street level. In the lower half of the frame, seen from BEHIND, a man in simple clothes stands still on the sidewalk under the open doorway of a house, holding a bucket in one hand and a wet rag in the other, looking at an old 1970s Volkswagen Beetle parked at the curb, freshly washed, now being hammered by the rain, drops bouncing off the roof. No face visible. The street beyond dissolves into pale rain haze. Hard low light on the wet asphalt."}
+  ]
+}

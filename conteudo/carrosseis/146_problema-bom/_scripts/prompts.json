@@ -1,0 +1,96 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "fit70": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject is LARGE and CLOSE and fills the entire LOWER 70 percent of the frame, edge to edge, its top edge beginning just below the upper third of the picture; the ENTIRE UPPER 30 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no window, no sign, no ceiling line. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "fit_out": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject is LARGE and fills the entire LOWER 65 percent of the frame, edge to edge; the ENTIRE UPPER 35 percent of the frame is a plain, flat, uniformly overcast sky in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), evenly lit, with absolutely nothing in it: no clouds with shape, no birds, no wires, no poles, no treetops, no roofs rising into it. That pale sky is part of the photograph and stays very pale and uniform to the top edge.",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Inside the small office of a mattress factory: the owner, a Brazilian man in his fifties with a plain short-sleeved work shirt, sitting at a worn wooden desk and facing the camera, forearms resting on the desk, hands loosely clasped, looking straight into the lens with a calm, serious, experienced expression, as if about to tell a hard truth to a friend. He is LARGE and CLOSE, chest up, filling the lower part of the frame; the bare pale plaster wall of the office continuing above him, empty."
+  },
+  {
+   "n": 2,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Still life on a wooden office desk in a small factory: tall messy piles of papers, folders and invoices stacked and sliding over each other, an old black rotary telephone with its handset OFF THE HOOK lying on top of the papers, a cold coffee cup half hidden among them. The desk and the piles sit low in the frame; the bare pale plaster wall continuing above, empty. Any writing is COMPLETELY ILLEGIBLE by construction: raking shallow angle, shallow focus on the paper edges, no readable letters or numbers anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. At night, alone in the small office of his factory: the owner, a Brazilian man in his fifties, sleeves rolled up, sitting UPRIGHT at his wooden desk under a single metal desk lamp, a pen in his hand over a sheet of paper, firm and focused expression, tired eyes but a straight back: weight, not defeat. He is LARGE and CLOSE; the bare pale plaster wall continuing above him, empty, softly lit."
+  },
+  {
+   "n": 4,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Still life: a large heavy ring of old iron and brass keys hanging from a single nail on a pale plaster wall, right beside the edge of a riveted steel factory gate that enters the frame from the right side. The keys hang LOW in the frame, big and close; the bare pale plaster wall continuing above them, empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Still life on a wooden workbench: a large architectural plan for the EXPANSION of a factory warehouse unrolled flat, its corners held down by a steel ruler, a carpenter's pencil lying across it. The plan fills the lower part of the frame; the bare pale plaster wall continuing above, empty. Any writing is COMPLETELY ILLEGIBLE by construction: raking shallow angle, shallow focus on the paper edges, no readable letters or numbers anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Inside a small upholstery workshop that has no orders: the industrial sewing machines are COVERED with canvas tarps, and two workers, men in their thirties in simple work clothes, sit side by side on the edge of the workbench with their ARMS CROSSED, idle, waiting, looking at nothing. No owner in the scene. They are LARGE and CLOSE; the bare pale plaster wall of the workshop continuing above them, empty."
+  },
+  {
+   "n": 7,
+   "fit": "fit_out",
+   "scene": "Brazil, 1960s to 1970s. Seen from the yard: the wide open gate of a warehouse that makes corrugated metal roofing. Stacks of corrugated metal roof sheets and steel profiles, NEATLY ALIGNED and strapped, fill the warehouse to the back and already spill out in orderly rows onto the yard in front of the gate, leaving only a narrow path. Full, never messy. The stacks fill the lower part of the frame. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 8,
+   "fit": "fit_out",
+   "scene": "Brazil, 1960s to 1970s. Frontal view of TWO neighboring small warehouses side by side, sharing a wall, both with their gates wide open. The LEFT warehouse is completely EMPTY, its concrete floor swept clean, dark and bare inside. The RIGHT warehouse is FULL to the gate with cardboard boxes stacked in neat aligned columns. The two gates fill the lower part of the frame, side by side. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 9,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Still life: the empty customer counter of a small factory's sales office, a worn wooden counter with a single old chrome service bell (desk bell) sitting on it, untouched, a thin layer of dust around it, and nothing else on the counter. Late afternoon light raking across the wood. The counter and the bell sit LOW in the frame, the bell large and close; the bare pale plaster wall continuing above, empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 10,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Inside a roofing factory: an old heavy roll-forming machine RUNNING, a brand-new corrugated metal roof sheet coming out of its rollers onto the steel table, the machine and the fresh sheet filling the lower part of the frame. The bare pale plaster wall of the factory continuing above, empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 11,
+   "fit": "fit_out",
+   "scene": "Brazil, 1960s to 1970s. A LINE of old 1970s Brazilian flatbed trucks parked one behind the other along the street in front of a warehouse gate, waiting their turn to load, the line receding in perspective. Drivers only as faint silhouettes inside the cabs, no faces. The trucks fill the lower part of the frame."
+  },
+  {
+   "n": 12,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Inside a dispatch area: a long roller conveyor carrying identical closed cardboard boxes, perfectly aligned one after another, moving toward the open gate of the warehouse. The conveyor and the boxes fill the lower part of the frame; the bare pale plaster wall continuing above, empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. In a simple factory office: the owner, a Brazilian man in his fifties, sitting LEANED BACK in his chair, relaxed and unhurried, arms resting, listening; across the wooden desk a client in a suit and tie leans FORWARD eagerly, talking, one hand open as if asking. Both men fully inside the frame, seen from the side of the desk. They are LARGE and CLOSE; the bare pale plaster wall continuing above them, empty."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A factory loading dock at NIGHT under hanging industrial lamps: the owner with a clipboard in his hand directing the loading of a truck that is already almost full, two workers passing cardboard boxes hand to hand into the truck bed. Busy, organized, late hours. They are LARGE and CLOSE; the pale plaster wall of the dock continuing above them, empty and lit by the lamps."
+  },
+  {
+   "n": 15,
+   "fit": "fit70",
+   "scene": "Brazil, 1960s to 1970s. Still life on a wooden office counter: a thick ORDER BOOK lying open, both pages FULL of dense handwritten lines, a pencil resting in the fold, orderly and busy. The book fills the lower part of the frame; the bare pale plaster wall continuing above, empty. Any writing is COMPLETELY ILLEGIBLE by construction: raking shallow angle, shallow focus on the paper edges, no readable letters or numbers anywhere. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 16,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. The owner of a factory, a Brazilian man in his fifties with sleeves rolled up, standing beside a fully loaded flatbed truck that is leaving his warehouse, slapping the side of the truck with his open hand as a farewell, looking FIRMLY into the camera with a slight confident expression. He is LARGE and CLOSE; the pale plaster wall of the warehouse continuing above him, empty."
+  }
+ ]
+}

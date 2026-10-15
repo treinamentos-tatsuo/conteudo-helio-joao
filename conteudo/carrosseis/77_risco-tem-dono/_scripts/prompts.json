@@ -1,0 +1,72 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "scene": "The storefront of a small closed business seen from the sidewalk: a heavy iron chain looped through the handles of the shuttered metal doors and locked with a large old padlock, hanging in the centre of the frame. The shopfront and doorway are clearly recognisable as a shop. Bright empty white sky fills the top third.",
+   "base": "base_wide"
+  },
+  {
+   "n": 2,
+   "scene": "An emptied office desk seen close from the side, the chair pushed back and turned away, a cardboard box of personal belongings on the desktop. Pale bare wall above."
+  },
+  {
+   "n": 3,
+   "scene": "A stack of thick worn accounting ledgers and loose paperwork piled on a wooden counter, one older hand sliding a single sheet forward. Any printed or written characters are completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines by shallow depth of field and a raking angle. Nothing readable anywhere."
+  },
+  {
+   "n": 4,
+   "scene": "A long dark polished table in a bare formal room, seen from one end. A lone man in a plain shirt sits small at the far side with his hands clasped, shoulders tense, head slightly lowered, dwarfed by the empty room. Hard cold light from a tall window on the left rakes across the table. Heavy closed folders stacked near him. The room reads as intimidating and final. Bright blown-out window light fills the top third.",
+   "base": "base_wide"
+  },
+  {
+   "n": 5,
+   "scene": "Factory workers in overalls streaming away from the camera down an open yard at the end of a shift, all seen FROM BEHIND, their bodies softly MOTION-BLURRED by a long exposure as they walk. In the middle of the crowd ONE man stands completely still and perfectly sharp, also seen from behind, shoulders down, not moving while everyone flows past him. Single long-exposure photograph. Bright white haze fills the top third.",
+   "base": "base_wide"
+  },
+  {
+   "n": 6,
+   "scene": "A vast empty factory floor in bright daylight, machines long removed, only bolt marks on the concrete. One man in work clothes stands alone in the middle distance, small, looking across the empty space. Huge dusty windows flood the upper part of the frame with blown-out white light, completely empty.",
+   "base": "base_wide"
+  },
+  {
+   "n": 7,
+   "scene": "A worn wall-mounted mechanical time clock with a rack of punch cards beside it, shot close and slightly from below, a hand reaching for one card. Any printed or written characters are completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines by shallow depth of field and a raking angle. Nothing readable anywhere."
+  },
+  {
+   "n": 8,
+   "scene": "Many outstretched hands of different ages reaching in over a wooden table from every side, taking folded papers and envelopes, shot close from above the table edge. Hands fill the lower frame."
+  },
+  {
+   "n": 9,
+   "scene": "A single empty enamel bowl on a bare wooden table, scraped clean, a bent spoon beside it, hard side light. Table fills the lower frame, pale wall above."
+  },
+  {
+   "n": 10,
+   "scene": "Two brown paper envelopes lying side by side on a desk, one visibly thick and full, the other flat and thin, shot close at a low raking angle."
+  },
+  {
+   "n": 11,
+   "scene": "An old heavy iron safe with its door swung wide open, completely empty inside, standing in the corner of a small back office. Safe fills the lower frame."
+  },
+  {
+   "n": 12,
+   "scene": "A pair of hands holding a long folded bank statement under the pool of light from a desk lamp, an adding machine beside it on the desk. Any printed or written characters are completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines by shallow depth of field and a raking angle. Nothing readable anywhere."
+  },
+  {
+   "n": 13,
+   "scene": "A desk top seen from above and slightly to the side: an open hardbound ledger with ruled columns, a fountain pen resting on it, and a mechanical adding machine beside it. ONLY the desk and the objects are visible. NO person, no body, no torso, no arms anywhere in the frame. Warm raking lamp light. Bright empty pale surface fills the top third. Any printed or written characters are completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines. Nothing readable anywhere.",
+   "base": "base_wide"
+  },
+  {
+   "n": 14,
+   "scene": "A shopkeeper's wooden counter with an open cash drawer, stacks of coins arranged in neat columns beside a small handwritten notebook. NO banknotes anywhere, only metal coins. Any printed or written characters are completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines by shallow depth of field and a raking angle. Nothing readable anywhere."
+  },
+  {
+   "n": 15,
+   "scene": "A worn cotton work shirt hanging over the back of a simple wooden chair in a small office, photographed close and straight on. A thick folded wad of banknotes is tucked into the shirt's BREAST POCKET, standing slightly out of it. On the seat below, a set of keys and a folded pair of reading glasses. ABSOLUTELY NO PERSON, no body, no hands, no head, no arms anywhere in the frame: only the empty shirt, the chair and the objects. Warm raking side light, quiet end-of-day mood. The notes are FOLDED and seen EDGE-ON, worn and thick, with no printing, numbers or denominations visible, all markings completely BLURRED and ILLEGIBLE. Bright empty pale wall fills the top third.",
+   "base": "base_wide"
+  }
+ ],
+ "base_wide": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. This is ONE single real photographic exposure, never a composite or a collage: every element shares the same light, the same grain and the same depth of field. The camera is pulled back enough that the scene is immediately readable at a glance. The subject sits in the LOWER HALF of the frame and runs from the left edge to the right edge, extending past the bottom edge. The ENTIRE UPPER THIRD of the frame is bright blown-out white haze, sky or wall, completely empty and free of any object, so it dissolves into a pale background. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look."
+}

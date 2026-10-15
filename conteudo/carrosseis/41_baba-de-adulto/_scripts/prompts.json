@@ -1,0 +1,77 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject fills the lower half of the frame, bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no cinematic look.",
+      "scene": "Close view of a grown adult businessman in a dark suit and tie wearing a white baby bib tied around his neck, being spoon-fed by the hand of an elderly woman that enters the frame from the side holding a tiny child's spoon toward his open mouth, food visibly smeared and messy around the man's mouth and chin, his expression passive and obedient like a toddler, 1950s. Only the man's head, shoulders and chest and the elderly female hand with the small spoon are visible. The man sits in the lower half of the frame, chest bleeding off the bottom edge. The space above his head is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "An empty company training room the morning after a seminar: rows of wooden chairs left slightly askew, a flip chart easel with curled completely blank used paper sheets, forgotten coffee cups on a side table, 1950s office. No people. All paper is completely blank with no writing. The chairs and the easel fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "An audience of office employees in 1950s attire seated in rows applauding enthusiastically at the end of a company training session, closed blank notebooks resting on their laps, seen from the front at a slight angle. All notebooks completely blank with no writing. The applauding rows fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "Still life: a closed plain hardcover notebook lying inside a half-open wooden desk drawer, a pencil beside it, fine dust on the desk surface, soft window side light, no people, 1950s office. The notebook cover is completely blank with no writing. The drawer and the desk edge fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A metal office wastebasket overflowing with many crumpled generic paper banknotes, more crumpled bills scattered on the wooden floor around it, absurd exaggerated abundance of wasted money, no people, 1950s office. The bills are plain generic paper with no readable numbers or letters. The wastebasket and scattered bills fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "The open door of an empty meeting room seen from inside, leading out into a long empty office corridor flooded with pale light, a few empty chairs near the door, quiet stillness, no people, 1950s office building. The doorway and the chairs fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A crowd of office workers in 1950s hats and coats dispersing away from the doors of an office building after an event, each person walking in a different direction, seen from a slightly elevated distance, backs and profiles, nobody looking at each other. The dispersing crowd fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A manager in shirt and tie standing beside a seated workshop employee at a workbench, one hand resting on the employee's shoulder, both looking down together at the work on the bench, patient attentive posture, 1950s small factory. Both figures at the same realistic scale. The two men and the bench fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A manager in shirt and tie leaning over a desk tapping his index finger insistently on a completely blank sheet of paper, explaining the same point once more, while a young employee stands beside the desk with his head slightly lowered, listening, 1950s office. The paper is completely blank with no writing. The two men and the desk fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "An old wall-mounted mechanical punch clock with a wooden rack of many blank time cards beside it on a brick workshop wall, worn from daily use, no people, 1950s factory entrance. All cards completely blank with no printing. The clock and the card rack sit low in the frame, filling the bottom half, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A small 1950s workshop floor running in perfect rhythm: several workers in aprons, each at his own station along a long wooden workbench, all working in synchronized order, nobody supervising, calm productive flow, seen from a modest distance. All figures at the same realistic scale. The bench line and the workers fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A man's hand holding a fountain pen poised over a completely blank sheet of paper on a wooden desk, about to write, an ink bottle nearby, soft side light, no face visible, 1950s office. The page is completely blank with no writing visible. The hand, the pen and the desk fill the bottom third of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A confident business owner in shirt and rolled-up sleeves standing in front of his small gathered team of five workers in a workshop at early morning, mid-briefing, calm command posture, the team listening attentively in a loose half circle, 1950s. All figures at the same realistic scale. The group fills the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A proud business owner standing with his small team in front of their modest workshop storefront in strong early morning light, the owner slightly ahead with arms relaxed, the team beside him with confident posture, facing the camera, 1950s. The storefront has no readable signage of any kind. The group and the storefront fill the bottom half of the frame, bleeding off the bottom edge. The space above is bright, pale, hazy and empty."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "papel": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. Any handwriting or print on paper is faint, blurred, ILLEGIBLE scribble with no readable words or numbers. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "close",
+      "scene": "Interior of a small empty shop at dawn, framed CLOSE from just behind one man in a plain shirt who stands with his back to the camera facing into the dim store, his shoulders and head large in the middle of the frame. The bare wooden counter and empty shelves crowd in tight around him and fill the bottom half of the frame, bleeding off the bottom edge. Beyond him a shop window is blown out with pale white daylight. Only a shallow band across the very top of the image stays bright, pale and hazy, fading to near-white at the top edge. No signage, no lettering, no logos anywhere."
+    },
+    {
+      "n": 2,
+      "kind": "papel",
+      "scene": "An old carbon-copy invoice pad lying open on a worn wooden shop counter, its thin duplicate sheet lifted slightly, a simple pen resting across it and a heavy rubber stamp with its ink pad beside it. Any marks on the paper are faint, blurred and completely illegible. The counter fills the bottom half of the frame and bleeds off the bottom edge. The wall behind and the entire upper part of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 3,
+      "kind": "close",
+      "scene": "An old mechanical cash register drawer pulled wide open and completely empty, its wooden coin and note dividers bare and clean, not a single bill or coin inside. Leaning against the register on the counter is a thick untidy stack of official-looking payment slips and forms. The register fills the bottom half of the frame and bleeds off the bottom edge. No readable characters anywhere on the papers or the machine. The entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 4,
+      "kind": "close",
+      "scene": "A large antique blacksmith bellows of cracked worn leather and dark wood, hanging alone on the rough wall of an empty workshop, its leather folds collapsed and slack. Nothing else on the wall. The bellows fills the lower half of the frame and bleeds off the bottom edge. The wall above and the entire upper part of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 5,
+      "kind": "papel",
+      "scene": "Close view of a man's hands signing a document on a wooden desk, one hand pressing the page flat while the other holds the pen mid-signature. Resting on the desk right beside the paper is an ordinary bunch of house keys on a plain ring. The writing on the page is faint, blurred and completely illegible. The desk and hands fill the bottom half of the frame and bleed off the bottom edge. The entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 6,
+      "kind": "close",
+      "scene": "A small old iron safe standing on a bare concrete floor, its heavy door swung wide open showing a completely empty interior, dust on the shelf inside, paint chipped on the metal. Nothing else in the room. No dial numbers readable, no lettering on the safe. The safe fills the lower half of the frame and bleeds off the bottom edge. The wall behind and the entire upper part of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 7,
+      "kind": "close",
+      "scene": "Close view of a working man's large calloused hands, fingers interlocked, resting still on a plain scratched wooden table. Rolled shirt sleeves at the wrists. No face visible in the frame, cropped at the forearms. The hands and table fill the bottom half of the frame and bleed off the bottom edge. The entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A small improvised stage in a bare hall: a single microphone on a stand under one harsh bright spotlight, an empty low platform, and in front of it rows of cheap folding chairs, every one of them empty, filling the bottom third of the frame and bleeding off the bottom edge. No banners, no signage, no lettering anywhere. The upper part of the hall is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A man sitting on the edge of an unmade bed in a dark bedroom in the middle of the night, elbows on his knees, head down, awake. The rest of the house behind him is unlit. The bed and the man fill the bottom half of the frame and bleed off the bottom edge. Faint pale light comes from a window high in the frame, and the entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A man in a work apron standing completely still and alone in the middle of a busy city sidewalk, arms at his sides, looking straight ahead. Blurred pedestrians stream past him on both sides, none of them looking at him. The sidewalk and figures fill the bottom half of the frame and bleed off the bottom edge. No shop signs, no lettering, no logos anywhere. The upper part of the street is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A man in a plain shirt standing inside a dark empty warehouse at night, holding a flashlight raised in one hand, its narrow beam lighting only one small patch of the far wall while everything around him stays in deep shadow. He fills the lower middle of the frame and bleeds off the bottom edge. Above him the space opens out bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 12,
+      "kind": "close",
+      "scene": "Close view of an old electricity meter and a water meter mounted side by side on a rough plastered warehouse wall, their glass covers dusty, the mechanical dials and spinning disc caught mid-turn, conduit pipes running down beside them. All dial faces are blurred and unreadable with no numbers or lettering visible. The meters and wall fill the bottom half of the frame and bleed off the bottom edge. The wall above and the entire upper part of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 13,
+      "kind": "papel",
+      "scene": "Close view of a man's hands writing a column of figures down a sheet of lined paper on a workbench, pen in the right hand, the left hand flat holding the page steady, under the warm pool of a metal desk lamp. The marks on the paper are faint, blurred and completely illegible. The bench, hands and paper fill the bottom half of the frame and bleed off the bottom edge. The entire upper part of the image is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 14,
+      "kind": "close",
+      "scene": "The inside of a small shop after closing: a corrugated steel roller shutter pulled all the way down, seen from within the dark store, with a thin blade of pale daylight glowing along the gap at the floor. The empty counter sits in shadow in the foreground, filling the bottom third of the frame and bleeding off the bottom edge. No signage, no lettering, no logos. The upper part of the shutter and ceiling are bright, pale, empty and hazy, fading to near-white at the very top edge."
+    },
+    {
+      "n": 15,
+      "kind": "foto",
+      "scene": "Two men standing at the counter of a small shop, one holding a sheet of lined paper up and pointing at it with his finger, the other leaning in, both of them looking at the same page. Any writing on the paper is faint, blurred and illegible. The counter and the two men fill the bottom half of the frame and bleed off the bottom edge. No signage, no lettering, no logos anywhere. The upper part of the shop is bright, pale, empty and hazy, fading to near-white at the very top edge."
+    }
+  ]
+}

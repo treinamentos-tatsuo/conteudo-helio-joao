@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "An empty dirt road at dawn, camera very low at ground level. A single man in simple work clothes walks AWAY from the camera, small in the lower part of the frame, carrying a heavy sack over one shoulder, body leaning into the weight but stepping firmly, dissolving into the haze ahead. Nothing else in the frame. Soft low light, long shadow behind him."},
+    {"n": 2, "kind": "base", "scene": "Before dawn, the bare cement floor by the front door of a simple Brazilian house, camera at floor level. One pair of worn, dusty work boots stands laced and ready by the door, alone, the first grey light of morning coming through the doorway and touching them. Nothing else in the frame; the room dissolves into haze above."}
+  ]
+}

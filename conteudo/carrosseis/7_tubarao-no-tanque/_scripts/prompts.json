@@ -1,0 +1,86 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s Japanese fishing and fish market archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s Japanese fishing archive look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A dense packed school of silver fish standing completely motionless inside a large wooden holding tank, seen from just above the waterline, their bodies filling the bottom third of the frame, the water surface around them perfectly flat with not a single ripple. The water and air above them are pale, washed out and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Wide open ocean seen from behind a weathered wooden boat rail at the very bottom edge of the frame, nothing but flat water stretching to a completely empty horizon, no land, no other vessel. The sky is pale, blown out and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "An old fish market stall at dawn, whole fresh fish laid out in tight neat rows on crushed ice filling the bottom third of the frame, cold vapour rising off the ice. The space above the stall is bright, blown out, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A large riveted wooden holding tank brimming with water on the timber deck of a fishing boat, filling the bottom third of the frame, a few fish hanging motionless just under the still surface, coiled rope beside it. The space above the tank is pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "The surface of standing water, absolutely flat and mirror smooth like glass, not one ripple, a faint reflection of pale sky in it, the dark water filling the bottom third of the frame and bleeding off the bottom edge. The upper half is almost pure white and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A fisherman's weathered bare hands gripping a small shark by the tail and lowering it over the wooden rim of a water tank, the rim and the hands filling the bottom third of the frame. The space above the hands is pale, out of focus and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "Seen from straight above looking down into a water tank: a school of fish caught mid swirl, bodies blurred into circling motion trails, churned white foam and turbulence in the water. The fish and turbulence fill the bottom third of the frame and the water above them is rendered almost pure white, flat and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "One single large fish suspended in a narrow tall glass holding tank, seen from outside through the misted fogged glass, the fish sitting low in the frame, the glass barely wider than its body. The water and glass above the fish are pale, milky, empty and blown out."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "The surface of long forgotten standing water in a tank, coated in a film of scum, dust and floating debris, dull and unmoving, filling the bottom third of the frame and bleeding off the bottom edge. Weak flat light. The upper half of the frame is pale, empty and hazy."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "One single whole fish arranged with obsessive care on a bed of crushed ice on a lacquer serving tray, immaculate presentation, garnish placed precisely, the tray filling the bottom third of the frame. The space above the tray is bright, blown out, empty and hazy."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A single dark dorsal fin slicing the surface of open water, small and far away in the lower middle of the frame, a thin trailing wake behind it, the water around it flat and pale. The whole upper half of the frame is near white, empty water and haze."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "Seen from deep underwater looking up: the enormous dark silhouette of a shark passing directly overhead against the bright glare of the water surface, the animal filling the lower middle of the frame and bleeding off the bottom edge. The upper part of the frame is blinding pale light and empty water."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A fisherman seen from behind, standing at the wooden rim of a large water tank with both hands on the edge, head lowered, looking down into the water inside. He and the tank fill the bottom third of the frame. The space above him is pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A fishmonger's long steel knife and a battered antique hanging balance scale resting on a wet scrubbed wooden cutting board, water beading on the timber, filling the bottom third of the frame. The space above the tools is bright, blown out and empty."
+    },
+    {
+      "n": 15,
+      "kind": "foto",
+      "scene": "One single fish, unmistakably fresh, its scales still bright and wet, lying alone on a bed of crushed ice that fills the bottom third of the frame and bleeds off the bottom edge. The space above it is bright, blown out, hazy and empty."
+    },
+    {
+      "n": 16,
+      "kind": "cutout",
+      "scene": "A lone fisherman in a worn canvas coat and boots standing upright beside a wooden water tank, one hand resting on its rim, looking ahead, water churning inside the tank."
+    }
+  ]
+}

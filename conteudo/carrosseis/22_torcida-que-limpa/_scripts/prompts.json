@@ -1,0 +1,66 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A single blank framed printed plaque hanging slightly crooked on a plain painted office wall, a thin film of dust on the frame, ignored, the wall and the plaque filling the lower part of the frame, soft flat daylight. The plaque surface is blank with no legible text. The upper part of the frame is bright, pale, empty and hazy."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A small group of East Asian football supporters in plain blank shirts with absolutely no crest, no emblem, no logo, no badge and no number of any kind, tidying the folding seats of a stadium grandstand after a match, one of them holding an open translucent rubbish bag and collecting litter, seen from a low angle, their figures filling the bottom third. The open sky above the stand is blown out, pale and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A nearly empty stadium grandstand after a match, two or three supporters bending between the long rows of folding seats collecting litter into bags, scattered paper debris on the concrete steps, filling the bottom third of the frame. The upper stands and the sky are bright, washed out, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "An immaculately clean and empty sports locker room, a bare wooden bench with a neat stack of folded white towels and one small blank handwritten note card left on top of them, rows of lockers behind, filling the bottom third of the frame. The note card is blank with no legible text. The space above the bench is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A row of Japanese schoolchildren in plain uniforms kneeling on a wooden classroom floor, each wiping the boards with a cloth by hand, tin buckets of water beside them, an old mid-century schoolroom, their small figures filling the bottom third of the frame. The tall windows and wall above them are blown out, pale and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "The floor of a small family shop or workshop, a few workers busy at their everyday tasks with the owner standing among them keeping an eye on the work, an ordinary modest small-business interior, the people filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "An unattended shop counter with nobody minding it, loose papers left scattered across it and an old mechanical punch-clock card rack mounted on the wall beside it, quiet and still, filling the bottom third of the frame. No people. The space above the counter is bright, blown out, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "An empty manager's wooden chair pushed back from a plain office desk in a small workplace, the desk and floor filling the bottom third, the modest workspace continuing behind it with no one seated. No people in the chair. The upper part of the frame is pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A single old wooden step or stone threshold deeply worn and hollowed in the middle by decades of repeated footsteps, a tight low still-life, the worn step filling the bottom third of the frame and bleeding off the bottom edge, raking side light showing the groove. The space above it is bright, washed out and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A small team of workers standing close together in a tight circle for a short stand-up morning meeting on a modest shop or factory floor at the start of the day, their figures filling the bottom third of the frame. The space above the group is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "An idle and motionless small workshop, a single machine switched off and a metal roller shutter half lowered over the entrance, no one working, dust hanging in the still air, the quiet floor filling the bottom third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A small-business owner standing in the middle of an engaged, busy team all working together in a lively modest workshop or shop, a sense of momentum and purpose, the group filling the lower half of the frame. The space above the people is bright, pale, hazy and empty."
+    }
+  ]
+}

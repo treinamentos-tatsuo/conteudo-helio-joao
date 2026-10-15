@@ -1,0 +1,88 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the lower part of the frame from the left edge to the right edge, extending past the bottom edge. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus unless the scene says so. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. NO fog, NO mist, NO haze and NO smoke anywhere unless the scene says so. Natural unposed body language. Every box, envelope, card, photograph, certificate or trophy in the scene is PLAIN and UNBRANDED: no printed brand names, no labels, no logos, no legible writing of any kind; any papers or envelopes show only vague illegible marks, never readable letters or numbers, and money never appears. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look. ",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges. ",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit wall in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine plaster texture and absolutely nothing on it: no shelves, no boxes, no doorway, no window, no sign, no ceiling line, no picture, no lamp, no heads, no hooks. The wall is part of the photograph and simply continues upward, staying very pale and uniform to the top edge; the picture must look like it was shot against a bare pale wall in strong daylight. ",
+ "setting": " Setting: Brazil in the 1970s, the world of ordinary working people and small family businesses; the specific place is described in the scene. Only the people explicitly named in the scene appear; nobody else is in the frame. ",
+ "setting_still": " Setting: a still-life photograph, WITH NO PEOPLE AT ALL, in Brazil in the 1970s; the specific place is described in the scene. Absolutely no person, no hand, no arm, no face, no body part, no reflection of anyone anywhere in the frame. ",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the wooden counter of a small Brazilian shop, the owner (a man in his fifties, work apron over his shirt) serves THREE customers at once, a telephone receiver wedged on his shoulder, a pen in his mouth, hands full; the customers' backs to the camera, low in the frame; far behind him, against the bare pale wall, a small empty owner's desk with the chair pushed back. The owner is LARGE, chest up, fully inside the frame, all heads well below the top of the frame."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "Night: the owner, seen from BEHIND, alone, pulling down the corrugated metal roll-up shutter of his shop with both hands, the shutter already two thirds down, keys in his back pocket; the camera is CLOSE and straight on, so that the frame shows ONLY the shutter, the man and the plain pale facade wall above the shutter: no street, no sky, no lamp post, no neighbouring houses, nothing dark at the edges. He is LARGE, fully inside the frame, head well below the top; the facade wall above him is pale, flat and evenly lit."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on the bare pale wall: a single iron nail with a thick, overflowing stack of paper slips, order forms and bills impaled on it, curling and falling, all completely blank or with only vague illegible marks; on a small shelf just below, an old rotary telephone with the receiver OFF the hook, lying beside it. The nail, the papers and the telephone are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "The owner's small wooden desk, EMPTY: the chair pushed back and empty, a visible film of dust on the desktop with no fingerprints, a closed ledger with a pen lying on top untouched, an old desk lamp switched off; against the bare pale wall. The desk and chair are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame: no person, no hands, no faces, no body parts. Pure still life, abandonment.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close on the engine of an old 1970s truck with the hood open, seen from the front: pistons cover, belts, pulleys and hoses, greasy and worn, the engine RUNNING, a slight long-exposure motion blur on the fan and the belt pulley; the open hood stays out of frame above, only the engine bay is visible. The engine is LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "The cab of an old 1970s truck seen from outside through the OPEN driver's window, close: the steering wheel EMPTY, the driver's seat empty, a key hanging in the ignition, the gear stick; nobody inside. The window frame, the wheel and the seat are LARGE, filling the lower part of the frame; above the cab roof line only the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small Brazilian shop, the owner (fifties, WITHOUT apron, shirt sleeves rolled up) stands pointing with an open hand at a small chalkboard on a LOW easel covered with columns of scribbled numbers (completely illegible smudges), speaking to THREE workers in aprons who stand looking at the board; the owner is not at the counter. Everyone LARGE, chest up, fully inside the frame, all heads well below the top of the frame; the chalkboard stays low."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still life on a wooden workbench, seen straight on and close: FOUR pairs of worn canvas work gloves laid in a neat row and, in the CENTER of the row, standing out, a single felt fedora hat, the owner's hat, placed upright on the bench between the gloves; everything well inside the frame with margin on both sides, nothing cut by the edges. The gloves and the hat are LARGE, filling the lower part of the frame, against the bare pale wall. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close on an old mechanical punch clock (time clock) mounted LOW on the bare pale wall: one time card inserted in its slot, visibly more worn and creased than the others in the rack beside it, with a brown coffee-ring stain, all cards completely blank with no printed text; a big old iron shop key hanging on a nail next to the clock. The clock, the card and the key are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner (fifties, shirt sleeves rolled up) sits in the driver's seat of an old 1970s truck, both hands on the steering wheel, looking straight ahead through the windshield with a calm serious face, seen from the front through the open windshield area, chest up, LARGE; through the side window behind him, far and small, TWO workers loading the truck bed. He is fully inside the frame, head well below the top; above the cab only the bare pale wall."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner (fifties, shirt sleeves rolled up) leans deep into the open engine bay of an old 1970s truck, holding a lit hand torch (flashlight) that throws a bright beam onto the engine, his face concentrated, looking closely at the parts; the raised hood stays OUT of frame above, only the engine bay, the man and the torch beam are visible. He is LARGE, chest up, fully inside the frame, head well below the top of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close on the big steering wheel of an old 1970s truck, seen from the empty driver's seat, the camera low and close: the wheel fills the lower center, below it the plain dashboard with round dials (no readable numbers) and the key hanging in the ignition with a leather tag; NO windshield frame, NO roof, NO pillars visible: behind the wheel there is only the bare pale wall of a garage, flat and evenly lit, as if the glass were invisible. The wheel and the dashboard are LARGE, filling the lower part of the frame. NO PEOPLE anywhere in the frame.",
+   "setting": "setting_still"
+  }
+ ]
+}

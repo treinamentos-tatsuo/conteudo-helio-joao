@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;font-family:'Montserrat',sans-serif;color:#fff}
+.p{position:absolute;left:0;width:1080px;height:675px;overflow:hidden}
+.p img{position:absolute}
+.g{position:absolute;inset:0}
+.c{position:absolute;left:50px;right:50px;text-align:center;font-weight:700;font-size:48px;line-height:1.25;letter-spacing:0;text-shadow:0 2px 14px rgba(0,0,0,.6)}
+.blk{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;text-shadow:0 2px 14px rgba(0,0,0,.6)}
+.ln{font-weight:700;line-height:1.05;white-space:nowrap;letter-spacing:0}
+</style></head><body>
+<div class="p" style="top:0">
+  <img src="../../imagens/foto-p1-pb.jpg" style="width:1150px;left:-60px;top:-20px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 45%,rgba(0,0,0,.7) 75%,rgba(0,0,0,.95) 100%)"></div>
+  <div class="blk" style="bottom:150px"><div class="ln ref" style="font-size:66px">Não há nada mais</div><div class="ln fit">extraordinário</div></div>
+</div>
+<div class="p" style="top:675px">
+  <img src="../../imagens/foto-p2-pb.jpg" style="width:1080px;left:0;top:-545px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,.92) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 45%,rgba(0,0,0,.7) 72%,rgba(0,0,0,.95) 100%)"></div>
+  <div class="blk" style="bottom:140px"><div class="ln ref" style="font-size:50px">que fazer o básico bem feito</div><div class="ln fit">todos os dias.</div></div>
+</div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('.blk').forEach(b=>{
+ const r=b.querySelector('.ref'),f=b.querySelector('.fit');const W=r.getBoundingClientRect().width;
+ let fs=40;f.style.fontSize=fs+'px';
+ for(let i=0;i<40;i++){const w=f.getBoundingClientRect().width;fs=fs*W/w;f.style.fontSize=fs+'px';}
+});});
+</script></body></html>

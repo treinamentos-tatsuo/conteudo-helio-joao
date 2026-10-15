@@ -1,0 +1,86 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. The small front porch of a simple family house at dusk, the living room window glowing warm with light, and an empty wooden rocking chair standing still on the porch, nobody in it. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A white-painted wooden door frame inside a simple house with children's height marks drawn in pencil, many short lines climbing year after year (marks only, no readable writing), and a single worn adult work shoe on the floor at its base. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old two-pan scale on a wooden table: on one pan a single house key, on the other a small stack of bills and papers (illegible), the pans almost level. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A closed, dusty ledger book lying on a wooden desk with a pen resting on top of it, untouched for a long time, a thin layer of dust on both. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A small metal wall mailbox mounted low beside a door, its little door hanging open, completely empty inside. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A simple family dinner table: plates already used around it, and at the head of the table a full plate of food gone cold, untouched, the father's chair pushed in and empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Inside an open wooden wardrobe at home, a small home safe with its door wide open and nothing inside. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A wooden farm gate closed with a heavy chain and padlock, a small blank wooden sale sign nailed to the post (no letters), green pasture and a few trees behind. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Seen from BEHIND at night: a business owner in a white shirt standing still in the doorway of his family's small kitchen holding his work briefcase, the warm kitchen light ahead of him, hesitating before going in. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A wooden hourglass on a desk with the sand running down, half empty on top. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An open family photo album on a wooden table, its pages showing small black-and-white snapshots of one child at different ages, from baby to teenager (faces soft and not distinct). NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Close view of an open, neatly organized ledger lying flat on a wooden desk, a ruler and a pen resting across the page, and a business owner's two hands resting on the BOTTOM edge of the book, entering the frame from the bottom edge only (wrists at the bottom border); handwriting blurred and illegible. COMPOSITION DETAIL: the ledger is centered and low in the frame, ending below the middle; nothing enters from the top or the sides; the upper half is plain pale wall."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On the doorstep of a simple house in the morning light: a pair of small children's shoes placed right next to a pair of adult men's dress shoes, side by side. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  }
+ ]
+}

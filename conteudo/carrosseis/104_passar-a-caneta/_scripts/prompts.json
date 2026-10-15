@@ -1,0 +1,85 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small family furniture workshop (marcenaria) in a Brazilian town in the 1970s: heavy wooden workbenches, hand planes, chisels, sawdust on the floor, half-built chairs and tables, a small glass-walled office up on a mezzanine reached by a wooden staircase, a wooden counter with a paper order pad, a metal wall telephone, plain pale plaster walls, harsh side light through tall windows. The father is a stocky man in his sixties with grey hair, a work shirt with sleeves rolled up and a ballpoint pen in the chest pocket; the son is a lean man in his early thirties with dark hair and a plain shirt; the three woodworkers wear aprons. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close-up on the wooden counter: an old weathered hand of a man in his sixties holding a ballpoint pen firmly, the pen tip resting on a paper order pad; right next to it a younger man's hand lying open, palm up, waiting to receive the pen. Both hands and the pen VERY LARGE, filling the lower three quarters of the frame. All writing on the order pad is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines, while the hands and pen stay sharp. Only the hands and forearms are visible, no faces, no bodies. The plain pale wall behind rises into the pale top band."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": false,
+   "scene": "The owner's desk in the small mezzanine office, seen from above at a steep angle: a tall stack of paper order slips piled in the centre, a single ballpoint pen lying on top of the stack, an old black rotary telephone at the side, a tin mug. The desk VERY LARGE filling the lower three quarters of the frame from edge to edge. All writing on the slips is completely BLURRED and ILLEGIBLE, soft grey smudges. The pale desk surface and wall fade upward into the pale top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": true,
+   "scene": "The father, stocky, sixties, sleeves rolled up, pen in his chest pocket, standing at a workbench with his index finger pointed hard at a half-built wooden chair on the bench, mouth open mid-reprimand; beside him the son, early thirties, standing silent with his arms at his sides and eyes down; behind them three woodworkers in aprons have stopped working and are watching. Everyone LARGE and CLOSE, chest up, all heads complete with clear pale space above."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": true,
+   "scene": "The camera is HIGH, level with the mezzanine floor, so the glass-walled mezzanine office sits LOW in the frame, its roof line no higher than the MIDDLE of the frame; the ENTIRE UPPER THIRD of the frame is bare pale plaster wall and bright window light with nothing in it. A woodworker in an apron climbs the last steps of the wooden staircase toward the office door, an order slip held up in his hand, his back half turned to the camera; inside the glass office, clearly visible, the FATHER, a stocky grey-haired man in his sixties, sits alone at the desk waiting, the only person in the office; in the lower foreground at the foot of the stairs the son, early thirties, dark hair, stands at a workbench with a chisel in hand, looking up at the man walking past him without stopping. Nobody else near the son. Heads complete, nobody cropped, nobody touching the left or right edges. The order slip is a plain paper rectangle with completely BLURRED and ILLEGIBLE marks."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": true,
+   "scene": "The father and the son seated at the two far ends of a long plain wooden table in the workshop, facing each other across the length of the table, both with their arms crossed, neither looking at the paper order pad lying exactly in the middle of the table between them. Both LARGE, chest up, heads complete with clear pale space above; the table runs from the left edge to the right edge. Writing on the pad completely BLURRED and ILLEGIBLE."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "scene": "A worn work shirt hanging from a single nail on a plain pale plaster wall, the shirt VERY LARGE filling the lower three quarters of the frame; in its chest pocket a single ballpoint pen, clearly visible. Nothing else on the wall. The wall fades upward into the pale top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": false,
+   "scene": "A single ballpoint pen lying diagonally on a completely blank sheet of white paper on a rough wooden workbench, curls of wood shavings and sawdust scattered around the sheet. The sheet and pen VERY LARGE filling the lower three quarters of the frame. The paper is entirely BLANK, no marks, no lines. The pale bench surface fades upward into the pale top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": true,
+   "scene": "THIS SCENE IS NOT IN THE WORKSHOP. Sunday family lunch inside a modest Brazilian home dining room in the 1970s: plain pale plaster wall, a wooden sideboard with a lace doily and a framed photo, a window with a lace curtain. Seen from the side along a long wooden dining table: the father, stocky, sixties, grey hair, in a clean short-sleeved shirt, at the head of the table with his hands flat on the table; the son, early thirties, his young wife and the mother seated along the sides; plates served, a pot of rice, a bowl of beans and a jug of juice in the middle; nobody is talking, everyone looking down at their plates. No aprons, no tools, no sawdust, no woodwork. People LARGE and CLOSE, chest up, all heads complete with clear pale wall above."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": false,
+   "scene": "Extreme close-up at a workbench: a pair of old, thick, calloused hands passing a wooden hand plane to a pair of younger hands, the four hands meeting on the tool in the middle of the frame, sawdust on the bench below. Hands and plane VERY LARGE filling the lower three quarters of the frame. Only hands and forearms, no faces, no bodies. The pale wall behind rises into the pale top band."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": true,
+   "scene": "The son, early thirties, at the wooden counter signing a paper order pad with his own ballpoint pen, focused, sleeves rolled up; further back in the workshop the father, sixties, with his back fully turned to the camera, bent over a workbench planing a board, not looking. Both LARGE and CLOSE, the son chest up in the foreground, heads complete with clear pale space above. Writing on the pad completely BLURRED and ILLEGIBLE."
+  },
+  {
+   "n": 11,
+   "base": "base",
+   "cinema": false,
+   "scene": "The small office desk with a thick open notebook in the centre and two plain wooden chairs, one on each side of the desk facing each other, a pen lying across the notebook. Desk and chairs VERY LARGE filling the lower three quarters of the frame. All writing in the notebook completely BLURRED and ILLEGIBLE, soft grey smudged lines. The pale wall behind rises into the pale top band. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only."
+  },
+  {
+   "n": 12,
+   "base": "base",
+   "cinema": true,
+   "scene": "The father, sixties, sleeves rolled up, standing in the foreground on the workshop floor with his arms folded, watching with a faint calm expression; in the background the son, early thirties, stands at a workbench pointing at a board while two woodworkers in aprons listen to him. Everyone LARGE, chest up, heads complete with clear pale space above; the father on the LEFT side, the group on the RIGHT."
+  },
+  {
+   "n": 13,
+   "base": "base",
+   "cinema": true,
+   "scene": "The father, sixties, sitting on a simple wooden chair outside the open workshop door in bright sunlight, relaxed, hands resting on his knees, his work shirt chest pocket EMPTY with no pen in it, looking at the camera; through the open doorway behind him the workshop is busy, the son and woodworkers at the benches. The father LARGE and CLOSE, chest up, head complete with clear pale sky above."
+  }
+ ]
+}

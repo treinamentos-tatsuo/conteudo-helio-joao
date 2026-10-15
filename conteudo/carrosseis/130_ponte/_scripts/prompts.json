@@ -1,0 +1,16 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {
+      "n": 3,
+      "kind": "base",
+      "scene": "A wide, flat river bank at dawn: a strip of bare sand and short grass in the lower part of the frame, and beyond it the river as a smooth, dark, flat band of water stretching across, the far bank lost in haze. On the near bank, small and alone, a single person sits on the ground seen from BEHIND, knees up, arms around the knees, looking at the river, waiting. Nothing else in the frame. Soft low light."
+    },
+    {
+      "n": 4,
+      "kind": "base",
+      "scene": "The very edge of a river at dawn, camera low at ground level: pale wet sand in the foreground, the dark flat water beginning a little further in and stretching to the horizon lost in haze. On the sand, close to the camera, one pair of old worn rubber flip-flops (chinelos) left side by side, facing the water, as if someone sat there a long time. No people. Nothing else in the frame. Soft low light, long shadows."
+    }
+  ]
+}

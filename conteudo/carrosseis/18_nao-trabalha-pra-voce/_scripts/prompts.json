@@ -1,0 +1,61 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary look. The subjects are fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind them. Full figures visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A dignified working man in a simple work apron with rolled-up sleeves standing calmly and looking ahead into the distance with quiet self-respect, seen at a three-quarter angle, honest and unglamorous, filling the lower third of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A pair of worn calloused working hands gripping the wooden handle of a broom or a hand tool over a scuffed workbench, the humble tools of a trade around them, filling the bottom third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A working man in overalls standing tall and upright with one hand resting flat on his own chest, shoulders back, a look of quiet self-possession and dignity, alone, filling the lower third of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A young working man in work clothes climbing a flight of worn concrete stairs, caught mid-step going upward with a tool bag in his hand, filling the lower third of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "An older business owner in shirtsleeves standing side by side with a younger worker on a shop floor, gesturing with his open hand as he explains and points something out, the two men together in the lower part of the frame, a mentoring moment. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A working man tying his work apron and squaring his shoulders, standing proudly and looking around his own workplace as if he owns the place, filling the lower third of the frame. The space above him is pale, empty and hazy."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "The open front door of a small modest shop or workshop with an open sign hanging, seen from outside, a hint of people busy working inside, the storefront filling the lower part of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A proud new small-business owner standing in front of his own little shop with his arms crossed, a small team of workers visible at work behind him inside, filling the lower part of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A working-class family gathered together around a simple wooden dinner table sharing a modest meal, warm, close and dignified, seen filling the lower part of the frame. The space above them is pale, empty and hazy."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A workshop owner walking through his own shop floor with a proud satisfied expression, workers busy at their stations on either side of him, filling the lower part of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 11,
+      "kind": "cutout",
+      "scene": "A united team of five working people of a small business standing together shoulder to shoulder in aprons and work clothes, looking ahead in the same direction with confidence, full figures."
+    }
+  ]
+}

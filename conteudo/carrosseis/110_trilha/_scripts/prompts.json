@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. SQUARE 1:1 aspect ratio. Dense morning haze; the ENTIRE UPPER THIRD of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "A narrow footpath of bare, hard-packed earth worn through tall dry grass on an empty lot at the edge of a Brazilian town, camera extremely low, almost resting on the trodden dirt, looking along the path. The path is smooth and dark from years of feet, the grass on both sides tall and rough, brushing the lens. Far along the path, tiny and out of focus, a single figure walks AWAY from the camera, seen from behind, dissolving into the haze. Hard low side light raking across the packed earth. No faces, no text."},
+    {"n": 2, "kind": "base", "scene": "A city square lawn in Brazil: a proper concrete sidewalk curves around the grass at the left, but a bare-earth shortcut path cuts straight across the lawn, worn down to packed dirt by years of people ignoring the sidewalk. Camera extremely low at ground level on the dirt path, looking along it. The grass on both sides is trimmed but the path is hard, dark and smooth. Far along it, small and out of focus, a person walks away from the camera, seen from behind. The square dissolves into the haze. Hard low side light. No faces, no text."}
+  ]
+}

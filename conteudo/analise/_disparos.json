@@ -1,0 +1,600 @@
+{
+ "_fonte": "painel Manychat (app.manychat.com > Automacao), leitura manual — nao ha API. Atualizar a cada ritual.",
+ "_lido_em": "2026-10-13 12:20",
+ "DONO": {
+  "disparos": 6,
+  "ctr": "83,3%",
+  "post": "64_come-antes-de-voce",
+  "utm": true
+ },
+ "LEVE": {
+  "disparos": 14,
+  "ctr": "42,9%",
+  "post": "60_solidao-da-presidencia",
+  "utm": true
+ },
+ "LUCRO": {
+  "disparos": 20,
+  "ctr": "65%",
+  "post": "reel_casas-bahia",
+  "utm": true
+ },
+ "PATRAO": {
+  "disparos": 4,
+  "ctr": "50%",
+  "post": "58_cliente-virou-patrao",
+  "utm": true
+ },
+ "PILOTO": {
+  "disparos": 2,
+  "ctr": "100%",
+  "post": "50_piloto-automatico",
+  "utm": true
+ },
+ "CULTURA": {
+  "disparos": 30,
+  "ctr": "50%",
+  "post": "roteiro4_explica-mil-vezes",
+  "utm": true
+ },
+ "SONHO": {
+  "disparos": 15,
+  "ctr": "60%",
+  "post": "184_sonho-do-funcionario",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "LADRAO": {
+  "disparos": 1,
+  "ctr": "100%",
+  "post": "52_ladrao-silencioso",
+  "utm": false
+ },
+ "ESTRELA": {
+  "disparos": 30,
+  "ctr": "50%",
+  "post": "50_vendedor-estrela",
+  "utm": false
+ },
+ "ESCONDIDA": {
+  "disparos": 6,
+  "ctr": "66,7%",
+  "post": "51_empresa-escondida",
+  "utm": false
+ },
+ "DRAGA": {
+  "disparos": 7,
+  "ctr": "57,1%",
+  "utm": false,
+  "post": "50_draga"
+ },
+ "DNA": {
+  "disparos": 4,
+  "ctr": "100%",
+  "utm": false,
+  "post": "51_piloto-automatico"
+ },
+ "ROTINA": {
+  "disparos": 2,
+  "ctr": "0%",
+  "utm": false,
+  "post": "49_treinamento-diario"
+ },
+ "FOME": {
+  "disparos": 71,
+  "ctr": "45,1%",
+  "post": "69_camelo",
+  "utm": true
+ },
+ "CONSTANCIA": {
+  "disparos": 1,
+  "ctr": "0%",
+  "post": "72_nao-tem-opcao",
+  "utm": true
+ },
+ "RESPEITO": {
+  "disparos": 1,
+  "ctr": "100%",
+  "post": "68_concurso-de-popularidade",
+  "utm": true
+ },
+ "FIRME": {
+  "disparos": 5,
+  "ctr": "60%",
+  "post": "62_perna-que-falta",
+  "utm": true
+ },
+ "VENDA": {
+  "disparos": 5,
+  "ctr": "40%",
+  "post": "61_um-setor-so",
+  "utm": true
+ },
+ "FOLGA": {
+  "disparos": 4,
+  "ctr": "75%",
+  "post": "63_dois-cansacos",
+  "utm": true
+ },
+ "LEAL": {
+  "disparos": 86,
+  "ctr": "33,7%",
+  "post": "75_lealdade-nao-vem-em-contrato",
+  "utm": true,
+  "cliques": 29
+ },
+ "LIVE-ESTATICO": {
+  "disparos": 5,
+  "ctr": "100%",
+  "utm": true,
+  "post": "74_de-graca",
+  "campanha": "2026-08-31-LIVE-ESTATICO",
+  "estado": "STOPPED (live ja passou)"
+ },
+ "LIVE-CARROSSEL": {
+  "disparos": 4,
+  "ctr": "50%",
+  "utm": true,
+  "post": "73_fechamento-do-mes",
+  "campanha": "2026-08-31-LIVE-CARROSSEL",
+  "estado": "STOPPED (live ja passou)"
+ },
+ "LIQUIDO": {
+  "disparos": 357,
+  "ctr": "49,6%",
+  "post": "77_risco-tem-dono",
+  "utm": true,
+  "cliques": 177
+ },
+ "VIRADA": {
+  "disparos": 6,
+  "ctr": "50%",
+  "post": "79_dia-da-virada",
+  "utm": true
+ },
+ "307": {
+  "disparos": 4,
+  "ctr": "25%",
+  "utm": true,
+  "post": "144_ler-o-negocio-repost"
+ },
+ "_nota_utm": "LIQUIDO e LEAL verificados no link em 02/09: utm_campaign no formato data-PALAVRA (2026-09-01-LIQUIDO). O GHL grava tambem em minusculas — casar case-insensitive.",
+ "DIVIDENDO": {
+  "disparos": 248,
+  "ctr": "58,1%",
+  "post": "94_emprego-caro",
+  "utm": true,
+  "lido_em": "2026-09-14"
+ },
+ "ESTRUTURA": {
+  "disparos": 80,
+  "ctr": "62,5%",
+  "post": "95_cansado-demais-repost",
+  "utm": true,
+  "lido_em": "2026-09-14"
+ },
+ "BASICO": {
+  "disparos": 176,
+  "ctr": "61,9%",
+  "utm": true,
+  "post": "143_basico-repost"
+ },
+ "DONO-2026-09-06": {
+  "disparos": 1,
+  "ctr": "0%",
+  "post": "91_caminho-mais-dificil",
+  "utm": true,
+  "lido_em": "2026-09-14",
+  "palavra": "DONO"
+ },
+ "RECOMPENSA": {
+  "disparos": 29,
+  "ctr": "55,2%",
+  "post": "97_pressao-repost",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "NUMERO": {
+  "disparos": 4,
+  "ctr": "50%",
+  "post": "98_comeca-assim-repost",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "DIAGNOSTICO-1": {
+  "disparos": 2,
+  "ctr": "50%",
+  "post": "100_gente-boa-repost",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "SUCESSAO": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "104_passar-a-caneta",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "PREPARO-2026-09-09": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "reel_kongo-gumi",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "LIDER": {
+  "disparos": 4,
+  "ctr": "50%",
+  "post": "105_so-o-time-nomeia",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "PEQUENO": {
+  "disparos": 16,
+  "ctr": "87,5%",
+  "post": "107_outro-bicho",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "DIAGNOSTICO-3": {
+  "disparos": 6,
+  "ctr": "66,7%",
+  "post": "106_nao-foi-dinheiro",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "DIAGNOSTICO-4": {
+  "disparos": 4,
+  "ctr": "25%",
+  "post": "111_loja-cheia",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "GENTE-2026-09-11": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "reel_google-aristoteles",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "DIAGNOSTICO-5": {
+  "disparos": 7,
+  "ctr": "14,3%",
+  "post": "114_limitada",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "AUTOMATICO": {
+  "disparos": 21,
+  "ctr": "38,1%",
+  "post": "115_todas-as-vezes",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "MACHADO": {
+  "disparos": 13,
+  "ctr": "76,9%",
+  "post": "118_afiar-o-machado",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "CLIMA": {
+  "disparos": 6,
+  "ctr": "66,7%",
+  "post": "117_domingo-a-noite",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "SOBERANO": {
+  "disparos": 7,
+  "ctr": "42,9%",
+  "post": "120_ultimo-da-fila",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "ORGULHO": {
+  "disparos": 9,
+  "ctr": "77,8%",
+  "post": "116_lenha-primeiro",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "CHATO": {
+  "disparos": 149,
+  "ctr": "51%",
+  "post": "132_ser-dono-e-ser-chato-repost",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "RAIO-X": {
+  "disparos": 36,
+  "ctr": "66,7%",
+  "post": "164_so-sobrou-a-casa",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "FOGUETE": {
+  "disparos": 2,
+  "ctr": "50%",
+  "post": "126_foguete-pra-lua",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "COMBINADO": {
+  "disparos": 48,
+  "ctr": "39,6%",
+  "post": "125_nada-pessoal",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "PONTE": {
+  "disparos": 174,
+  "ctr": "50%",
+  "post": "123_ponte-do-sonho",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "RAIZ": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "119_problema-de-lugar",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "LENHA": {
+  "disparos": 51,
+  "ctr": "51%",
+  "post": "122_lenha-no-funcionario",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "REMUNERADO": {
+  "disparos": 17,
+  "ctr": "58,8%",
+  "post": "121_nao-e-caridade",
+  "utm": true,
+  "lido_em": "2026-09-21"
+ },
+ "BRILHO": {
+  "disparos": 51,
+  "ctr": "56,9%",
+  "post": "182_quem-nao-brilha",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "GARANTIA": {
+  "disparos": 111,
+  "ctr": "44,1%",
+  "post": "183_passa-fome",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "EXEMPLO": {
+  "disparos": 13,
+  "ctr": "84,6%",
+  "post": "172_tres-regras",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "MBV": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "173_dia-do-vendedor",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "VINCULO": {
+  "disparos": 14,
+  "ctr": "42,9%",
+  "post": "171_almoco-de-terca",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "BASTIDOR": {
+  "disparos": 2,
+  "ctr": "100%",
+  "post": "169_bastidor",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PADRAO": {
+  "disparos": 5,
+  "ctr": "60%",
+  "post": "165_telefone-sem-fio",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "ADULTO": {
+  "disparos": 7,
+  "ctr": "57,1%",
+  "post": "167_crianca",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PROBLEMA": {
+  "disparos": 27,
+  "ctr": "59,3%",
+  "post": "146_problema-bom",
+  "utm": true,
+  "lido_em": "2026-10-12"
+ },
+ "PODIO": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "151_senna-no-fusca",
+  "utm": true,
+  "lido_em": "2026-10-10"
+ },
+ "BOLSO": {
+  "disparos": 3,
+  "ctr": "66,7%",
+  "post": "149_lucro-no-papel",
+  "utm": true,
+  "lido_em": "2026-10-10"
+ },
+ "SOBRA": {
+  "disparos": 31,
+  "ctr": "74,2%",
+  "post": "ext_ta-foda-empreender",
+  "utm": true,
+  "lido_em": "2026-10-10"
+ },
+ "DIAGNOSTICO": {
+  "disparos": 2,
+  "ctr": "50%",
+  "utm": true,
+  "post": "reel_erro-de-promocao"
+ },
+ "DRE": {
+  "disparos": 9,
+  "ctr": "66,7%",
+  "utm": true,
+  "post": "141_crise-pra-culpar"
+ },
+ "MODELO": {
+  "disparos": 4,
+  "ctr": "25%",
+  "utm": true,
+  "post": "140_pessimo-negocio"
+ },
+ "FOCO": {
+  "disparos": 18,
+  "ctr": "72,2%",
+  "post": "189_foco",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "ESCOLA": {
+  "disparos": 1,
+  "ctr": "100%",
+  "post": "188_escola",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "AGORA": {
+  "disparos": 15,
+  "ctr": "53,3%",
+  "post": "179_cenoura",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "ENTREGA": {
+  "disparos": 4,
+  "ctr": "75%",
+  "post": "180_folha-duas-vezes",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "VERDADE": {
+  "disparos": 16,
+  "ctr": "56,3%",
+  "post": "202_deus-nao-e-argumento-de-venda",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "CLAREZA": {
+  "disparos": 3,
+  "ctr": "33,3%",
+  "post": "220_seis-verdades",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PEGADA": {
+  "disparos": 8,
+  "ctr": "62,5%",
+  "post": "195_pegadas",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "REI": {
+  "disparos": 1,
+  "ctr": "100%",
+  "post": "sem-ficha (reel 08/10 \"ideia bonita todo mundo tem\", execução)",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "MAESTRO": {
+  "disparos": 7,
+  "ctr": "57,1%",
+  "post": "204_maestro-em-gente",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PROSPERO": {
+  "disparos": 7,
+  "ctr": "100%",
+  "post": "199_regra-numero-um",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PULSO": {
+  "disparos": 14,
+  "ctr": "42,9%",
+  "post": "200_empresario-nutella",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "GANA": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "198_remedio-pro-desmotivado",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PORTA": {
+  "disparos": 4,
+  "ctr": "0%",
+  "post": "148_porta-de-saida",
+  "utm": true,
+  "lido_em": "2026-10-10"
+ },
+ "VENDER": {
+  "disparos": 2,
+  "ctr": "50%",
+  "post": "158_mbv-dia-2-vender",
+  "utm": true,
+  "lido_em": "2026-10-10"
+ },
+ "RUMO": {
+  "disparos": 0,
+  "ctr": "N/A",
+  "post": "205_sem-direcao",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "PLACAR": {
+  "disparos": 11,
+  "ctr": "72,7%",
+  "post": "206_arquibancada-grita",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "GRANDE": {
+  "disparos": 12,
+  "ctr": "58,3%",
+  "post": "201_fe-de-empresario",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "NORTE": {
+  "disparos": 3,
+  "ctr": "66,7%",
+  "post": "207_empresario-coelho",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "DEZEMBRO": {
+  "disparos": 10,
+  "ctr": "60%",
+  "post": "226_decimo-terceiro-do-dono",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ },
+ "BASE": {
+  "disparos": 1,
+  "ctr": "100%",
+  "post": "218_terceirizar-no-escuro",
+  "utm": true,
+  "lido_em": "2026-10-13"
+ }
+}

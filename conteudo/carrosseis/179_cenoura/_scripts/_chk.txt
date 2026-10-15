@@ -1,0 +1,12 @@
+[01] texto ate y=452 | assunto comeca y=878 | gap=426px | VAO MORTO (426px de deserto)
+[02] texto ate y=551 | assunto comeca y=973 | gap=422px | VAO MORTO (422px de deserto)
+[03] texto ate y=496 | assunto comeca y=722 | gap=226px | ok
+[04] texto ate y=496 | assunto comeca y=758 | gap=262px | VAO MORTO (262px de deserto)
+[05] texto ate y=496 | assunto comeca y=710 | gap=214px | ok
+[06] texto ate y=424 | assunto comeca y=726 | gap=302px | VAO MORTO (302px de deserto)
+[07] texto ate y=538 | assunto comeca y=908 | gap=370px | VAO MORTO (370px de deserto)
+[08] texto ate y=401 | assunto comeca y=943 | gap=542px | VAO MORTO (542px de deserto)
+[09] texto ate y=496 | assunto comeca y=714 | gap=218px | ok
+[10] texto ate y=538 | assunto comeca y=936 | gap=398px | VAO MORTO (398px de deserto)
+[11] texto ate y=538 | assunto comeca y=696 | gap=158px | ok
+[12] texto ate y=496 | assunto comeca y=774 | gap=278px | VAO MORTO (278px de deserto)

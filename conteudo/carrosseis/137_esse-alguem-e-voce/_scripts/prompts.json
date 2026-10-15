@@ -1,0 +1,98 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "A young worker in plain work clothes ASLEEP, deeply and peacefully, in a hammock on the porch of a simple Brazilian house at night, one arm hanging down, a flip-flop fallen on the floor, his face turned away and hidden by his arm and the hammock's edge; no face visible. He is LARGE in the lower half of the frame; the bare pale wall of the house above."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a Brazilian man in his fifties in a short-sleeved dress shirt, sitting ALONE at his desk at night in a small office, one hand pressed to his forehead, papers spread open under a single desk lamp; behind him the other desks are empty and dark. LARGE, chest up, head in the lower half of the frame; the bare pale wall continuing above."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Before dawn at an open-air produce market: a strong man of about forty in a flat cap, sleeves rolled, loading wooden crates of vegetables onto the back of a pickup truck, arms full, grinning with effort; crates stacked around him. LARGE, chest up, head in the lower half; the flat pale pre-dawn sky above as one bare surface."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "Family dinner table in a simple Brazilian home at night: the wife talking with her hands, a boy of about ten eating, and the owner, a man in his fifties, staring down at his plate in silence, fork resting still in his hand. All three LARGE, chest up, heads in the lower half of the frame; the bare pale wall of the dining room above."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: a stack of thick brown kraft pay envelopes on a wooden desk and, beside it, an open tin cash box almost EMPTY, a few coins and one folded note inside; a mechanical calculator next to it. The desk objects are LARGE in the lower half of the frame; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: a bedside table at night with the lamp ON, a big ring of shop keys, a brown kraft envelope and a full glass of water, untouched; the corner of a pillow at the edge. Objects LARGE in the lower half of the frame; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "A man in a plain undershirt seen FROM BEHIND, standing at the kitchen sink at night drinking a glass of water, the house dark behind him, only the small kitchen light on; back to camera, no face. LARGE, shoulders up, head in the lower half of the frame; the bare pale wall above."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: an old ledger book lying OPEN on a desk with its pages BLANK (no numbers, no lines of writing), a pencil with a broken tip, a pair of reading glasses resting on the page, a desk lamp lit beside it. Objects LARGE in the lower half of the frame; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: seen from the empty street at night, the roll-up metal door of a small shop lowered HALFWAY, warm light spilling out from inside onto the sidewalk; the street dark and empty, no cars. The door and sidewalk fill the lower half of the frame; the plain pale facade wall continues above. NO PEOPLE."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a man in his fifties in an undershirt, sitting at the kitchen table in the middle of the night, a notebook CLOSED in front of him, both hands covering his face, an empty coffee cup beside him. LARGE, chest up, head in the lower half of the frame; the bare pale kitchen wall above."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: a closed notebook with a pen lying on top of it and a small wind-up alarm clock (no numbers) beside it on a bedside table, soft morning light coming in from the side, the lamp OFF. Objects LARGE in the lower half of the frame; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "Early morning in a small business: the owner and three employees STANDING around a table, coffee cups in hand, a notebook of figures open in the middle (illegible marks only), the owner pointing at a line with a pencil; a standing meeting. All LARGE, chest up, heads in the lower half of the frame; the bare pale wall above."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "A bedroom at night: the owner, a man in his fifties, lying in bed on his back with his eyes OPEN staring at the ceiling, hands crossed on his chest; beside him his wife asleep, turned away, only her shoulder and hair visible under the sheet; lamp off, faint light from the window. The bed and the couple fill the lower half of the frame; the bare pale wall above."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "A man in his fifties sleeping peacefully on his side in bed, face relaxed, the bedside lamp OFF and a closed notebook on the bedside table; morning light beginning. He is LARGE in the lower half of the frame, head low; the bare pale wall above."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a man in his fifties in a clean short-sleeved shirt, standing in the open doorway of his small business early in the morning, a cup of coffee in his hand, rested, looking STRAIGHT INTO THE CAMERA with a calm expression. LARGE, chest up, head in the lower half of the frame; the plain pale facade wall continuing above."
+  }
+ ]
+}

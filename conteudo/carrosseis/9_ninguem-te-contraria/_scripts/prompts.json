@@ -1,0 +1,81 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s old woodworking workshop archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1940s-1960s old woodworking workshop archive look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A long empty wooden boardroom meeting table stretching into the frame, a row of empty chairs down each side and one single lone empty chair set apart at the far head of the table, a deserted meeting room. The table and chairs fill the lower portion of the frame. The space above is bright, blown out, hazy and completely empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Two people standing close together in a narrow office corridor, one leaning in to whisper into the other's ear with a hand raised near the mouth, both glancing sideways as if sharing a secret, conspiratorial and hushed. The two figures stand low in the frame, shown from roughly the waist up at the bottom. The whole upper half of the corridor above their heads is bright, blown out, pale and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A confident boss in shirt and tie standing alone in the foreground with his back to the camera, and just beyond him a small group of employees who have fallen silent and turned their faces away from him, avoiding his eyes, no one speaking to him. The figures stand low in the frame. The whole upper half of the image above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "Two low wooden workshop stools standing on a bare concrete floor, turned to face each other, both empty, occupying the bottom third of the frame. The space above them is bright, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A single self-assured craftsman standing alone with his arms crossed, looking down with quiet pride at one finished piece of his own work resting on the bench in front of him, nobody else around, calm and certain of himself. The man and bench fill the lower third of the frame. The whole space above him is bright, pale and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A tiny modest one-man carpentry workshop shown as a whole, a single small cramped workbench with a few hand tools, one stool, humble and old-fashioned, clearly the workplace of a single person. It fills the lower portion of the frame. The whole upper half is bright, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "An enormous timber frame structure under construction, massive wooden beams and scaffolding seen from below, the heavy beams filling the bottom of the frame and rising upward, the space between them blown out to near white and empty at the top."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A metal measuring tape stretched out across a wooden board that has already been cut, a pencil mark visible on the timber, the board and tape filling the bottom third of the frame. Above it, pale, blown out, empty space."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A wooden board planed down far too thin until it is fragile, a heap of curled wood shavings piled around it on the bench, filling the bottom third of the frame. Above it the space is bright, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A tall dusty workshop window with hard sunlight pouring through it, a visible beam of light cutting through sawdust floating in the air, the edge of a workbench at the very bottom of the frame. The upper half of the image is blown out to near white."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A plumb bob hanging perfectly still on its string against a rough brick wall, the heavy pointed bob low in the frame, a long hard shadow beside it. The wall above is pale, washed out and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A metal try square resting on a wooden board with a pair of weathered working hands adjusting its position, hands and tool filling the bottom third of the frame. Above them, pale, empty space."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A rough uncut plank of raw timber resting across two wooden trestles, bark still on the edge, not a single cut in it, filling the bottom third of the frame. Above it, bright, hazy, empty space."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "An abandoned workshop, hand tools thick with dust and an old sheet draped over a machine, cobwebs stretched between them, filling the bottom third of the frame, heavy dust hanging in the air. The upper half is blown out, pale and empty."
+    },
+    {
+      "n": 15,
+      "kind": "cutout",
+      "scene": "A man in a carpenter's apron standing upright, a hand tool held in one hand, looking down at an unfinished wooden piece he is holding in the other, full figure."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# Imagens do banco de referências e outputs de carrossel — ficam fora do Git,
+# sincronizadas via pasta do Google Drive (ver CLAUDE.md > Sincronização)
+conteudo/carrosseis/**/*.png
+conteudo/carrosseis/**/*.jpg
+conteudo/carrosseis/**/*.jpeg
+
+# Segredos da API do Instagram — o token vive em ~/.tatsuo/ (fora do repo),
+# mas ignoramos qualquer resquício local por segurança.
+ig-token.json
+**/*secret*
+.tatsuo/
+
+# Transcrições do MBV — matéria-prima bruta (IP sensível: é o treinamento pago).
+# Fica só na máquina local. Só o banco de temas DERIVADO vai pro Git.
+_contexto/transcricoes-mbv/
+
+# Banco de scouting do MBV — preserva a fala original do Hélio (IP sensível).
+# Local only. Uma versão "limpa" (só tese+tema) pode ser derivada pro Git depois.
+_contexto/banco-scouting-mbv/
+
+# Sistema
+.DS_Store
+node_modules/
+
+.claude/settings.local.json
+
+# Log do proxy de geracao de imagem (openai-oauth)
+proxy.log
+_update.log
+
+# Extração de leads do CRM (PII: nome/email/telefone) — local only.
+# Cada máquina gera o seu via scripts/ghl/pull_leads.py (credenciais em ~/.config/tatsuo/).
+conteudo/analise/leads.json
+
+# Miniaturas do relatorio semanal: derivadas dos PNGs de capa, que ja sao ignorados acima.
+conteudo/analise/_miniaturas/
+
+# material do treinamento pago (não versionar)
+_contexto/apostila-mbv/

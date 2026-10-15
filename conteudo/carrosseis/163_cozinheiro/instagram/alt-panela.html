@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  .slide{ width:1080px; height:1350px; position:relative; overflow:hidden;
+    background:#F5F0EB url("../../_banco-referencias/background para carrosséis.png") center/cover no-repeat;
+    font-family:'Source Serif Pro',serif; }
+  .top{ position:absolute; left:0; right:0; padding:0 36px; text-align:center; z-index:2; }
+  .line{ white-space:nowrap; font-size:44px; line-height:1.3; font-weight:700; color:#1A1A1A; }
+  .wrap{ position:absolute; top:0; left:0; width:1080px; height:1350px; overflow:hidden; mix-blend-mode:multiply; z-index:1;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 26%);
+    mask-image:linear-gradient(to bottom,transparent 0%,#000 26%); }
+  .wrap img{ position:absolute; bottom:0; left:0; width:100%;  }
+</style>
+</head>
+<body>
+  <div class="slide">
+    <div class="wrap"><img src="../imagens/img-02.png" alt="" style="position:absolute;bottom:0;left:0;width:100%;mix-blend-mode:multiply;-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 26%);mask-image:linear-gradient(to bottom,transparent 0%,#000 26%);z-index:1;"></div>
+    <div class="top" style="top:300px"><div class="line">Cozinheiro bom prova antes de servir.</div></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+PROMPT DO VIDRO — o mesmo usado em 214, 216, 227 e 228 (literal do 228, 12/10).
+Trocar SÓ: as linhas entre aspas simples (<PRETO 1>, <PRETO 2>, <VERMELHO 1>, <VERMELHO 2>) e a frase dos acentos.
+Não mexer no resto: posição (à esquerda da emenda, um pouco acima do meio), desfoque do fundo e textura da tinta
+já estão acertados e aprovados.
+Se a frase pedir 3 linhas por cor (como no 210), trocar "exactly these four lines" por "exactly these six lines"
+e acrescentar a 3ª linha de cada cor.
+Base: imagens/base-vidro.png (cópia de .claude/skills/frase-foto/bases/vidro-base-mid.png).
+
+----- copiar daqui pra baixo -----
+Keep this photo's framing, glass wall and office. Make the office and the people behind the glass much more out of focus (strong shallow depth of field, soft bokeh), so the writing on the glass is the sharp subject. On the large central glass panel, LEFT of the vertical glass seam on the right side (never crossing it), write by hand with whiteboard markers directly on the glass, centered slightly ABOVE the middle height of the frame (not near the ceiling), medium size, exactly these four lines, all capital letters, spelled exactly: in BLACK marker '<PRETO 1>' / '<PRETO 2>' then a small gap, in RED marker '<VERMELHO 1>' / '<VERMELHO 2>' Keep the accents on <PALAVRAS COM ACENTO>; no other accents, no other words. Real human handwriting with a slightly worn marker: uneven pressure, varying stroke width, streaky semi-dry passes where the ink thins, darker dots where the pen started and stopped, slightly irregular letters and wavy baselines; physically written, not a font. Marker on glass is slightly translucent with streaks inside the strokes; a faint glass reflection passes over the writing.

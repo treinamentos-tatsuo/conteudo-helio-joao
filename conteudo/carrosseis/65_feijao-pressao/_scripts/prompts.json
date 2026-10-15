@@ -1,0 +1,20 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture, mid-century archival look. SQUARE 1:1 aspect ratio. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge for clean compositing. Subject dark and low in the frame, bleeding off the bottom edge. No text, no words, no letters, no numbers, no brand names, no logos, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "scene",
+      "scene": "Extreme close view of an old dented aluminium pressure cooker sitting on the burner of a simple gas stove, seen from counter height. A thick, forceful jet of white steam blasts sideways from the weighted valve on the lid, caught sharp and turbulent. Directly behind the cooker the wall and stove are VERY DARK, almost black and sooty, so the white steam reads brilliantly against it. The cooker occupies the lower half of the frame; the steam rises and dissolves into pale empty haze at the top. No hands, no people, no other objects."
+    },
+    {
+      "n": 2,
+      "kind": "scene",
+      "scene": "A humble working-class Brazilian kitchen at dawn. Camera very low, at the height of the stove top, looking across a worn tiled counter toward an old pressure cooker on the burner. Steam pours from its valve and drifts through a shaft of pale light coming from a small window to the left. The lower third is filled with the dark counter and stove; the far wall behind the cooker is dark and shadowed so the steam stands out. Everything above dissolves into pale light. No people, no hands."
+    },
+    {
+      "n": 3,
+      "kind": "scene",
+      "scene": "Two pots side by side on a simple dark stove, seen from counter height. On the right a sealed old pressure cooker with a strong jet of white steam bursting from its valve, against a very dark sooty wall. On the left an open shallow pan holding dry, hard, uncooked beans, cold and still, no steam at all. The two pots occupy the lower half of the frame with equal visual weight. Above them only pale empty haze. No people, no hands, no other objects."
+    }
+  ]
+}

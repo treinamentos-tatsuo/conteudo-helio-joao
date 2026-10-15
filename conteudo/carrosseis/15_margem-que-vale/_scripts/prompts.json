@@ -1,0 +1,51 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "An old brass two-pan balance scale on a worn wooden surface, seen from the side. One pan is heaped and overflowing with heavy weights, tools and sacks, sunk low; the opposite pan holds a single small coin and rides high, badly out of balance. The scale sits in the lower-middle of the frame. The whole upper half is pale, empty and hazy."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Several open outstretched human hands reaching in from the sides over a worn wooden counter, each hand receiving stacks of coins being paid out, and one last hand at the far corner left empty with nothing in it. The hands and counter fill the bottom third of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A single heavy cast-iron weight, worn and scratched with a thick ring handle, sitting alone on a plank wooden floor in hard raking side light, filling the bottom third of the frame and bleeding off the bottom edge. The space above the weight is pale, empty and hazy."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A large industrial flywheel and drive belt of an old machine spinning fast, the spokes blurred with motion, mounted low in the frame, dim workshop around its base. The whole upper half of the frame is pale, empty, hazy and blown out toward white."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A single solid substantial coin resting on a worn dark wooden table, one human hand just lifting away and leaving frame, the coin catching a shaft of light, sitting in the lower-middle of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "An old brass two-pan balance scale seen from the side, now tipped and settling firmly toward one side: a single thick solid coin in the low pan outweighs a tall pile of small light coins in the high pan. The scale sits in the lower-middle of the frame. The whole upper half is pale, empty and hazy."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "On the left a small drawstring coin pouch, tightly packed and full, standing upright; on the right a large empty burlap sack, slack and collapsed flat, on a plank wooden floor. Both sit in the lower-middle of the frame. The space above is pale, empty and hazy."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "An open accounting ledger book with neat ruled columns and rows of faint indistinct handwritten figures, lying on a wooden desk inside the small pool of light from a desk lamp, a magnifying glass resting on the open page over the numbers, filling the bottom third of the frame. The space above the desk is dim then pale and empty toward the top."
+    },
+    {
+      "n": 9,
+      "kind": "cutout",
+      "scene": "A lone man in a simple worn mid-century work coat, calmly counting a fair stack of coins in his open palm, head slightly down, steady grounded posture, upright full figure."
+    }
+  ]
+}

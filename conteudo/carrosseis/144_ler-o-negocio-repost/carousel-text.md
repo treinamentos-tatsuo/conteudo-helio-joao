@@ -1,0 +1,31 @@
+# 144 — Repost 'claude 4' (Você sabe o preço do dólar…) — publicado 23/09/2026 (permalink instagram.com/p/DdpYYdikd3l)
+
+Repost do carrossel de 02/07/2026 (7 coment., 1.503 alcance; slides em ~/Desktop/carrosseis claude/POSTADOS/claude 4). Tema repetido em 05/07/2026 (4 coment.). ATENÇÃO: 83 dias, abaixo da regra de >3 meses; decisão do user. Caminho imersão MBV, CTA 307 já impresso no último slide.
+
+## Legenda (post) — 1.726 caracteres
+
+```
+Pergunta pra qualquer dono de empresa quanto está o dólar hoje e ele responde de cabeça. Pergunta quanto a empresa colocou no bolso dele no mês passado e a resposta vira um "depois eu vejo com o contador", dito com a naturalidade de quem nem estranha mais.
+
+E é esse não estranhar que custa caro, porque o contador foi contratado pra cuidar do fisco e o financeiro pra pagar e receber em dia, mas nenhum dos dois foi contratado pra decidir se a empresa aguenta mais um vendedor, a segunda loja ou o preço segurado por mais um trimestre. Essa decisão continua sendo sua, só que tomada sem enxergar.
+
+Decidir sem enxergar tem um jeito próprio de dar errado. A contratação parece caber porque o faturamento subiu, o investimento parece seguro porque a conta tem saldo, e quando o caixa aperta três meses depois a explicação mais à mão é a crise, o mercado, o governo. Quase sempre o número estava lá o tempo todo, avisando, e ninguém sabia ler.
+
+Ler é a palavra certa, porque empresa fala por número do mesmo jeito que o corpo fala por exame. Médico nenhum deixa outra pessoa interpretar o exame do próprio paciente, e o dono que entrega a leitura do negócio pra alguém acaba entregando junto as decisões, mesmo que continue assinando embaixo.
+
+Assinar embaixo sem ler é o que transforma empresa em emprego caro. Ela nasceu pra gerar riqueza no bolso do dono, e isso só acontece quando o dono aprende a língua em que ela conversa com ele: margem, custo fixo, capital de giro, o que sobrou de verdade depois que tudo foi pago.
+
+Essa língua se aprende, e é ela que eu ensino no meu treinamento pra donos de pequena e média empresa. Comenta 307 que eu te mostro por onde começar.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Kit Manychat (LIVE 19h29)
+
+- Automação: `IG | 2026-09-23 | 307 | ler o negocio repost`
+- Palavra: `307`
+- DM: "Empresa fala por número, e quem não lê decide no escuro. Quer ver como eu ensino a ler a sua?"
+- Botão: `>> Quero ver <<`
+- Link: `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-09-23-307`
+- URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20260923222514_139741
+- Colisão: global legada `307` LIVE (qualquer publicação, 7.534 exec.). Assumida a prioridade da específica (precedente DRE 22/09).

@@ -1,0 +1,8 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {"n": 1, "kind": "base", "scene": "A shallow, wide river at dawn, camera very low, almost at water level. A single man in simple clothes stands barefoot in the shallow water up to his ankles, seen from BEHIND, small in the lower part of the frame, still, looking downstream where the water flows away and dissolves into the haze. The current is visible streaming past his legs, long exposure, silky. Nothing else in the frame. Soft low light."},
+    {"n": 2, "kind": "base", "scene": "The front door of a small, old, simple Brazilian house, plain plastered wall, door frame of worn wood, camera low on the sidewalk. A grown man in simple clothes stands in the open doorway seen from BEHIND, and the doorway is clearly too small for him: his head reaches above the top of the frame and his shoulders nearly touch the sides, one hand resting on the door frame. Inside is dark. Wall and street around dissolve into haze. Nothing else in the frame. Soft low side light."}
+  ]
+}

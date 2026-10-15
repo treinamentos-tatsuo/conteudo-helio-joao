@@ -1,0 +1,19 @@
+    dimensao 1536x1024 -> LANDSCAPE OK
+[05] OK em 43s -> img-05.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[08] OK em 64s -> img-08.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[09] OK em 40s -> img-09.png
+    dimensao 1024x1536 -> ATENCAO: NAO-LANDSCAPE
+[101] OK em 30s -> img-10a.png
+    dimensao 1024x1536 -> ATENCAO: NAO-LANDSCAPE
+[102] OK em 29s -> img-10b.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[11] OK em 46s -> img-11.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[12] OK em 33s -> img-12.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[17] OK em 53s -> img-17.png
+    dimensao 1536x1024 -> LANDSCAPE OK
+[18] OK em 36s -> img-18.png
+FIM

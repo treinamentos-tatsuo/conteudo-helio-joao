@@ -1,0 +1,104 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: an OLD 1960s city bus stopped nose-first in front of a high blank wall at the DEAD END of a dirt street, engine off, front door open, NOBODY inside, dust settling on the ground, the destination sign blank. The bus fills the lower half of the frame, seen from a slight three-quarter angle; above it a flat, featureless, pale overexposed sky reading as one bare pale surface. NO PEOPLE."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Seen from VERY FAR AWAY across a flat empty plain: a rocket at the exact moment of LIFTOFF, small and LOW near the horizon, a bright burst of exhaust flame at its base and a thick cloud of smoke spreading sideways along the ground, the launch tower beside it; the rocket has risen only a little and its nose is still well below the middle of the frame. The plain and the launch are in the lower half of the frame; the ENTIRE upper half is flat, pale, overexposed sky as one bare surface with NOTHING in it, no smoke rising into it. NO PEOPLE."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "A group of factory workers in plain uniforms seen FROM BEHIND, shoulders and backs of heads only, standing in an open flat field looking far away; on the distant horizon, SMALL and LOW, a rocket has just lifted off with a short column of smoke beneath it, the rocket itself tiny and well below the middle of the frame. The men are LARGE in the lower half, backs to camera, no faces; the entire upper half is flat pale overexposed sky as one bare surface with NOTHING in it."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a Brazilian man in his fifties in a short-sleeved dress shirt, sits ALONE at a small interview table in a modest office, a closed folder of papers in front of him, the chair on the OTHER side of the table EMPTY, and he is turning his head to look at a plain round wall clock (no numbers, no hands legible) hanging low on the wall beside him. LARGE, chest up, head in the lower half; the bare pale wall continuing above."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: the EMPTY desk of an employee who just left: a wooden desk with the drawer pulled open and empty, a ring of keys and a blank plastic badge on a lanyard left on the desktop, the chair pushed in, a coffee ring on the wood. The desk is LARGE in the lower half of the frame; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a Brazilian man in his fifties in a rolled-sleeve shirt, and three employees in work clothes standing side by side in the open yard of a small factory, all seen IN PROFILE from the side; the owner has his arm STRETCHED OUT pointing far away to the right, and the three men look in the direction of his arm. All four LARGE, chest up, heads in the lower half of the frame; the flat pale sky above them as one bare surface."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Four men in white short-sleeved shirts and thin ties bent over a LARGE drafting table, all their hands on an enormous unrolled technical drawing (only vague illegible pencil lines), rulers and pencils scattered, a desk lamp off; everyone concentrating, no one looking at the camera. They are LARGE, chest up, heads in the lower half; the bare pale wall of the drawing office above."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "At the pay window of a small factory, a young worker in overalls opens a THICK brown kraft envelope with a wide open smile, while the colleague beside him leans in to peek; a wooden counter in front of them. Both LARGE, chest up, heads in the lower half of the frame; the bare pale wall behind and above them."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: a SMALL, SHALLOW rectangular glass fish tank on a plain wooden table, holding only two fingers of water, with ONE tiny fish hanging motionless in it and a plastic toy castle bigger than the fish; a bit of gravel. The tank is LARGE in the lower half of the frame, seen from the side at table level; the bare pale wall above. NO PEOPLE."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "A warehouse worker ASLEEP at midday on top of a pile of burlap sacks, lying on his back, his cap pulled over his face so no face is visible, hands crossed on his belly, boots crossed; sacks around him. He is LARGE in the lower half of the frame; the bare pale wall of the warehouse above. No other people."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a public aquarium: a huge glass tank seen from the visitors' side, a LARGE SHARK passing very close to the glass, and in front of it, LOW and seen from BEHIND, a small boy of about seven with his hand pressed flat on the glass, back to camera, no face. The tank and the shark occupy the lower half of the frame; above the tank the plain pale wall of the hall continues to the top edge."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: a heavy antique copper DIVING HELMET, scratched and dented, with its round glass ports, resting on a wooden bench on a boat deck, the thick air hose coiled beside it, a pair of leather gloves. The helmet is LARGE in the lower half of the frame; the bare pale surface above. NO PEOPLE."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "Still: an old twin-engine propeller airliner ABANDONED in a field, one tire FLAT, tall grass and weeds growing around the wheels, a boarding stair leaning against the CLOSED door, paint faded. The plane fills the lower half of the frame, seen from the side, low; above it the flat pale overexposed sky as one bare surface. NO PEOPLE."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Seven in the morning on the floor of a small factory, machines still off: about six workers in plain uniforms standing in a HALF CIRCLE, and in the middle the owner, a man in his fifties, holding a clipboard (blank) and talking, all of them looking at him; a standing meeting before work starts. Everyone LARGE, chest up, heads in the lower half of the frame; the bare pale wall of the factory above."
+  },
+  {
+   "n": 15,
+   "cinema": true,
+   "fit": true,
+   "scene": "The owner, a man in his fifties in a rolled-sleeve shirt, standing beside a LARGE sheet of paper pinned to the wall on which a single pencil CURVE rises from left to right (no numbers, no words), pencil in his hand, and four employees sitting on simple chairs in front of him looking at the sheet. All LARGE, chest up, heads in the lower half; the sheet and the bare pale wall continuing above."
+  },
+  {
+   "n": 16,
+   "cinema": false,
+   "fit": true,
+   "scene": "Close-up of the HANDS of a man at a wooden workbench assembling a LARGE handmade tin toy rocket, screwdriver in one hand, rivets, a small hammer and pliers scattered around, the rocket lying on its side on the bench half finished. Only hands and forearms, no face, no head. The hands and the rocket are LARGE in the lower half of the frame; the bare pale wall above. NO other people."
+  }
+ ]
+}

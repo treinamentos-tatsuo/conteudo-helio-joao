@@ -1,0 +1,74 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Seen from slightly above, the center of a plain wooden table: the hands of six VERY DIFFERENT people are stacked one on top of the other in a single pile in the middle: a rough calloused hand of a construction worker with dirt in the creases, an old wrinkled hand with a wedding ring, a young slim hand, a woman's hand, a dark-skinned strong hand, and a hand with a white shirt cuff and a simple wristwatch. The forearms come in from different directions, each sleeve different: wool sweater, denim work shirt, white shirt cuff, factory overall, cotton blouse. Only hands and forearms, no faces, no heads. The stacked hands are the clear center of the image, large and readable."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On an old wooden workbench, laid side by side in a neat row, the tools of completely different trades: a tailor's cloth measuring tape coiled, a mason's trowel with dried cement, an old doctor's stethoscope, a fountain pen on a closed ledger, a heavy adjustable wrench and a carpenter's hand plane. Each object clearly different in shape and material. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 70 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On the weathered planks of a wooden pier: several ropes of clearly DIFFERENT thicknesses and textures (a thin twine, a hairy sisal rope, a thick tarred ship rope, a braided cotton rope) come together and are braided tightly into ONE single thick cable, which is tied in a strong knot to a single heavy iron mooring ring bolted to the pier. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 70 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A long wooden rowing boat seen exactly from the side on calm flat water, close enough that the rowers are large and readable: eight rowers in a single line, each with a VISIBLY DIFFERENT body and age (a tall thin young man, a short heavy man, a grey-haired old man, a muscular dock worker, a slim teenager, a middle-aged man with a moustache), each in different plain everyday clothes, NO uniforms; all eight oars enter the water at EXACTLY the same angle at the same instant, perfectly synchronized, small splashes. The upper part of the frame is a pale, even, overcast sky with nothing in it. Every rower is fully inside the frame, heads complete, nobody cut by the edges. NO fog on the water."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Six people of very different kinds, seen from the side and slightly behind, pulling together on ONE thick rope in the same direction, leaning back with effort, feet planted: a man in a factory overall, an older man in a suit jacket, a woman in a work apron, a young man in a plaid shirt, a heavy man in a white undershirt, a thin old farmer with a straw hat in his hand. NO uniforms, every person dressed differently. They stand on bare packed earth; behind them only a plain pale wall. Every person is fully inside the frame, heads complete."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a plain wooden floor: one LARGE woven harvest basket in the center, overflowing with oranges, and around it five smaller baskets of different shapes and weaves (a tin bucket, a straw basket, a wooden crate, a cloth sack, a small round basket), EVERY one of them full of oranges too. Abundance in each container, nobody's container empty. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 70 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a plain wooden plank floor: one big knot in the center from which five thick ropes stretch out TAUT in five different directions, pulling apart from each other like a star, the knot itself visibly deformed and strained by the opposing tension, fibers fraying. The ropes run off toward the bottom and side edges of the frame at floor level only. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. The knot sits low in the frame, below the middle; nothing rises toward the top."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a long rustic wooden bench against a plain pale wall: a row of seven old kerosene lanterns, each one a different shape and size (a hurricane lantern, a small brass lamp, a tall glass oil lamp, a dented tin lantern), and EVERY one of them is lit with its own small bright flame glowing from inside the glass. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 70 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A narrow dirt path through a low field of short dry grass, seen from behind at eye level: one man walks a few steps AHEAD, in front, and behind him a group of six different people (a woman, an old man, a young man, a worker in overall, a man in a shirt) follow in a line on the same path, all walking the same direction away from the camera. Everyone is seen from behind, no faces. The horizon is low; above it a pale, even, overcast sky with nothing in it. Every person fully inside the frame, nobody cut by the edges. NO fog."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A long plain wooden table seen from one end in gentle perspective, and pushed in around it a set of chairs that are ALL DIFFERENT from each other: a worn office chair, a simple kitchen chair, a wicker chair, a stool, an old leather armchair, a folding metal chair, all facing the same single table, ready for a meeting. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 70 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Seven people of different ages and kinds seen from BEHIND, standing shoulder to shoulder in a single row, each with an arm over the shoulders of the person beside them, united: a man in a factory overall, a woman in a cardigan, an old man with grey hair, a young man in a plaid shirt, a man in a white shirt with rolled sleeves, a heavy man in a work jacket. Seen from waist up, no faces. Every head complete with empty space above, nobody cut at the edges, the group centered."
+  }
+ ]
+}

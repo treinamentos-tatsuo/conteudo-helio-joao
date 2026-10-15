@@ -1,0 +1,76 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small-business owner seated behind his wooden desk handing a thick folder of documents into the hands of a formally dressed person standing on the other side of the desk, a quiet moment of handing over responsibility, modest mid-century office, both figures and the desk low in the frame filling the bottom third. All papers are blank, nothing readable. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "An antique oval hand mirror with an ornate metal handle lying face-up on a pile of office paperwork and manila folders on a wooden desk, quiet still-life in soft window light, only pale light reflected in the glass, the desk surface filling the bottom third of the frame and bleeding off the bottom edge. No people, no faces, all papers blank with nothing readable."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "Seen from directly above: a tidy personnel desk with neat stacks of blank paper sheets, blank index cards, a wooden rubber stamp, a stamp pad, blank name badges with clips and a fountain pen arranged on a worn wooden surface, quiet overhead still-life, the desk filling the lower two thirds of the frame and bleeding off the bottom edge. Every sheet and card completely blank, no readable letters anywhere. The upper part of the frame is bright, pale and empty wood."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "The long dark shadow of a standing man wearing a hat cast across the wooden floor and over the desks of a modest office where a few employees work with their heads down, the shadow stretching diagonally from the bottom edge deep into the room, desks and figures low in the frame filling the bottom third. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A row of identical canvas work aprons hanging on wooden pegs along a workshop wall, every apron hanging at exactly the same angle in exactly the same way, quiet visual repetition, the aprons and the lower wall filling the bottom third of the frame and bleeding off the bottom edge. No people, no text anywhere. The wall above is bright, pale, washed out and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "Close view of a tired man's work-worn hands pressed against his forehead, elbows resting on a desk covered with blank paperwork at the end of the day, face completely hidden behind the hands, only the hands, forearms and desk surface visible, low in the frame filling the bottom third and bleeding off the bottom edge. All papers blank. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A small-business owner seen from behind, standing at the wooden railing of a factory mezzanine, looking down at his small team working among the benches on the workshop floor below him, wide quiet interior, his dark figure and the railing low in the frame filling the bottom third. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "Inside the same wide factory hall: a working father in plain mid-century work clothes and a flat cap striding across the workshop floor carrying a metal toolbox, and close behind him his small son taking exaggerated long steps to land exactly in his father's footsteps, copying his father's upright posture precisely, tender documentary moment, both figures low in the frame filling the bottom third. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "The ghostly translucent reflection of a middle-aged business owner's face and shoulders in a large workshop window pane, seen straight on, while the blurred shapes of his workers move in the workshop beyond the glass, subtle double-exposure feel, the window frame and sill low in the frame filling the bottom third. The upper half of the glass is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A long empty boardroom table in hard directional side light, one single heavy wooden chair standing alone at the head of the table, all other chairs missing, austere quiet still-life, the table surface stretching from the bottom edge of the frame toward the chair, filling the bottom third. No people, no text. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A small-business owner working shoulder to shoulder with his small team around a long workbench, everyone leaning in with visible energy and shared purpose, tools in hands, sleeves rolled up, a lively modest workshop, the whole group low in the frame filling only the bottom third, every head well below the vertical midpoint of the image. The entire upper two thirds of the image are bright, pale, hazy and empty, fading to near-white."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A pegboard workshop wall with hand tools in perfect order, every hammer, wrench and screwdriver hanging exactly in its place inside its own painted silhouette outline, disciplined visual repetition, the workbench below the pegboard filling the bottom third of the frame and bleeding off the bottom edge. No people, no letters, no numbers, only tool shapes."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "The modest street facade of a small workshop building in pale pre-dawn mist, one single window glowing softly lit while all the other windows are still dark, empty quiet street in front, the building and street low in the frame filling the bottom third. No signs, no lettering anywhere on the building. The sky above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A confident small-business owner standing at the front, and his small team lined up close behind him, all of them standing with the same firm upright posture and calm proud expressions, looking straight into the camera, group portrait in front of their workshop, plain mid-century work clothes with no logos, figures low in the frame filling the bottom third. The space above them is bright, pale, hazy and empty."
+    }
+  ]
+}

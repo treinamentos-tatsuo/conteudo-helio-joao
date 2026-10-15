@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  .slide{
+    width:1080px; height:1350px; position:relative; overflow:hidden;
+    background:#F5F0EB url("../../_banco-referencias/background para carrosséis.png") center/cover no-repeat;
+    font-family:'Source Serif Pro',serif;
+  }
+  .slide-photo{
+    position:absolute; bottom:0; left:0; width:100%; display:block;
+    mix-blend-mode:multiply;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 15%);
+    mask-image:linear-gradient(to bottom,transparent 0%,#000 15%);
+  }
+  .text{
+    position:absolute; top:330px; left:0; right:0; padding:0 90px;
+    text-align:center; z-index:2;
+  }
+  .impact{
+    font-size:52px; font-weight:700; line-height:1.2; color:#1A1A1A;
+  }
+  .impact .red{ color:#A91C20; }
+  .subtitle{
+    font-size:28px; font-weight:400; line-height:1.4; color:#1A1A1A;
+    margin-top:26px;
+  }
+  .subtitle .red{ color:#A91C20; font-weight:600; }
+</style>
+</head>
+<body>
+  <div class="slide">
+    <img class="slide-photo" src="../imagens/img-01.png" alt="">
+    <div class="text">
+      <div class="impact">Ninguém quer aprender gestão.</div>
+      <div class="subtitle">O que o empresário quer mesmo <span class="red">é mais dinheiro</span>.</div>
+    </div>
+  </div>
+</body>
+</html>

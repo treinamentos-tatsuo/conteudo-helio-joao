@@ -1,0 +1,44 @@
+<!doctype html><html><head><meta charset="utf-8">
+<!--
+  FRASE CURTA EM 2 FAIXAS (jogo de tamanho). Origem: post 185 "Só não erra / quem não tenta" (03/10).
+  Copiar pra conteudo/carrosseis/N_slug/instagram/slide-01.html.
+  Trocar: as fotos (imagens/foto-cima.jpg e foto-baixo.jpg, fotos inteiras do acervo ou já recortadas),
+          o width/left/top de cada <img> (enquadra o Hélio na faixa: cabeça inteira, fora do texto),
+          o texto dos blocos e o left/top de cada bloco (texto do lado pra onde o Hélio olha).
+  Faixas: 610 px em cima + 740 px embaixo, como na referência "Gente boa".
+  Linha pequena (.s) 44-46 px, palavra forte (.b) 104-120 px: contraste de 2 a 2,5x.
+  Render: node .claude/skills/frase-foto/scripts/render.js <este arquivo>  (confere a margem de 90 px)
+-->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;font-family:'Montserrat',sans-serif;color:#fff}
+.p{position:absolute;left:0;width:1080px;overflow:hidden}
+.p img{position:absolute}
+.g{position:absolute;inset:0}
+.t{position:absolute;display:inline-flex;flex-direction:column;text-shadow:0 2px 16px rgba(0,0,0,.5)}
+.s{font-weight:700;font-size:46px;line-height:1.1;letter-spacing:.5px}
+.b{font-weight:700;font-size:112px;line-height:1;letter-spacing:1px}
+.r{align-self:flex-end}
+</style></head><body>
+
+<!-- faixa de cima: degradê preto no pé (leitura + transição pra faixa de baixo) -->
+<div class="p" style="top:0;height:610px">
+  <img src="../imagens/foto-cima.jpg" style="width:1080px;left:0;top:-345px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,.55) 80%,rgba(0,0,0,.95) 100%)"></div>
+  <div class="t" style="left:140px;top:385px">
+    <div class="s">Só não</div>
+    <div class="b" style="margin-top:4px">erra</div>
+  </div>
+</div>
+
+<!-- faixa de baixo: nasce preta na emenda (sem "soco" entre as fotos) e escurece de novo no pé -->
+<div class="p" style="top:610px;height:740px">
+  <img src="../imagens/foto-baixo.jpg" style="width:1500px;left:-40px;top:-250px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,.92) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 55%,rgba(0,0,0,.6) 80%,rgba(0,0,0,.95) 100%)"></div>
+  <div class="t" style="left:140px;top:385px">
+    <div class="s">quem não</div>
+    <div class="b" style="margin-top:4px">tenta</div>
+  </div>
+</div>
+</body></html>

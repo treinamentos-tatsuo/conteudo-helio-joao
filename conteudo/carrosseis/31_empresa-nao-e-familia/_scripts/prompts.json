@@ -1,0 +1,61 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A small company celebration dinner: a long wooden table with a modest small-business team seated around it smiling, the owner standing at the head of the table raising a glass in a warm toast, plain mid-century work clothes, the table and figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "An old wooden picture frame lying flat face-down on a tidy wooden office desk, only the plain back of the frame and its small stand visible, quiet still-life, the desk surface filling the bottom third of the frame and bleeding off the bottom edge. No people, no faces. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A cardboard box packed with personal belongings, a small potted plant, a ceramic mug and folded cloth, sitting on a cleared empty desk with the office chair pushed away at an angle, quiet still-life of a dismissal, the desk filling the bottom third of the frame. No people. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "Two employees leaning back against a shop counter chatting idly with relaxed slouched posture, arms crossed, while a pile of unfinished work, stacked boxes and papers, waits beside them on the counter, a modest workshop interior, their figures filling the bottom third of the frame. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A tired small-business owner working alone at night at his desk, lit only by one small desk lamp, sleeves rolled up, hunched over paperwork, the rest of the workshop around him fading into empty darkness at the sides, his figure and desk low in the frame filling the bottom third. The space above him is pale, smoky, hazy and empty, fading to near-white at the top."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A tight view of many work-worn hands stacked one over another in the center of a team huddle, seen from a low angle, sleeves of plain work shirts, a gesture of unity before the game, the hands and forearms filling the bottom third of the frame and bleeding off the bottom edge. No faces visible. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A worn vintage leather football resting exactly on the white chalk line of an empty amateur pitch, dew on the grass, the goal posts standing small and hazy in the far background, quiet still-life, the ball and chalk line filling the bottom third of the frame and bleeding off the bottom edge. No people. The sky above is blown out, pale and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A lone athlete crouched on one knee tying the laces of his worn leather boots on an empty misty pitch at dawn, nobody else anywhere, low morning fog over the grass, his figure low in the frame filling the bottom third. The mist and sky above him are bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A coach crouched low drawing a simple play with white chalk arrows on the bare ground, his small team crouched in a circle around him leaning in and watching intently, plain work clothes, seen from a slight distance, the whole group low in the frame filling the bottom third. The chalk marks are only simple arrows and circles, no letters. The space above them is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A vintage metal referee whistle on a worn leather cord lying on a scarred wooden table next to a blank wooden coaching clipboard with nothing written on it, tight quiet still-life, the table surface filling the bottom third of the frame and bleeding off the bottom edge. No people, no text anywhere. The space above is bright, washed out, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A small-business owner in the middle of his engaged team, all of them leaning together over a shared workbench, pointing and working with visible energy and shared purpose, a lively modest workshop, the whole group low in the frame filling only the bottom third, every head well below the vertical midpoint of the image. The entire upper two thirds of the image are bright, pale, hazy and empty, fading to near-white."
+    }
+  ]
+}

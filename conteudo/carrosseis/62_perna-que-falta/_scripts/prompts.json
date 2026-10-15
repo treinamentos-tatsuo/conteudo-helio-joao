@@ -1,0 +1,102 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. Brazilian small-business world: workshop, warehouse, small shop counter. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look, no cinematic color grading.",
+ "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. Brazilian small-business world. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "kind": "photo",
+   "base": "close",
+   "scene": "a single worn canvas work apron hanging from one metal hook on a WHITEWASHED, BRIGHT, SUN-BLEACHED plaster wall, three or four other empty hooks in a row beside it. The apron hangs LOW in the frame and its lower half bleeds off the bottom edge. The wall is very pale, almost white, flooded with flat daylight, completely blank and empty across the whole upper two thirds of the image, no shadow and no dark area up there at all."
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a row of men in simple shirts sitting on plain wooden chairs along a narrow corridor wall, folders resting on their laps, all of them waiting and looking down the hallway"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a workshop owner standing behind a seated worker at a workbench, leaning in and pointing at the task with his finger, while the seated worker keeps both hands flat and still on the bench, waiting"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "base": "close",
+   "scene": "an old mechanical desk calculator sitting alone on a worn wooden shop counter, one crumpled blank sheet of paper beside it, hard bare-bulb light from above"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "base": "base",
+   "scene": "two small street shops side by side on the same sidewalk: the one on the left crowded with customers at its open door, the one on the right completely empty with its lights off and shutter half down"
+  },
+  {
+   "n": 6,
+   "kind": "photo",
+   "base": "close",
+   "scene": "a pair of calloused working hands holding a small blank unmarked cardboard tag and a pen poised above it, bare wooden counter underneath, absolutely nothing written anywhere, no papers and no ledgers on the table"
+  },
+  {
+   "n": 7,
+   "kind": "photo",
+   "base": "close",
+   "scene": "an open shop cash drawer on a counter, crammed full of blank paper slips impaled on a metal receipt spike, and only two or three loose banknotes lying flat at the very bottom of the drawer"
+  },
+  {
+   "n": 8,
+   "kind": "photo",
+   "base": "base",
+   "scene": "seen from inside a warehouse through a large dirty window: heavy rain hammering down outside, the yard flooded, water running off the roof edge, the interior side dim and empty"
+  },
+  {
+   "n": 9,
+   "kind": "photo",
+   "base": "close",
+   "scene": "a man's index finger pointing at a thin hairline crack running through a grey concrete factory wall, very close framing on the finger and the crack"
+  },
+  {
+   "n": 10,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a worn three-legged wooden stool standing alone in the middle of an empty workshop floor, raking light from the left casting a long shadow across the concrete"
+  },
+  {
+   "n": 11,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a small stained rectangular mirror hanging on a workshop wall, reflecting the empty warehouse behind the camera, chipped frame, dusty wall around it"
+  },
+  {
+   "n": 12,
+   "kind": "photo",
+   "base": "close",
+   "scene": "an extreme close-up of a man's calloused hands holding a worn three-legged wooden stool turned UPSIDE DOWN on a workbench, its legs pointing up toward the camera. One hand is pressing the missing wooden leg back into its empty socket, wet wood glue visibly squeezing out around the joint, glue smeared on the wood. A small open glue bottle stands on the bench beside his hands."
+  },
+  {
+   "n": 13,
+   "kind": "photo",
+   "base": "base",
+   "scene": "the same worn three-legged wooden stool standing perfectly level with a heavy metal toolbox resting on top of it, not tilting at all, an orderly workshop with tools in their places in the background"
+  },
+  {
+   "n": 14,
+   "kind": "photo",
+   "base": "close",
+   "scene": "a hand setting a pen down onto a completely blank sheet of lined paper on a wooden workbench, nothing written on the page at all"
+  },
+  {
+   "n": 15,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a circle of six men sitting on plain wooden chairs in a bare room with no table, one of them standing and gesturing to the group, everyone listening"
+  },
+  {
+   "n": 16,
+   "kind": "photo",
+   "base": "base",
+   "scene": "a shop owner standing in the open doorway of his own workshop in the morning light, arms relaxed at his sides, firm confident posture, his team working at the benches behind him"
+  }
+ ]
+}

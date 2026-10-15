@@ -1,0 +1,68 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "setting": "Setting: a small neighborhood bakery (padaria) in Brazil in the 1960s: a brick wood-fired oven, metal bread trays, jute flour sacks, a glass display counter, a hand-crank cash register, a slate chalkboard, white cloth aprons and baker's caps. ",
+ "images": [
+  {
+   "n": 1,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner, a man in his fifties in a white cloth apron over a rolled-sleeve shirt, standing in the open doorway of the bakery at dawn, facing the camera straight on, arms crossed over his chest, jaw set, a stern unblinking stare directly into the lens. He is the subject, large and close, whole head visible with clear empty space above it; the glass counter and the oven behind him dissolve into the light."
+  },
+  {
+   "n": 2,
+   "base": "base",
+   "cinema": false,
+   "scene": "The wooden cash drawer of a hand-crank cash register pulled fully OPEN on the bakery counter, seen from close and slightly above, VERY LARGE, filling the lower two thirds of the frame from edge to edge: the drawer almost EMPTY, only two crumpled banknotes and a few loose coins in the compartments; behind it a stack of empty metal bread trays with crumbs. The banknotes are plain and unreadable. Hard raking side light. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only."
+  },
+  {
+   "n": 3,
+   "base": "base",
+   "cinema": false,
+   "scene": "A slate chalkboard price list hanging on the bakery wall behind the counter, seen from close and straight on, VERY LARGE, filling the frame from the left edge to the right edge and extending past the bottom edge. On the slate, a column of bread prices written in chalk: each price has been crossed out and rewritten several times with a different figure squeezed next to it, older figures half-wiped into smeared chalk ghosts, the whole board a mess of corrections; the numbers are handwritten chalk digits only, roughly legible as numbers but no words. A stub of chalk and a dusty rag in the tray at the bottom. THE UPPER PART OF THE SLATE IS OVEREXPOSED and dissolves softly into the white haze at the top: NO visible top edge, NO top frame, NO wall line; only the lower frame and the chalk tray are visible. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only.",
+   "prompt": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED HAZE (sky or light), and the transition from the scene into that haze is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no wall line, no table edge, no horizon line, no painted band, no shelf, no beam crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no roofline, no beam, no ceiling, no shelf, no sign, no branch, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Ordinary Brazilian small-business setting, real working people, natural unposed body language. No logos, no emojis, no gradients, no added color, no stock photo look. The ONLY writing in the whole image is the handwritten chalk digits described in the scene. SCENE: Setting: a small neighborhood bakery (padaria) in Brazil in the 1960s: a brick wood-fired oven, metal bread trays, jute flour sacks, a glass display counter, a hand-crank cash register, a slate chalkboard, white cloth aprons and baker's caps. A slate chalkboard price list hanging on the bakery wall behind the counter, seen from close and straight on, VERY LARGE, filling the frame from the left edge to the right edge and extending past the bottom edge. On the slate, a column of bread prices written in chalk: each price has been crossed out and rewritten several times with a different figure squeezed next to it, older figures half-wiped into smeared chalk ghosts, the whole board a mess of corrections; the numbers are handwritten chalk digits only, roughly legible as numbers but no words. A stub of chalk and a dusty rag in the tray at the bottom. THE UPPER PART OF THE SLATE IS OVEREXPOSED and dissolves softly into the white haze at the top: NO visible top edge, NO top frame, NO wall line; only the lower frame and the chalk tray are visible. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only."
+  },
+  {
+   "n": 4,
+   "base": "base",
+   "cinema": false,
+   "scene": "A thick cloth-bound accounts ledger, CLOSED, lying forgotten on a low wooden shelf at the back of the bakery between two jute flour sacks, its cover coated in a film of flour dust, a spiderweb at one corner, clearly never opened; seen from close and straight on, the ledger and the sacks VERY LARGE, filling the lower two thirds of the frame from edge to edge. No writing visible anywhere. Hard side light. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only."
+  },
+  {
+   "n": 5,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner in a flour-dusted apron sitting slumped on a jute flour sack on the bakery floor before dawn, exhausted, flour on his face and forearms, elbows on his knees, hands hanging loose, eyes down; behind him the open mouth of the brick oven glows. He is the subject, large and close, whole head visible with clear empty space above it."
+  },
+  {
+   "n": 6,
+   "base": "base",
+   "cinema": false,
+   "scene": "A tall jute flour sack standing upright on the bakery tile floor with a long TEAR down its side, flour pouring out of the tear in a continuous thin stream and piling into a white mound on the floor; seen from close, the sack VERY LARGE, filling the lower two thirds of the frame from edge to edge, its top just below the bright haze. Hard raking side light. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only."
+  },
+  {
+   "n": 7,
+   "base": "base",
+   "cinema": false,
+   "scene": "Close view, camera LOW at table level, of the owner's weathered hands and forearms, rolled sleeves, at a wooden table at the back of the bakery: one hand placing a coin on top of a tall neat column of coins, the other hand resting flat on an open accounts ledger beside a pencil; five tall coin columns of equal height and a few folded banknotes lined up in a row. Both hands are close together near the CENTER of the frame, well away from the left and right edges; the coin columns, the hands and the ledger are VERY LARGE, filling the lower two thirds of the frame, the tops of the columns and the knuckles rising to about one third from the top. Only the hands, forearms, table and objects, no face. The ledger pages and the banknotes are plain and unreadable, no legible writing; the photograph itself is sharp. Hard side light."
+  },
+  {
+   "n": 8,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner in his white apron sitting ALONE at a wooden table at the back of the bakery, a closed accounts ledger under his flat hand, looking straight into the camera with a serious, sober face; nobody else in the room. He is the subject, large and close, whole head visible with clear empty space above it; the oven and the trays behind him dissolve into the light."
+  },
+  {
+   "n": 9,
+   "base": "base",
+   "cinema": true,
+   "scene": "The owner in his apron and baker's cap, ALONE at night in the empty bakery, sweeping the tile floor with a straw broom: seen from CLOSE, waist up, his body LARGE and filling the frame, both hands gripping the broom handle in front of his chest, head bent down toward the floor, eyes on the broom; empty metal bread trays stacked on the counter right behind him, the glass display case empty. He is the subject, large and close, whole head visible with clear empty space above it, not touching the left or right edges."
+  },
+  {
+   "n": 10,
+   "base": "base",
+   "cinema": false,
+   "scene": "The same wooden cash drawer of the hand-crank cash register pulled fully OPEN on the bakery counter, seen from close and slightly above, VERY LARGE, filling the lower two thirds of the frame from edge to edge: now FULL, thick bundles of banknotes packed tightly into the note compartments and coins heaped in the coin cups; behind it the same stack of empty metal bread trays. The banknotes are plain and unreadable. Hard raking side light. NO PEOPLE anywhere in the frame, no hands, no faces, no aprons: a still life of objects only."
+  }
+ ]
+}

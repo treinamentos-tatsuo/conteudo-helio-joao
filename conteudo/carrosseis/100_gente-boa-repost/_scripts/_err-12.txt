@@ -1,0 +1,18 @@
+event: response.created
+data: {"type":"response.created","response":{"id":"resp_0ba4b72d63d33744016aa19e44021087d2a52b585020cf5e05","object":"response","created_at":1788976708,"status":"in_progress","background":false,"completed_at":null,"error":null,"frequency_penalty":0.0,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-5.5","moderation":null,"output":[],"parallel_tool_calls":true,"presence_penalty":0.0,"previous_response_id":null,"prompt_cache_key":"572b8479-dd02-4c06-be37-4cc9688576f6","prompt_cache_retention":"24h","reasoning":{"context":"current_turn","effort":"medium","mode":"standard","summary":null},"safety_identifier":"user-QnZrW1KBMdYRmOOqHUbgvfCn","service_tier":"auto","store":false,"temperature":1.0,"text":{"format":{"type":"text"},"verbosity":"low"},"tool_choice":"auto","tool_usage":{"image_gen":{"input_tokens":0,"input_tokens_details":{"image_tokens":0,"text_tokens":0},"output_tokens":0,"output_tokens_details":{"image_tokens":0,"text_tokens":0},"total_tokens":0},"web_search":{"num_requests":0}},"tools":[{"type":"image_generation","background":"auto","model":"gpt-image-2-codex","moderation":"low","n":1,"output_compression":100,"output_format":"png","quality":"auto","size":"auto"}],"top_logprobs":0,"top_p":0.98,"truncation":"disabled","usage":null,"user":null,"metadata":{}},"sequence_number":0}
+
+event: response.in_progress
+data: {"type":"response.in_progress","response":{"id":"resp_0ba4b72d63d33744016aa19e44021087d2a52b585020cf5e05","object":"response","created_at":1788976708,"status":"in_progress","background":false,"completed_at":null,"error":null,"frequency_penalty":0.0,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-5.5","moderation":null,"output":[],"parallel_tool_calls":true,"presence_penalty":0.0,"previous_response_id":null,"prompt_cache_key":"572b8479-dd02-4c06-be37-4cc9688576f6","prompt_cache_retention":"24h","reasoning":{"context":"current_turn","effort":"medium","mode":"standard","summary":null},"safety_identifier":"user-QnZrW1KBMdYRmOOqHUbgvfCn","service_tier":"auto","store":false,"temperature":1.0,"text":{"format":{"type":"text"},"verbosity":"low"},"tool_choice":"auto","tool_usage":{"image_gen":{"input_tokens":0,"input_tokens_details":{"image_tokens":0,"text_tokens":0},"output_tokens":0,"output_tokens_details":{"image_tokens":0,"text_tokens":0},"total_tokens":0},"web_search":{"num_requests":0}},"tools":[{"type":"image_generation","background":"auto","model":"gpt-image-2-codex","moderation":"low","n":1,"output_compression":100,"output_format":"png","quality":"auto","size":"auto"}],"top_logprobs":0,"top_p":0.98,"truncation":"disabled","usage":null,"user":null,"metadata":{}},"sequence_number":1}
+
+event: response.output_item.added
+data: {"type":"response.output_item.added","item":{"id":"ig_0ba4b72d63d33744016aa19e44bfc487d2aa04cb88542d703b","type":"image_generation_call","status":"in_progress"},"output_index":0,"sequence_number":2}
+
+event: response.image_generation_call.in_progress
+data: {"type":"response.image_generation_call.in_progress","item_id":"ig_0ba4b72d63d33744016aa19e44bfc487d2aa04cb88542d703b","output_index":0,"sequence_number":3}
+
+event: response.image_generation_call.generating
+data: {"type":"response.image_generation_call.generating","item_id":"ig_0ba4b72d63d33744016aa19e44bfc487d2aa04cb88542d703b","output_index":0,"sequence_number":4}
+
+
+---STDERR---
+curl: (18) transfer closed with outstanding read data remaining

@@ -1,0 +1,4 @@
+[07] OK em 40s -> img-07.png
+[12] OK em 38s -> img-12.png
+[15] OK em 51s -> img-15.png
+FIM

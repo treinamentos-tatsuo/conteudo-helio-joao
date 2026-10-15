@@ -1,0 +1,40 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#000;overflow:hidden;font-family:'Montserrat',sans-serif;color:#fff}
+.p{position:absolute;left:0;width:1080px;overflow:hidden}
+.p img{position:absolute}
+.g{position:absolute;inset:0}
+.blk{position:absolute;display:flex;flex-direction:column;align-items:flex-start;text-shadow:0 1px 3px rgba(0,0,0,.45)}
+.ln{white-space:nowrap;line-height:1;display:inline-block}
+.sm{font-weight:600;letter-spacing:.5px}
+.bg{font-weight:700;letter-spacing:-.5px}
+.r{align-self:flex-end}
+.tag{position:absolute;font-weight:600;font-size:22px;letter-spacing:4px;color:rgba(255,255,255,.75)}
+</style></head><body>
+<div class="p" style="top:0;height:610px">
+  <img src="../imagens/feira1.jpg" style="width:1088px;left:-4px;top:0">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,.15) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,.55) 62%,rgba(0,0,0,.95) 100%)"></div>
+  <div class="blk" style="left:75px;width:420px;top:405px">
+    <div class="ln sm" data-w="420">Na feira, quem não</div>
+    <div class="ln bg r" data-w="270" style="margin-top:6px">grita</div>
+  </div>
+</div>
+<div class="p" style="top:610px;height:740px">
+  <img src="../imagens/hoje-escritorio.jpg" style="width:1350px;left:-130px;top:-15px">
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,.95) 0%,rgba(0,0,0,.4) 14%,rgba(0,0,0,0) 30%)"></div>
+  <div class="g" style="background:linear-gradient(to right,rgba(0,0,0,0) 45%,rgba(0,0,0,.72) 68%,rgba(0,0,0,.9) 100%)"></div>
+  <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 70%,rgba(0,0,0,.6) 100%)"></div>
+  <div class="blk" style="left:600px;width:420px;top:330px">
+    <div class="ln sm" data-w="360">volta pra casa com a</div>
+    <div class="ln bg" data-w="420" style="margin-top:10px">banca cheia.</div>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('[data-w]').forEach(e=>{
+ const W=+e.dataset.w;let fs=40;e.style.fontSize=fs+'px';
+ for(let i=0;i<30;i++){fs=fs*W/e.getBoundingClientRect().width;e.style.fontSize=fs+'px';}
+});});
+</script>
+</body></html>

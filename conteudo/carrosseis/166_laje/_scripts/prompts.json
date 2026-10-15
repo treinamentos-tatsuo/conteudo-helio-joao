@@ -1,0 +1,16 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal still-life composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject dark, in the lower half of the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no sky, no city.",
+  "setting": "",
+  "images": [
+    {
+      "n": 7,
+      "kind": "base",
+      "scene": "A thick concrete roof slab (laje) of a small unfinished Brazilian house seen from the SIDE, at eye level, like an object: the slab is a heavy horizontal beam of raw grey concrete resting on two rough brick pillars of red hollow clay bricks (tijolo baiano), the slab's edge showing its rough texture, and three rusty rebar stubs sticking straight up from the top of the slab. Behind it only a plain smooth light plaster wall. Nothing else. Hard low side light, sculptural, graphic."
+    },
+    {
+      "n": 8,
+      "kind": "base",
+      "scene": "The edge of a raw concrete roof slab (laje) seen from the side at eye level, filling the lower third of the frame like a thick horizontal bar, resting on a wall of exposed red hollow clay bricks (tijolo baiano) below it; on top of the slab, one bundle of rusty rebar stubs sticking up at the left corner. Behind: a plain smooth light plaster wall, empty. Nothing else. Hard side light, sculptural."
+    }
+  ]
+}

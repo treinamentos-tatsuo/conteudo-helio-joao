@@ -1,0 +1,20 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. SQUARE 1:1 aspect ratio. Dense morning fog; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "kind": "cena",
+   "scene": "An old, heavily used rectangular sharpening whetstone resting on a rough dark wooden workbench in a simple backyard. The stone is visibly worn HOLLOW and CONCAVE in its middle from decades of use - that worn dip is the true subject of the photograph. The stone is soaking wet, dark grey, glistening, a thin film of water pooled around it and one drop falling from the edge of the bench. There is NO knife anywhere in the frame, no hands, no people, nothing else on the bench. Camera extremely low, at bench level, close and intimate. The bench and the stone are very dark and occupy only the LOWER THIRD of the frame."
+  },
+  {
+   "n": 2,
+   "kind": "cena",
+   "scene": "An old, heavily used rectangular sharpening whetstone resting on a rough dark wooden workbench in a simple backyard. The stone is visibly worn HOLLOW and CONCAVE in its middle from decades of use. The stone is soaking wet, dark grey, glistening, a thin film of water pooled around it and one drop falling from the edge of the bench. Lying FLAT on the dark wet wood BESIDE the stone, not on it, sits one simple old kitchen knife, smaller than the stone and placed lower and off to one side so the stone remains the largest and most central object. Only the very EDGE LINE of the blade catches a thin bright hairline of light, read against the DARK wet wood directly behind it; the rest of the blade stays dark and matte. No hands, no people. Camera extremely low, at bench level, close and intimate. Bench, stone and knife are very dark and occupy only the LOWER THIRD of the frame."
+  },
+  {
+   "n": 3,
+   "kind": "cena",
+   "scene": "An old rectangular sharpening whetstone resting on a rough dark wooden workbench in a simple backyard. CRITICAL: the stone is worn deeply HOLLOW and CONCAVE in its middle from decades of use - a pronounced, unmistakable dished depression scooped out of the top surface, dramatic and clearly readable as the main subject. The stone is soaking wet, very dark grey, glistening, water pooled around it, one drop falling from the bench edge. Lying FLAT on the dark wet wood BESIDE the stone, not on it, sits one simple old kitchen knife, smaller than the stone and placed lower and off to one side. The knife BLADE is BRIGHT POLISHED SILVER, mirror-like and luminous, clearly lighter than everything else in the picture, and it reads brilliantly against the DARK wet wood directly behind and beneath it; the wooden handle stays dark. The stone remains the largest and most central object. No hands, no people. Camera extremely low, at bench level, close and intimate. Bench and stone very dark, occupying only the LOWER THIRD of the frame."
+  }
+ ]
+}

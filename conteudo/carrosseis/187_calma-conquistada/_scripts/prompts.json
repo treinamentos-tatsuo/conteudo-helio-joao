@@ -1,0 +1,31 @@
+{
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal still-life composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Subject small and dark, resting on the floor in the lower half of the frame, nothing entering from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "kind": "base",
+   "scene": "On a bare tiled floor against the plain plaster wall, beside the edge of a wooden door frame that enters from the right side only at floor level: ONE small packed travel bag, zipped and ready, standing on the floor, with a folded document and a set of keys resting on top of it. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 2,
+   "kind": "base",
+   "scene": "On a bare wooden table against the plain plaster wall, seen at table level: ONE plain white candle, unlit, standing in a simple saucer, with a small box of matches beside it, ready. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 3,
+   "kind": "base",
+   "scene": "On a bare tiled floor against the plain plaster wall: ONE closed black umbrella, dry, leaning against the wall beside the lower edge of a door frame, ready to be taken. The umbrella is short and sits low, its tip well below the middle of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 4,
+   "kind": "base",
+   "scene": "On a bare tiled floor against the plain plaster wall, NO door, NO frame, only the empty wall: ONE small packed travel bag, zipped and ready, standing on the floor slightly right of center, with a folded document and a set of keys resting on top of it. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 5,
+   "kind": "base",
+   "scene": "On a bare tiled floor against the plain plaster wall, NO door, NO frame, only the empty wall: ONE small packed travel bag, zipped and ready, standing on the floor, and beside it a pair of simple flat shoes lined up, ready to step into. Small, in the lower third of the frame. Nothing else. Hard low side light, long shadows."
+  }
+ ]
+}

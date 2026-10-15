@@ -1,0 +1,64 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "scene": "An old worn leather-bound bible lying open on a plain wooden lectern in a small rural chapel, seen slightly from above and very close. ALL the printed text on both open pages is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines with no readable letters. Empty chapel benches far behind, deeply out of focus. The lectern and the open book are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty light above."
+    },
+    {
+      "n": 2,
+      "scene": "The packed wooden benches of a small rural church seen from directly behind the congregation, row after row of people in plain Sunday clothes packed shoulder to shoulder receding deep into the frame, all seen from the back of their heads and shoulders. The rows of people begin immediately below the thin pale strip at the top and fill everything down past the bottom edge and out past both side edges.",
+      "base": "base_tall"
+    },
+    {
+      "n": 3,
+      "scene": "A workshop wall completely covered with laminated procedure sheets hanging in tight ordered rows on nails, filling the wall from side to side and from top to bottom. ALL the typed text on every sheet is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines with no readable letters. The wall of sheets begins immediately below the thin pale strip at the top and runs past the bottom edge and out past both side edges.",
+      "base": "base_tall"
+    },
+    {
+      "n": 4,
+      "scene": "A modest small-business desk seen close and from a low angle: an old rotary desk telephone, an open order pad and a worn adding machine sitting side by side on the scratched wooden surface. ALL handwriting and printing on the pad is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines. The objects are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty wall above."
+    },
+    {
+      "n": 5,
+      "scene": "Three small and clearly different country chapels standing along the same unpaved dirt street of a poor village, each with its own crooked little bell tower, photographed straight on from the middle of the road. The three chapels and the dirt road are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty bright sky above."
+    },
+    {
+      "n": 6,
+      "scene": "A cheap spiral notebook lying open on a shop counter, covered edge to edge in dense messy handwriting, a plastic promotional pen resting across it. ALL the handwriting is completely BLURRED and ILLEGIBLE, reduced to soft grey scribbled lines with no readable letters. The notebook and counter are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty light above."
+    },
+    {
+      "n": 7,
+      "scene": "A close crop of a man's bare hand pressing a heavy hardcover book closed on a wooden table, fingers spread flat across the cover, no face and no body visible, only the hand and forearm. The hand and the book are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty surface above."
+    },
+    {
+      "n": 8,
+      "scene": "A salesman in a plain dress shirt shaking hands with a customer in the doorway of a small shop, both seen from the side in a firm handshake, faces partly turned away. The two men are LARGE and fill the whole bottom of the frame from the left edge to the right edge, shown from the waist up and cut off by the bottom edge, pale bright doorway light above."
+    },
+    {
+      "n": 9,
+      "scene": "A large blackboard on the wall of a modest meeting room, COMPLETELY BLANK AND EMPTY, wiped clean, nothing written on it at all, no text, no marks, no letters, a felt eraser and a stub of chalk resting on the narrow wooden tray beneath it. The blackboard is LARGE and fills the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty wall above."
+    },
+    {
+      "n": 10,
+      "scene": "A middle-aged man in a plain dress shirt sitting alone on a wooden church bench, hands clasped together, head slightly bowed, eyes closed in prayer, empty benches around him. The man and the bench are LARGE and fill the whole bottom of the frame from the left edge to the right edge, shown from the chest up and cut off by the bottom edge, pale empty light above."
+    },
+    {
+      "n": 11,
+      "scene": "A close crop of a man's hand gripping a pen and writing by hand on a sheet of paper laid on a plain wooden table, caught mid-stroke. No face and no body visible, only the hand and forearm. ALL the handwriting is completely BLURRED and ILLEGIBLE, reduced to soft grey lines with no readable letters. The hand, pen and paper are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale empty surface above."
+    },
+    {
+      "n": 12,
+      "scene": "A small sales team of four people working together in a modest commercial office, two of them on the telephone at their desks, one writing, one standing and talking, all busy at the same moment. The group is LARGE and fills the whole bottom of the frame from the left edge to the right edge, shown from the waist up and cut off by the bottom edge, pale empty wall above."
+    },
+    {
+      "n": 13,
+      "scene": "A close crop of a single hand holding a lit taper and lighting the last candle at the end of a long row of altar candles, the other candles already burning in a receding line. No face and no body visible, only the hand and forearm. The hand and the row of candles are LARGE and fill the whole bottom of the frame from the left edge to the right edge, cut off by the bottom edge, pale dark haze above."
+    },
+    {
+      "n": 14,
+      "scene": "A middle-aged businessman in a plain light dress shirt with the sleeves rolled up, standing squarely facing the camera with one hand open in a gesture of conviction, calm firm expression, looking directly into the lens. A modest small-business office deeply out of focus behind him. The man is LARGE and fills the whole bottom of the frame from the left edge to the right edge, shown from the waist up and cut off by the bottom edge, pale empty wall above."
+    }
+  ],
+  "base_tall": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is VERY CLOSE and the subject is ENORMOUS, filling the frame edge to edge and top to bottom, extending past the bottom edge AND past the left and right edges. Only a VERY NARROW strip across the very TOP of the frame, about one TENTH of the height, is empty pale bright almost-white haze. The subject must already be present just below that thin strip. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look."
+}

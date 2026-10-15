@@ -1,0 +1,98 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, 1960s to 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. A railway track switch seen from track level: the single track splits into TWO rails branches curving away to opposite sides, left and right, and the old iron switch lever stands beside the rails, stuck halfway, pointing to neither side. NO PEOPLE anywhere in the frame, no hands, no faces. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. An old wind-up twin-bell alarm clock standing alone on a worn wooden station desk, its hands almost at the hour, the small hammer between the two bells about to strike, like a bomb about to go off. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. On a worn wooden office desk of a station master, seen up close: an old black rotary telephone with the handset off the hook lying on the desk, and beside it a TALL untidy pile of sealed unopened envelopes and folders tied with string. The objects are LARGE in the frame. NO PEOPLE, no hands. COMPOSITION DETAIL: the group is centered, filling the central 70 percent of the width, nothing touches the left or right edges; the desk surface fills the bottom of the frame; the objects end below the middle of the frame, nothing hangs from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. An old railway signal control panel on a low wooden console: a row of many round signal lamps, ALL of them glowing bright at the same time, with old switches and knobs below them. NO PEOPLE anywhere in the frame, no hands, no faces. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. On a station platform floor, against the base of a column: a row of three old round metal fire buckets filled with sand and an old brass fire extinguisher, one bucket knocked over with sand spilled on the floor, faint wisps of residual smoke-blackened marks on the floor. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. A middle-aged businessman in a dark suit sitting ALONE on a long wooden bench on an empty station platform at night, seen in profile, his jacket folded on his lap, elbows on knees, head bowed, exhausted. Plain unbranded clothes, no logos, no printed names. COMPOSITION DETAIL: the person is fully inside the frame, the head well below the upper 45 percent, nothing above."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. On an old wooden platform bench, seen up close: a worn leather pair of work gloves and a folded old work towel thrown down on the seat, abandoned, as if someone gave up and walked away. NO PEOPLE, no hands. COMPOSITION DETAIL: the objects are COMPACT and CENTERED, occupying only the central 55 percent of the width, with plain empty space on both sides; nothing touches the left or right edges. They sit on the bench and end below the middle of the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. On a wooden table: an old folded railway route map lying open, with one long line drawn running across it to the edge, and an old brass pocket compass resting on top of the map. The map shows only vague illegible lines, no readable words. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. A father in a simple suit and his young son, about seven years old, seen from behind, standing hand in hand on a station platform, both looking ahead toward the tracks and a train in the distance. Plain unbranded clothes, no logos, no printed names. COMPOSITION DETAIL: the person is fully inside the frame, the head well below the upper 45 percent, nothing above."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. A straight railway track running away from the camera at ground level, with a few loose stones and a cracked wooden sleeper lying on the rails ahead, the track continuing straight past them. NO PEOPLE anywhere in the frame, no hands, no faces. COMPOSITION DETAIL: the scene spreads low across the width of the frame and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. Close view of a strong man's two hands and forearms in rolled shirt sleeves gripping and pulling an old iron railway switch lever that stands low beside the rails; the arms enter the frame from the RIGHT SIDE at the height of the lever, never from the top. Only hands, forearms, the lever and the rails, no faces, no head, no shoulders. COMPOSITION DETAIL: everything sits in the lower half of the frame; nothing enters or hangs from the top of the frame."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. An old steam locomotive coming forward along straight tracks toward the camera, seen low and from the front, light steam around its wheels, powerful and steady. NO PEOPLE visible. COMPOSITION DETAIL: the locomotive is compact and centered, its chimney top well below the upper 45 percent of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 13,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. On a wooden desk, seen up close: a single sheet of paper with a few lines of handwriting (vague and illegible, no readable letters), a fountain pen lying across it, and an open old pocket watch beside the paper showing seven o'clock. NO hat, NO cap, NO people, no hands. COMPOSITION DETAIL: the objects are COMPACT and CENTERED, occupying only the central 60 percent of the width; nothing touches the left or right edges; they lie flat on the desk and end below the middle of the frame."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. Inside an old locomotive cab: a train driver seen from behind, his hand firmly on the brass throttle lever, looking straight ahead through the front window at the straight tracks. Plain unbranded clothes, no logos, no printed names. COMPOSITION DETAIL: the person is fully inside the frame, the head well below the upper 45 percent, nothing above."
+  },
+  {
+   "n": 15,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s, an old railway. A long straight railway track running perfectly straight from the bottom of the frame to a vanishing point on the horizon, no switches, no branches, open flat land on both sides. The horizon line sits below the middle of the frame and the pale empty sky above it continues up. NO PEOPLE anywhere in the frame."
+  }
+ ]
+}

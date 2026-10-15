@@ -1,0 +1,76 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic color grading.",
+ "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "images": [
+  {
+   "n": 1,
+   "kind": "foto",
+   "scene": "The dining room of an old vintage restaurant seen from the back of the room: two waiters in white jackets working among a few laid tables, and on the far side, through the propped-open swing door of the kitchen, a chef is visible working at his bench. Everything happening in the same frame. Wooden chairs and a laid table fill the bottom third and bleed off the bottom edge. The tall windows and the ENTIRE UPPER HALF of the room are bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 2,
+   "kind": "foto",
+   "scene": "A narrow service passage between kitchen and dining room of an old restaurant: one waiter in a white jacket stepping out of the kitchen holding up a loaded tray of plates, handing it over to a second waiter who receives it with both hands. The two men, the tray and a service shelf fill the bottom half of the frame and bleed off the bottom edge. The corridor wall above them is bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 3,
+   "kind": "foto",
+   "scene": "The facade of a small old restaurant seen from the pavement at dusk in heavy fog: a plain fabric awning, a wide lit window with the blurred silhouettes of people moving inside, a wooden door with a brass handle. The pavement, a couple of empty chairs outside and the base of the facade fill the bottom third of the frame and bleed off the bottom edge. The foggy air and the sky above the awning are bright, pale, empty and hazy, fading to near-white at the very top edge. No signage, no lettering of any kind on the awning or the window."
+  },
+  {
+   "n": 4,
+   "kind": "close",
+   "scene": "A chef in a white jacket and cap leaning over a single plate on a kitchen bench, finishing the plating with a pair of tweezers, completely concentrated, eyes on the plate. The bench, the plate and his forearms fill the bottom half of the frame and bleed off the bottom edge. The tiled kitchen wall behind and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 5,
+   "kind": "close",
+   "scene": "Seen from the height of a dining table: a waiter's hand and forearm in a dark jacket sleeve dropping a plate of food carelessly onto the white tablecloth, the plate landing crooked and food shifted to one edge, a napkin knocked aside. The waiter's body is cut off by the top of the frame, no face visible, already turning away. The tablecloth, the plate, a glass and cutlery fill the bottom half of the frame and bleed off the bottom edge. The room behind and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 6,
+   "kind": "foto",
+   "scene": "A waiter in a dark jacket standing beside a laid dining table in a restaurant, arms crossed over his chest, face turned away and staring off out of frame, not looking at the table. On the white tablecloth in front of him a plate of food, served and completely untouched, with the cutlery still aligned. The table, the plate and his lower body fill the bottom half and bleed off the bottom edge. The room behind and the entire upper part are bright, pale, empty and hazy."
+  },
+  {
+   "n": 7,
+   "kind": "foto",
+   "scene": "An old restaurant dining room seen from behind the service counter: the polished edge of the wooden counter and a stack of clean plates fill the bottom third of the frame and bleed off the bottom edge. Beyond the counter, laid tables spread through the room, and the nearest one is empty with its chair pushed back. No people in the frame. The tall windows and the entire upper half of the room are bright, pale, empty and hazy, fading to near-white at the top edge."
+  },
+  {
+   "n": 8,
+   "kind": "foto",
+   "scene": "A single dark porcelain cup with a heavy dark stain around its rim, standing completely alone in the middle of a very large table covered with a white cloth. Nothing else on the table at all. Hard raking light from the left carves the cup and throws a long dark shadow across the cloth. Behind the table, dark wooden panelling and the deep shadow of an empty dining room, chairs barely visible in the dark. The table and the cloth fill the bottom half of the frame and bleed off the bottom edge. Only the upper part of the image is bright, pale and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 9,
+   "kind": "foto",
+   "scene": "An old restaurant kitchen: at the front bench a chef in a white jacket leans in close to instruct one young cook, the two of them concentrated on the same pan. Far behind them, deeper in the kitchen, two other kitchen helpers work separately, each turned a different way, with nobody watching them. The front bench with pans fills the bottom third and bleeds off the bottom edge. The upper part of the kitchen is bright, pale, empty and hazy, fading to near-white at the top edge."
+  },
+  {
+   "n": 10,
+   "kind": "foto",
+   "scene": "The back scullery of an old restaurant at the end of the shift: dirty plates stacked high in a deep sink, a stained apron hanging from a nail on the wall, a wet cloth thrown over the edge of the basin. Nobody there at all. The sink and the stack of plates fill the bottom half of the frame and bleed off the bottom edge. The wall above and the entire upper part are bright, pale, empty and hazy, fading to near-white at the top edge."
+  },
+  {
+   "n": 11,
+   "kind": "close",
+   "scene": "ABSOLUTELY NO PEOPLE in the frame, no person, no figure, no portrait. A close still-life of an old kitchen wall: one single iron nail driven into the plaster, and hanging from it only the torn upper corner of a sheet of paper, completely blank with no writing, no letters and no marks, the rest of the sheet ripped away long ago. The nail and the torn corner are the clear large subject in the middle of the frame, hard side light throwing a sharp shadow of the paper on the wall. The edge of a wooden shelf with a couple of dark pans fills the bottom third of the frame and bleeds off the bottom edge. The plaster wall above is bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 12,
+   "kind": "close",
+   "scene": "A waiter in a dark jacket standing in a narrow back corridor, adjusting his own tie in front of a small mirror hanging on the wall, chin lifted, careful and proud of himself, about to walk into the dining room. His shoulders, the back of a wooden chair and a folded napkin fill the bottom half of the frame and bleed off the bottom edge. The corridor wall and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy."
+  },
+  {
+   "n": 13,
+   "kind": "foto",
+   "scene": "A man in a plain suit standing alone in the middle of a restaurant dining room before opening, wooden chairs turned upside down on the tables all around him, looking slowly over the room. The upturned chairs and a table fill the bottom third of the frame and bleed off the bottom edge. The tall windows and the entire upper half of the room are bright, pale, empty and hazy, fading to near-white at the very top edge."
+  },
+  {
+   "n": 14,
+   "kind": "foto",
+   "scene": "The dining room of an old restaurant completely full: every table occupied by guests in conversation, two waiters in white jackets moving between them carrying loaded trays, a busy and warm room. The nearest occupied table with guests fills the bottom third and bleeds off the bottom edge. Strong daylight pours in from the tall windows; the entire upper part of the room is bright, pale and hazy, fading to near-white at the very top edge."
+  }
+ ]
+}

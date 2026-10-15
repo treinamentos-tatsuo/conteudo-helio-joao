@@ -1,0 +1,9 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+<style>*{margin:0;padding:0;box-sizing:border-box}body{width:1080px;height:1350px;background:#000;overflow:hidden;position:relative;color:#fff;font-family:Montserrat,sans-serif}
+img{position:absolute;left:0;top:330px;width:1080px;height:1350px}
+.g{position:absolute;inset:0;background:linear-gradient(to bottom,#000 0%,#000 30%,rgba(0,0,0,.6) 38%,rgba(0,0,0,0) 50%)}
+.t{position:absolute;left:90px;right:90px;top:300px;text-align:center;font-weight:600;font-size:29px;line-height:1.7;letter-spacing:4px;text-transform:uppercase;text-shadow:0 1px 3px rgba(0,0,0,.5);white-space:nowrap}</style></head><body>
+<img src="../imagens/epica-b.jpg"><div class="g"></div>
+<div class="t"><div id="l1" style="display:inline-block">Não há nada que você faça 10 mil vezes</div><br><div id="l2" style="display:inline-block">que você não fique bom.</div></div>
+<script>document.fonts.ready.then(()=>{const a=document.getElementById("l1"),b=document.getElementById("l2");const W=a.getBoundingClientRect().width;let f=29;for(let i=0;i<30;i++){f=f*W/b.getBoundingClientRect().width;b.style.fontSize=f+"px";b.style.letterSpacing=(4*f/29)+"px";}});</script></body></html>

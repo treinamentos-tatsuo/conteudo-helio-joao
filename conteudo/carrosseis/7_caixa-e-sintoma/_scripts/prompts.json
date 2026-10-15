@@ -1,0 +1,91 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1950s-1960s hospital and clinic archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, 1950s-1960s hospital and clinic archive look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A long strip of electrocardiogram paper unspooling from an old chart recorder in the lower third of the frame, the jagged irregular trace clearly printed along it, the paper folding and spilling off the bottom edge of the frame. The needle arm rests on the strip. The space above the machine is pale, empty and washed out."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "A crowded waiting room in an old hospital, long rows of wooden chairs completely occupied by seated people seen from behind and from the side, the rows receding deep down a corridor. The nearest row of chairs and shoulders fills the bottom third of the frame. The high ceiling and far wall above are pale, blown out and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A well dressed middle-aged man in a dark suit sitting on the edge of a doctor's examination couch in an empty consulting room, shoulders slumped, hands on his knees, looking down. The examination couch and floor fill the bottom third of the frame. The wall above him is bare, pale and washed out."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A tipped-over glass pill bottle on a worn clinic counter with dozens of capsules and tablets spilled across the surface, spreading toward the viewer and off the bottom edge of the frame. Shallow depth. The empty wall above the counter is pale, hazy and blown out."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A vintage stethoscope lying coiled on top of an open handwritten patient chart on a wooden desk, a fountain pen beside it, the desk edge filling the bottom of the frame. The space above the desk is pale, empty and washed out."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A blood transfusion bag hanging from a tall metal drip stand in an empty ward, the rubber tube descending in a long curve toward the bottom of the frame, the base of the stand and the floor filling the bottom third. The wall and ceiling above are pale, empty and blown out."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "An inverted glass saline bottle hanging almost empty on a metal hook, one last drop forming at the outlet, the drip chamber and tubing filling the lower third of the frame. The background above is completely pale, empty and washed out."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A large round institutional wall clock with plain hands mounted on a peeling painted hospital corridor wall, seen slightly from below, the clock sitting low in the frame with the corridor rail and wall filling the bottom third. The wall above the clock is pale, bare and blown out."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "An enormous empty hospital ward, two long rows of identical iron beds with white sheets receding far into the distance, completely deserted, no people. The nearest beds fill the bottom third of the frame. The tall windows and high ceiling above flood the upper half with pale, blown out light."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "An operating theatre seen from above, a team of surgeons and nurses in gowns and masks bent over the table under a large surgical lamp, their backs and the table filling the lower half of the frame. The floor and surrounding room above them are pale, empty and washed out."
+    },
+    {
+      "n": 11,
+      "kind": "cutout",
+      "scene": "A single vintage mercury clinical thermometer lying at a slight diagonal, the mercury column clearly risen high inside the glass, the scale markings visible on the stem."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A chest x-ray film clipped onto a lightbox viewer, brightly backlit, a hand entering from the side with one finger pointing at a dark patch on the film. The lightbox and the doctor's sleeve fill the bottom third of the frame. The wall above the lightbox is dark-free, pale and washed out."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "An old glass and metal syringe lying on a stainless steel kidney tray beside a small glass ampoule, on a clinic trolley whose surface fills the bottom third of the frame. The space above the tray is pale, empty and blown out."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A forearm wrapped in a fresh white cotton bandage with a dark stain seeping through from underneath, an unrolled roll of gauze beside it on a white cloth filling the bottom third of the frame. The background above is pale, empty and washed out."
+    },
+    {
+      "n": 15,
+      "kind": "foto",
+      "scene": "An old cathode-ray oscilloscope style cardiac monitor on a metal cart, the trace on its round screen weakening and flattening into an almost straight line. The monitor and cart fill the lower half of the frame. The room above is pale, empty and blown out."
+    },
+    {
+      "n": 16,
+      "kind": "foto",
+      "scene": "An antique brass microscope standing on a laboratory bench beside a small stack of glass slides and an open notebook, window light raking across the bench which fills the bottom third of the frame. The wall and window above are pale, hazy and blown out."
+    },
+    {
+      "n": 17,
+      "kind": "cutout",
+      "scene": "A man in a plain shirt standing and holding a large x-ray film up in front of him at eye level with both hands, looking at it, his head tilted slightly back, full figure visible from the knees up."
+    }
+  ]
+}

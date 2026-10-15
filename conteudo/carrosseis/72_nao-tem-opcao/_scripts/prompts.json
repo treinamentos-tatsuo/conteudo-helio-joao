@@ -1,0 +1,78 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting on the subject. Brazilian small-business world: workshop, warehouse, small shop, simple home. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, dramatic low-key lighting. Brazilian small-business world. CLOSE framing on the subject, which fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no labels, no legible writing of any kind, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a lone man in a plain work shirt standing on an empty street before dawn, facing a closed corrugated steel rolling shutter of his own small workshop, seen from behind and slightly to the side. He stands LOW in the frame and the pavement fills the bottom third. The shutter and the sky above are very pale, washed out and completely blank across the whole upper half, no shadow up there at all."
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a simple home dining table at night, COMPLETELY EMPTY OF PEOPLE, nobody in the frame: a plate of untouched food gone cold pushed away to one far corner, and an open spread of paperwork and handwritten bills covering the place where the plate should be, a chair pushed back and empty. The table top fills only the BOTTOM HALF of the frame and bleeds off the bottom edge. The wall behind is very pale, bright, flat and completely blank across the entire upper half, no furniture and no dark area up there at all."
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a small neighbourhood bar table at the very end of the night: empty glasses, a full ashtray, a crumpled napkin. Behind it, out of focus, chairs already turned upside down on top of the other tables. The table fills the bottom half and bleeds off the bottom edge, the space above it is pale, bright and empty."
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "base": "base",
+      "scene": "a lone man carrying a heavy sack on his shoulders, bent forward, climbing a steep bare concrete ramp. Nobody else anywhere in sight. He is LOW in the frame, the ramp surface fills the bottom third, and the whole upper half is pale, blank and hazy."
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "base": "base",
+      "scene": "an exhausted man sitting on a wooden crate in the middle of a warehouse floor, hunched forward, dirty hands hanging down between his knees, staring at the floor. Around him the work is clearly unfinished: scattered boxes, an open crate, tools left where they fell. He sits LOW in the frame, the floor fills the bottom third, the upper half is pale and empty."
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a man alone at a plain kitchen table in the middle of the night, a single desk lamp throwing light down onto spread papers and a calculator, the rest of the house completely dark behind him. He is seen from the side, leaning over the papers. He and the table fill the bottom half and bleed off the bottom edge, the area above the lamp light is pale and washed out."
+    },
+    {
+      "n": 7,
+      "kind": "photo",
+      "base": "close",
+      "scene": "close view of two weathered hands sharpening a blade on a flat whetstone, mid-stroke, small repeated motion, no drama. The hands and the stone fill the bottom half and bleed off the bottom edge. The surface behind is very pale, bright and completely empty."
+    },
+    {
+      "n": 8,
+      "kind": "photo",
+      "base": "close",
+      "scene": "an old mechanical wall time clock in a workshop with a rack of worker punch cards slotted in a neat row beside it, every slot filled except ONE single empty slot at the end of the row. The clock and the card rack sit LOW in the frame and bleed off the bottom edge. The wall above them is very pale, bright, flat and completely empty across the whole upper half."
+    },
+    {
+      "n": 9,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a dusty stack of old notebooks and planners piled in a corner on the floor, the top one lying open showing only the first few pages filled with handwriting and all the rest of the pages completely blank, a pen resting beside it, fine dust over everything. The stack fills the bottom half and bleeds off the bottom edge, the wall above is pale and empty."
+    },
+    {
+      "n": 10,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a paper wall calendar hanging on a workshop wall, one date circled hard with a pen, the same weekday circled again further down the page, a pen hanging on a string beside it. The calendar sits LOW in the frame and bleeds off the bottom edge. The wall above and around the top of the calendar is very pale, bright and completely blank."
+    },
+    {
+      "n": 11,
+      "kind": "photo",
+      "base": "close",
+      "scene": "a workbench drawer pulled half open, crammed with broken parts, bent metal pieces and crumpled papers shoved inside and forgotten. The drawer and the bench front fill the bottom half and bleed off the bottom edge. The wall above the bench is very pale, bright and completely empty."
+    },
+    {
+      "n": 12,
+      "kind": "photo",
+      "base": "close",
+      "scene": "portrait of a small-business owner in a plain work shirt with sleeves rolled up, arms crossed, standing and looking straight into the camera with a hard steady gaze, his workshop running out of focus behind him. He fills the bottom half of the frame and bleeds off the bottom edge, the space above his head is pale, bright and empty."
+    }
+  ]
+}

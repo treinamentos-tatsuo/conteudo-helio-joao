@@ -1,0 +1,79 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, classic film noir mood with deep shadows and dramatic low-key lighting on the subject. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic color grading.",
+  "close": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look, classic film noir mood with deep shadows and dramatic low-key lighting on the subject. CLOSE framing on the subject, who fills the bottom half of the frame and bleeds off the bottom edge. The background and the ENTIRE UPPER PART of the image are bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no signage, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "Inside a quiet 1950s house at night: the long dramatic shadow of a burglar wearing a fedora hat and long coat cast across a pale plaster hallway wall and wooden floor, the figure itself not visible, only his sharp shadow, a small wooden side table low in the frame. The shadow and floor occupy only the BOTTOM HALF of the frame, the shadow never rising above the vertical middle. The entire upper half of the wall is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "close",
+      "base": "close",
+      "scene": "A burglar's black leather gloved hand inserting a thin metal lockpick into the keyhole of an old round brass door lock on a dark wooden front door, the lock and hand sitting LOW in the frame, in the BOTTOM THIRD only, night, faint pale moonlight from the side, 1950s hardware. The ENTIRE upper two thirds of the image are bright, pale, empty and hazy mist, fading to near-white at the top edge."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A burglar in a fedora hat and long dark coat seen FROM BEHIND walking away down the dark hallway of a 1950s home, the beam of his hand-held flashlight throwing a bright pool of light on the wooden floor ahead of him, walls dissolving into pale haze above."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A tired middle-aged house owner fast asleep in a worn armchair in his 1950s living room at night, head tilted, loose blank papers and envelopes sliding off his lap, a dim little table lamp beside him; far in the background, the faint dark silhouette of a burglar in a fedora slipping past the doorway. The sleeping owner is the MAIN subject, large in the lower half; the silhouette small and barely visible behind. All papers completely blank."
+    },
+    {
+      "n": 5,
+      "kind": "close",
+      "base": "close",
+      "scene": "A black leather gloved hand lifting a THICK heavy stack of plain blank banknotes tied with string out of an open wooden desk drawer, the hand and drawer sitting LOW in the frame, in the BOTTOM THIRD only, seen from slightly above, night, dramatic side light raking across the hand and the money, 1950s office drawer with a small brass handle. The banknotes completely plain with no readable engraving, no numbers. The ENTIRE upper two thirds of the image are bright, pale, empty and hazy, fading to near-white at the top edge."
+    },
+    {
+      "n": 6,
+      "kind": "close",
+      "scene": "Two hands meeting in the center: a business owner's bare open hand HANDING a single old iron door key to a burglar's black leather gloved hand that reaches in from the other side, the key passing between them at the exact moment of the handover, dramatic noir side light on the two hands and the key, everything else dissolving into darkness below, night, 1950s. The hands sit LOW in the frame, in the bottom third; the ENTIRE upper two thirds of the image are bright, pale, empty and hazy, fading to near-white at the top edge.",
+      "base": "close"
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A burglar in a fedora hat hunched over a wooden bedroom dresser at night, stuffing an open canvas sack with plain blank banknotes and a pocket watch on a chain, dim warm lamplight from one side, drawers half open, 1950s bedroom. The banknotes completely plain with no readable engraving."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A ransacked 1950s home office the morning after a robbery: desk drawers pulled fully open, blank papers scattered across the wooden floor, a wooden chair tipped over on its side, no people, cold quiet light, unsettling stillness. All papers completely blank with no writing."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "The heavy front door of a 1950s house standing WIDE OPEN to the black night outside, seen from inside the hallway, cold pale light spilling across the wooden floorboards toward the camera, the doorway empty, coat rack beside it, unsettling stillness, no people."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "A burglar in a fedora and long coat climbing OUT through an open sash window of a 1950s house at night, one leg already over the sill, a full heavy canvas sack slung over his shoulder, his dark silhouette framed against pale moonlit mist outside the window."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "Seen from several steps back: a burglar in a fedora hat and long dark coat caught FACE-ON, his back pressed flat against a wide plaster wall with nowhere to run, cornered, full body visible and small in the frame, squinting with one arm half-raised to shield his hurting eyes as a powerful blinding beam of light hits him straight in the face from directly BEHIND the camera, the beam throwing a LARGE wide circle of hard light across the wall and ground around him, his sharp shadow flattened on the wall, night, 1950s. He stands in the lower half of the frame; the wall above dissolves into bright pale glare and haze."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "The same 1950s home in the calm of morning after: a tidy living room with bright sunlight streaming through open curtains, a clean wooden table holding a closed ledger book and a cup of coffee, order and peace restored, no people, airy and light."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "Seen from the FLOOR looking straight UP: a 1950s detective in a fedora hat and trench coat bending directly over the camera, examining the viewer from above through a large round brass magnifying glass held tight against his RIGHT eye, that eye hugely enlarged by the lens, his face, hat brim and gloved hand looming close and filling the lower half of the frame, dramatic low-key light on his face, the ceiling behind him dissolving into bright pale empty haze at the top of the frame."
+    },
+    {
+      "n": 14,
+      "kind": "foto",
+      "scene": "A burglar in a fedora hat and long coat FROZEN mid-step at night, caught in the harsh circular beam of a powerful police spotlight, one hand thrown up against the blinding glare, the other still clutching a full canvas sack with plain blank banknotes spilling out onto the ground, caught red-handed with everything he stole, dramatic hard light, pale haze beyond the beam."
+    }
+  ]
+}

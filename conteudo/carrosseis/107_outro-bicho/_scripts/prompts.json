@@ -1,0 +1,111 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no cage top, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language, real animals photographed as real animals. Any sacks, packaging, tins or bottles in the scene are PLAIN and UNBRANDED, with no printed brand names, no labels and no words on them. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+  "setting": "Setting: a small neighborhood PET SHOP with dog grooming in a Brazilian town in the 1980s: a worn wooden front counter with a cash drawer, stacked sacks of dog food, hanging bird cages, a stainless-steel grooming table, a deep bathing tub, a row of kennel cages at the back, plain painted walls, a metal roll-up shutter door. The owner is a Brazilian man in his fifties, a rubber apron over a work shirt with rolled sleeves; his staff are a young woman groomer and a teenage helper. ",
+  "corporate": "Setting: the headquarters of a large corporation in a glass office tower, 1980s: marble lobby, a long polished boardroom table with leather chairs, floor-to-ceiling windows. ",
+  "images": [
+    {
+      "n": 1,
+      "base": "base",
+      "cinema": false,
+      "scene": "On the stainless-steel grooming table, a TINY short-haired dog (a small pinscher-type puppy) sits and looks UP with big eyes at a HUGE dog (a Saint Bernard-type) standing right beside it on the same table, the giant dog's head towering high above the small one. Both dogs LARGE and close, the small dog's whole body clearly visible next to the giant's chest and legs, grooming shears and a brush on the table beside them. Behind them plain wall dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands: only the two dogs. The punch of the picture is the size contrast, the small one looking up at the big one."
+    },
+    {
+      "n": 2,
+      "base": "base",
+      "cinema": false,
+      "scene": "A thick hardcover business management BOOK lying OPEN on the worn wooden counter of the pet shop, between stacked sacks of dog food and a glass jar of dog biscuits; a real short-haired CAT sits squarely on top of the open pages, looking straight at the camera with a bored face. The book and the cat VERY LARGE filling the lower three quarters of the frame. NO PEOPLE anywhere in the frame, no hands. ALL the printed text on the pages is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines; the photo itself stays sharp."
+    },
+    {
+      "n": 3,
+      "base": "base",
+      "cinema": false,
+      "scene": "A big standard POODLE freshly groomed, fur blow-dried and perfectly sculpted, wearing a men's dark NECKTIE around its neck and a small ribbon bow on top of its head, sitting bolt upright on the stainless-steel grooming table like a proud corporate executive, chin raised, looking straight at the camera with a haughty expression; the tie hangs down its chest. The dog VERY LARGE filling the lower three quarters of the frame, grooming tools on the table, plain wall dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands. The joke of the picture is a dog dressed as a company manager."
+    },
+    {
+      "n": 4,
+      "base": "base",
+      "cinema": false,
+      "setting": "corporate",
+      "scene": "The boardroom of the corporation, completely EMPTY: a long polished dark wood conference table VERY LARGE in the foreground running from the left edge to the right edge and past the bottom edge, leather chairs aligned along both sides, a single closed leather folder at the head seat, and floor-to-ceiling windows at the back with a pale washed-out city skyline dissolving upward into bright light. NO PEOPLE anywhere in the frame, no hands: an empty room where money is made and nobody is there."
+    },
+    {
+      "n": 5,
+      "base": "base",
+      "cinema": true,
+      "scene": "The pet shop owner in his rubber apron, shirt sleeves rolled and soaked, standing at the deep bathing tub with a big wet soapy dog in the tub in front of him, one hand on the dog's back; the owner looks STRAIGHT INTO THE CAMERA with a tired, honest, direct face, no smile. The owner and the dog VERY LARGE and VERY close, the camera tight on them: the owner's head sits HIGH in the frame with the top of his hair almost touching the pale top band (only a thin sliver of pale light above his head), his chest and the dog's head filling the whole lower part of the frame; the staff and the shop are only a narrow strip visible behind his shoulders, dissolving upward into pale light."
+    },
+    {
+      "n": 6,
+      "base": "base",
+      "cinema": false,
+      "scene": "The kitchen table of the owner's home at night: a pile of paper utility bills and invoices, a child's school exercise book with a doodled cover, an open chequebook with a pen, a small cup of coffee, and a real CAT sitting on the table among the papers looking at the camera. The table VERY LARGE filling the lower three quarters of the frame from edge to edge, the kitchen wall behind dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands. ALL printed and handwritten text on the papers is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines; the photo itself stays sharp."
+    },
+    {
+      "n": 7,
+      "base": "base",
+      "cinema": true,
+      "scene": "A management CONSULTANT in a sharp suit and tie stands in the middle of the pet shop holding a clipboard, pointing with his pen toward the hanging bird cages, mid-lecture; beside him the owner in his rubber apron stands with his arms crossed, looking down at the floor, unconvinced; between the two men a medium-sized scruffy dog sits on the floor looking up at the consultant. Both men LARGE and close, chest up, fully inside the frame, the sacks of dog food behind dissolving upward into pale light."
+    },
+    {
+      "n": 8,
+      "base": "base",
+      "cinema": false,
+      "scene": "A TINY dog (a small pinscher-type) standing on the floor of the pet shop wearing a HUGE dog coat made for a giant breed: the oversized coat swallows the little dog completely, dragging on the floor around it in folds, only its small head and worried eyes sticking out at the front. The dog and the coat VERY LARGE filling the lower three quarters of the frame, sacks of dog food beside it, plain wall dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands, no legs. The joke of the picture is the coat that does not fit."
+    },
+    {
+      "n": 9,
+      "base": "base",
+      "cinema": true,
+      "scene": "Late at night in the empty pet shop, the owner in his rubber apron sits ALONE on the concrete floor with his back against the bars of the kennel cages, head tilted back against the bars, eyes closed, exhausted; a dog lies curled up asleep against his leg; one bare light bulb hangs above out of frame. The camera is low at his eye level, the owner LARGE and close, chest up, fully inside the frame, the cages behind dissolving upward into pale light."
+    },
+    {
+      "n": 10,
+      "base": "base",
+      "cinema": false,
+      "scene": "The owner seen from BEHIND, alone at night, pulling DOWN the heavy corrugated metal roll-up shutter of the pet shop with one raised hand, a big ring of keys in the other hand, his back and shoulders a large dark shape filling the lower three quarters of the frame; the empty street pavement at his feet; the shutter surface above his hand dissolving upward into pale light. Nobody else in the frame."
+    },
+    {
+      "n": 11,
+      "base": "base",
+      "cinema": false,
+      "scene": "Extreme close view of the wooden CASH DRAWER of the pet shop counter pulled OPEN at the end of the day: only a few crumpled, folded banknotes lying loose in the compartments, some scattered coins, one folded paper receipt; the worn wood of the counter. The drawer VERY LARGE filling the lower three quarters of the frame from edge to edge, sacks of dog food behind dissolving upward into pale light. NO PEOPLE anywhere in the frame, no hands. The banknotes are plain generic old paper money, NOT US dollars, no green tint, no portraits, seen edge-on at a low grazing angle so any printing is just soft illegible smudges."
+    },
+    {
+      "n": 12,
+      "base": "base",
+      "cinema": false,
+      "scene": "Extreme close view of an old-fashioned iron RECEIPT SPIKE (a tall iron nail standing on a small round base) on the wooden pet shop counter with a THICK stack of yellowed, folded paper receipts impaled on it, beside the closed cash drawer; behind it a parrot sits in a hanging cage. The spike and the receipts VERY LARGE filling the lower three quarters of the frame, the wall behind dissolving upward into pale light with the cage well below the top band. NO PEOPLE anywhere in the frame, no hands. ALL the printing on the receipts is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines; the photo itself stays sharp."
+    },
+    {
+      "n": 13,
+      "base": "base",
+      "cinema": false,
+      "scene": "An aluminium LUNCHBOX (a Brazilian marmita) lying OPEN on the wooden pet shop counter, filled with white rice and dark beans, a fork resting in it, a pair of grooming shears and a comb beside it; a real CAT sits on the counter right next to the lunchbox staring down at the food. The lunchbox VERY LARGE in the near foreground filling the lower part of the frame from edge to edge, the cat big and close beside it with the top of its ears reaching up near the pale top band; behind them only a plain painted wall and a hanging bird cage dissolving upward into pale light. NO sacks of dog food, NO packaging, NO posters and NO printed words anywhere in the frame. NO PEOPLE anywhere in the frame, no hands."
+    },
+    {
+      "n": 14,
+      "base": "base",
+      "cinema": false,
+      "scene": "Extreme close view of a man's two weathered hands at the kitchen table at night, one hand writing with a pen in a big open ledger book, the other holding the page flat; in front of the ledger two OPEN round biscuit tins side by side, each holding a separate small pile of folded banknotes, clearly kept apart; only hands and forearms visible, no face, no body. The hands, the ledger and the tins VERY LARGE filling the lower three quarters of the frame, the table surface dissolving upward into pale light. ALL the handwriting in the ledger is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines; the banknotes are plain generic old paper money, NOT US dollars, folded so no printing is readable; the photo itself stays sharp."
+    },
+    {
+      "n": 15,
+      "base": "base",
+      "cinema": true,
+      "scene": "The owner in his rubber apron sits on the edge of the wooden counter, calm and relaxed, reading a SMALL pocket notebook held in one hand, a pencil tucked behind his ear, a small dog sitting on his lap; he reads with quiet attention, not looking at the camera. The owner LARGE and close, chest up, fully inside the frame, the sacks of dog food and bird cages behind dissolving upward into pale light."
+    },
+    {
+      "n": 16,
+      "base": "base",
+      "cinema": true,
+      "scene": "The pet shop at full work: on the left the young woman groomer trims a dog on the steel grooming table, on the right the teenage helper rinses a dog in the bathing tub, and in the middle the owner in his rubber apron points toward the grooming table giving an instruction, a small notebook sticking out of his apron pocket. All three people LARGE and close, chest up, fully inside the frame, nobody touching the left or right edges, the wall behind dissolving upward into pale light."
+    },
+    {
+      "n": 17,
+      "base": "base",
+      "cinema": true,
+      "scene": "Late afternoon: the owner in his rubber apron sits on a low wooden stool in the open doorway of the pet shop, the small notebook resting on his knee, one hand on it, looking STRAIGHT INTO THE CAMERA with a calm, settled face; beside him on the pavement lies a freshly groomed dog with a ribbon bow on its head; behind him the shop interior with the counter and cages dissolving upward into pale light. The owner LARGE and close, chest up, fully inside the frame."
+    }
+  ]
+}

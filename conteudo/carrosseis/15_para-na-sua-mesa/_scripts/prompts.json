@@ -1,0 +1,76 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary archive look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century 1950s-1960s documentary look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A solitary man sitting alone at the head of a long empty table in a dim office, papers and folders spread in front of him, several empty chairs standing around the table, seen from a slight distance, his figure and the table filling the lower third of the frame. The entire upper half is a pale, empty, hazy wall fading to near-white at the top."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Several people seen from behind walking away out through an open doorway, leaving, their backs to the camera, their silhouetted figures filling the lower third of the frame as they exit. The space above and beyond the bright doorway is pale, empty and hazy fading to near-white."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A single lit window glowing in the dark facade of an office building late at night, the only illuminated window among many dark ones, the building wall filling the lower and middle of the frame. Above the rooftop the sky is pale, empty and hazy fading to near-white at the top."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A small group of well dressed people seen from behind, looking in and clapping through a large glass shop window at a bright scene beyond the glass, their backs to the camera, filling the lower third of the frame. The entire upper half of the frame is pale, empty and hazy fading to near-white."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "A man with his shirt sleeves rolled up standing firm and leaning into a strong wind and a gathering storm, his coat and hair blown back, braced and determined, his figure filling the lower third of the frame. The whole upper half is a pale, blown out, hazy sky fading to near-white."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A wooden desk overflowing with a heap of unpaid bills, envelopes, an overdue notice and a broken machine part all piled up under the small pool of light from a desk lamp, filling the bottom third of the frame. The space above the cluttered desk is dim then pale and empty toward the top edge."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A lone man standing by himself in the middle of a large bare empty room, no one else anywhere around him, small and solitary, his figure in the lower-middle of the frame. The space above and around him is pale, empty and hazy fading to near-white at the top."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "The wooden ship's wheel of an old vessel on a deck against a rough heaving sea, tall waves rising around the bow, the helm and deck filling the lower third of the frame. The whole upper half of the frame is a pale, empty, hazy sky and sea spray fading to near-white."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A captain's peaked cap resting alone and abandoned on the empty wooden rail of a ship's deck, the faint sea behind it, the cap and rail filling the lower third of the frame. The space above is a pale, empty, hazy sky fading to near-white at the top."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "An exhausted man slumped at a desk late at night, one hand pressed to his forehead, scattered papers around him under a single desk lamp, his figure and the desk filling the lower third of the frame. The space above is dim then fades to pale and empty toward the top edge."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "A lone man standing alone in the shadowed foreground with his back turned, and far behind him a distant bright crowd celebrating and raising glasses in a toast, he is separate and apart from them, his solitary figure filling the lower third of the frame. The upper half is pale, empty and hazy fading to near-white."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A man standing firm at a ship's wheel with both hands on the helm, facing straight out toward the wide open sea with a steady resolute posture, taking it head on, his figure and the wheel filling the lower third of the frame. The whole upper half is a pale, empty, hazy sky fading to near-white."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A worn wooden desk with a neat stack of old paper banknotes and several stacks of coins piled beside a leather wallet, lit by the pool of light from a desk lamp, filling the bottom third of the frame. The space above the desk is dim then pale and empty toward the top edge."
+    },
+    {
+      "n": 14,
+      "kind": "cutout",
+      "scene": "A confident man in a simple worn mid-century work coat standing upright with a calm, resolute posture, one hand at his side, full figure, facing slightly to the side, at ease and in command."
+    }
+  ]
+}

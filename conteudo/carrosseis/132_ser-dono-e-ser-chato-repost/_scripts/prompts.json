@@ -1,0 +1,92 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil, late 1970s; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small shoe repair shop in Brazil, late 1970s: the OWNER, a man in his fifties in a plain shirt with sleeves rolled up, stands beside the workbench POINTING with his index finger at one exact spot on the stitching of a leather shoe held on the bench, serious, calm, no fuss; the shoemaker, seated, leans in and looks at exactly that spot. Both LARGE, chest up, heads in the lower half of the frame; the bare pale wall of the shop above them."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the wooden counter of a neighborhood bar in Brazil, late 1970s: the OWNER of the bar laughing wide, and three regular customers leaning on the counter laughing with him, one of them slapping his hand; glasses and bottles low on the counter. All LARGE, chest up, heads in the lower half of the frame; the bare pale wall of the bar above them, no shelves above head height."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Reception desk of a small hotel in Brazil, late 1970s: the OWNER, a man in his fifties in a plain dress shirt, holding a small notebook and asking a question; the female receptionist in a plain uniform opens the big register book on the counter and points at a line with her finger (illegible marks only); the counter tidy. Both LARGE, chest up, heads in the lower half; the bare pale wall above."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL, close: a marble workshop in Brazil, late 1970s: the HANDS and forearms of a man LIFTING OUT of a stack of finished marble slabs the one slab that has a visible CHIP on its corner; the other slabs, perfect, stacked beside it with a strap around them. Only hands and forearms visible, no face, no body; the slabs low in the frame; the pale wall continues empty above."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a small barbershop in Brazil, late 1970s: the older barber, the OWNER, stands right behind a young apprentice and GUIDES the apprentice's hand holding the scissors over the hair of a seated customer; the three of them LARGE, heads in the lower half of the frame, the mirror behind them reflecting the two barbers; the pale wall above the mirror line, nothing crossing the top."
+  },
+  {
+   "n": 6,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a laundry in Brazil, late 1970s: the OWNER, a man in his fifties, stands beside a young female worker at a long folding table; between them a stack of folded sheets folded CROOKED, and she is REFOLDING one sheet while he watches the fold, calm, no drama. Both LARGE, chest up, heads in the lower half; the bare pale wall above."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL: the owner's desk in a motorcycle repair shop in Brazil, late 1970s: a wooden chair EMPTY with a work jacket hanging on its back, an open ledger book on the desk (illegible marks only), a bunch of keys, a coffee cup; low in the background a pegboard with tools. The desk and chair fill the lower part of the frame; the pale wall continues empty above. NO PEOPLE anywhere in the frame, no hands, no faces, no silhouettes."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the marble counter of a neighborhood butcher shop in Brazil, late 1970s: the OWNER in a white apron faces his young EMPLOYEE, also in a white apron, and POINTS with his finger at the counter that still needs cleaning; the employee listens with his head lowered, a cloth in his hand. Both LARGE, chest up, heads in the lower half of the frame; the bare pale tiled wall above them, no hooks or meat above head height."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL: the locker room of a small factory in Brazil, late 1970s: on the plain pale wall a framed board of rules (illegible marks only) covered in dust, and below it metal lockers standing OPEN with uniforms spilling out and work boots scattered on the floor. Everything low in the frame; the pale wall continues empty above the frame of the board. NO PEOPLE anywhere in the frame, no hands, no faces, no silhouettes."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL: the workbench of a shoe repair shop in Brazil, late 1970s, early morning: yesterday's job UNTOUCHED on the bench, an open shoe, the hammer, the thread, and a cup of coffee gone cold; through the open door beside the bench falls the LONG SHADOW of a man arriving late, only the shadow on the floor, no person visible. The bench fills the lower part of the frame; the pale wall continues empty above."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Reception desk of a small hotel in Brazil, late 1970s: the OWNER stands beside the female receptionist and speaks LOW, close to her, pointing at one line of the register book (illegible marks only); two meters away a guest with a suitcase waits, looking elsewhere, noticing nothing. All LARGE, heads in the lower half of the frame; the bare pale wall above."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "STILL: the sliding gate of a small warehouse in Brazil, late 1970s, that should be closed, standing HALF OPEN and propped with a single BRICK so it cannot close; the chain and the open padlock hanging loose from the latch. The gate fills the lower part of the frame; the pale wall of the warehouse continues plain above. NO PEOPLE anywhere in the frame, no hands, no faces, no silhouettes."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a neighborhood butcher shop in Brazil, late 1970s: the OWNER in a white apron stands CALM at the back doorway, arms loosely crossed, watching his counter where two young employees in white aprons serve a short line of customers properly, one wrapping a cut in paper, the other weighing on a scale. The owner LARGE in the foreground at one side, chest up, head in the lower half of the frame; the bare pale tiled wall above everything, nothing hanging above head height."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Behind the clean marble counter of a neighborhood butcher shop in Brazil, late 1970s: the OWNER in a white apron, sleeves rolled up, both hands resting flat on the counter, looking STRAIGHT INTO THE CAMERA, serious, steady. LARGE, chest up, head in the lower half of the frame; the bare pale tiled wall above him, nothing hanging above head height."
+  }
+ ]
+}

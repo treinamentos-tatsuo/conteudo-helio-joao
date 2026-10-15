@@ -1,0 +1,71 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject sits in the lower-middle of the frame with foreground filling the bottom third and bleeding off the bottom edge. The ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the very top edge. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look, no close-up portrait, no cinematic look.",
+  "cutout": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, heavy film grain, mid-century archival look. The subject is fully isolated on a plain pure white empty background with no scenery, no floor, no horizon and no shadow behind it. Full figure visible, centered. No text, no words, no letters, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "kind": "foto",
+      "scene": "A man sleeping curled up on his side on an old iron-frame bed, under a wool blanket that is visibly too short for him, his bare feet sticking out uncovered at the end of the mattress, dim pre-dawn light, bare humble bedroom, seen from slightly closer so the bed is LARGE in the frame. The bed and the man fill the entire bottom half of the frame, bleeding off the bottom edge. The space above the bed is bright, pale, hazy and empty."
+    },
+    {
+      "n": 2,
+      "kind": "foto",
+      "scene": "Close view of bare feet sticking out from under the frayed edge of a too-short wool blanket, at the foot of an old iron bed, the crumpled blanket filling the bottom of the frame, dark humble bedroom fading behind. No face visible. The upper half of the image is bright, pale, hazy and empty."
+    },
+    {
+      "n": 3,
+      "kind": "foto",
+      "scene": "A street-market vendor pulling a canvas tarpaulin over the wooden crates of his market stall, the tarp clearly too small: while he covers one end, the crates at the other end are left uncovered and exposed, light rain, 1950s street market atmosphere. He and the stall fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 4,
+      "kind": "foto",
+      "scene": "A shopkeeper behind the worn wooden counter of his modest shop at closing time, counting a handful of plain unmarked banknotes over the open cash drawer, a faint relieved half-smile, warm low light, dim shelves behind him. The banknotes are completely plain with no legible printing, no numbers and no faces. He and the counter fill the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 5,
+      "kind": "foto",
+      "scene": "Close view of a man's hand passing a stack of plain unmarked banknotes into another man's open waiting hand over a worn wooden counter, the exchange caught mid-motion, money leaving one hand for the other. No faces visible. The banknotes are completely plain with no legible printing, no numbers and no faces. The hands and the counter fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 6,
+      "kind": "foto",
+      "scene": "A man's hands separating a pile of plain unmarked banknotes into two uneven stacks on a worn wooden shop counter, one stack clearly larger than the other. No face visible. The banknotes are completely plain with no legible printing, no numbers and no faces. The hands and counter fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 7,
+      "kind": "foto",
+      "scene": "A massive antique cast-iron safe with a heavy closed door and a round spoked handle wheel, standing on the floor against a bare plaster wall. The safe fills the bottom third of the frame, dark and imposing. The wall above it is bright, pale, hazy and empty."
+    },
+    {
+      "n": 8,
+      "kind": "foto",
+      "scene": "A long queue of people in long coats and hats seen from behind and in profile, waiting in line before an old-fashioned wooden counter window, 1950s atmosphere. The queue fills the bottom third of the frame. The space above the people is bright, pale, hazy and empty."
+    },
+    {
+      "n": 9,
+      "kind": "foto",
+      "scene": "A man in an undershirt sitting on the edge of an old bed in the middle of the night, hunched forward with his hands covering his face, a rumpled blanket behind him, weak lamp light from the side. He fills the bottom third of the frame. The space above him is bright, pale, hazy and empty."
+    },
+    {
+      "n": 10,
+      "kind": "foto",
+      "scene": "Still life: an old round wind-up alarm clock with two bells, standing alone on a wooden bedside table in a dark bedroom, its face turned half into shadow so the dial is barely readable, no legible numbers on the dial. The table fills the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 11,
+      "kind": "foto",
+      "scene": "Close view of weathered hands sewing a thick wool blanket with a needle and thread, caught mid-stitch, folds of the blanket filling the bottom of the frame, soft clear light. No face visible. The upper half of the image is bright, pale, hazy and empty."
+    },
+    {
+      "n": 12,
+      "kind": "foto",
+      "scene": "A man's hands resting on an open notebook on a wooden table, a pencil held pointing at the page, an enamel cup of coffee beside it, soft bright morning light. The pencil marks on the page are blurred and completely illegible, no readable writing and no readable numbers. The hands and table fill the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    },
+    {
+      "n": 13,
+      "kind": "foto",
+      "scene": "A man sleeping peacefully on his back, stretched out and fully covered up to his chest by a large generous wool blanket that reaches past his feet, calm face, soft dawn light coming through a window onto the bed. The bed fills the bottom third of the frame. The space above is bright, pale, hazy and empty."
+    }
+  ]
+}

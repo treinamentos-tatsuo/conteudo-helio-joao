@@ -1,0 +1,16 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, very high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal, clean. The ENTIRE UPPER THIRD of the image is bright, pale, empty and softly hazy, fading to near-white at the top edge for clean compositing. Subject dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {
+      "n": 3,
+      "kind": "base",
+      "scene": "Tight close-up, macro: a man's bare forearm and hand raised in front of his eyes to shield them from blinding white light coming from the front, the arm a hard dark silhouette against the glare, fingers slightly spread, light bleeding around the edges of the skin, only the arm and a sliver of the brow visible, the rest of the frame swallowed by darkness below and light above. No full face, no text."
+    },
+    {
+      "n": 4,
+      "kind": "base",
+      "scene": "Tight close-up of the edge of an old wooden door opening just a few centimetres into a pitch-dark room: a blade of blinding white light cuts through the gap and across the frame, and four fingers grip the edge of the door from inside the dark, about to pull it open. Everything else is deep black except the light and the fingers. Dust in the beam. No face, no text."
+    }
+  ]
+}

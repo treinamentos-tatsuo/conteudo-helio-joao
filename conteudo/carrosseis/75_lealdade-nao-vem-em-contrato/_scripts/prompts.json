@@ -1,0 +1,69 @@
+{
+  "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall, sky or haze, completely free of objects. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+  "images": [
+    {
+      "n": 1,
+      "scene": "A middle-aged businessman in a plain light dress shirt with the sleeves rolled up, sitting on the front edge of a plain office desk with his arms loosely crossed, looking directly into the camera with a calm serious expression, as if about to say something hard. A modest small-business office behind him, out of focus. The man is LARGE and fills the whole bottom of the frame from the left edge to the right edge, shown from the thighs up and cut off by the bottom edge, pale empty wall above."
+    },
+    {
+      "n": 2,
+      "scene": "An open brown paper pay envelope on a worn factory workbench, a fanned stack of well-used banknotes spilling out of it, the notes clearly readable as paper money by their intricate engraved guilloche border patterns and ornamental scrollwork, but carrying NO numerals, NO portraits and NO lettering of any kind. A pair of scuffed leather work gloves beside the envelope, hard raking side light. Envelope and money large and low in the frame, pale empty wall above."
+    },
+    {
+      "n": 3,
+      "scene": "A large empty industrial workshop at night, rows of silent idle machines and long workbenches, one single hanging lamp lit far at the back. Machines fill the lower frame, pale haze above."
+    },
+    {
+      "n": 4,
+      "scene": "A middle-aged man in a plain buttoned dress shirt standing alone outside the closed corrugated metal gate of a small factory at night, seen from behind and to the side, hands at his sides. Man and gate low and large in the frame, pale sky above."
+    },
+    {
+      "n": 5,
+      "scene": "A worn employee identification badge on a frayed lanyard hanging from a nail on a workshop wall, next to a metal rack holding rows of punch cards. Badge and rack large and low in the frame, pale wall above."
+    },
+    {
+      "n": 6,
+      "scene": "Signed bank loan papers spread across a wooden table, a heavy bunch of house keys resting on top of them, a fountain pen beside. Papers fill the lower frame, pale empty surface above."
+    },
+    {
+      "n": 7,
+      "scene": "A plain modest kitchen table at dawn with a closed dented metal lunchbox, a small ring of house keys and a worn open-face motorcycle helmet resting beside them. No paper, no money, no printed matter of any kind in the frame. Objects large and low in the frame, filling it from the left edge to the right edge, pale wall above."
+    },
+    {
+      "n": 8,
+      "scene": "A middle-aged man sitting alone at a simple office desk, seen from behind, looking down through an interior window onto an empty workshop floor below. Man and desk low and large in the frame, pale window light above."
+    },
+    {
+      "n": 9,
+      "scene": "An old employment contract lying flat on a desk, photographed at a low raking angle with a very shallow depth of field so that ALL the typed text is completely BLURRED and ILLEGIBLE, reduced to soft grey smudged lines with no readable words, letters or numbers anywhere. A plain ballpoint pen resting across the page, sharp. Document fills the lower frame, pale desk surface above."
+    },
+    {
+      "n": 10,
+      "scene": "A worker in overalls walking out through an open factory gate carrying a cardboard box of personal belongings, seen from behind. Worker and gate large and low in the frame, pale bright sky above."
+    },
+    {
+      "n": 11,
+      "scene": "A workshop wall pegboard with hand tools hung in perfect order, each tool with its painted outline behind it, one empty outline. Pegboard fills the lower frame, pale wall above."
+    },
+    {
+      "n": 12,
+      "scene": "A factory floor with a wide painted boundary line running across the concrete and a large metal carpenter square leaning against a steel post. Floor and square fill the lower frame, pale haze above."
+    },
+    {
+      "n": 13,
+      "scene": "A brand new folded work uniform shirt still sealed in its clear plastic wrapper, resting alone on a shop counter. Shirt large and low in the frame, pale empty wall above."
+    },
+    {
+      "n": 14,
+      "scene": "Two plain wooden chairs facing each other in an empty bare room, light from a side window falling across the floor between them. Chairs large and low in the frame, pale wall above."
+    },
+    {
+      "n": 15,
+      "scene": "A small chalkboard mounted on the wall of a modest meeting room, covered in handwritten lines of a weekly routine, a chalk stub on its ledge. Board fills the lower frame, pale wall above."
+    },
+    {
+      "n": 16,
+      "scene": "Six workers in matching uniforms standing shoulder to shoulder in a row facing the camera, a workshop with machines behind them. Workers fill the lower frame from edge to edge, pale bright ceiling above."
+    }
+  ]
+}

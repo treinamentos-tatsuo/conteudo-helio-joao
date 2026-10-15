@@ -1,0 +1,16 @@
+{
+  "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Extremely minimal composition with vast empty space. Dense haze; the ENTIRE UPPER HALF of the image is bright, pale, empty and hazy, fading to near-white at the top edge for clean compositing. Subject small and dark, low in the frame. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter.",
+  "setting": "",
+  "images": [
+    {
+      "n": 3,
+      "kind": "base",
+      "scene": "Two lawns divided by a simple low wire fence running straight across the middle of the lower half of the frame, camera very low at grass level on the near side. The near lawn, close to the camera, is dry, yellowed and patchy with bare earth showing; beyond the fence the far lawn is dense, dark and even. Nothing else in the frame: no hose, no houses, no trees, no people. The far lawn and the fence posts dissolve into pale haze. Soft low light."
+    },
+    {
+      "n": 4,
+      "kind": "base",
+      "scene": "Extreme close-up at grass level: a single strand of old wire fence crosses the frame, and on the near side of it the grass is dry, sparse and yellowed, while just beyond the wire the grass is dense and dark, both sides sharply visible at the wire. Nothing else in the frame, no people, no objects; everything beyond a metre dissolves into pale haze. Hard low side light."
+    }
+  ]
+}
