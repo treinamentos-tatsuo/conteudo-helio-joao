@@ -1110,3 +1110,10 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-15-COMANDO`; `utm_content=https:
 - Timer de shell (Git Bash, sem caffeinate; keep-awake do app) às 19h01; o post já estava no perfil (`Deh-2filKKW`, legenda "Tem dono que acha que acompanhar é desconfiar…", conferida contra o carousel-text). 1º card em "Mostrar Todos" ("há 2 minutos", capa "E FICA SABENDO DO ERRO PELO CLIENTE."); prévia conferida. Conferido recarregando: LIVE, código e utm novos no HTML, nada do TREINO; 1 botão só.
 - Dia com vários carrosséis no perfil (o sapo, "Todo dono já ouviu essa promessa…", "Existe uma conta" às 9h50 e o 240 às 19h).
 - **Global pausada (decisão do user, 15/10 ~19h08):** `Comando!! MBV` (qualquer publicação, palavras `comando, Comando`; painel: 4.639 envios, 2.692 cliques, 58%) passou de LIVE pra STOPPED, pra todo COMANDO do 240 cair na específica com UTM. **Religar em 22/10 (D+7 do 240)**, se o user mantiver. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20250905172616_660638. A `comando repost` (específica de post antigo) ficou LIVE, sem efeito no 240.
+
+## 16/10/2026 — `IG | 2026-10-17 | FOLEGO | vendeu mais foi no banco` (carrossel 244) — MONTADA STOPPED ~18h15 (post marcado pelo user pra 17/10, hora a definir)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-17-FOLEGO` (data da publicação); `utm_content` entra na hora de amarrar; palavras `FOLEGO, folego, Folego, FÔLEGO, fôlego, Fôlego` (busca "folego" e "fôlego" no painel em 16/10: nenhuma automação, sem colisão); DM "Crescer sem olhar o prazo é cavar o buraco mais rápido. Quer ver como eu ensino o dono a crescer com caixa no MBV?" (escrita pelo Claude), botão `>> Quero ver <<` (herdado). Duplicada da COMANDO do 240 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261016181310_270770.
+
+- Montada parada, presa ao post do 240 e sem `utm_content`. Conferido recarregando: STOPPED, campaign novo no HTML, nada do COMANDO, 1 botão só.
+- Leitura de passagem: a COMANDO (240) estava com 0 execuções em ~23 h no ar, e o post com 2 comentários no total.
