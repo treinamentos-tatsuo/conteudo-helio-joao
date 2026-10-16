@@ -23,14 +23,14 @@
 3. Fatura 30 milhões e passa dezembro pedindo prazo. Imagem: calendário de dezembro sobre a mesa, com boletos presos por um clipe.
 4. Quem banca o cliente é você. Imagem: caixas de mercadoria empilhadas num depósito, paradas.
 5. Cada venda nova é mais boleto vencendo antes de o cliente pagar. Imagem: um espeto de papéis (porta-notas) cheio de boletos.
-6. O banco dá alívio por dois meses e aperta de novo. Imagem: a porta de vidro de uma agência bancária antiga, fechada.
+6. O banco dá alívio por dois meses e aperta de novo. Imagem: uma morsa de bancada apertando um maço de notas e papéis do banco. (v2, 16/10: a porta da agência saía cortada no topo; João pediu troca. Imagem sem recorte lateral, altura natural.)
 7. A casa da família vira garantia. Imagem: chave de casa sobre um contrato, com a fachada de uma casa de família ao fundo.
 8. 2027 repete 2026 com uma dívida maior. Imagem: duas agendas de capa dura iguais, lado a lado sobre a mesa.
 9. Quantos dias a sua empresa banca o cliente? Imagem: um relógio de parede antigo sobre a parede clara, ponteiros parados.
 10. A velocidade do crescimento cabe no caixa. Imagem: um carro antigo numa estrada de serra, com placa de curva.
 11. O lucro de 2027 começa no prazo que você negocia agora. Imagem: aperto de mão sobre uma mesa de reunião (só as mãos) com contrato e caneta.
 12. Oferta: o treinamento de gestão. Imagem: sala de treinamento vazia com quadro.
-13. CTA FOLEGO. Imagem: um balão de oxigênio antigo, ou janela aberta com cortina ao vento.
+13. CTA FOLEGO. Imagem: caixa registradora antiga com a gaveta aberta e notas arrumadas. (v2, 16/10: a janela saía cortada; João pediu troca.)
 
 ## Legenda (post)
 
