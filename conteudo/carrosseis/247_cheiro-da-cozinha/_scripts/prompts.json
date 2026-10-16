@@ -1,0 +1,34 @@
+{
+ "_como_usar": "Copiar pra conteudo/carrosseis/<N>_<nome>/_scripts/prompts.json. Cada imagem nova ganha um número novo em images (nunca reaproveitar número: a versão anterior fica). Cena em inglês, curta, dizendo o objeto, onde ele está apoiado, que fica na metade de baixo e 'Nothing else'. Use base_alto quando o objeto precisa subir (postes, geladeira): parede só nos 30% de cima. Rodar: python3 .claude/skills/frase/scripts/gen.py conteudo/carrosseis/<N>_<nome> 1",
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Everything that matters sits in the lower half of the frame; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "base_alto": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The upper 30% of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "images": [
+  {
+   "n": 1,
+   "scene": "A simple wooden kitchen chair standing on the floor against the plain plaster wall, a plain white cotton shirt hung over its backrest. Right beside the chair, on a small old Brazilian four-burner gas stove, a dented aluminum frying pan is sizzling; a thin ribbon of smoke drifts SIDEWAYS from the pan and wraps around the shirt sleeve. Everything sits in the lower half of the frame, the top of the chair below the middle. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 2,
+   "scene": "On a plain kitchen counter against the plaster wall: a neatly folded white cotton shirt lying flat next to a black iron frying pan with garlic and onion frying in oil; a low curl of smoke and steam drifts sideways across the pan and settles over the folded shirt. Both objects rest on the counter, low, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  },
+  {
+   "n": 3,
+   "scene": "Close view: a plain white cotton shirt on a wooden hanger hooked on a nail low on the plaster wall, right next to a simple dented aluminum pot steaming on a gas burner at the bottom of the frame; the steam drifts sideways into the fabric of the shirt, the sleeve slightly damp. The top of the hanger sits below the middle of the frame. Nothing else. Hard low side light."
+  },
+  {
+   "n": 4,
+   "base": "base_alto",
+   "scene": "Perspective view of a small, simple Brazilian apartment kitchen, seen from the doorway at eye level: on the left, a white four-burner gas stove with a frying pan sizzling, a ribbon of smoke drifting sideways; straight ahead, the narrow service area (area de servico) right next to the stove, with a folding floor-standing clothes drying rack holding white shirts and towels, the smoke reaching the hanging clothes. Tiled floor, plain walls, small window. Everything rests on the floor; the tallest thing ends at about 35% from the top of the frame, nothing hangs from the ceiling. Nothing else. Soft side light from the small window."
+  },
+  {
+   "n": 5,
+   "base": "base_alto",
+   "scene": "A white four-burner gas stove against the plain wall with a pot steaming and a frying pan smoking; right beside the stove, an open door to a small back service area, and just outside the door a folding floor-standing clothes drying rack with white shirts hanging, the smoke drifting out through the doorway into the clothes. Simple Brazilian home, tiled floor, slight three-quarter perspective. Everything rests on the floor; the top of the door frame is the tallest element, at about 30% from the top. Nothing hangs from the ceiling. Nothing else. Hard side light."
+  },
+  {
+   "n": 6,
+   "base": "base_alto",
+   "scene": "Tight corner of a small Brazilian apartment kitchen in slight perspective: a white gas stove with a frying pan smoking, and less than one meter beside it a folding floor-standing clothes drying rack with a white shirt and a towel hanging, the smoke curling sideways into the shirt. Tiled floor and white tiles on the lower wall. Everything rests on the floor and stays in the lower part of the frame; nothing hangs from the ceiling. Nothing else. Window light from the side."
+  }
+ ]
+}

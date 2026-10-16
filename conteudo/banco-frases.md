@@ -206,7 +206,7 @@
 - **Mecanismo:** autodeclaração — "eu sou o alicerce". Segunda camada: se você precisa de elogio pra sustentar, não é alicerce. Obra é o causo mais brasileiro que existe.
 - **Símbolo (ideia):** fundação de obra rente ao solo — vigas baldrame e ferragem nas valas, câmera baixa, casa pronta desfocada na névoa ao fundo (o que o alicerce vai virar).
 
-### 25. Bicicleta parada não para em pé. — `aprovada (user 26/08)`
+### 25. Bicicleta parada não para em pé. — `em produção (post 248, 16/10; aprovada pelo João pra produzir; bicicleta já no 209 com outra tese)`
 - **Veia:** movimento (validada no 55, 1,24%) — lei física real que toda criança brasileira aprendeu no corpo: equilíbrio só existe andando.
 - **Mecanismo:** autodeclaração — "eu me equilibro porque me movo". Segunda camada: quem para esperando se equilibrar (na vida, no negócio) cai; estabilidade é consequência do movimento, não pré-requisito. Molho no jogo "parada não para".
 - **Símbolo (ideia):** bicicleta velha de carga em movimento na estrada de terra, leve arrasto de movimento nas rodas, névoa; ou apoiada caída no chão × outra em movimento — a confirmar no conceito.
@@ -388,16 +388,16 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **Slide:** 1 linha 44px, **toda em preto** (user). **Símbolo (conceito 1 de 3):** laje de cimento, câmera rente, menino de costas pequeno no pé do quadro segurando a linha tensa em diagonal até a pipa escura no meio do céu branco, rabiola pro lado, telhados de morro na névoa. Sem scale.
 - **Legenda:** abre pela lei invertida ("Vento a favor derruba pipa"), braço do menino como registro físico, camada universal em categorias (chefe que não cobra, mês sem susto, ninguém diga não), anti-burro como fato seco (vendaval rasga papel; dar linha e recolher), empresa em 3 itens, espelho "segurando ou soltando?", frase fecha.
 
-### 34. Chuveiro só esquenta com a água correndo. — `candidata`
+### 34. Chuveiro só esquenta com a água correndo. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Veia:** movimento (validada no 55). Lei do chuveiro elétrico. Espelho: "esquento porque corro". Prima da 25 (bicicleta): não colar. Símbolo: chuveiro velho com vapor, azulejo escuro.
 
-### 35. Escada não sobe com o pé no chão. — `candidata`
+### 35. Escada não sobe com o pé no chão. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Veia:** propósito/escolha/risco (nº 2). Molho na dupla leitura de "pé no chão" (prudência × parado). Espelho: "eu tirei o pé". Símbolo: primeiro degrau de escada de pedra gasta, câmera rente, resto na névoa.
 
-### 36. Massa só cresce coberta. — `candidata`
+### 36. Massa só cresce coberta. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Veia:** trabalho invisível/crescimento no escuro (família raiz/alicerce). Espelho: "cresço onde ninguém vê". Legenda cabe na estrutura-raiz (forno leva a fama, fermento decidiu antes). Símbolo: bacia com pano de prato na mesa da cozinha.
 
-### 37. Vaso seco não é culpa da planta. — `candidata`
+### 37. Vaso seco não é culpa da planta. — `em produção (post 249, 16/10; aprovada pelo João pra produzir; advertência)`
 - **Veia:** time/preparo com culpa no dono (nº 3) camuflada em cotidiano. É ADVERTÊNCIA (grupo 2): previsão capada ~0,9%. Serve de teste limpo da H12 (o problema do 43 era o nicho, não a tese). Símbolo: vaso murcho na janela, terra rachada.
 
 ## Lote 8 — garimpo por cena (2026-09-08; segunda-feira)
@@ -416,7 +416,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **Legenda (1.798 chars, versão final do user):** abre pela lei ("Carro só pega tranco em movimento"), motor carrega a bateria andando, bateria como categorias universais (dinheiro, ânimo, curso, segunda-feira certa), esperar descarrega, anti-burro (tranco não resolve tanque vazio nem motor fundido), ninguém dá tranco no próprio carro (orgulho × ajuda), empresa em 3 itens + erro do dono, espelho, fecho em dois tempos + frase. User abriu o anti-burro com "E cuidado," e o parágrafo do orgulho com "E olha que curioso," (escolha dele; alertado sobre a regra do anti-burro que não se anuncia).
 - **Previsão (ficha):** `acima` 9.3–11.8 shares/1k; comparáveis 55 (11,66, mesma veia) e 42 (13,48). Hipótese que mataria: "provérbio pronto não viaja" (saco vazio 1,47) — não se aplica porque a sentença é nova e o punch está no slide.
 
-### Reservas do garimpo de 08/09 — `candidatas`
+### Reservas do garimpo de 08/09 — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **"A chaleira cala antes de ferver."** — a mais forte em surpresa; consagra quem trabalha em silêncio; segunda camada: quem faz barulho ainda não ferveu. Publicar num dia sem concorrência de cozinha/vapor (feijão 65 usou panela).
 - **"Concreto só endurece molhado."** — laje curada com água; o que parece amolecer é o que endurece; laje que seca rápido racha. Fato pouco conhecido = gatilho de curiosidade na legenda.
 - **"Ferro que trabalha não enferruja."** — a mais previsível; repete a tese da água parada (38). Última opção.
@@ -435,7 +435,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 > nenhuma instância"), 44 (freio: "ruim demais"), 43 (pingo/balde: frase ruim; ideia explicada, decisão
 > pendente). Reservas da 1ª rodada mantidas abaixo sem mexer.
 
-### 39. Cebola — metáfora APROVADA; frase em reconstrução
+### 39. Cebola — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Cena:** cozinha de casa, tábua de madeira, quem pica de olho ardendo; a mesa cheia come sem lágrima nenhuma. **Lei 1:** o ardor só sai na hora de picar; quem come não sente. **Lei 2 (a que aprofunda):** a mesma cebola que arde crua chega **doce** na panela — refogada, caramelizada, ela vira o açúcar do prato. O que ardeu na tábua chega doce na mesa.
 - **Construções (português falado):**
   - A. **"Cebola faz chorar na tábua, não na mesa."** — dois lugares da casa, a lei mora no contraste; "na mesa" já carrega quem só senta pra comer.
@@ -456,7 +456,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **Símbolo (ideia):** panela de alumínio amassada, tampa de vidro erguida pelos estouros, pipoca subindo; em primeiro plano, na mesa, um punhado de piruás escuros; fogão a gás velho, azulejo. Inédito.
 - **Risco declarado:** saturação da veia (pipa 7,3 em D+1; 9 frases de pressão em 14 dias). O ângulo novo e a curiosidade do piruá são o que seguram. "Estourar" também é surtar: a legenda fecha essa leitura.
 
-### 42. Bolo — metáfora APROVADA; frase em reconstrução
+### 42. Bolo — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Cena:** forno de fogão antigo, "não abre o forno!", bolo que murchou no meio porque alguém espiou. **Lei 1:** abrir o forno derruba a temperatura e o bolo desaba antes de firmar. **Lei 2 (a que aprofunda):** bolo que murchou **não levanta mais** — pôr de volta no forno não conserta. Crescimento interrompido não retoma de onde parou; recomeça do zero, com outra massa.
 - **Construções:**
   - A. **"Bolo cresce é de porta fechada."** — clivagem com "é", oral, a lei virada pro positivo (consagra quem fecha a porta).
@@ -480,9 +480,9 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 ### Descartadas do lote 9 (user, 08/09)
 - **40. Corda só puxa. Não empurra.** — "não é impactante em nenhuma instância; desenvolvimento ruim".
 - **44. Quem tem freio desce mais rápido.** — "ruim demais".
-- **43. Ninguém vê o pingo. Todo mundo vê o balde.** — frase "muito ruim"; ideia explicada ao user (torneira pinga a madrugada inteira sem ninguém ouvir; de manhã todo mundo vê o balde cheio — o "sucesso da noite pro dia" é balde que ninguém viu encher). Reconstrução possível: "Balde cheio é pingo que ninguém ouviu." Decisão pendente do user.
+- **43. Ninguém vê o pingo. Todo mundo vê o balde.** — frase "muito ruim"; ideia explicada ao user (torneira pinga a madrugada inteira sem ninguém ouvir; de manhã todo mundo vê o balde cheio — o "sucesso da noite pro dia" é balde que ninguém viu encher). Reconstrução possível: "Balde cheio é pingo que ninguém ouviu." `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 
-### Reservas do garimpo de 08/09 (lote 9) — `candidatas` (sem crivo ainda)
+### Reservas do garimpo de 08/09 (lote 9) — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **"Terra seca demais não bebe a chuva."** — solo ressecado repele água e vira enxurrada; quem está esgotado não absorve nem a coisa boa que chega. Contrapeso da veia da pressão (regra 25); share por cuidado, não por autodeclaração; previsão capada.
 - **"Feijão no algodão brota. Mas não dá vagem."** — toda criança brasileira fez na escola; brota sem terra, nunca frutifica. Começo fácil × sustentar. O feijão já apareceu no 65 — esperar.
 - **"Tinta não cobre buraco."** — pintar por cima da parede furada; aparência em cima de base ruim. Advertência (grupo 2), capada.
@@ -587,7 +587,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - Ele caiu pra nascer o de verdade, e ninguém chora hoje pelo dente que perdeu aos sete anos. O adulto ainda segura dentes de leite: o emprego que já não cabe, o jeito antigo de tocar o negócio, a versão de si que precisava cair pra vir a definitiva.
 - A. "Dente de leite cai pra nascer o de verdade." · B. "Ninguém fica com o dente de leite pra sempre."
 
-### 61. Soltar da borda da piscina — `SEMENTE APROVADA (user 24/09), sem alterar`
+### 61. Soltar da borda da piscina — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - Ninguém aprendeu a nadar segurando na borda; alguém soltou você, e naquele dia isso pareceu crueldade. O adulto vive segurando em bordas (a garantia, o sócio, a mãe que ainda resolve) e chama de prudência.
 - A. "Ninguém aprende a nadar segurando na borda." · B. "Quem te soltou na piscina te ensinou a nadar."
 
@@ -595,11 +595,11 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - A regra da mesa que toda criança odiou e todo adulto entendeu: primeiro o que sustenta, depois o que agrada. Quem inverte a ordem na vida, no dinheiro e na empresa fica só com a sobremesa, e passa fome.
 - A. "Sobremesa vem depois do feijão." · B. "Ninguém pula o feijão e ganha a sobremesa."
 
-### Candidatas não selecionadas (mesmo lote, registro)
+### Candidatas não selecionadas (mesmo lote, registro) — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Largar a chupeta** — todo mundo chorou pra largar, e largou; o adulto tem chupetas (conforto que acalma e não resolve). "Chupeta ninguém larga sem chorar." · "Todo conforto que acalma é uma chupeta."
 - **A porta da escola** — quem foi embora no primeiro dia te ensinou a ficar; quem ama às vezes deixa sozinho de propósito. "Quem te deixou na porta da escola te ensinou a ficar." · "Na porta da escola, ir embora era amor."
 
-### Stand-by (user 24/09: "só quando for necessário, e melhorar antes")
+### Stand-by (user 24/09: "só quando for necessário, e melhorar antes") — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Plantar o que você não vai colher** — a sombra de hoje alguém plantou sem sentar nela; quem só faz o que rende no mês deixa toco. "Quem planta árvore não senta na sombra." · "A sombra de hoje alguém plantou sem ver."
 - **Não desenterrar a semente** — a ansiedade mata o processo; tudo que cresce tem um tempo em que parece que nada acontece. "Semente não brota mais rápido de tanto olhar." · "Quem desenterra pra ver se brotou, mata."
 
@@ -627,15 +627,15 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 ## Lote 14 — candidatas (2026-10-11, a crivar pelo user)
 
-### 70. A limpa da mudança — `candidata (insight do user na legenda do 223)`
+### 70. A limpa da mudança — `melhorar antes (João 16/10)`
 - **Lei:** a gente só mexe no fundo do armário quando é obrigado; mudança é a única hora em que se joga fora o que acumulou por anos. Frase bruta do user: "é em época de mudança que se mexe".
 - **Construções:** A. "Só se mexe no fundo do armário em dia de mudança." · B. "Ninguém abre o fundo da gaveta sem mudança marcada." · C. "A limpa só vem com o caminhão na porta."
 - **Atenção:** irmã do 223 (mesma cena); espaçar.
 
 ### 78. Todo adulto foi uma criança sem vergonha de errar. — `feita (post 225, publicado 2026-10-12 (domingo, Dia das Crianças) ~09:46; semente nascida no dia; lei observada: vergonha de errar é ensinada; imagem: desenho de mãe e criança preso na geladeira Consul por ímã de loja de gás; linha forte da legenda: "Criança mostra o desenho torto. O adulto esconde.")`
-- **Caminhos abertos e não usados (Dia das Crianças, 12/10):** "Criança não lembra do presente. Lembra de quem brincou." (presente × presença) — `candidata`; chupeta e porta da escola seguem na reserva do lote 12.
+- **Caminhos abertos e não usados (Dia das Crianças, 12/10):** "Criança não lembra do presente. Lembra de quem brincou." (presente × presença) — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`; chupeta e porta da escola seguem na reserva do lote 12.
 
-### 79. Quem para de sonhar para de realizar. — `candidata (nasceu no 225, 12/10: a criança acredita no que desenha; ninguém ensina criança a sonhar, ensinam a parar; ninguém constrói o que não imaginou antes)`
+### 79. Quem para de sonhar para de realizar. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **Construções:** A. "Quem para de sonhar para de realizar." · B. "Ninguém constrói o que não imaginou antes." · C. "Criança não aprende a sonhar. Aprende a parar."
 - **Atenção:** veia propósito/sonho (nº 2); irmã do 225, espaçar algumas semanas.
 
@@ -644,33 +644,87 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **Cena:** corda de varal frouxa, a roupa molhada arrasta no chão; esticou, segurou. **Espelho:** "eu aguento esticado".
 - **Construções:** A. "Varal frouxo não segura roupa." · B. "Corda só segura esticada." · C. "O que afrouxa, cai."
 
-### 72. O apito é o mesmo. O grito é que muda. — `candidata`
+### 72. O apito é o mesmo. O grito é que muda. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **De quem é:** Epicteto (não é o fato que perturba, é o juízo sobre o fato). **Lei:** o fato é um só; o sofrimento é a leitura que cada um faz dele.
 - **Cena:** o apito do juiz no estádio: uma torcida comemora, a outra xinga, foi o mesmo apito. **Espelho:** "eu escolho a leitura".
 - **Construções:** A. "O apito é o mesmo. O grito é que muda." · B. "Juiz apita uma vez. Cada lado ouve uma coisa." · C. "Ninguém sofre do fato. Sofre da leitura."
 
-### 73. Toda estrada de terra foi desvio um dia. — `candidata`
+### 73. Toda estrada de terra foi desvio um dia. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **De quem é:** Marco Aurélio (o que atrapalha o caminho vira o caminho). **Lei:** o obstáculo não fecha a estrada; ele decide por onde ela passa.
 - **Cena:** pedra ou atoleiro na estrada de terra, o caminhão abre um desvio, o desvio vira a estrada. **Espelho:** "eu passo por onde dá".
 - **Construções:** A. "Toda estrada de terra foi desvio um dia." · B. "A pedra não fecha a estrada. Desenha." · C. "Caminho é o que sobra depois do atoleiro."
 
-### 74. Quem muda de canal toda hora não assiste nada. — `candidata`
+### 74. Quem muda de canal toda hora não assiste nada. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **De quem é:** Sêneca (quem está em todo lugar não está em lugar nenhum). **Lei:** dispersão é ausência; estar em tudo é não estar em nada.
 - **Cena:** o controle remoto, 200 canais, "não tem nada pra ver"; os cinco cursos começados; as três dietas do ano. **Espelho:** "eu fico até o fim".
 - **Construções:** A. "Quem muda de canal toda hora não assiste nada." · B. "Duzentos canais e nada pra ver é problema do dedo." · C. "Ninguém termina o filme zapeando."
 
-### 75. Gambiarra é filha da falta. — `candidata`
+### 75. Gambiarra é filha da falta. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **De quem é:** Platão (a necessidade é a mãe da invenção). **Lei:** é a falta que inventa; quem tem tudo não cria nada.
 - **Cena:** a gambiarra brasileira: o arame no cano, o chinelo com o pino de garrafa, a antena de cabide. **Espelho:** "eu me viro". Atenção: pode ler como elogio ao improviso permanente; a legenda fecha a brecha (gambiarra é invenção de emergência, não de método).
 - **Construções:** A. "Gambiarra é filha da falta." · B. "Ninguém inventa com a despensa cheia." · C. "A falta é que faz pensar."
 
-### 76. Time de craque não é time. — `candidata`
+### 76. Time de craque não é time. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
 - **De quem é:** Aristóteles (o todo é maior que a soma das partes). **Lei:** junto é outra coisa; onze bons separados perdem pra um time.
 - **Cena:** a pelada do bairro: o time cheio de craque que perde pro time que se conhece. **Espelho:** "a gente joga junto".
 - **Construções:** A. "Time de craque não é time." · B. "Onze craques não fazem um time." · C. "Craque ganha jogo. Time ganha campeonato."
 
-### 77. Quem só vai ao médico com dor chega tarde. — `candidata`
+### 77. Quem só vai ao médico com dor chega tarde. — `melhorar antes (João 16/10)`
 - **De quem é:** Sócrates (a vida sem exame não vale ser vivida). **Lei:** olhar pra dentro antes de doer; quem espera o sintoma chega atrasado.
 - **Cena:** o exame de sangue anual, o check-up, a revisão do carro. **Espelho:** "eu me examino". Atenção: é ADVERTÊNCIA (grupo 2); previsão capada.
 - **Construções:** A. "Quem só vai ao médico com dor chega tarde." · B. "Exame bom é o que se faz sem sentir nada." · C. "Dor é o exame que você não fez."
 
+## Lote 15 — no molde do 230 (varal), pedido do João em 16/10
+
+> "Precisamos de 2 frases no estilo mais filosóficas" como o 230. Cinco sementes de objeto cotidiano com lei física e pensador por baixo; o João escolheu a 80.
+
+### 80. Roupa sempre pega o cheiro da cozinha. — `em produção (post 247, 16/10)`
+- **De quem é:** Sêneca (os costumes de quem está em volta grudam). **Lei:** você pega o cheiro de onde fica; quem está dentro não sente, quem chega de fora sente.
+- **Construções:** A. "Roupa sempre pega o cheiro da cozinha." · B. "Ninguém sai da fritura cheirando a perfume." · C. "Quem fica, pega o cheiro."
+
+### 81. Caixa d'água furada nunca enche. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
+- **Construções:** A. "Caixa d'água furada nunca enche." · B. "Não falta água. Sobra furo." · C. "Pinga por pinga, a caixa esvazia."
+
+### 82. Muda que vive mudando não pega. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
+- **De quem é:** Sêneca (planta mudada de lugar muitas vezes não cresce). **Lei:** quem troca o tempo todo não cria raiz.
+- **Construções:** A. "Muda que vive mudando não pega." · B. "Planta que troca de vaso toda hora não cria raiz." · C. "Raiz não cresce em vaso trocado."
+
+### 83. Na chuva, guarda-chuva custa o dobro. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
+- **De quem é:** Sêneca (preparar-se antes da tempestade). **Lei:** preparo se faz antes; na crise custa o dobro. **Atenção:** vizinha da 187 (mala, preparo) e objeto da 109; não sair junto com a 84.
+- **Construções:** A. "Na chuva, guarda-chuva custa o dobro." · B. "Guarda-chuva se compra no sol." · C. "Quem espera a chuva pra se preparar paga o preço do camelô."
+
+### 84. Trânsito só irrita quem esperava rua vazia. — `descartada (João 16/10: "o restante pode descartar e vamos criar novos modelos")`
+- **De quem é:** Marco Aurélio (avisar a si mesmo pela manhã do que vai dar errado). **Lei:** o que irrita não é o problema, é a surpresa. **Atenção:** vizinha da 187 (calma); não sair junto com a 83.
+- **Construções:** A. "Trânsito só irrita quem esperava rua vazia." · B. "Engarrafamento não estressa quem já saiu sabendo." · C. "Não é o trânsito. É a rua vazia que você imaginou."
+
+## Lote 16 — modelos novos (16/10, a crivar pelo João)
+
+> Pedido do João depois do crivo de 16/10: aprovou a 25 e a 37 pra produzir, mandou melhorar a 70 e a 77, descartou o resto e pediu "novos modelos". Mesmo molde do 230: objeto do dia a dia, lei física ou observada, pensador por baixo.
+
+### 85. Sapato gasta do lado que você pisa. — `candidata`
+- **De quem é:** Aristóteles (somos o que repetimos). **Lei:** o hábito deixa marca antes de virar nome; ninguém vê como você anda, mas a sola conta.
+- **Cena:** um par de sapatos virado, a sola gasta só de um lado. **Construções:** A. "Sapato gasta do lado que você pisa." · B. "A sola conta como você anda." · C. "Todo sapato gasto denuncia o passo."
+
+### 86. Ninguém vê a própria nuca. — `candidata`
+- **De quem é:** Sócrates (conhece-te a ti mesmo; o exame precisa do outro). **Lei:** o que a gente mais precisa ver em si é justamente o que não alcança sozinho. **Cena:** a barbearia, o barbeiro mostrando a nuca no espelho de mão. **Atenção:** mesma segunda camada do 247 (quem está dentro não sente o próprio cheiro); espaçar.
+- **Construções:** A. "Ninguém vê a própria nuca." · B. "Pra ver a nuca precisa de dois espelhos." · C. "Só o barbeiro vê o seu corte de trás."
+
+### 87. Todo bom chefe já lavou muita panela. — `candidata`
+- **De quem é:** Aristóteles (só manda bem quem aprendeu a obedecer). **Lei:** comando se aprende servindo. **Cena:** pia de cozinha de restaurante com a pilha de panelas. Espelho: "eu lavei".
+- **Construções:** A. "Todo bom chefe já lavou muita panela." · B. "Ninguém chega no fogão sem passar pela pia." · C. "Cozinheiro que nunca lavou panela não manda na cozinha."
+
+### 88. Ninguém aprende a dirigir sem deixar o carro morrer. — `candidata`
+- **De quem é:** Epicteto (quem quer progredir aceita parecer tolo). **Lei:** aprender exige passar vergonha em público. **Cena:** o carro de autoescola morto no sinal. **Atenção:** vizinha da 225 (vergonha de errar, 12/10); esperar algumas semanas.
+- **Construções:** A. "Ninguém aprende a dirigir sem deixar o carro morrer." · B. "Todo motorista já ouviu buzina no sinal." · C. "Carro morre é na mão de quem está aprendendo."
+
+### 89. Cadeira vazia também vota. — `candidata`
+- **De quem é:** Platão (quem não participa é governado pelos outros). **Lei:** ausência é decisão; quem não aparece aceita o que os outros decidirem. **Cena:** reunião de condomínio, cadeiras de plástico, uma vazia. Espelho: "eu apareço".
+- **Construções:** A. "Cadeira vazia também vota." · B. "Quem não vai à reunião paga a conta dela." · C. "Quem falta também decide."
+
+### 90. Amigo de festa não aparece na mudança. — `candidata`
+- **De quem é:** Aristóteles (amizade de prazer × amizade de verdade). **Lei:** amizade se mede no peso, não na festa. **Cena:** a geladeira sendo carregada escada abaixo. **Atenção:** caixas de mudança já no 223 (11/10), com outra tese.
+- **Construções:** A. "Amigo de festa não aparece na mudança." · B. "Mudança mostra quem é amigo." · C. "Quem carrega a geladeira é amigo. O resto é convidado."
+
+### 91. Relógio parado também acerta. Duas vezes por dia. — `candidata`
+- **De quem é:** ditado popular ressignificado (Sêneca: um acerto não prova nada). **Lei:** acerto isolado não é competência; competência é acertar todo dia. **Atenção:** pode soar como advertência.
+- **Construções:** A. "Relógio parado também acerta. Duas vezes por dia." · B. "Acertar uma vez até relógio parado acerta." · C. "Um acerto não faz relógio."
