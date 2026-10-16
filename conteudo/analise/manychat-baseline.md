@@ -1117,3 +1117,10 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-17-FOLEGO` (data da publicação
 
 - Montada parada, presa ao post do 240 e sem `utm_content`. Conferido recarregando: STOPPED, campaign novo no HTML, nada do COMANDO, 1 botão só.
 - Leitura de passagem: a COMANDO (240) estava com 0 execuções em ~23 h no ar, e o post com 2 comentários no total.
+
+## 16/10/2026 — `IG | 2026-10-17 | DELEGAR | so anda com voce` (carrossel 245) — MONTADA STOPPED ~16h05 (post marcado pelo user pra 17/10 às 17h; timer às 17h01)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-17-DELEGAR` (data da publicação); `utm_content` entra na hora de amarrar; palavras `DELEGAR, delegar, Delegar` (busca "delegar" no painel em 16/10: nenhuma automação, sem colisão); DM "Delegar sem largar a empresa na mão dos outros se aprende. Quer ver como eu ensino isso no MBV?" (95 chars; escrita pelo Claude no kit da etiqueta), botão `>> Quero ver <<` (herdado). Duplicada da FOLEGO do 244 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261016185532_196148.
+
+- Montada parada, presa ao post do 240 (herança da FOLEGO) e sem `utm_content`. Conferido recarregando: STOPPED, campaign novo no HTML, DM inteira (o campo não comeu caractere), nada do FOLEGO, 1 botão só. Link conferido por JS com 107 caracteres (o tamanho exato).
+- Timer de shell com DATA (`until [ "$(date +%Y%m%d%H%M)" -ge 202610171701 ]`), porque o post é no dia seguinte: o `until` só com `%H%M` da skill dispararia hoje às 17h01. Keep-awake do app pedido (session_idle). No mesmo dia 17/10 tem também a FOLEGO (244) às 13h, com timer em outra conversa.
