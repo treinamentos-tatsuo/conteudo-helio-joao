@@ -1124,3 +1124,12 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-17-DELEGAR` (data da publicaçã
 
 - Montada parada, presa ao post do 240 (herança da FOLEGO) e sem `utm_content`. Conferido recarregando: STOPPED, campaign novo no HTML, DM inteira (o campo não comeu caractere), nada do FOLEGO, 1 botão só. Link conferido por JS com 107 caracteres (o tamanho exato).
 - Timer de shell com DATA (`until [ "$(date +%Y%m%d%H%M)" -ge 202610171701 ]`), porque o post é no dia seguinte: o `until` só com `%H%M` da skill dispararia hoje às 17h01. Keep-awake do app pedido (session_idle). No mesmo dia 17/10 tem também a FOLEGO (244) às 13h, com timer em outra conversa.
+
+## 17/10/2026 — `IG | 2026-10-18 | ENTREGA | creche de adulto` (carrossel 246) — MONTADA STOPPED ~13h20 (post marcado pelo user pra 18/10 às 13h; timer às 13h01)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-18-ENTREGA` (data da publicação); `utm_content` entra na hora de amarrar; palavras `ENTREGA, entrega, Entrega`; DM "Time que entrega não nasce pronto: se acompanha. Quer ver como eu ensino gestão no MBV?" (escrita pelo Claude no kit da etiqueta), botão `>> Quero ver <<` (herdado). Duplicada da DELEGAR do 245 (intocada, STOPPED até o timer de hoje às 17h01). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261017161029_941249.
+
+- **Colisão (correção do registro de 16/10):** em 16/10 a busca "entrega" foi lida antes de carregar inteira e o kit do 246 disse "nenhuma automação usa a palavra". Em 17/10 a busca completa mostrou a `IG | 2026-10-03 | ENTREGA | folha paga duas vezes` (180), LIVE, mas de **publicação específica**: não dispara no 246, e a palavra não precisa ser inédita (o `utm_campaign` é que identifica o post). Lição: esperar a lista carregar e conferir na tela, não só no texto da página.
+- Montada parada, presa ao post do 240 (herança) e sem `utm_content`. Conferido recarregando: STOPPED, campaign novo no HTML, DM inteira, nada da DELEGAR, 1 botão só; link com 107 caracteres.
+- Timer de shell com data (`-ge 202610181301`) e keep-awake do app. O timer do 245 (17/10 17h01) segue vivo na mesma conversa.
+- O 246 sai um dia depois do 245 (sugestão era 3 dias, pela vizinhança do tema: acompanhamento). Decisão do user.
