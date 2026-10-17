@@ -1,6 +1,6 @@
 # 246 — Empresa é creche de adulto (perfil do Hélio)
 
-**Status:** texto v2 fechado (redação do João nos slides 4, 6 e 10). Visual: fotos-reais, escolha do João (16/10). Slides v1 renderizados, aguardando a aprovação. v2 = redação do João nos slides 4, 6 e 10 (literal); sugestões ao lado, na seção "Rodada v2". O modelo visual ainda está em aberto (fotos-reais, como pede esta conversa, ou Notas, como o 245).
+**Status:** versão sem rosto (editorial-punch, v4) aprovada pelo João em 17/10 e entregue em `POSTS/Carrossel sem rosto/`. Post marcado pra 18/10 às 13h (Manychat ENTREGA montado parado, timers às 12h56 e 13h01).
 
 **Origem:** tema do João em 16/10: "Empresa é creche de adulto" (entra literal na capa).
 **Já feito parecido:** o 20 "Empresa não é creche" (04/08, 35 comentários, 10 mil de alcance, 95 interações/1k). Ele fala do funcionário que se justifica ("problema explica, não justifica"). Tem 73 dias: não pode ser repost (a regra pede mais de 90). Esta peça vira o 20 do avesso: a empresa É creche, e acompanhar é o trabalho do dono.
@@ -120,3 +120,11 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 - **Botão:** `>> Quero ver <<`
 - **Link** (preencher na hora de amarrar ao post): `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=AAAA-MM-DD-ENTREGA&utm_content=<link limpo do post>`
 - Faltam a `data_publicacao` e o `post_id` na ficha: entram quando o João disser quando posta.
+
+## v4 (16/10, pedido do João): estilo sem rosto (modelo editorial-punch, o da conversa "Carrossel sem rosto")
+
+- **O que mudou:** todo o visual. Fundo de linho, texto em Source Serif no topo (preparação em preto e punch em vermelho, por estrofes), grito da capa em Anton vermelho numa linha só (76 px) e foto P&B horizontal sangrando embaixo, com a parede clara no topo (o `topo.py` aprovou as 12). O texto aprovado não mudou, só foi distribuído em estrofes. A legenda também não mudou.
+- **Sem o Hélio em nenhum slide.** Os slides 4 a 6 seguem em primeira pessoa (é a voz do Hélio), mas sem foto dele.
+- **Imagens (todas geradas, 1536×1024, P&B):** 1 mamadeira e chupeta na mesa de trabalho, entre a máquina de escrever e a papelada (a capa A escolhida antes, refeita na horizontal) · 2 o vendedor derrubando as caixas no balcão e a cliente de braços cruzados · 3 o almoço pela metade e o celular com o áudio longo · 4 o manual de montagem aberto e o banquinho montado todo errado · 5 o megafone caído na mesa, com papel amassado · 6 a pasta de executivo aberta, cheia de chocalho, chupeta e fralda · 7 a babá eletrônica (tela apagada) ao lado do relatório · 8 o calendário com o mesmo dia circulado em toda semana · 9 a gaveta do caixa quase vazia e a pilha de retrabalho · 10 a mesa de reunião com brinquedos e a cadeira do líder vazia · 11 a sala de treinamento pronta antes da aula · 12 as caixas de entrega lacradas e enfileiradas.
+- **Altura da imagem 878 px** (como no 244). O `check.py` acusa vão em quase todos os slides, mas é a parede clara da própria foto (falso alarme previsto no modelo).
+- A versão com fotos reais inteira está em `_fotos-reais/` (scripts, imagens e slides, inclusive as capas A e B).

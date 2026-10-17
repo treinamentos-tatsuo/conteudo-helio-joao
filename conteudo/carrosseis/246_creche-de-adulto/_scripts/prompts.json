@@ -1,0 +1,80 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "On an office work desk, among a typewriter, a stack of work papers and a coffee cup, stand a baby bottle with milk and a pacifier, as if the desk belonged to a toddler. The baby bottle and pacifier on the serious work desk are the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": true,
+   "fit": true,
+   "scene": "Inside a Brazilian store: a young salesman in shirt and tie behind the counter fumbles and drops a pile of product boxes, while a customer across the counter waits with arms crossed and an annoyed look. Both people fully inside the frame."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a restaurant lunch table, two half-eaten plates of rice and beans, two coffee cups, and a modern smartphone lying face up whose screen shows a chat with one very long voice message waveform bubble (no readable text). The phone is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a workbench, an instruction manual lies open showing simple step-by-step drawings (illegible), and right beside it the same wooden stool assembled completely wrong: legs upside down, seat sideways, screws scattered. The wrong assembly next to the manual is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "On an office desk, an old metal megaphone lies on its side next to a cold cup of coffee and a pile of crumpled papers, as if someone had spent the day complaining. The megaphone is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "On an office desk, an executive leather briefcase lies open and, instead of documents, it is full of baby rattles, pacifiers, a bib and folded diapers, next to a pen and a stack of business reports. The open briefcase is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a wooden office desk, a white baby monitor with its small screen turned OFF (plain dark glass, nothing shown) stands next to a printed weekly sales report with simple bar charts (illegible) and a pen. The baby monitor beside the report is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a meeting table, a desk flip calendar where the same weekday box is circled in pen on every week row (all numbers illegible), next to an analog table clock and an open agenda notebook with a pen. The repeated circles on the calendar are the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a shop counter, an open cash register drawer almost empty with only a few coins left, beside a tall stack of redone paperwork and a returned cardboard box. The empty drawer is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a long conference table in an empty meeting room, children's wooden toy blocks and a teddy bear are scattered across the table, and the leader's chair at the head of the table is empty and pushed back. A daycare with no adult in charge. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "A small training room ready before class: a few rows of tables with open notebooks, pens and water glasses neatly placed at every seat, chairs tucked in, waiting for students. The prepared tables are the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "On a warehouse loading dock floor, cardboard delivery boxes neatly packed, sealed and stacked in perfect rows, each with a blank shipping tag, ready to be delivered on time. The neat rows of boxes are the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the subject is COMPACT and CENTERED, occupying only the central 60 percent of the width, with plain empty space on both sides; nothing touches the left or right edges of the frame. The subject sits on the ground or on a surface and ends below the middle of the frame; nothing hangs or descends from the top."
+  }
+ ]
+}

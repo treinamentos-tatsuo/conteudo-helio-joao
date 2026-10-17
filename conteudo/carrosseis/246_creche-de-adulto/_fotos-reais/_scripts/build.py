@@ -11,7 +11,7 @@ F = next(p for p in (pathlib.Path.home()/"Desktop").iterdir() if p.name.startswi
 R = next(d for d in F.iterdir() if d.name.startswith("H")); P = F/"publico"
 # n: (fonte, fx, fy, zoom, cru?)  cru = foto real sem tratamento; senão P&B suave
 PH = {
- 1: (R/"DSCF3116.JPG", .5, .30, 1.0, True),
+ 1: (G/("gen-21.png" if __import__("os").environ.get("CAPA")=="B" else "gen-01.png"), .5, .5, 1.0, False),  # v3: capa sem o Hélio (pedido do João); v2 com a DSCF3116 em build_v2.py
  2: (G/"gen-02.png", .5, .5, 1.0, False),
  3: (G/"gen-03.png", .5, .5, 1.0, False),
  4: (R/"DSCF3122.JPG", .5, .30, 1.0, True),
