@@ -627,7 +627,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 ## Lote 14 — candidatas (2026-10-11, a crivar pelo user)
 
-### 70. A limpa da mudança — `melhorar antes (João 16/10)`
+### 70. A limpa da mudança — `descartada (João 19/10: "as demais podemos excluir da base")`
 - **Lei:** a gente só mexe no fundo do armário quando é obrigado; mudança é a única hora em que se joga fora o que acumulou por anos. Frase bruta do user: "é em época de mudança que se mexe".
 - **Construções:** A. "Só se mexe no fundo do armário em dia de mudança." · B. "Ninguém abre o fundo da gaveta sem mudança marcada." · C. "A limpa só vem com o caminhão na porta."
 - **Atenção:** irmã do 223 (mesma cena); espaçar.
@@ -669,7 +669,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **Cena:** a pelada do bairro: o time cheio de craque que perde pro time que se conhece. **Espelho:** "a gente joga junto".
 - **Construções:** A. "Time de craque não é time." · B. "Onze craques não fazem um time." · C. "Craque ganha jogo. Time ganha campeonato."
 
-### 77. Quem só vai ao médico com dor chega tarde. — `melhorar antes (João 16/10)`
+### 77. Quem só vai ao médico com dor chega tarde. — `descartada (João 19/10: "as demais podemos excluir da base")`
 - **De quem é:** Sócrates (a vida sem exame não vale ser vivida). **Lei:** olhar pra dentro antes de doer; quem espera o sintoma chega atrasado.
 - **Cena:** o exame de sangue anual, o check-up, a revisão do carro. **Espelho:** "eu me examino". Atenção: é ADVERTÊNCIA (grupo 2); previsão capada.
 - **Construções:** A. "Quem só vai ao médico com dor chega tarde." · B. "Exame bom é o que se faz sem sentir nada." · C. "Dor é o exame que você não fez."
@@ -701,31 +701,31 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 > Pedido do João depois do crivo de 16/10: aprovou a 25 e a 37 pra produzir, mandou melhorar a 70 e a 77, descartou o resto e pediu "novos modelos". Mesmo molde do 230: objeto do dia a dia, lei física ou observada, pensador por baixo.
 
-### 85. Sapato gasta do lado que você pisa. — `candidata`
+### 85. Sapato gasta do lado que você pisa. — `descartada (João 19/10: "as demais podemos excluir da base")`
 - **De quem é:** Aristóteles (somos o que repetimos). **Lei:** o hábito deixa marca antes de virar nome; ninguém vê como você anda, mas a sola conta.
 - **Cena:** um par de sapatos virado, a sola gasta só de um lado. **Construções:** A. "Sapato gasta do lado que você pisa." · B. "A sola conta como você anda." · C. "Todo sapato gasto denuncia o passo."
 
-### 86. Ninguém vê a própria nuca. — `candidata`
+### 86. Ninguém vê a própria nuca. — `descartada (João 19/10: "as demais podemos excluir da base")`
 - **De quem é:** Sócrates (conhece-te a ti mesmo; o exame precisa do outro). **Lei:** o que a gente mais precisa ver em si é justamente o que não alcança sozinho. **Cena:** a barbearia, o barbeiro mostrando a nuca no espelho de mão. **Atenção:** mesma segunda camada do 247 (quem está dentro não sente o próprio cheiro); espaçar.
 - **Construções:** A. "Ninguém vê a própria nuca." · B. "Pra ver a nuca precisa de dois espelhos." · C. "Só o barbeiro vê o seu corte de trás."
 
-### 87. Todo bom chefe já lavou muita panela. — `candidata`
+### 87. Todo bom chefe já lavou muita panela. — `aprovada (João 19/10: fila de produção)`
 - **De quem é:** Aristóteles (só manda bem quem aprendeu a obedecer). **Lei:** comando se aprende servindo. **Cena:** pia de cozinha de restaurante com a pilha de panelas. Espelho: "eu lavei".
 - **Construções:** A. "Todo bom chefe já lavou muita panela." · B. "Ninguém chega no fogão sem passar pela pia." · C. "Cozinheiro que nunca lavou panela não manda na cozinha."
 
-### 88. Ninguém aprende a dirigir sem deixar o carro morrer. — `candidata`
+### 88. Ninguém aprende a dirigir sem deixar o carro morrer. — `descartada (João 19/10: "as demais podemos excluir da base")`
 - **De quem é:** Epicteto (quem quer progredir aceita parecer tolo). **Lei:** aprender exige passar vergonha em público. **Cena:** o carro de autoescola morto no sinal. **Atenção:** vizinha da 225 (vergonha de errar, 12/10); esperar algumas semanas.
 - **Construções:** A. "Ninguém aprende a dirigir sem deixar o carro morrer." · B. "Todo motorista já ouviu buzina no sinal." · C. "Carro morre é na mão de quem está aprendendo."
 
-### 89. Cadeira vazia também vota. — `candidata`
+### 89. Cadeira vazia também vota. — `aprovada (João 19/10: fila de produção)`
 - **De quem é:** Platão (quem não participa é governado pelos outros). **Lei:** ausência é decisão; quem não aparece aceita o que os outros decidirem. **Cena:** reunião de condomínio, cadeiras de plástico, uma vazia. Espelho: "eu apareço".
 - **Construções:** A. "Cadeira vazia também vota." · B. "Quem não vai à reunião paga a conta dela." · C. "Quem falta também decide."
 
-### 90. Amigo de festa não aparece na mudança. — `candidata`
+### 90. Amigo de festa não aparece na mudança. — `aprovada (João 19/10: fila de produção)`
 - **De quem é:** Aristóteles (amizade de prazer × amizade de verdade). **Lei:** amizade se mede no peso, não na festa. **Cena:** a geladeira sendo carregada escada abaixo. **Atenção:** caixas de mudança já no 223 (11/10), com outra tese.
 - **Construções:** A. "Amigo de festa não aparece na mudança." · B. "Mudança mostra quem é amigo." · C. "Quem carrega a geladeira é amigo. O resto é convidado."
 
-### 91. Relógio parado também acerta. Duas vezes por dia. — `candidata`
+### 91. Relógio parado também acerta. Duas vezes por dia. — `aprovada (João 19/10: fila de produção)`
 - **De quem é:** ditado popular ressignificado (Sêneca: um acerto não prova nada). **Lei:** acerto isolado não é competência; competência é acertar todo dia. **Atenção:** pode soar como advertência.
 - **Construções:** A. "Relógio parado também acerta. Duas vezes por dia." · B. "Acertar uma vez até relógio parado acerta." · C. "Um acerto não faz relógio."
 
