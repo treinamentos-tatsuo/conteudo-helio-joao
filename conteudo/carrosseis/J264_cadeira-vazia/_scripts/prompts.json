@@ -1,0 +1,15 @@
+{
+ "_como_usar": "Copiar pra conteudo/carrosseis/<N>_<nome>/_scripts/prompts.json. Cada imagem nova ganha um número novo em images (nunca reaproveitar número: a versão anterior fica). Cena em inglês, curta, dizendo o objeto, onde ele está apoiado, que fica na metade de baixo e 'Nothing else'. Use base_alto quando o objeto precisa subir (postes, geladeira): parede só nos 30% de cima. Rodar: python3 .claude/skills/frase/scripts/gen.py conteudo/carrosseis/<N>_<nome> 1",
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Everything that matters sits in the lower half of the frame; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "base_alto": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The upper 30% of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "images": [
+  {
+   "n": 1,
+   "scene": "A straight row of five simple white plastic chairs (the kind used in Brazilian condominium meetings) standing on a bare concrete floor against the plain plaster wall; on the seat of four of them lies a printed meeting agenda sheet with a pen on top; the middle chair is completely empty. All chairs rest on the floor, low, their backs ending below the middle of the frame. Nothing else. Hard low side light, long shadows."
+  },
+  {
+   "n": 2,
+   "scene": "A straight row of five simple white plastic chairs (the kind used in Brazilian condominium meetings) standing on a bare concrete floor against the plain plaster wall. Chairs 1, 2, 4 and 5 each have a sheet of white paper and a pen lying on the seat and a jacket or a handbag hanging on the backrest, as if their owners just stepped away for a moment. The MIDDLE chair (number 3) is completely bare: nothing on the seat, nothing on the backrest, obviously empty, slightly pushed back out of line. All chairs rest on the floor, low, their backs ending below the middle of the frame. Nothing else. Hard low side light, long shadows."
+  }
+ ]
+}

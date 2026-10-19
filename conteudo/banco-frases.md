@@ -709,7 +709,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Sócrates (conhece-te a ti mesmo; o exame precisa do outro). **Lei:** o que a gente mais precisa ver em si é justamente o que não alcança sozinho. **Cena:** a barbearia, o barbeiro mostrando a nuca no espelho de mão. **Atenção:** mesma segunda camada do 247 (quem está dentro não sente o próprio cheiro); espaçar.
 - **Construções:** A. "Ninguém vê a própria nuca." · B. "Pra ver a nuca precisa de dois espelhos." · C. "Só o barbeiro vê o seu corte de trás."
 
-### 87. Todo bom chefe já lavou muita panela. — `aprovada (João 19/10: fila de produção)`
+### 87. Todo bom chefe já lavou muita panela. — `em produção (post J263, 19/10)`
 - **De quem é:** Aristóteles (só manda bem quem aprendeu a obedecer). **Lei:** comando se aprende servindo. **Cena:** pia de cozinha de restaurante com a pilha de panelas. Espelho: "eu lavei".
 - **Construções:** A. "Todo bom chefe já lavou muita panela." · B. "Ninguém chega no fogão sem passar pela pia." · C. "Cozinheiro que nunca lavou panela não manda na cozinha."
 
@@ -717,15 +717,15 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Epicteto (quem quer progredir aceita parecer tolo). **Lei:** aprender exige passar vergonha em público. **Cena:** o carro de autoescola morto no sinal. **Atenção:** vizinha da 225 (vergonha de errar, 12/10); esperar algumas semanas.
 - **Construções:** A. "Ninguém aprende a dirigir sem deixar o carro morrer." · B. "Todo motorista já ouviu buzina no sinal." · C. "Carro morre é na mão de quem está aprendendo."
 
-### 89. Cadeira vazia também vota. — `aprovada (João 19/10: fila de produção)`
+### 89. Cadeira vazia também vota. — `em produção (post J264, 19/10)`
 - **De quem é:** Platão (quem não participa é governado pelos outros). **Lei:** ausência é decisão; quem não aparece aceita o que os outros decidirem. **Cena:** reunião de condomínio, cadeiras de plástico, uma vazia. Espelho: "eu apareço".
 - **Construções:** A. "Cadeira vazia também vota." · B. "Quem não vai à reunião paga a conta dela." · C. "Quem falta também decide."
 
-### 90. Amigo de festa não aparece na mudança. — `aprovada (João 19/10: fila de produção)`
+### 90. Amigo de festa não aparece na mudança. — `em produção (post J265, 19/10)`
 - **De quem é:** Aristóteles (amizade de prazer × amizade de verdade). **Lei:** amizade se mede no peso, não na festa. **Cena:** a geladeira sendo carregada escada abaixo. **Atenção:** caixas de mudança já no 223 (11/10), com outra tese.
 - **Construções:** A. "Amigo de festa não aparece na mudança." · B. "Mudança mostra quem é amigo." · C. "Quem carrega a geladeira é amigo. O resto é convidado."
 
-### 91. Relógio parado também acerta. Duas vezes por dia. — `aprovada (João 19/10: fila de produção)`
+### 91. Relógio parado também acerta. Duas vezes por dia. — `em produção (post J266, 19/10)`
 - **De quem é:** ditado popular ressignificado (Sêneca: um acerto não prova nada). **Lei:** acerto isolado não é competência; competência é acertar todo dia. **Atenção:** pode soar como advertência.
 - **Construções:** A. "Relógio parado também acerta. Duas vezes por dia." · B. "Acertar uma vez até relógio parado acerta." · C. "Um acerto não faz relógio."
 
