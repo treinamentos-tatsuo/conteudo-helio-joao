@@ -15,17 +15,16 @@ def icon(nome, px, cor='#ffffff', traco=2.0):
     return re.sub(r'class="[^"]*"', '', s, count=1)
 
 
-CSS = f"""@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap');
+CSS = f"""@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
 *{{margin:0;padding:0;box-sizing:border-box}}
 html,body{{width:1080px;height:1350px;overflow:hidden;background:#0e0e0e}}
 .s{{position:relative;width:1080px;height:1350px;background:url('../imagens/fundo.png');color:#fff;font-family:'Montserrat',sans-serif;overflow:hidden}}
 .s::after{{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 45%,rgba(0,0,0,0) 55%,rgba(0,0,0,.45) 100%);pointer-events:none}}
 .conteudo{{position:absolute;inset:0;z-index:2}}
-.tb{{position:absolute;left:110px;width:860px;text-align:center;background:#fff;color:#0d0d0d;border-radius:6px;padding:18px 0 16px;
-  font-weight:800;text-transform:uppercase;letter-spacing:-1.2px;line-height:1.08;box-shadow:0 12px 30px rgba(0,0,0,.5);white-space:nowrap}}
+.tb{{position:absolute;left:90px;width:900px;text-align:center;font-family:'Anton',sans-serif;color:#fff;text-transform:uppercase;line-height:1.2;letter-spacing:.5px;white-space:nowrap;text-shadow:0 4px 18px rgba(0,0,0,.45)}}
 .tb .v{{color:{RED}}}
-.sub{{position:absolute;left:100px;width:880px;text-align:center;font-weight:600;font-size:25px;white-space:nowrap}}
-.sub u{{color:{RED};text-decoration-thickness:3px;text-underline-offset:6px}}
+.sub{{position:absolute;left:100px;width:880px;text-align:center;font-family:'Source Serif 4',serif;font-weight:400;font-size:28px;color:#ececec;white-space:nowrap}}
+.sub u{{color:{RED};text-decoration-thickness:2px;text-underline-offset:6px}}
 .badge{{border-radius:50%;background:{RED};display:flex;align-items:center;justify-content:center}}
 .tag{{display:inline-block;background:{RED};color:#fff;border:2px solid {RED};border-radius:6px;padding:6px 14px 5px;font-weight:800;font-size:22px;
   text-transform:uppercase;letter-spacing:.01em;white-space:nowrap}}
@@ -55,11 +54,12 @@ def svg(inner):
     return f'<svg width="1080" height="1350" viewBox="0 0 1080 1350" style="position:absolute;inset:0;overflow:visible">{DEFS}{inner}</svg>'
 
 
-def titulo(l1, l2, fs1=46, fs2=56):
-    return f'<div class="tb solo" style="top:110px;font-size:{fs1}px">{l1}<br><span class="v" style="font-size:{fs2}px">{l2}</span></div>'
+def titulo(l1, l2, fs1=46, fs2=56, fs=72):
+    # cabecalho na linha do post da Academy de 19/10 (instagram.com/p/Deq_zH3payF): Anton, sem bloco, 1a linha branca e 2a vermelha
+    return f'<div class="tb solo" style="top:110px;font-size:{fs}px">{l1}<br><span class="v">{l2}</span></div>'
 
 
-def sub(texto, top=282, fs=25):
+def sub(texto, top=290, fs=28):
     return f'<div class="sub solo" style="top:{top}px;font-size:{fs}px">{texto}</div>'
 
 

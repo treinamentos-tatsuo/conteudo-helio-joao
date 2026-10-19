@@ -17,17 +17,16 @@ def icon(nome, px, cor='#ffffff', traco=2.0):
     return re.sub(r'class="[^"]*"', '', s, count=1)
 
 
-CSS = f"""@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap');
+CSS = f"""@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
 *{{margin:0;padding:0;box-sizing:border-box}}
 html,body{{width:1080px;height:1350px;overflow:hidden;background:#0e0e0e}}
 .s{{position:relative;width:1080px;height:1350px;background:url('../imagens/fundo.png');color:#fff;font-family:'Montserrat',sans-serif;overflow:hidden}}
 .s::after{{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 45%,rgba(0,0,0,0) 55%,rgba(0,0,0,.45) 100%);pointer-events:none}}
 .conteudo{{position:absolute;inset:0;z-index:2}}
-.tb{{position:absolute;left:110px;width:860px;text-align:center;background:#fff;color:#0d0d0d;border-radius:6px;padding:18px 0 16px;
-  font-weight:800;text-transform:uppercase;letter-spacing:-1.2px;line-height:1.08;box-shadow:0 12px 30px rgba(0,0,0,.5)}}
+.tb{{position:absolute;left:90px;width:900px;text-align:center;font-family:'Anton',sans-serif;color:#fff;text-transform:uppercase;line-height:1.2;letter-spacing:.5px;white-space:nowrap;text-shadow:0 4px 18px rgba(0,0,0,.45)}}
 .tb .v{{color:{RED}}}
-.sub{{position:absolute;left:100px;width:880px;text-align:center;font-weight:600;font-size:25px;white-space:nowrap}}
-.sub u{{color:{RED};text-decoration-thickness:3px;text-underline-offset:6px}}
+.sub{{position:absolute;left:100px;width:880px;text-align:center;font-family:'Source Serif 4',serif;font-weight:400;font-size:28px;color:#ececec;white-space:nowrap}}
+.sub u{{color:{RED};text-decoration-thickness:2px;text-underline-offset:6px}}
 .badge{{border-radius:50%;background:{RED};display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 9px #0d0d0d}}
 .fat .t{{display:inline-block;background:{RED};color:#fff;border-radius:6px;padding:6px 12px 5px;box-shadow:0 6px 16px rgba(0,0,0,.35);
   font-weight:800;font-size:21px;line-height:1.15;text-transform:uppercase;letter-spacing:-.3px;white-space:nowrap}}
@@ -67,9 +66,9 @@ for a in DIV:
     x0, y0 = pt(RI_BLK - 2, a); x1, y1 = pt(RI_RED + 2, a)
     g += f'<line x1="{x0:.1f}" y1="{y0:.1f}" x2="{x1:.1f}" y2="{y1:.1f}" stroke="#0d0d0d" stroke-width="16"/>'
 b = f'<svg width="1080" height="1350" viewBox="0 0 1080 1350" style="position:absolute;inset:0">{g}</svg>'
-b += ('<div class="tb solo" style="top:110px;font-size:46px;white-space:nowrap">Os 4 elementos de um<br>'
-      '<span class="v" style="font-size:56px">bom modelo de negócio</span></div>')
-b += '<div class="sub solo" style="top:282px">Quanto mais fortes na sua empresa, <u>mais fácil é crescer com lucro</u></div>'
+b += ('<div class="tb solo" style="top:110px;font-size:72px">Os 4 elementos de um<br>'
+      '<span class="v">bom modelo de negócio</span></div>')
+b += '<div class="sub solo" style="top:290px;font-size:28px">Quanto mais fortes na sua empresa, <u>mais fácil é crescer com lucro</u></div>'
 b += f'<div style="position:absolute;left:{CX-40}px;top:{CY-40}px">{icon("building-store", 80, "#ffffff", 1.7)}</div>'
 
 # (nome, definicao da p. 9, icone, angulo do badge, centro do bloco)
