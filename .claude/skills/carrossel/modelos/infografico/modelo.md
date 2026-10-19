@@ -12,8 +12,8 @@
 - **Objetivo:** ensinar um conceito do método de forma visual e levar ao MBV pelo link da bio.
 - **Fonte:** a apostila do MBV (edição de setembro/2026, `Apostila Setembro v.final.pdf`, 200 páginas). **Ela não está no Git.** Nesta máquina fica em `_contexto/apostila-mbv/` (fora do Git). Sem a apostila na máquina, pedir o PDF antes de começar: post da apostila não se escreve de memória.
 - **Pauta:** quando pedirem sugestão, abrir a apostila e propor 1 item com o porquê (contraria o que o dono acredita, tem número que choca, vira framework visual, leva ao CTA) e 2 a 4 alternativas com a página. Quem escolhe é quem pediu (às vezes o user escolhe outro e compara com a sugestão, como no 224).
-  - Páginas já usadas ou já sugeridas: p. 1-2 (analfabeto empresarial, três pilares, visão sistêmica: 224); p. 17 e 49-55 (matrizes, Balanço Japonês: 222); p. 27-28 (três alavancas do lucro) e p. 37 (juro da antecipação), sugeridas no 229; p. 44 (efeito do crescimento no caixa: 229); p. 58-130 (Crescimento, vendas: série de 26/09).
-  - Já feitos (não repetir sem pedido): modelo de negócio (213), Balanço Japonês (222), três pilares (224), vender mais (229). Antes de sugerir, conferir em `conteudo/carrosseis/` os `carousel-text.md` que citam a apostila.
+  - Páginas já usadas ou já sugeridas: p. 1-2 (analfabeto empresarial, três pilares, visão sistêmica: 224); p. 17 e 49-55 (matrizes, Balanço Japonês: 222); p. 27-28 (três alavancas do lucro) e p. 37 (juro da antecipação), sugeridas no 229; p. 44 (efeito do crescimento no caixa: 229); p. 8-11 e 24 (os 4 elementos do modelo de negócio: 256 em carrossel e 257 em tela única); p. 58-130 (Crescimento, vendas: série de 26/09).
+  - Já feitos (não repetir sem pedido): modelo de negócio (213, refeito no 256/257 a pedido do João), Balanço Japonês (222), três pilares (224), vender mais (229). Antes de sugerir, conferir em `conteudo/carrosseis/` os `carousel-text.md` que citam a apostila.
 - **Quando NÃO usar:** peça na voz do Hélio ou com foto dele (`fotos-reais`, `editorial-punch`), fábula, comentário de notícia (`thread-x`), frase única (skill `/frase`).
 
 ## 2. Voz e texto
@@ -31,8 +31,8 @@
 
 ## 3. Nº e formato
 
-- 1080 × 1350 (4:5). De 2 slides (framework + CTA, como o 224) a 8 (222).
-- O CTA é **sempre um slide próprio** (pedido no 213: "um novo slide, só com a CTA"; seguido no 222, 224 e 229).
+- 1080 × 1350 (4:5). De 2 slides (framework + CTA, como o 224) a 8 (222), ou **1 tela só no Frame Work** (layout H, seção 6.3).
+- No carrossel, o CTA é **sempre um slide próprio** (pedido no 213: "um novo slide, só com a CTA"; seguido no 222, 224 e 229). No Frame Work (tela única) ele vai numa faixa no rodapé da própria tela.
 
 ## 4. Camadas (o processo, nesta ordem)
 
@@ -78,6 +78,7 @@
 | E | Funil com quantidade e taxa por degrau | idem |
 | F | **Círculo em fatias** (seção 6.1) | **vigente**, registrado pelo user em 11/10 (post 224) |
 | G | **Carrossel explicativo com gráficos** (seção 6.2) | **vigente**, registrado pelo user em 12/10 (post 229) |
+| H | **Frame Work: o framework numa tela só** (seção 6.3) | **vigente**, registrado pelo João em 19/10 (post 257) |
 
 Layout novo: construir na primeira vez, mostrar ao user, registrar aqui só com o sim dele.
 
@@ -114,6 +115,16 @@ Use quando o post explica um mecanismo com números (dinheiro, prazo, cresciment
 
 **Regras:** etiqueta que não pode quebrar linha leva `white-space:nowrap`; nada de rótulo cruzando seta ou barra; o `render.js` tem que passar e a conferência no olho também (colisão que a régua não mede: texto sobre a seta do SVG).
 
+### 6.3 Layout H: Frame Work, o framework numa tela só (post 257)
+
+Formato da conversa fixada "Frame Work Tatsuo Academy" (entrega em `Desktop/POSTS/Frame Work Tatsuo Academy/`). Pedido do João em 19/10, depois de ver o 256 em carrossel: "quero que desenvolva post únicos de apenas uma tela". Um item da apostila vira um framework visual que se explica sozinho, num post único. Código de referência: `frameworks/frame-work-tela-unica_build-257.py` (copiar pra `<post>/_scripts/build.py`).
+
+- **Composição:** título no bloco branco (1ª linha preta, 2ª em `#A91C20`), subtítulo de uma linha com o trecho final sublinhado em vermelho, o framework ocupando o miolo e o CTA no rodapé: botão branco "QUERO PARTICIPAR DO MBV" com contorno vermelho + "LINK NA BIO →" ao lado. Sem "ARRASTE" e sem paginação.
+- **Framework do 257:** o círculo em fatias do layout F (6.1) em 4 quadrantes, com o nome em etiqueta vermelha e a definição curta (uma frase da apostila) dentro de cada fatia, e badge com ícone na borda externa. Outras formas (pirâmide, linha do tempo, árvore de decisão, A × B) entram quando o conteúdo pedir: construir na primeira vez, mostrar ao João e registrar aqui com o sim dele.
+- **Texto da tela:** só o essencial do framework (nome + uma frase por parte). O que não cabe (exemplo, conta, "por que importa") vai pra legenda, que no Frame Work faz o papel dos slides internos: abre pela tese, desenvolve cada parte em um parágrafo com o exemplo da apostila e fecha no convite do MBV + link da bio + "Seja Bem-Vindo ao Fim do Analfabetismo Empresarial." (a do 257 tem ~1.500 caracteres).
+- **Checkpoint:** o texto da tela e a legenda passam pelo João antes do HTML, como em todo modelo.
+- **Folga no círculo:** etiqueta e parágrafo a pelo menos ~10 px da borda, dos divisores e do anel central; achar a posição no olho depois do render (no 257 a etiqueta "MARGEM DE CONTRIBUIÇÃO ALTA" encostou na borda e o bloco desceu 18 px).
+
 ## 7. Imagem
 
 Não usa foto, imagem gerada por IA nem banco de imagens. O visual é todo das camadas 1 a 4. (Foto do Hélio nunca é gerada por IA, em modelo nenhum.)
@@ -143,7 +154,7 @@ Não usa foto, imagem gerada por IA nem banco de imagens. O visual é todo das c
 
 ## 10. Exemplos e referências
 
-- **Vigentes:** `conteudo/carrosseis/224_tres-pilares/` (layout F + CTA) e `229_vender-mais/` (layout G, 6 slides). O código deles está em `frameworks/`.
+- **Vigentes:** `conteudo/carrosseis/224_tres-pilares/` (layout F + CTA), `229_vender-mais/` (layout G, 6 slides) e `257_quatro-elementos-tela-unica/` (layout H, tela única). O `256_quatro-elementos-modelo/` é o mesmo tema em carrossel (F na capa + G no miolo), salvo e não publicado. O código deles está em `frameworks/`.
 - **Conteúdo bom, visual superado:** `222_balanco-japones/` (8 slides; framework em quatro quadrantes; ainda com título em Anton, corpo em Source Serif, paginação "01/08" e CTA em fundo vermelho chapado, tudo superado no 224) e `213_quatro-elementos-do-modelo/` (grade 2 × 2 em Anton + Source Serif).
 - **Histórico (não copiar o visual):** a série de vendas de 26/09 (152), com Anton + Open Sans, cards vinho e CTA por Manychat.
 
