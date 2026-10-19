@@ -33,3 +33,18 @@ Base: a foto real do flip chart da sala do MBV (`conteudo/carrosseis/251_vender-
 Letra: caneta fina, letra comum, minúsculas com maiúscula só no começo da frase. Preto e vermelho, 2 linhas por cor.
 O texto fica no alto do meio da folha, com bastante papel em branco embaixo. Referência: `imagens/referencias-joao/modelo-letra-sapo.png`.
 Prompt: `_scripts/prompt-flip-real-v2.txt`. O flip chart gerado por IA dentro do escritório foi reprovado ("o modelo de flip chart está errado").
+
+## Lote 2 — para o flip chart (19/10) — reservadas pro perfil da Tatsuo Academy
+
+Pedido do João ("uma lista de frases para o modelo de flip chart"). Em 19/10 ele disse que são da voz da Academy, não do Hélio: "deixe essas reservadas para o perfil da Tatsuo". Letra comum, 2 linhas por cor, lei de gestão na voz da marca. Lastro no MBV.
+
+| # | Preto | Vermelho | Pilar | Lastro / atenção | Status |
+|---|---|---|---|---|---|
+| 9 | Faturamento mostra o tamanho / da empresa. | O lucro mostra se ela / vale a pena. | Lucratividade | faturamento não é lucro | reservada (Academy) |
+| 10 | Quem não conhece a própria margem / não sabe o que está vendendo. | Está só trocando dinheiro / de lugar. | Lucratividade | MBV D1: margem de contribuição | reservada (Academy) |
+| 11 | O DRE contábil / informa o governo. | O DRE gerencial / informa o dono. | Lucratividade | frase-âncora da casa | reservada (Academy) |
+| 12 | Dono sem pró-labore definido / não tem salário, tem saque. | E saque sem regra / esvazia o caixa da empresa. | Lucratividade | dono não pode ser CLT da própria empresa | reservada (Academy) |
+| 13 | Quem não sabe o ponto de equilíbrio / não sabe quanto precisa vender. | Trabalha o mês inteiro / sem saber se pagou a conta. | Lucratividade | MBV D1: ponto de equilíbrio | reservada (Academy) |
+| 14 | Vender a prazo e pagar à vista / parece crescimento. | Na prática, é financiar o cliente / com o caixa da empresa. | Lucratividade | MBV D1: ciclo financeiro. Atenção: mesma tese do carrossel 244 (17/10) | reservada (Academy) |
+| 15 | Cultura de vendas não é / só do comercial. | Começa no porteiro / que recebe o cliente. | Cultura | MBV D2: "quem tem cultura de venda é o porteiro" | reservada (Academy) |
+| 16 | Delegar sem acompanhar / não é confiança. | É abandono / com outro nome. | Cultura | delegai e vigiai. Atenção: tema dos carrosséis 240 e 245 (15 e 16/10) | reservada (Academy) |

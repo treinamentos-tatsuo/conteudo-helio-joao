@@ -728,3 +728,19 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 ### 91. Relógio parado também acerta. Duas vezes por dia. — `candidata`
 - **De quem é:** ditado popular ressignificado (Sêneca: um acerto não prova nada). **Lei:** acerto isolado não é competência; competência é acertar todo dia. **Atenção:** pode soar como advertência.
 - **Construções:** A. "Relógio parado também acerta. Duas vezes por dia." · B. "Acertar uma vez até relógio parado acerta." · C. "Um acerto não faz relógio."
+
+## Lote 17 — flip chart no perfil do Hélio (19/10, a crivar pelo João)
+
+> O lote 2 do banco da Academy (flip chart) foi lido pelo João como voz da marca: "estão mais para o perfil da Tatsuo Academy do que para o perfil do Hélio". Ficou reservado lá. Este é na voz do Hélio: falado, empresário pra empresário, sem bater em quem empreende. Suporte: flip chart da sala do MBV, letra comum, 2 linhas por cor (padrão do 251).
+
+| # | Preto | Vermelho | Conceito | Lastro / atenção | Status |
+|---|---|---|---|---|---|
+| 92 | Você não precisa virar contador. | Precisa aprender a ler / o número da sua empresa. | o dono não faz conta de contador; ele lê o número pra decidir | MBV: "vocês não são contadores, vocês são empresários" | candidata |
+| 93 | Ninguém abre empresa / pra pagar boleto. | Abre pra ter lucro. / Se não sobra, tem algo errado. | empresa existe pra deixar dinheiro no bolso do dono | âncora: "empresa nasceu pra gerar riqueza no bolso do dono" | candidata |
+| 94 | Tem empresário que trabalha / 14 horas por dia | e ganha menos que / o próprio gerente. | o dono sem pró-labore trabalha mais e leva menos | dono não pode ser CLT da própria empresa | candidata |
+| 95 | Venda resolve o mês. | Gestão resolve / a empresa. | vender tapa o buraco de agora; gestão impede o próximo | tamanho não paga conta | candidata |
+| 96 | O problema da sua empresa / quase nunca é venda. | É o que acontece / depois que o cliente compra. | o cliente volta (ou não) pelo atendimento e pela entrega | MBV: "o problema não é venda, é atender" | candidata |
+| 97 | Treinar uma vez / não muda ninguém. | O que muda o time / é repetir até virar hábito. | treinamento vira comportamento só com repetição | MBV: o erro "é achar que treinar uma vez resolve". Atenção: tese vizinha do 246 (18/10) | candidata |
+| 98 | Seu time não faz / o que você fala. | Faz o que / você faz. | o exemplo do dono ensina mais que a regra | âncora: "o time copia o que o dono tolera". Atenção: vizinha do 239 (cultura, vidro e papel) | candidata |
+| 99 | Dono que faz tudo sozinho / não tem uma empresa. | Tem um emprego / que não pode largar. | sem time e processo, o dono é refém do próprio negócio | Atenção: tese do 245 (16/10) | candidata |
+| 100 | Preço só é caro | pra quem não viu o valor. | ninguém discute preço quando entende o valor | frase do João ("ninguem questiona preço, quando entende valor"), reescrita; versão 2 de 6 | feita (post 253, fechado 19/10, flip chart; imagem flip-v5) |
