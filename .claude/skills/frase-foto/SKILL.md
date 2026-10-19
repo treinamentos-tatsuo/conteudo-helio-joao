@@ -32,7 +32,7 @@ Todos os comandos rodam **da raiz do projeto**. Atalhos: `F=.claude/skills/frase
   - **não bater no empresário**: enaltecer quem empreende.
   
   Proibido "Não é sobre X, é sobre Y". Fórmula fixa repetida também não ("Quem já X sabe:", "Com a nossa vida funciona igual"): dizer a mesma coisa com outras palavras. O mecanismo pode repetir em poucos dias; a mesma tese não. Fonte de voz: só a do CLAUDE.md (guia original, transcrições do MBV, dados do projeto). Frase proposta pelo Claude espera a escolha da pessoa antes de montar.
-- **Pasta do post:** próximo número livre em `conteudo/carrosseis/` (`ls conteudo/carrosseis | grep -oE '^[0-9]+' | sort -n | tail -1`, mais 1). Conferir de novo logo antes do `mkdir`: outras sessões criam pastas ao mesmo tempo (colidiu no 187 e no 218). Criar `$P/imagens/`, `$P/instagram/` e `$P/carousel-text.md` (frase, variante, fotos usadas com o horário, versões).
+- **Pasta do post:** próximo número livre em `conteudo/carrosseis/` com prefixo J (regra do João, 19/10: pasta `J[N]_nome`, N = maior J existente mais um, `ls conteudo/carrosseis | grep -oE '^J[0-9]+' | tr -d J | sort -n | tail -1`, mais 1). Conferir de novo logo antes do `mkdir`: outras sessões criam pastas ao mesmo tempo (colidiu no 187 e no 218). Criar `$P/imagens/`, `$P/instagram/` e `$P/carousel-text.md` (frase, variante, fotos usadas com o horário, versões).
 
 ## 2A. Fotos do Hélio
 

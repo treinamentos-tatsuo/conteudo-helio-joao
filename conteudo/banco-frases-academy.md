@@ -29,7 +29,7 @@ Atenção ao montar a fila: a 1 e a 5 são do mesmo pilar (caixa e margem), ent�
 
 ## Padrão do flip chart (João, 16/10)
 
-Base: a foto real do flip chart da sala do MBV (`conteudo/carrosseis/251_vender-mais-sem-margem/imagens/base-flip-real.png`).
+Base: a foto real do flip chart da sala do MBV (`conteudo/carrosseis/J251_vender-mais-sem-margem/imagens/base-flip-real.png`).
 Letra: caneta fina, letra comum, minúsculas com maiúscula só no começo da frase. Preto e vermelho, 2 linhas por cor.
 O texto fica no alto do meio da folha, com bastante papel em branco embaixo. Referência: `imagens/referencias-joao/modelo-letra-sapo.png`.
 Prompt: `_scripts/prompt-flip-real-v2.txt`. O flip chart gerado por IA dentro do escritório foi reprovado ("o modelo de flip chart está errado").

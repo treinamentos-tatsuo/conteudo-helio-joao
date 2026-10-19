@@ -73,13 +73,13 @@ Se o user não disse qual, **perguntar em uma linha antes de escrever** — é a
 3. Se citar algo que você não conhece (produto, evento, termo): **pesquisar antes**, nunca chutar nem "corrigir" o usuário.
 4. Escrever os slides seguindo o **arco do modelo** + a voz. Gerar também a **legenda** (na voz do Hélio, amplia a reflexão, não resume os slides).
 5. **Antes de mostrar, autorrevisão:** cada slide contra o gabarito (parece a coluna "reprovado"? reescreve); a dor é a do ICP e é uma só; frase falada inteira (artigo, sujeito, conectivo; corpo até ~180 caracteres); revisão de português (concordância, sentido, pronome sem ambiguidade, nada de "te" com "você" na mesma frase); a oferta promete gestão.
-6. Mostrar no chat, nesta ordem: (1) contexto de cada slide (guia a imagem), (2) legenda, (3) texto que renderiza em cada slide. Salvar em `conteudo/carrosseis/[N]_[nome]/carousel-text.md`.
+6. Mostrar no chat, nesta ordem: (1) contexto de cada slide (guia a imagem), (2) legenda, (3) texto que renderiza em cada slide. Salvar em `conteudo/carrosseis/J[N]_[nome]/carousel-text.md`.
 
 **CHECKPOINT 1 (obrigatório, nunca pular):** mostrar texto + legenda e esperar aprovação. Se pedir mudança num slide, mexer só naquele (pedido de redação muda a redação, não a abordagem) e **mostrar de novo a peça inteira**, todos os slides na ordem + a legenda, com uma linha dizendo o que mudou. Nunca descartar a versão anterior: salvar numerada (`_rodadas/v1.md`, `v2.md`...) e, quando o user voltar atrás, ela está lá. Texto que o user mandou entra literal; ajuste vai como sugestão ao lado.
 
 ### Passo 3 — Visual (Fase 2)
 
-1. Montar os HTMLs seguindo a seção **Regras visuais** do modelo (1 HTML por slide) em `conteudo/carrosseis/[N]_[nome]/instagram/`.
+1. Montar os HTMLs seguindo a seção **Regras visuais** do modelo (1 HTML por slide) em `conteudo/carrosseis/J[N]_[nome]/instagram/`.
 2. Renderizar via Playwright (viewport do formato do modelo, padrão Instagram 1080×1350):
    ```bash
    npx playwright screenshot --viewport-size=1080,1350 --wait-for-timeout=1100 "slide-01.html" "slide-01.png"
@@ -114,10 +114,10 @@ Quando os slides do carrossel estiverem **finalizados** (aprovados / prontos), c
 
 ## Pasta e nomenclatura
 
-Cada carrossel vive em `conteudo/carrosseis/[N]_[nome-do-post]/`, **N = ordem de publicação** (olhar as pastas existentes e usar o próximo número). `[nome]` = slug kebab-case.
+Cada carrossel vive em `conteudo/carrosseis/J[N]_[nome-do-post]/`, **N = ordem de publicação** e prefixo **J** em toda pasta criada nesta máquina (regra do João, 19/10): o próximo número é o maior J existente mais um (`ls conteudo/carrosseis | grep -oE '^J[0-9]+' | tr -d J | sort -n | tail -1`, mais 1). `[nome]` = slug kebab-case.
 
 ```
-conteudo/carrosseis/[N]_[nome]/
+conteudo/carrosseis/J[N]_[nome]/
   briefing.md            (opcional — ideia bruta de entrada)
   carousel-text.md       (texto aprovado + legenda)
   imagens/               (img-01.png ...)

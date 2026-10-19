@@ -21,7 +21,7 @@ O operador é o **João**. Ele está aprendendo: chega sem saber o método e cos
 
 ## Estrutura
 
-- `conteudo/carrosseis/` — um carrossel ou frase por pasta, em **ordem de publicação**: `[N]_nome-do-post/` com `carousel-text.md` (texto + legenda), `imagens/` e `instagram/` (HTML + PNG). Antes de criar uma pasta, conferir o próximo número livre.
+- `conteudo/carrosseis/` — um carrossel ou frase por pasta, em **ordem de publicação**: `J[N]_nome-do-post/` com `carousel-text.md` (texto + legenda), `imagens/` e `instagram/` (HTML + PNG). **Toda pasta de post criada nesta máquina começa com J** (regra do João, 19/10/2026; as de 240 em diante foram renomeadas, as até 239 vieram da instalação e ficam sem J). O próximo número é sempre o maior J existente mais um (`ls conteudo/carrosseis | grep -oE '^J[0-9]+' | tr -d J | sort -n | tail -1`, mais 1): conferir logo antes do `mkdir`, porque outras sessões criam pastas ao mesmo tempo. Nunca renomear pasta com geração de imagem rodando. A coluna `pasta` do `registro-posts.csv` leva o nome com o J.
 - `conteudo/carrosseis/_banco-referencias/` — acervo P&B de referência de estilo. O `README.md` é o catálogo.
 - `conteudo/carrosseis/_da-maquina-do-user/` — textos dos posts feitos na máquina de origem, chegados pelo pacote de analytics.
 - `~/Desktop/carrosseis claude/POSTADOS/` e `~/Desktop/frases claude/` — tudo o que já foi entregue e postado (inclusive "claude 1" a "claude 13"). É onde se busca post antigo pra repostar.

@@ -154,7 +154,7 @@ Não usa foto, imagem gerada por IA nem banco de imagens. O visual é todo das c
 
 ## 10. Exemplos e referências
 
-- **Vigentes:** `conteudo/carrosseis/224_tres-pilares/` (layout F + CTA), `229_vender-mais/` (layout G, 6 slides) e `257_quatro-elementos-tela-unica/` (layout H, tela única). O `256_quatro-elementos-modelo/` é o mesmo tema em carrossel (F na capa + G no miolo), salvo e não publicado. O código deles está em `frameworks/`.
+- **Vigentes:** `conteudo/carrosseis/224_tres-pilares/` (layout F + CTA), `229_vender-mais/` (layout G, 6 slides) e `J257_quatro-elementos-tela-unica/` (layout H, tela única). O `J256_quatro-elementos-modelo/` é o mesmo tema em carrossel (F na capa + G no miolo), salvo e não publicado. O código deles está em `frameworks/`.
 - **Conteúdo bom, visual superado:** `222_balanco-japones/` (8 slides; framework em quatro quadrantes; ainda com título em Anton, corpo em Source Serif, paginação "01/08" e CTA em fundo vermelho chapado, tudo superado no 224) e `213_quatro-elementos-do-modelo/` (grade 2 × 2 em Anton + Source Serif).
 - **Histórico (não copiar o visual):** a série de vendas de 26/09 (152), com Anton + Open Sans, cards vinho e CTA por Manychat.
 
