@@ -8,3 +8,6 @@ Tipos: Anton vermelho no título, Source Serif Pro no resto, igual ao story.
 - HOJE · LIVE (com o ponto vermelho)
 - DOA A QUEM DOER
 - das 12:00 às 12:30
+
+## Legenda
+Ver legenda.txt (curta, convite em 1ª pessoa do Hélio).
