@@ -6,8 +6,8 @@
 **Frase:** "Todo bom chefe já lavou muita panela." Toda em preto, 44px, `top:300px`.
 
 **Imagem (rodada 1, 19/10; o João pediu 1 opção de cada pra avaliar):** img-01: pilha de panelas de alumínio lavadas e molhadas na bancada de inox, esponja e a dólmã branca dobrada ao lado.
-- Final: a definir.
+- **Imagem aprovada pelo João em 19/10** ("a 1 está aprovada"): img-01.
 
-**Legenda:** a escrever depois da avaliação da imagem.
+**Legenda:** `legenda.txt` v1, 1.918 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir.
