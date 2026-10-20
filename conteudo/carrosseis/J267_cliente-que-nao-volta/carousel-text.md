@@ -1,5 +1,6 @@
 # Post J267 — "A maioria dos clientes não reclama. Só não volta." (Playbook Experiência 360°, p. 6; perfil Tatsuo Academy)
 
+**Publicado:** 20/10/2026 no perfil da Tatsuo Academy (aviso do João), com os números conferidos. Sem /etiqueta, porque é perfil da Academy.
 **Origem:** peça 5 dos textos do Playbook Experiência 360° (`_fila/textos-2026-10-19-playbook-experiencia-360.md`). Em 20/10, o João pediu as imagens.
 **Modelo:** handmade, no layout do J254 (que segue o post "3 contas" da Tatsuo Academy).
 **Perfil Tatsuo Academy: sem /etiqueta, sem Manychat, CTA link na bio.**
