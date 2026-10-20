@@ -1,5 +1,6 @@
 # Post 254 — "O cliente não tem sempre razão. Mas sempre tem as suas razões." (Playbook Experiência 360°, p. 3; perfil Tatsuo Academy)
 
+**Publicado:** 20/10/2026 no perfil da Tatsuo Academy (aviso do João). Sem /etiqueta, porque é perfil da Academy.
 **Origem:** peça 1 dos 19 textos do Playbook Experiência 360° (`_fila/textos-2026-10-19-playbook-experiencia-360.md`). Em 19/10, o João pediu os slides desta peça, que valeu como aprovação do texto v1.
 **Fonte:** Playbook Experiência 360°, treinamento interno da Tatsuo Academy (p. 3, "O que parece e o que costuma estar por trás"). **Pendente:** o diretor confirmar que o material interno pode virar post público.
 **Modelo:** handmade. Layout pedido pelo João: o post "3 contas que todo dono precisa saber fazer" da Tatsuo Academy (instagram.com/p/DehLhwEIG7h): folha lisa, título em vermelho, desenho no meio e o fecho embaixo com marcação a lápis. Capa e CTA na folha presa (fundo C).
