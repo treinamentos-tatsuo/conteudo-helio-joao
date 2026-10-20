@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<!-- Aviso de live "Doa a quem doer" 12:00-12:30, versão 4:5 do story 9:16 (imagens/original-9x16.webp).
+     Foto recortada do próprio story (y 40-1090, antes do texto). Anton no título, Source Serif no resto. -->
+<head>
+<meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Source+Serif+Pro:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  .slide{ width:1080px; height:1350px; position:relative; overflow:hidden; background:#000; }
+  .foto{ position:absolute; top:0; left:0; width:1080px; height:1050px; object-fit:cover; }
+  .fade{ position:absolute; left:0; right:0; top:560px; height:500px;
+    background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,.55) 45%, #000 100%); }
+  .txt{ position:absolute; left:80px; right:80px; bottom:96px; color:#fff; }
+  .eyebrow{ font-family:'Source Serif Pro',serif; font-weight:700; font-size:34px; letter-spacing:6px;
+    display:flex; align-items:center; }
+  .dot{ width:22px; height:22px; border-radius:50%; background:#C8161D; margin-right:18px; }
+  .sep{ margin:0 26px; font-size:24px; }
+  .titulo{ font-family:'Anton',sans-serif; color:#C8161D; font-size:170px; line-height:1.08; margin-top:34px; }
+  .rule{ width:92px; height:3px; background:#fff; margin-top:34px; }
+  .hora{ font-family:'Source Serif Pro',serif; font-size:50px; margin-top:30px; }
+</style>
+</head>
+<body>
+  <div class="slide">
+    <img class="foto" src="../imagens/foto.jpg" alt="">
+    <div class="fade"></div>
+    <div class="txt">
+      <div class="eyebrow"><span class="dot"></span>HOJE<span class="sep">&middot;</span>LIVE</div>
+      <div class="titulo">DOA A QUEM<br>DOER</div>
+      <div class="rule"></div>
+      <div class="hora">das 12:00 &agrave;s 12:30</div>
+    </div>
+  </div>
+</body>
+</html>
