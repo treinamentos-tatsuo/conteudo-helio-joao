@@ -6,7 +6,7 @@
 
 ## Alerta de doutrina levado ao João (20/10, antes da publicação)
 
-O slide 5 traz um fato do Hélio que não está na lista de fatos confirmados da doutrina ("Em 2002, eu fechei a Hoken e levei o time inteiro pra um curso sobre a vida de cada um... um deles está comigo até hoje, 24 anos depois"). A regra: fato novo do Hélio não se inventa, pergunta-se. E "eu fechei a Hoken" pode ser lido como fechar a empresa (histórias de quebra são vetadas). Perguntado ao João se a história é real; o carrossel não foi alterado por aqui.
+O slide 5 traz um fato do Hélio que não está na lista de fatos confirmados da doutrina ("Em 2002, eu fechei a Hoken e levei o time inteiro pra um curso sobre a vida de cada um... um deles está comigo até hoje, 24 anos depois"). A regra: fato novo do Hélio não se inventa, pergunta-se. E "eu fechei a Hoken" pode ser lido como fechar a empresa (histórias de quebra são vetadas). Perguntado ao João se a história é real: **confirmada pelo Hélio** (João, 20/10). O slide 5 fica como está.
 
 ## Slides (transcritos)
 
