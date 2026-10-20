@@ -13,4 +13,4 @@
 
 **Legenda:** `legenda.txt` (290 caracteres). `legenda-v1.txt` (381) foi enxugada antes de mostrar.
 
-**Publicação:** a definir.
+**Publicação:** já postado (o João avisou em 20/10; data, hora e imagem a confirmar).
