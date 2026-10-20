@@ -10,7 +10,7 @@
 - **61% (Accenture):** não foi encontrado. O estudo global da Accenture (mais de 20 mil consumidores em 19 países, Brasil incluído) diz que o cliente frustrado tem até 3 vezes mais chance de não voltar à marca.
 - **80% (HubSpot):** não foi encontrado com essa atribuição. Os números parecidos são de outras fontes (86% sem fonte num blog da HubSpot; 81% da Oracle, Europa, 2012).
 
-A v2 abaixo usa só números com fonte localizada e corta o slide "boa experiência protege o seu preço", que dependia do 80%. **Aguarda a aprovação do João (CHECKPOINT 1).**
+A v2 abaixo usa só números com fonte localizada e corta o slide "boa experiência protege o seu preço", que dependia do 80%. **20/10:** o João pediu as imagens sem responder sobre a troca dos números. Os slides saíram com a v2 (só os números com fonte), seguindo o aviso do próprio pedido ("esses números precisam ser conferidos antes de ir ao ar"). Se ele quiser os números originais do playbook, troca nos slides 1 a 3 e na legenda.
 
 ## Slides (v2, 20/10)
 
