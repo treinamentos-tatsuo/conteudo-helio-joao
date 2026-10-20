@@ -1154,3 +1154,14 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-20-MAQUINA`; `utm_content=https:
 - **Atraso de ~24 min (falha de operação):** o pedido chegou às 11h18 com tempo de sobra; a conexão do Claude in Chrome caiu no meio da duplicação e a sessão exigiu escolher o navegador de novo (pergunta ao user), e só voltou às 12h49, com o post já no ar. Ativado na sequência. Um comentário `maquina` de 12h32 (antes da ativação) ficou sem DM: mensagem e link entregues ao user pra mandar à mão.
 - O ⋮ da lista abriu a automação ENTREGA (LIVE) na primeira tentativa (pegadinha conhecida); nada foi alterado.
 - Post achado: `DeuJ6GuEdBT`, legenda "Quase todo mundo chama o monstro de Frankenstein…", 1º card em "Mostrar todos" ("há 22 minutos"). Conferido recarregando: LIVE, código e utm novos no HTML, nada do 246; 1 botão só.
+
+## 20/10/2026 — `IG | 2026-10-20 | LUCRO | margem repost` (carrossel J273, repost de DVJitIEkdyq de 24/02) — MONTADA STOPPED ~17h31, LIVE ~17h45 (post ~17h43)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-20-LUCRO`; `utm_content=https://www.instagram.com/p/Deut-eZFKI1/`; link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-20-LUCRO&utm_content=https://www.instagram.com/p/Deut-eZFKI1/`; palavras `LUCRO, lucro, Lucro`; colisão: a global antiga `LUCRO` (multi-trigger) está STOPPED; `IG | 2026-08-27 | LUCRO | casas bahia noticia` é específica (não dispara aqui). DM "Margem é o que define quem manda na sua empresa. Quer ver como eu ensino o dono a achar onde o lucro vaza no MBV?" (escrita pelo Claude). Duplicada da MAQUINA do J269 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261020202908_909365.
+
+- O user postou antes do horário marcado (17h50) e avisou ("já estou postando"); o timer das 17h51 foi parado. Post achado: `Deut-eZFKI1`, legenda "Vou te dar um ângulo que quase nenhum dono encara…", 1º card em "Mostrar todos" ("há 1 minuto"), 0 comentários na hora. Conferido recarregando: LIVE, código e utm novos, nada da MAQUINA; 1 botão só.
+- Operado só por `find` + refs e JS (o screenshot do Chrome desta máquina trava no editor).
+
+## 20/10/2026 — `IG | 2026-10-20 | PERTO | perto do time` (carrossel J274) — MONTADA STOPPED ~17h39 (post marcado pras 20h; timer às 20h01)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-20-PERTO`; palavras `PERTO, perto, Perto` (busca "perto": nenhuma automação); DM "O grande pode pagar mais que você, mas não pode estar mais perto. Quer ver como eu ensino liderança no MBV?" (escrita pelo Claude). Duplicada da MAQUINA do J269 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261020203718_762946. Conferido recarregando: STOPPED, campaign novo, nada da MAQUINA, 1 botão só.
