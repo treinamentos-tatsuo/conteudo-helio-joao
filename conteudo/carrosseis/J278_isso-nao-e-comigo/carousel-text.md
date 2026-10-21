@@ -1,5 +1,6 @@
 # Post J278 — "A frase que mais destrói o atendimento." (Playbook Experiência 360°, p. 8; perfil Tatsuo Academy)
 
+**Aprovado e publicado:** 21/10/2026 no perfil da Tatsuo Academy (o João aprovou e foi postar na hora). Sem /etiqueta, porque é perfil da Academy.
 **Origem:** peça 10 dos textos do Playbook Experiência 360° (`_fila/textos-2026-10-19-playbook-experiencia-360.md`). Em 21/10, o João pediu as imagens "para avaliarmos como fica".
 **Modelo:** handmade, no layout do J254 e do J267. Mantém os 6 slides do texto v1, sem desmembrar.
 **Perfil Tatsuo Academy: sem /etiqueta, sem Manychat, CTA link na bio.**
