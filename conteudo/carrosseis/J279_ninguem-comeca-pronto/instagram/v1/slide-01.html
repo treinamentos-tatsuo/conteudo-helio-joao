@@ -1,0 +1,28 @@
+<!doctype html><html><head><meta charset="utf-8">
+<!-- J279: frase do João, layout da J272 (foto de podcast cheia, texto centralizado no pé, Montserrat 600/700). Fotos: podcast/1.png (P&B) + podcast/PROFAD CAST 177-6.jpg (cor), mesma gravação. -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<style>*{margin:0;padding:0;box-sizing:border-box}body{width:1080px;height:1350px;background:#000;overflow:hidden;position:relative;color:#fff;font-family:Montserrat,sans-serif}
+.p{position:absolute;left:0;width:1080px;height:675px;overflow:hidden}.p img{width:1080px;height:675px;display:block}
+.g{position:absolute;inset:0}
+.blk{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;text-align:center;text-shadow:0 2px 8px rgba(0,0,0,.6)}
+.ln{white-space:nowrap;line-height:1;display:inline-block}
+.sm{font-weight:600;letter-spacing:.5px;font-size:34px}.bg{font-weight:700;letter-spacing:-.5px}</style></head><body>
+<div class="p" style="top:0"><img src="../../imagens/v1/cima.jpg">
+ <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,.65) 78%,rgba(0,0,0,.9) 100%)"></div>
+ <div class="blk" style="bottom:55px">
+  <div class="ln sm">Ninguém começa</div>
+  <div class="ln bg" data-w="420" style="margin-top:8px">pronto,</div>
+ </div></div>
+<div class="p" style="top:675px"><img src="../../imagens/baixo.jpg">
+ <div class="g" style="background:linear-gradient(to bottom,rgba(0,0,0,.85) 0%,rgba(0,0,0,.35) 10%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 45%,rgba(0,0,0,.7) 72%,rgba(0,0,0,.9) 100%)"></div>
+ <div class="blk" style="bottom:120px">
+  <div class="ln sm">começa disposto a</div>
+  <div class="ln bg" data-w="420" style="margin-top:8px">aprender</div>
+  <div class="ln sm" style="margin-top:8px">até dar certo.</div>
+ </div></div>
+<script>
+document.fonts.ready.then(()=>{document.querySelectorAll('[data-w]').forEach(e=>{
+ const W=+e.dataset.w;let fs=40;e.style.fontSize=fs+'px';
+ for(let i=0;i<30;i++){fs=fs*W/e.getBoundingClientRect().width;e.style.fontSize=fs+'px';}
+});});
+</script></body></html>
