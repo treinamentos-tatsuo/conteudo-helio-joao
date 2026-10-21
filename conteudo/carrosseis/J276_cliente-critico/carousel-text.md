@@ -1,5 +1,6 @@
 # Post J276 — "O cliente crítico quer ser levado a sério." (Playbook Experiência 360°, p. 14; perfil Tatsuo Academy)
 
+**DESCARTADO (21/10/2026):** não foi aprovado pelo João e não vai ao ar. A pasta fica como histórico.
 **Origem:** peça 16 dos textos do Playbook Experiência 360° (`_fila/textos-2026-10-19-playbook-experiencia-360.md`). Em 21/10, o João pediu as imagens, o que vale como aprovação do texto.
 **Modelo:** handmade, no layout do J254 e do J267 (o post "3 contas" da Tatsuo Academy). **Adaptação:** a v1 tinha 5 slides no infográfico, com os quatro jeitos de atender num slide só. No handmade cada jeito ganhou um slide com desenho, e os fechos usam a redação da própria p. 14. São 8 slides.
 **Perfil Tatsuo Academy: sem /etiqueta, sem Manychat, CTA link na bio.**

@@ -67,3 +67,9 @@ O padrão é escrever um carrossel por vez, cada um parando no CHECKPOINT 1. O J
 1. Peça 1: a capa contraria o ditado que todo dono repete.
 2. Peça 5: número que choca e uma dor que o dono não vê (o cliente que some calado).
 3. Peça 15: a analogia rende cena no handmade, e "fã decepcionado vira o crítico mais duro".
+
+## Andamento
+
+- Peça 1: J254, publicada em 20/10.
+- Peça 5: J267, publicada em 20/10, com os números conferidos.
+- Peça 16: J276, descartada em 21/10 (não aprovada).
