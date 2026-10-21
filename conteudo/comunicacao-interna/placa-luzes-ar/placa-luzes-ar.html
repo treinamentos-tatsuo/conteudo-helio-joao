@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: 100mm 150mm; margin: 0; }
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 100mm; height: 150mm; background: var(--bege); }
+  body { font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .topo { flex: none; height: 36mm; background: var(--bordo); color: var(--bege); display: flex; align-items: center; justify-content: center; border-bottom: 1mm solid var(--bege); box-shadow: 0 1mm 0 var(--bordo); }
+  .topo span { font-weight: 900; font-size: 15mm; letter-spacing: -0.01em; }
+  main { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 0 6mm; text-align: center; }
+  .verbo { font-weight: 900; font-size: 14mm; letter-spacing: -0.02em; line-height: 1; }
+  .fio { width: 22mm; height: 1mm; background: var(--bordo); margin: 6mm auto; }
+  .item { font-weight: 800; font-size: 7.2mm; white-space: nowrap; line-height: 1.1; letter-spacing: -0.01em; }
+  .e { font-weight: 600; font-size: 5.5mm; color: var(--bordo); margin: 2.5mm 0; }
+  .base { flex: none; height: 9mm; background: var(--bordo); border-top: 1mm solid var(--bege); box-shadow: 0 -1mm 0 var(--bordo); }
+</style>
+</head>
+<body>
+  <div class="topo"><span>AO SAIR</span></div>
+  <main>
+    <div class="verbo">DESLIGUE</div>
+    <div class="fio"></div>
+    <div class="item">AS LUZES</div>
+    <div class="e">e o</div>
+    <div class="item">AR&#8209;CONDICIONADO</div>
+  </main>
+  <div class="base"></div>
+</body>
+</html>
