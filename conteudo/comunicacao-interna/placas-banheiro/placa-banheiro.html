@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,900;1,500&display=swap" rel="stylesheet">
+<style>
+  @page { size: 210mm 297mm; margin: 0; }
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 210mm; height: 297mm; background: var(--bege); }
+  body { font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .faixa { height: 16mm; background: var(--bordo); flex: none; }
+  .faixa.topo { border-bottom: 1.2mm solid var(--bege); box-shadow: 0 1.2mm 0 var(--bordo); }
+  .faixa.base { border-top: 1.2mm solid var(--bege); box-shadow: 0 -1.2mm 0 var(--bordo); }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 18mm; }
+  h1 { font-weight: 900; font-size: 30mm; letter-spacing: -0.02em; line-height: 1; }
+  .fio { width: 40mm; height: 1.4mm; background: var(--bordo); margin: 10mm 0 16mm; }
+  ul { list-style: none; width: 100%; padding-left: 6mm; }
+  li { font-weight: 500; font-size: 8.8mm; line-height: 1.25; padding: 4.2mm 0; display: flex; align-items: center; gap: 7mm; }
+  li::before { content: ""; flex: none; width: 4.2mm; height: 4.2mm; background: var(--bordo); }
+  .lembrete { margin-top: 18mm; width: 100%; border: 0.8mm solid var(--bordo); padding: 8mm 6mm; text-align: center; font-style: italic; font-weight: 500; font-size: 7.4mm; line-height: 1.35; }
+</style>
+</head>
+<body>
+  <div class="faixa topo"></div>
+  <main>
+    <h1>ATENÇÃO</h1>
+    <div class="fio"></div>
+    <ul>
+      <li>Não suba no vaso sanitário</li>
+      <li>Não urine no chão</li>
+      <li>Jogue o absorvente no lixo</li>
+      <li>Jogue o papel higiênico no lixo</li>
+      <li>Após o uso, dê a descarga</li>
+    </ul>
+    <div class="lembrete">Lembre-se: depois de você,<br>outras pessoas vão usar este banheiro.</div>
+  </main>
+  <div class="faixa base"></div>
+</body>
+</html>
