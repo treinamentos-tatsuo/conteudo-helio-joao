@@ -1,6 +1,6 @@
 # J280 — Hoje eu tenho medo de venda (fotos-reais, série "Erros do Hélio" nº 4, perfil do Hélio)
 
-**Status:** v2b aprovada pelo João em 21/10 ("ficou ótimo"). Entregue no POSTS, no Drive e em carrosseis claude; vai ser postado outro dia (data a definir). O J281 segue em aberto.
+**Status:** v2b aprovada pelo João em 21/10 ("ficou ótimo"). Entregue em `POSTS/Carrossel Foto/NP J280_medo-de-venda` e em carrosseis claude; vai ser postado outro dia (data a definir). Na publicação: tirar o NP e subir pro Drive (`POST CLAUDE/HÉLIO TATSUO/<data da publicação>/`), regra do João de 21/10. A cópia que tinha ido pro Drive em 21/10 foi retirada. O J281 segue em aberto.
 
 **Por que este caminho (análise de 21/10):** os carrosséis com o rosto do Hélio no formato lista de lições foram mal (220 "6 verdades": 9 comentários e 2,4 mil de alcance; 234 "5 coisas": 0 e 1,6 mil; 149: 6 e 2,3 mil). O único com foto que foi bem é o caso + lição (172: 32 comentários e 12,8 mil). A semana teve muito acompanhamento e time (240, 245, 246, 269, 274); este continua o bloco de dinheiro (244 "vendeu mais e foi no banco", 273 "margem"), agora na boca de quem vendeu bilhões.
 
