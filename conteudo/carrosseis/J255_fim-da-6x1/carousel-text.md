@@ -1,0 +1,86 @@
+# 255 — A 6x1 acabou. A sua conta fecha com 40 horas? (formato Notas, perfil do Hélio)
+
+**Status:** aprovado pelo João (programou a publicação pra 21/10 às 12h30), texto v1 sem alteração.
+
+**Manychat:** `IG | 2026-10-21 | PRONTO | fim da 6x1`, montada STOPPED em 21/10 ~09h35, caminho imersão MBV, palavras `PRONTO, pronto, Pronto` (busca "pronto" refeita em 21/10: nenhuma automação com a palavra), DM "A 6x1 acabou. Quer ver como eu ensino o dono a fazer a conta fechar com 40 horas no MBV?" (escrita pelo Claude), botão `>> Quero ver <<`, link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-21-PRONTO` + `&utm_content=` com o post. Timer de ativação às 12h31.
+
+**Origem:** referência do João em 19/10: carrossel da Empregga (instagram.com/p/DejqRMcEXUI, 16/10), "10 coisas pra fazer antes do fim da 6x1", um checklist de RH (mapear quem está na 6x1, recalcular o custo da hora, redesenhar escala, banco de horas, aditivo, sindicato).
+**Formato:** Notas do iPhone, igual ao 245 (o João quer testar o formato num dia de semana). Fundo branco, Montserrat, entrada em serifa itálica, marca-texto carmim com as alças do iOS, sem imagem gerada e sem o Hélio. Build adaptado de `245_so-anda-com-voce/_scripts/build.py`.
+**Regime de leitura:** `tema`. Da referência fica o assunto (fim da 6x1) e a ideia de "fazer a conta agora". A lista de tarefas de RH não entra: ela fala com quem executa (RH, gestor), e o interlocutor do Hélio é o dono.
+**Fato conferido (19/10):** o Senado aprovou a PEC do fim da escala 6x1 em 14/10 e a jornada cai de 44 pra 40 horas semanais ([g1](https://g1.globo.com/politica/noticia/2026/10/14/senado-aprova-pec-do-fim-da-escala-6x1.ghtml)). Não entram placar da votação, data de promulgação nem calendário de transição (não conferidos na fonte).
+**Lastro MBV:** D1 l.8350-8365 ("posso vender quinhentos ou posso vender dois milhões com a mesma equipe... vê exatamente as margens"); D1 l.7420-7435 (controle da margem de contribuição; melhora negociando preço e com área comercial que não vende só no desconto).
+
+## Declarações
+
+- **Interlocutor:** o dono de PME que paga a folha. Nenhum slide ensina o RH a refazer escala.
+- **Uma dor só:** a lei mudou a conta da folha e o dono não sabe se a empresa fecha com 40 horas.
+- **Posição:** sem lado político. A peça não defende nem ataca a lei; ela diz que reclamar não muda a folha e que o dono responde pela conta (regra 6 da legenda: a culpa nunca termina no governo).
+- **Causa técnica:** o dono não sabe o custo da hora do time nem a margem que cada pessoa gera. Sem isso, não sabe se a mudança custa pouco ou quebra.
+- **Caminho do CTA:** imersão MBV. O dono sai querendo aprender a fazer a conta (margem, custo, produtividade).
+- **Palavra-chave:** PRONTO (estado desejado: pronto pras 40 horas). Inédita no registro; conferida no painel do Manychat em 19/10: nenhuma automação usa a palavra (só aparece em texto de DM de automações específicas).
+
+## Slides (texto que renderiza)
+
+Convenção: *itálico* = entrada em serifa itálica; [marca-texto] = trecho em carmim com texto branco.
+
+**1 (capa)**
+*A 6x1 acabou.* E a sua empresa
+[marca-texto] fecha a conta com 40 horas?
+
+**2**
+*Eu sei o que você pensou.* A folha é a mesma, o time trabalha menos e quem paga a diferença é você.
+[marca-texto] Pode reclamar. Eu também já reclamei de muita lei que mudou a minha conta.
+
+**3**
+*Só que reclamar* não muda a folha que vence no dia 5.
+[marca-texto] Quem vai sofrer com essa mudança é o dono que nunca fez a conta.
+
+**4**
+*Me responde:* quanto custa uma hora do seu time hoje? Quanto cada funcionário gera de margem por mês?
+[marca-texto] Se você não sabe, não sabe se a 6x1 vai te custar um cafezinho ou a empresa.
+
+**5**
+*Tem empresa* que só fecha o mês porque o funcionário trabalha seis dias por semana.
+[marca-texto] Essa empresa não tem problema de lei. Tem problema de margem.
+
+**6**
+*Em 38 anos de empresa,* eu vi muita regra mudar: imposto, juro, lei trabalhista.
+[marca-texto] Quem tinha o número na mão se ajustou. Quem não tinha, ficou culpando o governo.
+
+**7**
+*Faz a conta agora:* a folha, o faturamento e a margem do que mais vende, tudo com 40 horas.
+[marca-texto] Se não fechar, você ainda tem tempo de mexer no preço, no processo e na produtividade antes de doer.
+
+**8**
+*Eu tenho um treinamento* de gestão pra donos de PME: o MBV.
+Lá eu ensino o dono a ler a própria conta: [marca-texto] Lucratividade, Crescimento e Cultura.
+
+**9 (CTA)**
+*Quer atravessar* essa mudança com a conta fechando?
+Comenta
+[destaque] PRONTO
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+O Senado aprovou o fim da escala 6x1, e a jornada vai cair de 44 pra 40 horas por semana.
+
+Eu sei que muito dono ficou bravo. Eu entendo. A folha é a mesma, o time trabalha menos e a conta vem pro caixa da empresa. Mas eu vou te falar uma coisa que eu aprendi em 38 anos de empresa: lei muda, imposto muda, juro muda. O que não pode mudar é o dono não saber a própria conta.
+
+Porque a pergunta que importa agora não é se a lei é justa. É se a sua empresa fecha com 40 horas. E essa pergunta só responde quem sabe quanto custa uma hora do time, quanto cada pessoa gera de margem e quanto sobra do que mais vende.
+
+Tem empresa que vai passar por isso sem sentir. Tem empresa que vai descobrir que só fechava o mês no sexto dia de trabalho. A lei não criou esse problema, ela só acendeu a luz em cima dele.
+
+O dono que faz a conta agora ainda tem tempo de mexer no preço, no processo e na produtividade. O que deixa pra depois vai fazer a conta no susto, com a folha vencendo e o gerente do banco na linha.
+
+Empresa nasceu pra gerar riqueza no bolso do dono. E isso não depende de qual lei está valendo, depende de quem conhece o próprio número.
+
+Comenta PRONTO que eu mando no seu direct o link do MBV, o meu treinamento de gestão pra donos de PME.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+(nenhuma ainda)
