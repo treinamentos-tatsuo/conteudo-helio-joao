@@ -725,7 +725,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Aristóteles (amizade de prazer × amizade de verdade). **Lei:** amizade se mede no peso, não na festa. **Cena:** a geladeira sendo carregada escada abaixo. **Atenção:** caixas de mudança já no 223 (11/10), com outra tese.
 - **Construções:** A. "Amigo de festa não aparece na mudança." · B. "Mudança mostra quem é amigo." · C. "Quem carrega a geladeira é amigo. O resto é convidado."
 
-### 91. Relógio parado também acerta. Duas vezes por dia. — `em produção (post J266, 19/10)`
+### 91. Relógio parado também acerta. Duas vezes por dia. — `feita (post J266, publicado 2026-10-21 (quarta); img-02 sem a pilha; legenda v1)`
 - **De quem é:** ditado popular ressignificado (Sêneca: um acerto não prova nada). **Lei:** acerto isolado não é competência; competência é acertar todo dia. **Atenção:** pode soar como advertência.
 - **Construções:** A. "Relógio parado também acerta. Duas vezes por dia." · B. "Acertar uma vez até relógio parado acerta." · C. "Um acerto não faz relógio."
 
