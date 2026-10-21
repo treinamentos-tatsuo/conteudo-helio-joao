@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<style>@page { size: 150mm 200mm; margin: 0; }
+html { font-size: 15mm; } html, body { width: 150mm; height: 200mm; }
+
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .fit { display: inline-block; white-space: nowrap; }
+  .faixa { flex: none; background: var(--bordo); }
+  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
+  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+
+  .faixa.topo { height: 3.6rem; color: var(--bege); padding: 0 .6rem; }
+  .faixa.topo .fit { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; }
+  .faixa.base { height: .9rem; }
+  main { padding: 0 .6rem; }
+  .grande { font-weight: 900; font-size: 1.4rem; letter-spacing: -0.02em; line-height: 1; }
+  .fio { width: 2.2rem; height: .1rem; background: var(--bordo); margin: .6rem auto; }
+  .item { font-weight: 800; font-size: .72rem; line-height: 1.1; letter-spacing: -0.01em; }
+  .e { font-weight: 600; font-size: .55rem; color: var(--bordo); margin: .25rem 0; }</style></head>
+<body>
+  <main class="faixa topo" style="flex:none"><span class="fit">SILÊNCIO</span></main>
+  <main>
+    <div><span class="fit grande">EM AULA</span></div>
+    <div class="fio"></div>
+    <div><span class="fit item">CELULAR NO SILENCIOSO</span></div><div class="e">e</div><div><span class="fit item">ENTRE SEM INTERROMPER</span></div>
+  </main>
+  <div class="faixa base"></div><script>
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.fit').forEach(el => {
+    const m = el.closest('main'), cs = getComputedStyle(m);
+    const max = m.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    let fs = parseFloat(getComputedStyle(el).fontSize);
+    while (el.getBoundingClientRect().width > max && fs > 4) { fs *= 0.98; el.style.fontSize = fs + 'px'; }
+  });
+  document.body.dataset.ok = '1';
+});</script></body></html>

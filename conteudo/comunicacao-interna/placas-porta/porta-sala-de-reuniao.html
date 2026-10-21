@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<style>@page { size: 200mm 80mm; margin: 0; }
+html { font-size: 10mm; } html, body { width: 200mm; height: 80mm; }
+
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .fit { display: inline-block; white-space: nowrap; }
+  .faixa { flex: none; background: var(--bordo); }
+  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
+  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+
+  .faixa { height: .7rem; }
+  main { padding: 0 1.4rem; }
+  .nome { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; line-height: 1; }
+  .sub { margin-top: .45rem; font-weight: 600; font-size: .55rem; letter-spacing: .18em; color: var(--bordo); }</style></head>
+<body>
+  <div class="faixa topo"></div>
+  <main>
+    <div><span class="fit nome">SALA DE REUNIÃO</span></div>
+    
+  </main>
+  <div class="faixa base"></div><script>
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.fit').forEach(el => {
+    const m = el.closest('main'), cs = getComputedStyle(m);
+    const max = m.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    let fs = parseFloat(getComputedStyle(el).fontSize);
+    while (el.getBoundingClientRect().width > max && fs > 4) { fs *= 0.98; el.style.fontSize = fs + 'px'; }
+  });
+  document.body.dataset.ok = '1';
+});</script></body></html>

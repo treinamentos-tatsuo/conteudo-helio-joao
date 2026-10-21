@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<style>@page { size: 200mm 300mm; margin: 0; }
+html { font-size: 9.523809523809524mm; } html, body { width: 200mm; height: 300mm; }
+
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .fit { display: inline-block; white-space: nowrap; }
+  .faixa { flex: none; background: var(--bordo); }
+  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
+  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+
+  .faixa { height: 1.6rem; }
+  main { padding: 0 1.8rem; }
+  h1 { font-weight: 900; font-size: 3rem; letter-spacing: -0.02em; line-height: 1; }
+  .fio { width: 4rem; height: .14rem; background: var(--bordo); margin: 1rem 0 1.6rem; }
+  ul { list-style: none; width: 100%; padding-left: .6rem; text-align: left; }
+  li { font-weight: 500; font-size: .88rem; line-height: 1.25; padding: .42rem 0; display: flex; align-items: flex-start; gap: .7rem; }
+  li::before { content: ""; flex: none; width: .42rem; height: .42rem; margin-top: .36em; background: var(--bordo); }
+  .lembrete { margin-top: 1.8rem; width: 100%; border: .08rem solid var(--bordo); padding: .8rem .6rem; font-style: italic; font-weight: 500; font-size: .74rem; line-height: 1.35; }</style></head>
+<body>
+  <div class="faixa topo"></div>
+  <main>
+    <h1 class="fit">AO SAIR</h1>
+    <div class="fio"></div>
+    <ul><li>Coloque as cadeiras no lugar</li><li>Deixe a mesa limpa</li><li>Apague o quadro</li><li>Desligue luzes, TV e ar&#8209;condicionado</li><li>Feche a porta</li></ul>
+    <div class="lembrete">A próxima reunião começa<br>do jeito que você deixar a sala.</div>
+  </main>
+  <div class="faixa base"></div><script>
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.fit').forEach(el => {
+    const m = el.closest('main'), cs = getComputedStyle(m);
+    const max = m.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    let fs = parseFloat(getComputedStyle(el).fontSize);
+    while (el.getBoundingClientRect().width > max && fs > 4) { fs *= 0.98; el.style.fontSize = fs + 'px'; }
+  });
+  document.body.dataset.ok = '1';
+});</script></body></html>
