@@ -1,0 +1,114 @@
+# J282 — Parabellum: cadê o dinheiro? (v6, CHECKPOINT 1: base v3; slides 5, 10, 11 e CTA da legenda mudaram a pedido do João)
+
+- **Publicação:** 22/10/2026, 12:30, @helio.tatsuo (dia da palestra do Hélio no Parabellum, do Pedro Sobral e da Priscila Zillo)
+- **Modelo:** fotos-reais (11 slides, enxuto como a variante 4b de evento)
+- **Fonte:** apresentação "Hélio Tatsuo - Parabellum - Pedro Sobral.pptx" (slides 1, 3, 6 a 9 da palestra). Regime: `tema`, recortado num bloco só (Lucratividade).
+- **Funil:** topo (pedido do João em 22/10: a v2 ficou "muito meio de funil, muito técnico"). Saíram DRE, margem de contribuição e as três matrizes; ficou a verdade que qualquer dono assina.
+- **Dor (uma só):** fatura milhões, o contador mostra lucro e o dinheiro não aparece na conta do dono.
+- **Interlocutor:** o dono de PME (nenhum slide fala com quem executa).
+- **Causa técnica:** o dono não sabe ler a empresa (o Lucratividade do MBV), dita sem jargão; o "como" fica pro treinamento.
+- **Caminho do CTA:** imersão MBV (decisão do João, 22/10): a peça ensina um pedaço do método e o dono sai querendo o "como". Link do MBV no direct pra quem comentar SOBRAL.
+- **Fotos:** todas do evento de hoje, feitas pela equipe (inclusive com o Pedro Sobral); o João manda aqui. As imagens geradas da v1 saíram.
+- **Marcação/collab do Pedro e da Priscila:** a definir. Se não marcar, a linha de agradecimento sai da legenda.
+- **Palavra:** SOBRAL (definida pelo João; inédita no registro).
+- **Fora da peça, de propósito:** o slide 16 da palestra ("a sua empresa é uma ponte") é conteúdo vetado no feed; a linha do tempo (1979, 150 unidades, 2020, 2024) traz fatos fora da lista confirmada; vendas e cultura abririam uma segunda dor.
+
+## Slides
+
+**1. Capa**
+Hoje eu estou no Parabellum, do Pedro Sobral,
+numa sala cheia de empresário que fatura milhões.
+**E A MINHA PRIMEIRA PERGUNTA VAI SER: CADÊ O DINHEIRO?**
+
+**2. Autoridade**
+Eu saí da feira, onde limpava peixe,
+e construí uma empresa que vendeu mais de 9 bilhões em 4 continentes.
+**Hoje eu levo pra esse palco o que eu levei 38 anos pra aprender.**
+
+**3. A regra nº 1**
+A REGRA Nº 1
+**Empresa foi feita pra colocar dinheiro no bolso do dono.**
+Você arriscou tudo pra empreender no Brasil.
+*A empresa existe pra te pagar por esse risco. Não pra consumir a sua vida.*
+
+**4. A dor**
+Só que eu conheço muito dono que fatura milhões
+e vive do mesmo pró-labore há dez anos.
+A empresa cresceu, mudou de endereço, dobrou o time.
+**E O DONO CONTINUA GANHANDO A MESMA COISA.**
+
+**5. A dor, na pele** (v5: "faltando pessoalidade", João)
+Você chega primeiro, sai por último
+e perde o jantar com os seus filhos pra apagar incêndio na empresa.
+No fim do ano, o contador diz que deu lucro.
+**MAS O DINHEIRO NÃO ESTÁ NA SUA CONTA.**
+
+> Alternativa B (Hélio ouvindo o dono): Eu já ouvi isso de muito dono, olhando no meu olho: / "Hélio, eu trabalho mais que todo mundo lá dentro. / O contador diz que deu lucro. / MAS CADÊ O MEU DINHEIRO?"
+
+**6. Virada**
+Eu sei como é, porque eu já fui esse dono.
+Durante anos eu resolvia tudo vendendo mais.
+*E vender mais nunca foi o meu problema.*
+
+**7. O punch**
+**O problema é que venda nenhuma conserta
+uma empresa que o dono não sabe ler.**
+
+**8. O que o faturamento esconde**
+Enquanto entra muito dinheiro, ninguém pergunta pra onde ele está indo.
+Até o dia em que entra menos.
+**E aí o dono descobre que nunca soube onde estava o dinheiro.**
+
+**9. A pergunta que encurrala**
+Então eu te faço a pergunta que vou fazer pra eles hoje:
+você está mais rico do que há cinco anos?
+**OU A EMPRESA SÓ TE DEU MAIS TRABALHO?**
+
+**10. Oferta** (sem citar o MBV, pedido do João)
+É isso que eu ensino pros empresários:
+**ler a própria empresa, pra que o dinheiro que ela gera chegue no bolso do dono.**
+
+**11. CTA** (só o Hélio, sem público; sem citar o MBV, pedido do João; o link do MBV vai na DM)
+Quer descobrir onde está o dinheiro da sua empresa?
+**Comenta SOBRAL**
+que eu te mostro, no direct, como fazer isso.
+
+## Legenda (post)
+
+Tem uma confusão que eu vejo em empresa de todo tamanho: achar que crescer é a mesma coisa que enriquecer.
+
+A empresa cresce e o dono sente que está indo bem. Tem mais cliente, mais gente, mais movimento. Só que crescimento consome dinheiro. Pede mais estoque, mais equipe, mais estrutura. E se ninguém está olhando, a empresa cresce e engole justamente o dinheiro que deveria ir pro bolso de quem arriscou tudo pra ela existir.
+
+Hoje eu falo pra uma sala de empresário que fatura muito. Gente que sabe vender como poucos no Brasil. E mesmo lá eu sei que vai ter dono que não consegue responder com segurança se está ficando mais rico.
+
+Isso não é falta de esforço. Ninguém trabalha mais que o dono. É falta de saber ler a empresa. E isso ninguém ensina: nem a faculdade, nem o contador, nem o mercado.
+
+Eu levei 38 anos pra entender que empresa boa não é a que fatura mais. É a que coloca dinheiro no bolso do dono todo ano, sem ele precisar socorrer o caixa com o dinheiro da família.
+
+O analfabetismo empresarial não escolhe tamanho de empresa. Ele só fica mais caro conforme ela cresce.
+
+Obrigado, Pedro Sobral e Priscila Zillo, pelo convite pro Parabellum.
+
+Quer aprender a ler a sua empresa? Comenta SOBRAL que eu te mostro, no direct, como fazer isso.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+
+(1.311 caracteres)
+
+## Fotos (v1 do visual, 22/10) — todas do evento, acervo `Hélio/parabellum-2026-10-22_IMG_*.jpg`, em cor
+1. 5698 (v8, escolhida pelo João) — Hélio no palco diante do telão "DRE Fiscal x DRE Gerencial", foto natural, sem recorte. As tentativas com a 5663 (recorte, cinematic, fundo escurecido) e a 5643 ficaram em instagram/v2/ e instagram/_capas/
+2. 5673 — telão "Minha Trajetória / 1997" (casa com a origem)
+3. 5674 — telão "A regra nº 1 dos negócios" (o mesmo texto do slide)
+4. 5653 — plano aberto: logo do Parabellum, Hélio e a plateia (a sala de empresários)
+5. imagem gerada (v2, pedido do João: a plateia "ficou sem nexo") — a mesa de jantar da família com o lugar do dono intacto e o celular ao lado, P&B (imagens/_src/gen-05.png)
+6. 5680 — Hélio apontando pro telão da regra nº 1 (5677 tremida e 5678 com o rosto atrás do texto foram descartadas)
+7. 5658 — Hélio sério no flip chart, logo do Parabellum
+8. 5666 (v2, troca pedida pelo João) — Hélio explicando diante do telão do título; a foto desce e o texto fica em cima
+9. 5654 — Hélio de frente pra plateia ("a pergunta que vou fazer pra eles")
+10. 5536 — Hélio com convidado (foto encolhida) — identidade a confirmar com o João
+11. 5659 — só o Hélio, sorriso firme, logo do Parabellum (CTA)
+
+
+v2 do visual (correção do João): o rosto do Hélio nunca atrás do texto; slide 3 com o texto embaixo e a foto em cima; slides 2, 4 e 8 com a foto descida e o texto no preto. v1 em instagram/v1/ e _scripts/build-v1.py.
+
+v3 do visual (João, 22/10): capa com o fundo apagado (fundo da própria foto desfocado e escurecido, Hélio recortado com rembg e em foco, zoom 1,55); slide 2 com a foto mais alta e centralizada; slide 3 trocado pela foto do Hélio à mesa no coffee break (Hélio/parabellum-2026-10-22_mesa-2.jpg), em P&B; slide 6 com zoom 1,8 no Hélio; slide 8 centralizado. v2 em instagram/v2/ e _scripts/build-v2.py.
