@@ -48,3 +48,9 @@ Pedido do João ("uma lista de frases para o modelo de flip chart"). Em 19/10 el
 | 14 | Vender a prazo e pagar à vista / parece crescimento. | Na prática, é financiar o cliente / com o caixa da empresa. | Lucratividade | MBV D1: ciclo financeiro. Atenção: mesma tese do carrossel 244 (17/10) | reservada (Academy) |
 | 15 | Cultura de vendas não é / só do comercial. | Começa no porteiro / que recebe o cliente. | Cultura | MBV D2: "quem tem cultura de venda é o porteiro" | reservada (Academy) |
 | 16 | Delegar sem acompanhar / não é confiança. | É abandono / com outro nome. | Cultura | delegai e vigiai. Atenção: tema dos carrosséis 240 e 245 (15 e 16/10) | reservada (Academy) |
+
+## Avulsas
+
+| Frase | Origem | Status |
+|---|---|---|
+| PREÇO SÓ / É CARO // PRA QUEM NÃO / VIU VALOR. | do João (22/10) | feita (J283, vidro, entregue 22/10) |
