@@ -19,7 +19,7 @@ def lg(d, *stops): return f"linear-gradient({d},{','.join(stops)})"
 def c(a, p): return f"rgba({BK},{a}) {p}%"
 # n: (foto, fx, fy, zoom)
 PH = {
- 1: (ev(5698), .45, .52, 1.3),
+ 1: (ev(5698), .462, .526, 1.7),
  2: (ev(5673), .45, .40, 1.2),
  3: (R/"parabellum-2026-10-22_mesa-2.jpg", .765, .5, 1.0),
  4: (ev(5653), .50, .55, 1.0),
