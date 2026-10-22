@@ -1180,3 +1180,10 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-21-PRONTO`; `utm_content=https:/
 - Gatilho "Comentários ao vivo", **a mensagem contém** `diagnóstico, diagnostico` (sem diferença de maiúscula).
 - DM como Resposta Privada: "Recebi o seu comentário. Preencha aqui: se a sua empresa for selecionada, a minha equipe fala com você." Botão `Quero o diagnóstico` → `https://rtc.tatsuoacademy.com/diagnostico-live/?utm_source=instagram&utm_medium=manychat&utm_campaign=live-diagnostico&ig={{Usuário}}` (o link pedido pelo João, já com UTM e o @ do lead).
 - Conferido no editor, saída sem publicar; LIVE e 0 envios antes da live. A `LIVE | 2026-10-13 | RAIO-X | comentario na live` segue ligada e não conflita (palavra diferente).
+
+## 22/10/2026 — `IG | 2026-10-22 | SOBRAL | parabellum cade o dinheiro` (carrossel J282, dia da palestra do Hélio no Parabellum) — MONTADA STOPPED ~18h40, LIVE ~18h51 (post ~18h49)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-22-SOBRAL`; `utm_content=https://www.instagram.com/p/Dez_NsHkdm_/`; link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-22-SOBRAL&utm_content=https://www.instagram.com/p/Dez_NsHkdm_/`; palavras `SOBRAL, sobral, Sobral` (busca "SOBRAL": nenhuma automação); DM "Descobrir onde está o dinheiro da sua empresa é o que eu ensino no MBV. Quer ver como?" (88 caracteres, escrita pelo Claude; casa com o slide 11 "que eu te mostro, no direct, como fazer isso"); botão `>> Quero ver <<`. Duplicada da PRONTO do J255 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261022213900_458404.
+
+- Montada parada enquanto o João ainda corrigia as imagens; o "postado" do João veio ~18h50. Post achado no perfil (`Dez_NsHkdm_`, legenda "Tem uma confusão que eu vejo em empresa de todo tamanho…"), 1º card em "Mostrar todos" ("há 1 minuto", capa "CADÊ O DINHEIRO?"). Link completado com o `utm_content` antes de ativar. Conferido recarregando: LIVE, post novo no HTML, o da PRONTO não, campaign novo, DM nova, 1 botão só, palavras SOBRAL na tela.
+- Máquina Windows: sem caffeinate (não houve timer; ativação na hora).
