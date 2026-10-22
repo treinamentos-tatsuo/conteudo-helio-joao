@@ -23,7 +23,7 @@ PH = {
  2: (ev(5673), .45, .40, 1.2),
  3: (ev(5676), .5, .5, 1.0),
  4: (ev(5653), .50, .55, 1.0),
- 5: (ROOT/"imagens/_src/gen-05.png", .50, .46, 1.0),
+ 5: (ev(5647), .45, .434, 1.111),
  6: (ev(5680), .45, .447, 1.8),
  7: (ev(5658), .50, .40, 1.0),
  8: (ev(5666), .43, .42, 1.2),
@@ -32,10 +32,10 @@ PH = {
  11: (ev(5659), .50, .38, 1.0),
 }
 SHRINK = {10: .78}
-GRAY = {3, 5}
+GRAY = {3}
 RAW = set()
 SPOT = {}                       # capa: o fundo foi escurecido em 50% por máscara suave (sem recorte), o Hélio fica natural
-OFF = {2: 200, 4: 300, 8: 380}  # a foto desce e abre preto em cima pro texto
+OFF = {2: 200, 4: 300, 5: 560, 8: 380}  # a foto desce e abre preto em cima pro texto
 # enquadramento pela cabeça do Hélio (head.json, medido com a máscara rembg): (largura da cabeça em px, altura do centro da cabeça no quadro da foto)
 import json
 HEADS = json.loads((SCR/"head.json").read_text())
@@ -97,7 +97,7 @@ S = {
      '<div class="s" style="margin-top:18px">A empresa cresceu, mudou de endereço,<br>dobrou o time.</div></div>'
      '<div class="b" style="bottom:120px;left:100px;right:100px;text-align:center">'
      '<div class="a" style="font-size:74px;line-height:1.08">E o dono continua<br>ganhando a mesma coisa.</div></div>'),
- 5: (TOP(40, 54, 64),
+ 5: (lg("to bottom", c(1,0), c(1,43), c(.5,50), c(0,58), c(0,100)),
      '<div class="b" style="top:130px;left:110px;right:110px;text-align:center">'
      '<div class="s fit" style="font-size:42px">Você chega primeiro, sai por último<br>e perde o jantar com os seus filhos<br>pra apagar incêndio na empresa.</div>'
      '<div class="s" style="font-size:42px;margin-top:24px">No fim do ano, o contador<br>diz que deu lucro.</div>'

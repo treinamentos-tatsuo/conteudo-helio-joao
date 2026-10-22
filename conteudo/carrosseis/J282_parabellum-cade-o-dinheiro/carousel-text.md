@@ -100,7 +100,7 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 2. 5673 — telão "Minha Trajetória / 1997" (casa com a origem)
 3. 5674 — telão "A regra nº 1 dos negócios" (o mesmo texto do slide)
 4. 5653 — plano aberto: logo do Parabellum, Hélio e a plateia (a sala de empresários)
-5. imagem gerada (v2, pedido do João: a plateia "ficou sem nexo") — a mesa de jantar da família com o lugar do dono intacto e o celular ao lado, P&B (imagens/_src/gen-05.png)
+5. 5647 (v5, pedido do João) — Hélio sorrindo no coffee break, colorido; a foto desce e o texto fica no preto em cima. A mesa de jantar gerada (imagens/_src/gen-05.png) ficou em instagram/v4/
 6. 5680 — Hélio apontando pro telão da regra nº 1 (5677 tremida e 5678 com o rosto atrás do texto foram descartadas)
 7. 5658 — Hélio sério no flip chart, logo do Parabellum
 8. 5666 (v2, troca pedida pelo João) — Hélio explicando diante do telão do título; a foto desce e o texto fica em cima
