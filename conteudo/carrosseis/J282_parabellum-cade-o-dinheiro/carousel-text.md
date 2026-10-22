@@ -112,3 +112,5 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 v2 do visual (correção do João): o rosto do Hélio nunca atrás do texto; slide 3 com o texto embaixo e a foto em cima; slides 2, 4 e 8 com a foto descida e o texto no preto. v1 em instagram/v1/ e _scripts/build-v1.py.
 
 v3 do visual (João, 22/10): capa com o fundo apagado (fundo da própria foto desfocado e escurecido, Hélio recortado com rembg e em foco, zoom 1,55); slide 2 com a foto mais alta e centralizada; slide 3 trocado pela foto do Hélio à mesa no coffee break (Hélio/parabellum-2026-10-22_mesa-2.jpg), em P&B; slide 6 com zoom 1,8 no Hélio; slide 8 centralizado. v2 em instagram/v2/ e _scripts/build-v2.py.
+
+v4 do visual (João, 22/10, antes de postar): "todas fora de centro" — todo slide com o Hélio passou a ser enquadrado pela cabeça dele (máscara rembg, _scripts/head.json): cabeça no centro horizontal e no terço de cima do espaço livre da foto, com o zoom que isso pede. Slide 3: saiu a mesa do coffee break, entrou o Hélio no palco diante do telão "A regra nº 1 dos negócios" (IMG_5676), em P&B. v3 em instagram/v3/ e _scripts/build-v3.py.

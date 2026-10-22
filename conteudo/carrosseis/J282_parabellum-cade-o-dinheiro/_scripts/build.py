@@ -11,7 +11,7 @@ import pathlib, sys
 from PIL import Image, ImageOps, ImageEnhance, ImageFilter
 SCR = pathlib.Path(__file__).parent; ROOT = SCR.parent
 exec((SCR/"lib220.py").read_text(encoding="utf-8"))
-IMG = ROOT/"imagens/v3"; IMG.mkdir(parents=True, exist_ok=True); OUT = ROOT/"instagram"
+IMG = ROOT/"imagens/v4"; IMG.mkdir(parents=True, exist_ok=True); OUT = ROOT/"instagram"
 F = pathlib.Path.home()/"Desktop/fotos para carrosséis"; R = F/"Hélio"
 def ev(i): return R/f"parabellum-2026-10-22_IMG_{i}.jpg"
 BK = "11,11,11"
@@ -21,7 +21,7 @@ def c(a, p): return f"rgba({BK},{a}) {p}%"
 PH = {
  1: (ev(5698), .462, .526, 1.7),
  2: (ev(5673), .45, .40, 1.2),
- 3: (R/"parabellum-2026-10-22_mesa-2.jpg", .765, .5, 1.0),
+ 3: (ev(5676), .5, .5, 1.0),
  4: (ev(5653), .50, .55, 1.0),
  5: (ROOT/"imagens/_src/gen-05.png", .50, .46, 1.0),
  6: (ev(5680), .45, .447, 1.8),
@@ -36,13 +36,24 @@ GRAY = {3, 5}
 RAW = set()
 SPOT = {}                       # capa: o fundo foi escurecido em 50% por máscara suave (sem recorte), o Hélio fica natural
 OFF = {2: 200, 4: 300, 8: 380}  # a foto desce e abre preto em cima pro texto
+# enquadramento pela cabeça do Hélio (head.json, medido com a máscara rembg): (largura da cabeça em px, altura do centro da cabeça no quadro da foto)
+import json
+HEADS = json.loads((SCR/"head.json").read_text())
+FR = {1: (165, 300), 2: (230, 300), 3: (210, 230), 4: (120, 220), 6: (130, 250), 7: (200, 280), 8: (180, 200), 9: (130, 260), 11: (246, 290)}
 def photo(n):
     src, fx, fy, z = PH[n]
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
     W, H = 1080, 1350
-    sc = max(W/im.width, H/im.height)*z
-    im = im.resize((round(im.width*sc), round(im.height*sc)), Image.LANCZOS)
-    l = min(max(0, round(fx*im.width-W/2)), im.width-W); t = min(max(0, round(fy*im.height-H/2)), im.height-H)
+    key = src.stem.split("_IMG_")[-1]
+    if n in FR and key in HEADS:
+        hx, hy, hw = HEADS[key]["hx"], HEADS[key]["hy"], HEADS[key]["hw"]; Tw, Ty = FR[n]
+        Wi = max(Tw/hw, 540/min(hx, 1-hx), W, H*im.width/im.height)
+        im = im.resize((round(Wi), round(im.height*Wi/im.width)), Image.LANCZOS)
+        l = min(max(0, round(hx*im.width-W/2)), im.width-W); t = min(max(0, round(hy*im.height-Ty)), im.height-H)
+    else:
+        sc = max(W/im.width, H/im.height)*z
+        im = im.resize((round(im.width*sc), round(im.height*sc)), Image.LANCZOS)
+        l = min(max(0, round(fx*im.width-W/2)), im.width-W); t = min(max(0, round(fy*im.height-H/2)), im.height-H)
     cr = im.crop((l, t, l+W, t+H))
     g = cr if n in RAW else grade(ImageOps.grayscale(cr), n).convert("RGB") if n in GRAY else grade_color(cr, n)
     if n in SPOT:
@@ -122,5 +133,5 @@ S = {
 }
 for n in ([int(x) for x in sys.argv[1:]] or S):
     photo(n); grad, body = S[n]
-    html = HEAD + f'<div class="slide"><img class="ph" style="top:{OFF.get(n,0)}px" src="../imagens/v3/img-{n:02d}.png"><div class="shade" style="background:{grad}"></div>{body}</div>' + JS + '</body></html>'
+    html = HEAD + f'<div class="slide"><img class="ph" style="top:{OFF.get(n,0)}px" src="../imagens/v4/img-{n:02d}.png"><div class="shade" style="background:{grad}"></div>{body}</div>' + JS + '</body></html>'
     (OUT/f"slide-{n:02d}.html").write_text(html, encoding="utf-8"); print(f"[{n:02d}] ok")
