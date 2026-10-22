@@ -1173,3 +1173,10 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-20-PERTO`; palavras `PERTO, pert
 Caminho **imersão MBV**; `utm_campaign=2026-10-21-PRONTO`; `utm_content=https://www.instagram.com/p/Dewu2CfEQgd/`; link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-21-PRONTO&utm_content=https://www.instagram.com/p/Dewu2CfEQgd/`; palavras `PRONTO, pronto, Pronto` (busca "pronto" em 19 e 21/10: nenhuma automação com a palavra); DM "A 6x1 acabou. Quer ver como eu ensino o dono a fazer a conta fechar com 40 horas no MBV?" (escrita pelo Claude). Duplicada da PERTO do J274 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261021122819_170814.
 
 - Timer às 12h31; o post estava no perfil (`Dewu2CfEQgd`, legenda "O Senado aprovou o fim da escala 6x1…", 0 comentários). 1º card em "Mostrar todos" ("há 3 minutos"). Amarrado ANTES de ativar (lição da PERTO). Conferido recarregando: LIVE, post novo no HTML, o da PERTO não, campaign novo, 1 botão só.
+
+## 22/10/2026 — `LIVE | 2026-10-21 | DIAGNOSTICO | comentario na live` (live do Hélio com a frase na parede "quer um diagnóstico grátis da sua empresa? comente diagnóstico") — já estava LIVE, conferida às ~10h30, nada alterado
+
+- Criada fora desta máquina (~00h17 de 22/10, content20261022001732_197708, Flow Builder "Live Comments #1 copy"); não tinha registro aqui.
+- Gatilho "Comentários ao vivo", **a mensagem contém** `diagnóstico, diagnostico` (sem diferença de maiúscula).
+- DM como Resposta Privada: "Recebi o seu comentário. Preencha aqui: se a sua empresa for selecionada, a minha equipe fala com você." Botão `Quero o diagnóstico` → `https://rtc.tatsuoacademy.com/diagnostico-live/?utm_source=instagram&utm_medium=manychat&utm_campaign=live-diagnostico&ig={{Usuário}}` (o link pedido pelo João, já com UTM e o @ do lead).
+- Conferido no editor, saída sem publicar; LIVE e 0 envios antes da live. A `LIVE | 2026-10-13 | RAIO-X | comentario na live` segue ligada e não conflita (palavra diferente).
