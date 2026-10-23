@@ -744,3 +744,35 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 | 98 | Seu time não faz / o que você fala. | Faz o que / você faz. | o exemplo do dono ensina mais que a regra | âncora: "o time copia o que o dono tolera". Atenção: vizinha do 239 (cultura, vidro e papel) | candidata |
 | 99 | Dono que faz tudo sozinho / não tem uma empresa. | Tem um emprego / que não pode largar. | sem time e processo, o dono é refém do próprio negócio | Atenção: tese do 245 (16/10) | candidata |
 | 100 | Preço só é caro | pra quem não viu valor. | ninguém discute preço quando entende o valor | frase do João ("ninguem questiona preço, quando entende valor"), reescrita; versão 2 de 6 | feita (post 253, fechado 19/10, flip chart; imagem flip-v7: a v5 sem o "o" antes de valor) |
+
+## Lote 18 — modelos novos no molde do 230 (23/10, a crivar pelo João)
+
+> Pedido do João em 23/10 ("precisamos de novas, vamos criar"), depois de postadas a cozinha, a bicicleta, o vaso, o relógio e o chefe. Objeto do dia a dia, lei física ou observada, pensador por baixo.
+
+### 101. Buzina não abre trânsito. — `candidata`
+- **De quem é:** Sêneca (a raiva não resolve o que está parado; só cansa quem sente). **Lei:** barulho e impaciência não andam o que está parado. **Cena:** fila de carros parados no sinal, um motorista com a mão na buzina.
+- **Construções:** A. "Buzina não abre trânsito." · B. "Ninguém sai do engarrafamento buzinando." · C. "Grito não anda fila."
+
+### 102. Parede torta começa no primeiro tijolo. — `candidata`
+- **De quem é:** Platão (o começo é a parte mais importante do trabalho). **Lei:** o erro pequeno do começo cresce junto com a obra. **Cena:** parede de tijolo em obra, com o prumo mostrando a inclinação.
+- **Construções:** A. "Parede torta começa no primeiro tijolo." · B. "Todo prédio torto teve um primeiro tijolo." · C. "O prumo se acerta na primeira fiada."
+
+### 103. Quem nunca se perdeu nunca saiu do bairro. — `candidata`
+- **De quem é:** Nietzsche (quem quer ir longe precisa aceitar se perder). **Lei:** se perder é sinal de que você foi além do que conhecia. Espelho de virtude ("eu fui longe"). **Cena:** mapa de papel dobrado e gasto no banco do carro, ou placa de estrada de terra.
+- **Construções:** A. "Quem nunca se perdeu nunca saiu do bairro." · B. "Só se perde quem foi longe." · C. "Caminho conhecido não ensina nada."
+
+### 104. Quem explica a matéria pro colega passa na prova. — `candidata`
+- **De quem é:** Sêneca (ensinando, a gente aprende). **Lei:** ensinar é o jeito mais rápido de aprender. **Cena:** caderno aberto com a letra de dois alunos, um explicando.
+- **Construções:** A. "Quem explica a matéria pro colega passa na prova." · B. "Ensinar é aprender duas vezes." · C. "Quem ensina a conta não esquece a conta."
+
+### 105. Muda torta se endireita com estaca, não com bronca. — `candidata`
+- **De quem é:** Aristóteles (o caráter se forma com hábito guiado). **Lei:** quem está crescendo precisa de estrutura, não de grito. **Cena:** muda pequena amarrada a uma estaca de bambu. **Atenção:** planta já no 249 (vaso seco, 20/10); espaçar.
+- **Construções:** A. "Muda torta se endireita com estaca, não com bronca." · B. "Ninguém endireita planta no grito." · C. "Quem cresce precisa de estaca."
+
+### 106. Faca cega corta mais o dedo. — `candidata`
+- **De quem é:** Sêneca (o despreparo é mais perigoso que o risco). **Lei:** o que você deixa de afiar machuca quem usa; força no lugar de preparo escorrega. **Atenção:** a faca já apareceu no 76 (a pedra que amola), com outra tese.
+- **Construções:** A. "Faca cega corta mais o dedo." · B. "Quem não afia faz força. E quem faz força se corta." · C. "O perigo é a faca sem fio."
+
+### 107. Pipoca não estoura toda ao mesmo tempo. — `candidata`
+- **De quem é:** lei observada (cada um tem o seu tempo). **Lei:** comparar o seu tempo com o dos outros é medir milho com relógio errado. **Atenção:** pode soar motivacional; a pipoca já esteve no 102 (pressão), com outra tese.
+- **Construções:** A. "Pipoca não estoura toda ao mesmo tempo." · B. "Cada milho estoura na sua hora." · C. "Quem estoura depois não é piruá."
