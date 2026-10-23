@@ -54,3 +54,5 @@ Pedido do João ("uma lista de frases para o modelo de flip chart"). Em 19/10 el
 | Frase | Origem | Status |
 |---|---|---|
 | PREÇO SÓ / É CARO // PRA QUEM NÃO / VIU VALOR. | do João (22/10) | feita (J283, vidro, entregue 22/10) |
+| É NO MÊS DIFÍCIL / QUE SE ARRUMA A CASA. // O MÊS BOM SÓ MOSTRA / QUEM FEZ A LIÇÃO. | reescrita da base do João (23/10) | feita (J287, papel, entregue 23/10) |
+| A CRISE NÃO PARA / A EMPRESA ORGANIZADA. // ELA SÓ SEPARA QUEM / SE PREPAROU ANTES. | reescrita da base do João (23/10) | feita (J288, vidro, entregue 23/10). Vizinha da nº 7: não publicar perto dela |
