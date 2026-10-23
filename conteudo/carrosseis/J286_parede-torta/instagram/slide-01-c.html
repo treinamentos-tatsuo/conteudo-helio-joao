@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<!-- GABARITO da skill /frase — padrão dos posts publicados de set/out 2026 (187, 209, 225, 230).
+     Copiar pra conteudo/carrosseis/[N]_[nome]/instagram/slide-01.html e trocar só a frase e a imagem.
+
+     FRASE: toda em preto (#1A1A1A), Source Serif Pro 700, 44px, centralizada, top:300px.
+     REGRA DAS DUAS LINHAS: cabe numa linha a 44px com folga das margens (padding de 36px)? Uma linha.
+       Encostou na margem ou passou dela? Quebrar em DUAS linhas a 44px, cada uma no seu <div class="line">,
+       com a quebra no respiro natural da fala (187: "Não existe calma" / "que não tenha sido conquistada.";
+       225: "Todo adulto foi uma criança" / "sem vergonha de errar."). Nunca diminuir a fonte pra caber.
+     IMAGEM: imagens/img-NN.png ancorada na base (bottom:0), largura total, multiply + fade de 0 a 26% no topo.
+
+     AJUSTES SEM REGERAR (só quando o user pedir; inline no <img> ou no .top):
+       - subir o objeto: ampliar ancorado na base -> style="transform:scale(1.15);transform-origin:bottom center"
+       - subir sem perder a lateral: esticar só na vertical, no máximo ~9% a mais que a horizontal
+         (225 final: transform:scale(1.15,1.24)); acima disso deforma: regerar com o objeto mais alto
+       - zoom no sujeito: transform:scale(X) com transform-origin no ponto do sujeito
+       - mover a frase: trocar o top do .top (ex.: top:230px)
+       - algo escuro subindo até a faixa da frase: alongar a máscara nos dois lugares
+         (transparent 0%, rgba(0,0,0,.35) 26%, #000 46%)
+     Render (da raiz do projeto; P = conteudo/carrosseis/[N]_[nome]):
+       npx playwright screenshot --viewport-size=1080,1350 --wait-for-timeout=1100 $P/instagram/slide-01.html $P/instagram/slide-01.png
+     (Conferido em 13/10/2026: este gabarito com a img-04 do 230 rende o slide publicado pixel a pixel.) -->
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  .slide{ width:1080px; height:1350px; position:relative; overflow:hidden;
+    background:#F3F3F3 url("../../_banco-referencias/background para carrosséis.png") center/cover no-repeat;
+    font-family:'Source Serif Pro',serif; }
+  .top{ position:absolute; left:0; right:0; padding:0 36px; text-align:center; z-index:2; }
+  .line{ white-space:nowrap; font-size:44px; line-height:1.3; font-weight:700; color:#1A1A1A; }
+  .wrap{ position:absolute; top:0; left:0; width:1080px; height:1350px; overflow:hidden; mix-blend-mode:multiply; z-index:1;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 26%);
+    mask-image:linear-gradient(to bottom,transparent 0%,#000 26%); }
+  .wrap img{ position:absolute; bottom:0; left:0; width:100%; mix-blend-mode:multiply; z-index:1;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 26%);
+    mask-image:linear-gradient(to bottom,transparent 0%,#000 26%); }
+</style>
+</head>
+<body>
+  <div class="slide">
+    <div class="wrap"><img src="../imagens/img-03.png" alt=""></div>
+    <!-- uma linha: -->
+    <div class="top" style="top:300px"><div class="line">Parede torta começa no primeiro tijolo.</div></div>
+    <!-- duas linhas (apagar a de cima e usar esta):
+    <div class="top" style="top:300px"><div class="line">Primeira metade da frase</div><div class="line">e a segunda metade.</div></div> -->
+  </div>
+</body>
+</html>
