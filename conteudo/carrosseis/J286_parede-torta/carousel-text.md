@@ -9,8 +9,10 @@
 - img-01 (slide-01): muro baixo de tijolo baiano com o nível em cima. Quase reto; a bolha não aparece, então não diz "torta".
 - img-02 (slide-01-b): primeira fiada no chão saindo da linha. A linha quase não aparece e o primeiro tijolo fica grande demais no primeiro plano.
 - img-03 (slide-01-c, base_alto): parede de dez fiadas visivelmente torta, balde de massa e colher na base. Indicada: diz a lei sozinha.
-- Final: a definir.
+**Final (aprovada pelo João em 23/10, "a 3 pode salvar"):** img-03, `instagram/parede-torta.png`. As alternativas foram pra `instagram/_rodadas/`.
 
 **Legenda:** `legenda.txt` v1, 1.827 caracteres com o CTA (legenda.py: OK).
 
-**Publicação:** a definir.
+**Legenda aprovada** sem edição.
+
+**Publicação:** a definir (pasta com NP na POSTS até ir ao ar).
