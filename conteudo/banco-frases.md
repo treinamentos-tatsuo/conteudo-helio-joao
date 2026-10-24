@@ -757,7 +757,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Platão (o começo é a parte mais importante do trabalho). **Lei:** o erro pequeno do começo cresce junto com a obra. **Cena:** parede de tijolo em obra, com o prumo mostrando a inclinação.
 - **Construções:** A. "Parede torta começa no primeiro tijolo." · B. "Todo prédio torto teve um primeiro tijolo." · C. "O prumo se acerta na primeira fiada."
 
-### 103. Quem nunca se perdeu nunca saiu do bairro. — `candidata`
+### 103. Quem nunca se perdeu nunca saiu do bairro. — `em produção (post J289, 24/10)`
 - **De quem é:** Nietzsche (quem quer ir longe precisa aceitar se perder). **Lei:** se perder é sinal de que você foi além do que conhecia. Espelho de virtude ("eu fui longe"). **Cena:** mapa de papel dobrado e gasto no banco do carro, ou placa de estrada de terra.
 - **Construções:** A. "Quem nunca se perdeu nunca saiu do bairro." · B. "Só se perde quem foi longe." · C. "Caminho conhecido não ensina nada."
 
