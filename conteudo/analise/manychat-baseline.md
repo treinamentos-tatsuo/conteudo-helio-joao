@@ -1187,3 +1187,7 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-22-SOBRAL`; `utm_content=https:/
 
 - Montada parada enquanto o João ainda corrigia as imagens; o "postado" do João veio ~18h50. Post achado no perfil (`Dez_NsHkdm_`, legenda "Tem uma confusão que eu vejo em empresa de todo tamanho…"), 1º card em "Mostrar todos" ("há 1 minuto", capa "CADÊ O DINHEIRO?"). Link completado com o `utm_content` antes de ativar. Conferido recarregando: LIVE, post novo no HTML, o da PRONTO não, campaign novo, DM nova, 1 botão só, palavras SOBRAL na tela.
 - Máquina Windows: sem caffeinate (não houve timer; ativação na hora).
+
+## 26/10/2026 — `IG | 2026-10-26 | PATRIMONIO | pro-labore de gerente` (carrossel J301, formato Notas) — MONTADA STOPPED ~13h05 (publicação a definir)
+
+Caminho **imersão MBV**; `utm_campaign=2026-10-26-PATRIMONIO` (trocar pela data da publicação se o post sair em outro dia, enquanto tiver 0 cliques); palavras `PATRIMONIO, patrimonio, Patrimonio, PATRIMÔNIO, patrimônio, Patrimônio` (busca "patrimonio" em 26/10: nenhuma automação); DM "Pró-labore paga o trabalho. Dividendo paga o risco. Quer ver como eu ensino o dono a receber os dois no MBV?" (escrita pelo Claude). Duplicada da TUBARAO de 25/10 (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261026155812_208827. Conferido recarregando: STOPPED, campaign novo, nada da TUBARAO, 1 botão só. Presa ao post da TUBARAO até ser amarrada: não ativar antes de trocar o post.
