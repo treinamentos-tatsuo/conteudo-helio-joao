@@ -835,7 +835,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 | # | Verdade universal | Frase | Cena do dia a dia | Atenção / status |
 |---|---|---|---|---|
-| 119 | A gente se acostuma com o que deveria incomodar. | Torneira pingando só incomoda na primeira noite. | a torneira que pinga e ninguém conserta | torneira já apareceu na semente 43 (balde), com outra ideia |
+| 119 | A gente se acostuma com o que deveria incomodar. | Torneira pingando só incomoda na primeira noite. | a torneira que pinga e ninguém conserta | torneira já apareceu na semente 43 (balde), com outra ideia; descartada (João 26/10: "estão péssimas") |
 | 120 | O que você não fala vira o que você engole. | Conversa engolida volta como azia. | a azia depois do almoço calado | descartada (João 26/10: "estão péssimas") |
 | 121 | A gente só muda quando ficar dói mais do que mudar. | Ninguém troca o colchão antes da dor nas costas. | o colchão afundado de anos | descartada (João 26/10: "estão péssimas") |
 | 122 | A gente julga os outros pelo que fazem e a si mesmo pelo que queria fazer. | No trânsito, o outro é barbeiro. A gente só estava com pressa. | a fechada no trânsito | descartada (João 26/10: "estão péssimas") |
