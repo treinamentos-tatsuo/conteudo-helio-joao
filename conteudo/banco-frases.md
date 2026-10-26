@@ -804,3 +804,27 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 ### 113. Bambu enverga, mas não quebra. — `candidata`
 - **De quem é:** Marco Aurélio (adaptar-se ao que vem sem perder a raiz). **Lei:** o que dobra com o vento sobrevive à ventania; o que fica duro quebra. Espelho: "eu envergo e volto". **Atenção:** imagem conhecida, pode soar clichê; a força está no "não quebra".
 - **Construções:** A. "Bambu enverga, mas não quebra." · B. "Na ventania, quem não dobra quebra." · C. "Quem enverga volta."
+
+## Lote 20 — mais cinco nas três regras (26/10, a crivar pelo João)
+
+> Pedido do João em 26/10 ("crie mais 5 frases para eu poder escolher"), no mesmo critério do lote 19: objeto do dia a dia, lei que ninguém discute, espelho de virtude.
+
+### 114. Ninguém tropeça deitado. — `candidata`
+- **De quem é:** Sêneca (só erra quem está em movimento). **Lei:** tropeço é prova de que você está andando; quem nunca tropeça está parado. Espelho: "eu tropeço porque ando". **Cena:** um tênis com a ponta ralada ao lado de um degrau de calçada quebrado.
+- **Construções:** A. "Ninguém tropeça deitado." · B. "Só tropeça quem está andando." · C. "Tropeço é coisa de quem saiu do sofá."
+
+### 115. Canoa só anda pra frente com o remo puxando pra trás. — `candidata`
+- **De quem é:** Heráclito (os opostos se puxam). **Lei:** avançar exige um esforço que parece ir na direção contrária: guardar, recuar, estudar, parar pra pensar. Espelho: "eu remo". **Cena:** canoa de madeira na beira do rio com o remo apoiado.
+- **Construções:** A. "Canoa só anda pra frente com o remo puxando pra trás." · B. "Quem rema puxa pra trás e vai pra frente." · C. "Todo avanço tem uma remada pra trás."
+
+### 116. Quem acende a churrasqueira come por último. — `candidata`
+- **De quem é:** Aristóteles (quem lidera serve primeiro). **Lei:** quem cuida do fogo serve todo mundo antes de se servir; liderar é isso. Espelho de virtude ("eu sou o do fogo"). **Cena:** churrasqueira de tijolo com a carne no espeto e um prato vazio ao lado. **Atenção:** vizinha do chefe que lavou panela (J263), ideia de servir antes de mandar.
+- **Construções:** A. "Quem acende a churrasqueira come por último." · B. "O churrasqueiro é o último a sentar." · C. "Quem cuida do fogo serve antes de comer."
+
+### 117. Abacate não amadurece no pé. — `candidata`
+- **De quem é:** lei observada (fato pouco conhecido: o abacate só amadurece depois de colhido). **Lei:** tem coisa que só fica pronta depois que você sai de onde nasceu. Espelho: "amadureci quando saí". **Cena:** abacates na fruteira amadurecendo, o pé ao fundo.
+- **Construções:** A. "Abacate não amadurece no pé." · B. "Tem fruta que só fica pronta longe da árvore." · C. "Quem não sai do pé não amadurece."
+
+### 118. Caneta que acabou foi a que mais escreveu. — `candidata`
+- **De quem é:** lei observada (o desgaste é a marca do uso). **Lei:** o que se gasta é o que foi usado; quem se poupa sobra inteiro e sem história. Espelho de virtude ("eu me gastei fazendo"). **Atenção:** mesmo mecanismo do sapato gasto (85), que o João descartou.
+- **Construções:** A. "Caneta que acabou foi a que mais escreveu." · B. "Caneta cheia é a que ninguém usou." · C. "Toda caneta vazia tem uma história."
