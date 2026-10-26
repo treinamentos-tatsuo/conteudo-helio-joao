@@ -781,7 +781,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 > O João não gostou do que sobrou do lote 18 ("as que sobraram não sei se estou gostando"; "vamos criar mais"). Critério deste lote, tirado das que ele aprovou (bicicleta, cozinha, parede, se perder): (1) objeto que todo brasileiro tem em casa ou na rua; (2) lei física ou observada que ninguém discute; (3) espelho de virtude, quem compartilha sai bem na foto.
 
-### 108. Só jogam pedra em mangueira carregada. — `candidata`
+### 108. Só jogam pedra em mangueira carregada. — `em produção (post J291, 26/10)`
 - **De quem é:** ditado popular ressignificado (Sêneca: a inveja só mira o que tem valor). **Lei:** crítica e ataque vão pra quem está produzindo; árvore sem fruto ninguém olha. Espelho: "se jogam pedra, é porque eu dou fruto". **Cena:** mangueira de quintal carregada, pedras no chão embaixo.
 - **Construções:** A. "Só jogam pedra em mangueira carregada." · B. "Ninguém joga pedra em árvore sem fruto." · C. "Pedra no pé de manga é sinal de safra."
 
@@ -789,15 +789,15 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Aristóteles (a virtude é hábito, não arroubo). **Lei:** empolgação acende rápido e apaga antes de cozinhar; o que sustenta é a brasa que demora. Espelho: "eu sou lenha, não palha". **Cena:** fogão a lenha com brasa firme debaixo da panela de feijão, e um punhado de palha queimada que já virou cinza ao lado.
 - **Construções:** A. "Fogo de palha não cozinha feijão." · B. "Palha acende rápido e apaga antes do feijão." · C. "Feijão se cozinha é na brasa."
 
-### 110. Vela não perde a luz acendendo outra. — `candidata`
+### 110. Vela não perde a luz acendendo outra. — `em produção (post J292, 26/10)`
 - **De quem é:** Sêneca (o que se ensina não se perde). **Lei:** dividir o que você sabe não diminui você; só aumenta a luz da sala. Espelho: "eu acendo os outros". **Cena:** duas velas num pires, uma acendendo a outra, como em noite de queda de luz.
 - **Construções:** A. "Vela não perde a luz acendendo outra." · B. "Quem acende outra vela não fica no escuro." · C. "Luz dividida não apaga."
 
-### 111. Pão só cresce depois de sovado. — `candidata`
+### 111. Pão só cresce depois de sovado. — `em produção (post J293, 26/10)`
 - **De quem é:** Sêneca (a dificuldade forma). **Lei:** a massa que apanha na sova é a que cresce no forno; massa que não foi trabalhada fica dura e baixa. Espelho: "fui sovado". **Atenção:** família da pressão (65 feijão, 102 pipoca).
 - **Construções:** A. "Pão só cresce depois de sovado." · B. "Massa que não apanha não cresce." · C. "Todo pão bom já foi sovado."
 
-### 112. Café bom passa devagar. — `candidata`
+### 112. Café bom passa devagar. — `em produção (post J294, 26/10)`
 - **De quem é:** Sêneca (o que é bom leva tempo). **Lei:** água que passa rápido demais pelo pó faz café fraco; o sabor vem da paciência. Espelho: "eu sou café coado". **Cena:** coador de pano pingando devagar sobre o bule esmaltado.
 - **Construções:** A. "Café bom passa devagar." · B. "Coador apressado faz café fraco." · C. "Ninguém apressa café coado."
 
