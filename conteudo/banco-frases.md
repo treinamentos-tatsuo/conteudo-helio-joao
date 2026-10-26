@@ -809,22 +809,37 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 > Pedido do João em 26/10 ("crie mais 5 frases para eu poder escolher"), no mesmo critério do lote 19: objeto do dia a dia, lei que ninguém discute, espelho de virtude.
 
-### 114. Ninguém tropeça deitado. — `candidata`
+### 114. Ninguém tropeça deitado. — `descartada (João 26/10: "das últimas criadas não gostei de nenhuma")`
 - **De quem é:** Sêneca (só erra quem está em movimento). **Lei:** tropeço é prova de que você está andando; quem nunca tropeça está parado. Espelho: "eu tropeço porque ando". **Cena:** um tênis com a ponta ralada ao lado de um degrau de calçada quebrado.
 - **Construções:** A. "Ninguém tropeça deitado." · B. "Só tropeça quem está andando." · C. "Tropeço é coisa de quem saiu do sofá."
 
-### 115. Canoa só anda pra frente com o remo puxando pra trás. — `candidata`
+### 115. Canoa só anda pra frente com o remo puxando pra trás. — `descartada (João 26/10: "das últimas criadas não gostei de nenhuma")`
 - **De quem é:** Heráclito (os opostos se puxam). **Lei:** avançar exige um esforço que parece ir na direção contrária: guardar, recuar, estudar, parar pra pensar. Espelho: "eu remo". **Cena:** canoa de madeira na beira do rio com o remo apoiado.
 - **Construções:** A. "Canoa só anda pra frente com o remo puxando pra trás." · B. "Quem rema puxa pra trás e vai pra frente." · C. "Todo avanço tem uma remada pra trás."
 
-### 116. Quem acende a churrasqueira come por último. — `candidata`
+### 116. Quem acende a churrasqueira come por último. — `descartada (João 26/10: "das últimas criadas não gostei de nenhuma")`
 - **De quem é:** Aristóteles (quem lidera serve primeiro). **Lei:** quem cuida do fogo serve todo mundo antes de se servir; liderar é isso. Espelho de virtude ("eu sou o do fogo"). **Cena:** churrasqueira de tijolo com a carne no espeto e um prato vazio ao lado. **Atenção:** vizinha do chefe que lavou panela (J263), ideia de servir antes de mandar.
 - **Construções:** A. "Quem acende a churrasqueira come por último." · B. "O churrasqueiro é o último a sentar." · C. "Quem cuida do fogo serve antes de comer."
 
-### 117. Abacate não amadurece no pé. — `candidata`
+### 117. Abacate não amadurece no pé. — `descartada (João 26/10: "das últimas criadas não gostei de nenhuma")`
 - **De quem é:** lei observada (fato pouco conhecido: o abacate só amadurece depois de colhido). **Lei:** tem coisa que só fica pronta depois que você sai de onde nasceu. Espelho: "amadureci quando saí". **Cena:** abacates na fruteira amadurecendo, o pé ao fundo.
 - **Construções:** A. "Abacate não amadurece no pé." · B. "Tem fruta que só fica pronta longe da árvore." · C. "Quem não sai do pé não amadurece."
 
-### 118. Caneta que acabou foi a que mais escreveu. — `candidata`
+### 118. Caneta que acabou foi a que mais escreveu. — `descartada (João 26/10: "das últimas criadas não gostei de nenhuma")`
 - **De quem é:** lei observada (o desgaste é a marca do uso). **Lei:** o que se gasta é o que foi usado; quem se poupa sobra inteiro e sem história. Espelho de virtude ("eu me gastei fazendo"). **Atenção:** mesmo mecanismo do sapato gasto (85), que o João descartou.
 - **Construções:** A. "Caneta que acabou foi a que mais escreveu." · B. "Caneta cheia é a que ninguém usou." · C. "Toda caneta vazia tem uma história."
+
+## Lote 21 — verdade universal primeiro, frase depois (26/10, a crivar pelo João)
+
+> Método pedido pelo João em 26/10, depois de descartar o lote 20 inteiro: "liste as verdades universais e você constrói a frase a partir do conceito, linkando ela no dia a dia". Ordem: a verdade em uma linha, depois a frase que a leva pra uma cena do cotidiano.
+
+| # | Verdade universal | Frase | Cena do dia a dia | Atenção |
+|---|---|---|---|---|
+| 119 | A gente se acostuma com o que deveria incomodar. | Torneira pingando só incomoda na primeira noite. | a torneira que pinga e ninguém conserta | torneira já apareceu na semente 43 (balde), com outra ideia |
+| 120 | O que você não fala vira o que você engole. | Conversa engolida volta como azia. | a azia depois do almoço calado | |
+| 121 | A gente só muda quando ficar dói mais do que mudar. | Ninguém troca o colchão antes da dor nas costas. | o colchão afundado de anos | |
+| 122 | A gente julga os outros pelo que fazem e a si mesmo pelo que queria fazer. | No trânsito, o outro é barbeiro. A gente só estava com pressa. | a fechada no trânsito | |
+| 123 | Quem não cuida do próprio tempo vive no tempo dos outros. | Quem não marca a própria agenda vira encaixe na dos outros. | a agenda cheia de encaixe | |
+| 124 | Ninguém dá o que não tem. | Ninguém serve água de copo vazio. | o copo d'água oferecido a quem chega | |
+| 125 | A gente só dá valor ao que funciona quando para de funcionar. | Ninguém lembra do joelho até ele doer. | o joelho que estala na escada | |
+| 126 | Toda escolha é uma renúncia. | Prato com tudo do buffet não tem gosto de nada. | o prato montado no self-service | |
