@@ -1,5 +1,6 @@
 # Post J307 — "O cliente quase nunca diz tudo." (Playbook Experiência 360°, p. 7; perfil Tatsuo Academy)
 
+**Publicado:** 26/10/2026 no perfil da Tatsuo Academy (aviso do João). Sem /etiqueta, porque é perfil da Academy.
 **Origem:** peça 8 dos textos do Playbook Experiência 360° (`_fila/textos-2026-10-19-playbook-experiencia-360.md`). Em 26/10, o João pediu o carrossel.
 **Modelo:** handmade, no layout do J254 e do J278: título vermelho, "pode estar dizendo", desenho no meio e "o que fazer" embaixo. **Adaptação:** o texto v1 punha a pergunta "Qual sinal o seu cliente dá que o seu time costuma ignorar?" no rodapé do slide 5, junto com o "o que fazer". Aqui ela ganhou um slide próprio antes do CTA, então são 7 slides.
 **Perfil Tatsuo Academy: sem /etiqueta, sem Manychat, CTA link na bio.**
