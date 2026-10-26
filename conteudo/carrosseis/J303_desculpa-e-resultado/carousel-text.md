@@ -9,8 +9,10 @@
 
 **Imagem:** base `mesa-v3.png`, prompt em `_scripts/prompt-papel-v1.txt`.
 - Rodada 1 (26/10): `papel-v1` (letra maior, tinta mais falhada) e `papel-v2` (letra de nota, mais margem branca). Grafia e acento (NÃO) conferidos. Indicada: v2.
-- Final: a definir.
+**Final (João, 26/10: "a segunda opção pode salvar ela e a legenda"):** `papel-v2`, copiada como `instagram/papel-mesa.png`.
 
 **Legenda:** `legenda.txt` v1, 358 caracteres, CTA pro link da bio.
 
-**Publicação:** a definir.
+**Legenda aprovada** sem edição.
+
+**Publicação:** a definir (pasta com NP na POSTS até ir ao ar).
