@@ -8,8 +8,10 @@
 
 **Imagem:** base `vidro-base-mid.png`, prompt em `_scripts/prompt-v1.txt`.
 - Rodada 1 (26/10): `vidro-v1` (texto à esquerda, bem afastado da emenda) e `vidro-v2` (texto mais à direita, "MOSTRA." perto da emenda). Grafia e acentos (ATÉ, NÃO) conferidos. Indicada: v1.
-- Final: a definir.
+**Final (João, 26/10: "salve a imagem 1 e a legenda"):** `vidro-v1`, copiada como `instagram/vidro.png`.
 
 **Legenda:** `legenda.txt` v1, 353 caracteres, CTA pro link da bio (autoridade pela história do colchão, sem "quatro décadas").
 
-**Publicação:** a definir.
+**Legenda aprovada** sem edição.
+
+**Publicação:** a definir (pasta com NP na POSTS até ir ao ar).
