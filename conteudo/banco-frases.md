@@ -833,13 +833,29 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 > Método pedido pelo João em 26/10, depois de descartar o lote 20 inteiro: "liste as verdades universais e você constrói a frase a partir do conceito, linkando ela no dia a dia". Ordem: a verdade em uma linha, depois a frase que a leva pra uma cena do cotidiano.
 
-| # | Verdade universal | Frase | Cena do dia a dia | Atenção |
+| # | Verdade universal | Frase | Cena do dia a dia | Atenção / status |
 |---|---|---|---|---|
 | 119 | A gente se acostuma com o que deveria incomodar. | Torneira pingando só incomoda na primeira noite. | a torneira que pinga e ninguém conserta | torneira já apareceu na semente 43 (balde), com outra ideia |
-| 120 | O que você não fala vira o que você engole. | Conversa engolida volta como azia. | a azia depois do almoço calado | |
-| 121 | A gente só muda quando ficar dói mais do que mudar. | Ninguém troca o colchão antes da dor nas costas. | o colchão afundado de anos | |
-| 122 | A gente julga os outros pelo que fazem e a si mesmo pelo que queria fazer. | No trânsito, o outro é barbeiro. A gente só estava com pressa. | a fechada no trânsito | |
-| 123 | Quem não cuida do próprio tempo vive no tempo dos outros. | Quem não marca a própria agenda vira encaixe na dos outros. | a agenda cheia de encaixe | |
-| 124 | Ninguém dá o que não tem. | Ninguém serve água de copo vazio. | o copo d'água oferecido a quem chega | |
-| 125 | A gente só dá valor ao que funciona quando para de funcionar. | Ninguém lembra do joelho até ele doer. | o joelho que estala na escada | |
-| 126 | Toda escolha é uma renúncia. | Prato com tudo do buffet não tem gosto de nada. | o prato montado no self-service | |
+| 120 | O que você não fala vira o que você engole. | Conversa engolida volta como azia. | a azia depois do almoço calado | descartada (João 26/10: "estão péssimas") |
+| 121 | A gente só muda quando ficar dói mais do que mudar. | Ninguém troca o colchão antes da dor nas costas. | o colchão afundado de anos | descartada (João 26/10: "estão péssimas") |
+| 122 | A gente julga os outros pelo que fazem e a si mesmo pelo que queria fazer. | No trânsito, o outro é barbeiro. A gente só estava com pressa. | a fechada no trânsito | descartada (João 26/10: "estão péssimas") |
+| 123 | Quem não cuida do próprio tempo vive no tempo dos outros. | Quem não marca a própria agenda vira encaixe na dos outros. | a agenda cheia de encaixe | descartada (João 26/10: "estão péssimas") |
+| 124 | Ninguém dá o que não tem. | Ninguém serve água de copo vazio. | o copo d'água oferecido a quem chega | descartada (João 26/10: "estão péssimas") |
+| 125 | A gente só dá valor ao que funciona quando para de funcionar. | Ninguém lembra do joelho até ele doer. | o joelho que estala na escada | descartada (João 26/10: "estão péssimas") |
+| 126 | Toda escolha é uma renúncia. | Prato com tudo do buffet não tem gosto de nada. | o prato montado no self-service | descartada (João 26/10: "estão péssimas") |
+
+
+## Lote 22 — leis diretas curtas, conceito na frase e o dia a dia na imagem (26/10, a crivar pelo João)
+
+> O João reprovou o lote 21 inteiro ("estão péssimas; busque verdades do dia a dia, mas deixe-as falar com mais conceito e curtas"). Volta ao molde das leis diretas que mais circularam ("No raso não existe pressão", "O peso procura quem aguenta", "O que você evita é o que te governa", "Toda ocasião especial era um dia comum"): a frase é a lei nua e curta, e o objeto do cotidiano fica só na imagem.
+
+| # | Frase | Conceito | Imagem possível | Atenção / status |
+|---|---|---|---|---|
+| 127 | O que você tolera, você ensina. | o que a gente deixa passar vira regra pra quem está em volta (filho, time, casal) | a louça deixada na pia dia após dia | candidata |
+| 128 | O conforto cobra juros. | o que é fácil hoje fica caro amanhã | o sofá com o controle e o tênis de corrida parado na porta | candidata |
+| 129 | O costume tira o gosto de tudo. | o que vira rotina deixa de ser visto e valorizado | o prato de sempre na mesa de sempre | candidata |
+| 130 | Silêncio também é resposta. | não responder já diz alguma coisa | o celular com a mensagem visualizada | candidata |
+| 131 | Promessa sem prazo é desejo. | sem data, o que você diz que vai fazer nunca começa | o calendário em branco na parede | candidata |
+| 132 | Quem se compara, se perde. | olhar demais a vida do outro tira você do próprio caminho | duas bicicletas, uma olhando pra outra | candidata; vizinha da grama do vizinho (138) |
+| 133 | Toda desculpa esconde um medo. | por trás do "não deu" quase sempre tem um "não tive coragem" | a agenda com o compromisso riscado | candidata; vizinha de "O que você evita é o que te governa" (170) |
+| 134 | Medo de errar é o erro mais caro. | quem não tenta pra não errar perde mais do que perderia errando | o papel em branco na mesa e o lápis sem ponta gasta | candidata; vizinha da vergonha de errar (225) |
