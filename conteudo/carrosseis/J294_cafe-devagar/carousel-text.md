@@ -6,7 +6,8 @@
 **Frase:** "Café bom passa devagar." Uma linha, 44px, toda em preto, `top:300px`.
 
 **Imagem (rodada 1, 26/10):** img-01 (slide-01): coador de pano no suporte de madeira pingando no bule esmaltado. Indicada. img-02 (slide-01-b): close da gota caindo na caneca esmaltada.
-- Final: a definir.
+- **Escolha do João (26/10):** a linha de cima (img-01); a opção de baixo foi descartada e foi pra `instagram/_rodadas/`.
+- **Final:** `instagram/cafe-devagar.png`.
 
 **Legenda:** `legenda.txt` v1, 1742 caracteres com o CTA (legenda.py: OK).
 

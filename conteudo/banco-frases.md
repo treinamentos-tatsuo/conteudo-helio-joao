@@ -781,7 +781,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 > O João não gostou do que sobrou do lote 18 ("as que sobraram não sei se estou gostando"; "vamos criar mais"). Critério deste lote, tirado das que ele aprovou (bicicleta, cozinha, parede, se perder): (1) objeto que todo brasileiro tem em casa ou na rua; (2) lei física ou observada que ninguém discute; (3) espelho de virtude, quem compartilha sai bem na foto.
 
-### 108. Só jogam pedra em mangueira carregada. — `em produção (post J291, 26/10)`
+### 108. Só jogam pedra em mangueira carregada. — `em produção (post J291, 26/10; frase final do João: "Só jogam pedra em árvore carregada.")`
 - **De quem é:** ditado popular ressignificado (Sêneca: a inveja só mira o que tem valor). **Lei:** crítica e ataque vão pra quem está produzindo; árvore sem fruto ninguém olha. Espelho: "se jogam pedra, é porque eu dou fruto". **Cena:** mangueira de quintal carregada, pedras no chão embaixo.
 - **Construções:** A. "Só jogam pedra em mangueira carregada." · B. "Ninguém joga pedra em árvore sem fruto." · C. "Pedra no pé de manga é sinal de safra."
 
