@@ -851,11 +851,11 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 | # | Frase | Conceito | Imagem possível | Atenção / status |
 |---|---|---|---|---|
-| 127 | O que você tolera, você ensina. | o que a gente deixa passar vira regra pra quem está em volta (filho, time, casal) | a louça deixada na pia dia após dia | candidata |
-| 128 | O conforto cobra juros. | o que é fácil hoje fica caro amanhã | o sofá com o controle e o tênis de corrida parado na porta | candidata |
-| 129 | O costume tira o gosto de tudo. | o que vira rotina deixa de ser visto e valorizado | o prato de sempre na mesa de sempre | candidata |
-| 130 | Silêncio também é resposta. | não responder já diz alguma coisa | o celular com a mensagem visualizada | candidata |
-| 131 | Promessa sem prazo é desejo. | sem data, o que você diz que vai fazer nunca começa | o calendário em branco na parede | candidata |
-| 132 | Quem se compara, se perde. | olhar demais a vida do outro tira você do próprio caminho | duas bicicletas, uma olhando pra outra | candidata; vizinha da grama do vizinho (138) |
-| 133 | Toda desculpa esconde um medo. | por trás do "não deu" quase sempre tem um "não tive coragem" | a agenda com o compromisso riscado | candidata; vizinha de "O que você evita é o que te governa" (170) |
-| 134 | Medo de errar é o erro mais caro. | quem não tenta pra não errar perde mais do que perderia errando | o papel em branco na mesa e o lápis sem ponta gasta | candidata; vizinha da vergonha de errar (225) |
+| 127 | O que você tolera, você ensina. | o que a gente deixa passar vira regra pra quem está em volta (filho, time, casal) | a louça deixada na pia dia após dia | em produção (post J295, 26/10) |
+| 128 | O conforto cobra juros. | o que é fácil hoje fica caro amanhã | o sofá com o controle e o tênis de corrida parado na porta | em produção (post J296, 26/10) |
+| 129 | O costume tira o gosto de tudo. | o que vira rotina deixa de ser visto e valorizado | o prato de sempre na mesa de sempre | descartada (João 26/10) |
+| 130 | Silêncio também é resposta. | não responder já diz alguma coisa | o celular com a mensagem visualizada | em produção (post J297, 26/10) |
+| 131 | Promessa sem prazo é desejo. | sem data, o que você diz que vai fazer nunca começa | o calendário em branco na parede | descartada (João 26/10) |
+| 132 | Quem se compara, se perde. | olhar demais a vida do outro tira você do próprio caminho | duas bicicletas, uma olhando pra outra | em produção (post J298, 26/10); vizinha da grama do vizinho (138) |
+| 133 | Toda desculpa esconde um medo. | por trás do "não deu" quase sempre tem um "não tive coragem" | a agenda com o compromisso riscado | em produção (post J299, 26/10); vizinha de "O que você evita é o que te governa" (170) |
+| 134 | Medo de errar é o erro mais caro. | quem não tenta pra não errar perde mais do que perderia errando | o papel em branco na mesa e o lápis sem ponta gasta | em produção (post J300, 26/10); vizinha da vergonha de errar (225) |

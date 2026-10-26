@@ -1,0 +1,11 @@
+{
+ "_como_usar": "Copiar pra conteudo/carrosseis/<N>_<nome>/_scripts/prompts.json. Cada imagem nova ganha um número novo em images (nunca reaproveitar número: a versão anterior fica). Cena em inglês, curta, dizendo o objeto, onde ele está apoiado, que fica na metade de baixo e 'Nothing else'. Use base_alto quando o objeto precisa subir (postes, geladeira): parede só nos 30% de cima. Rodar: python3 .claude/skills/frase/scripts/gen.py conteudo/carrosseis/<N>_<nome> 1",
+ "base": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The ENTIRE UPPER HALF of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing. Everything that matters sits in the lower half of the frame; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "base_alto": "black-and-white editorial fine-art photograph, desaturated, high contrast, fine film grain. SQUARE 1:1 aspect ratio. Minimal composition, like a museum object photograph. The upper 30% of the image is a plain, smooth, light plaster wall, bright and empty, fading to near-white at the top edge for clean compositing; nothing enters from above. No text, no words, no logos, no gradients, no added color, no stock photo look, no clutter, no people, no face.",
+ "images": [
+  {
+   "n": 1,
+   "scene": "On a bare wooden shelf against the plain plaster wall: an open paper weekly planner with one appointment scribbled over and crossed out many times with heavy pen strokes (no readable words), a pen lying across it. Everything low, in the lower third of the frame. Nothing else. Hard low side light, long shadow."
+  }
+ ]
+}
