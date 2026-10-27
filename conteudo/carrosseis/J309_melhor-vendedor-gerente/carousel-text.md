@@ -15,7 +15,7 @@
 - **Causa técnica:** vender e fazer o time vender são talentos diferentes; e ninguém deu a ferramenta de gestão (indicador, reunião, cobrança) pro gerente. Quem monta é o dono.
 - **Caminho do CTA:** imersão MBV.
 - **Palavra-chave:** LIDER (estado desejado: um líder que faz o time vender). Leva acento: 6 grafias `LIDER, lider, Lider, LÍDER, líder, Líder`. No registro, usada uma vez (105, setembro). Conferida no painel em 27/10: só automações de post específico (105, de 10/09, e o repost líderes não só cobram, de 16/10); nenhuma global. Sem colisão.
-- **Vizinhança:** 105 (só o time nomeia, LIDER), J274 (perto do time), J269 (Frankenstein). Aqui o ângulo é o gerente-vendedor, não a distância do dono nem o padrão.
+- **Vizinhança:** 105 (só o time nomeia, LIDER), J274 (perto do time), J269 (Frankenstein). Aqui o ângulo é o gerente-vendedor, não a distância do dono nem o padrão. **A mesma tese já saiu no perfil da Tatsuo Academy:** 157 (infográfico, setembro, "custa caro duas vezes") e J261 (Frame Work, 19/10, "a armadilha do melhor vendedor"). No @helio.tatsuo nunca saiu (o 50, vendedor estrela, é outro ângulo). O João mandou manter em 27/10 ("vamos manter já que no perfil do hélio ainda não usamos"). O que diferencia: a história do Hélio em primeira pessoa (nunca foi o melhor vendedor, foi o melhor líder, 1.500 vendedores), a pergunta das férias e o dono como quem monta a ferramenta.
 - **Fato do Hélio usado:** "nunca fui o melhor vendedor, fui o melhor líder de venda" e "mais de 1.500 vendedores". Não estão na lista de fatos confirmados da doutrina, mas saíram da boca dele no MBV (D2). Levado ao João no checkpoint.
 
 ## Slides (texto que renderiza)
