@@ -1,6 +1,8 @@
 # J316 — Você manda o vendedor pra curso de fechamento. O problema dele é que não tem pra quem vender. (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: no lugar do J309 (hoje 27/10, se aprovado a tempo) ou abrindo a sequência.
+**Status:** aprovado pelo João em 27/10 ("vamos postar ele no lugar daquele que vc excluiu... a postagem será feita às 19h"). **Publicação:** 27/10/2026 às 19h (agendado). Entregue em `POSTS/Carrossel sem rosto/NP J316_falta-cliente-nao-tecnica/`.
+
+**Manychat:** `IG | 2026-10-27 | OPORTUNIDADE | falta cliente nao tecnica`, montada STOPPED em 27/10 ~16h40 (duplicada da PATRIMONIO, intocada), caminho imersão MBV, 3 grafias, DM "Técnica nenhuma salva quem não tem cliente na frente. Quer ver como eu ensino o dono a gerar oportunidade no MBV?" (escrita pelo Claude), botão `>> Quero ver <<`, link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-27-OPORTUNIDADE` (+ `&utm_content=` com o post na hora de amarrar). Timer às 19h01. Painel conferido: nenhuma automação com "oportunidade". URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261027193611_214555.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Nova abertura da sequência, no lugar do J309 (descartado pelo João em 27/10). Abre pela primeira engrenagem da máquina, a quantidade de oportunidades; o J310 continua daí (quem olha esse número só no fim do mês descobre no dia 30).
 **Formato:** Notas do iPhone (build do J309).
@@ -12,7 +14,7 @@
 - **Uma dor só:** o dono culpa a técnica do vendedor, quando falta cliente na frente dele.
 - **Causa técnica:** a empresa não domina a geração de oportunidades (prospecção, indicação); o vendedor tem menos oportunidade do que capacidade de vender.
 - **Caminho do CTA:** imersão MBV.
-- **Palavra-chave:** OPORTUNIDADE (3 grafias `OPORTUNIDADE, oportunidade, Oportunidade`). Inédita no registro. Painel do Manychat: conferir antes de montar.
+- **Palavra-chave:** OPORTUNIDADE (3 grafias `OPORTUNIDADE, oportunidade, Oportunidade`). Inédita no registro. Painel do Manychat conferido em 27/10: livre.
 - **Vizinhança:** 154_quantitativo-qualitativo (perfil da Academy, apostila) e 86_pneu-vazio. No @helio.tatsuo, o ângulo do curso de fechamento é inédito.
 - **Fio pra próxima:** a legenda fecha em "quem olha esse número só no fim do mês descobre tarde demais", a capa do J310.
 
