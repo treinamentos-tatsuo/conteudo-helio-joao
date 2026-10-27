@@ -65,7 +65,7 @@ S = {
         + P("Quem só olha o resultado descobre o buraco quando ele já virou prejuízo. Quem olha o processo vê o buraco enquanto ainda dá pra tapar.", "font-size:48px")),
  6: note(P(I("O jeito que eu ensino") + " é simples: todo dia, mesma hora, quinze minutos. Três perguntas pra cada vendedor.")
         + P(HL("O que você fez ontem? O que vai fazer hoje? Tem alguma coisa te travando?"))),
- 7: note(P(I("“Ontem você disse dez") + " e fez três. Hoje vai fazer quanto?” Não é reunião longa. É o dono sentindo a ponta.")
+ 7: note(P(I("“Ontem você disse dez") + " e fez três. Hoje vai fazer quanto?” Não é reunião longa. É o dono na linha de frente.")
         + P(HL("O problema aparece no dia 2, não no dia 30."))),
  8: note(P(I("Eu tenho um treinamento") + " de gestão pra donos de PME: o MBV.")
         + P("Lá eu ensino o dono a montar a rotina que faz o time vender todo dia: " + HL("Lucratividade, Crescimento e Cultura."))),

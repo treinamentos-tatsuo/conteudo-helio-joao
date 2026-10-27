@@ -46,7 +46,7 @@ Quem só olha o resultado descobre o buraco quando ele já virou prejuízo. Quem
 [marca-texto] O que você fez ontem? O que vai fazer hoje? Tem alguma coisa te travando?
 
 **7**
-*"Ontem você disse dez* e fez três. Hoje vai fazer quanto?" Não é reunião longa. É o dono sentindo a ponta.
+*"Ontem você disse dez* e fez três. Hoje vai fazer quanto?" Não é reunião longa. É o dono na linha de frente.
 [marca-texto] O problema aparece no dia 2, não no dia 30.
 
 **8**
@@ -70,7 +70,7 @@ O problema não é o vendedor. É que ninguém olhou o processo enquanto ele aco
 
 O jeito que eu ensino é simples e quase ninguém faz: todo dia, mesma hora, quinze minutos. Três perguntas pra cada vendedor. O que você fez ontem? O que vai fazer hoje? Tem alguma coisa te travando? E sempre com número. "Ontem você disse dez e fez três. Hoje vai fazer quanto?"
 
-Não é reunião longa. É o dono, ou o gerente que ele preparou, sentindo a ponta todo dia. O buraco aparece no dia 2, quando ainda dá pra tapar.
+Não é reunião longa. É o dono, ou o gerente que ele preparou, na linha de frente todo dia. O buraco aparece no dia 2, quando ainda dá pra tapar.
 
 E o diário é só o começo. Ele mostra o dia. Se o mês vai fechar é outra conversa.
 
@@ -81,4 +81,4 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 
 ## Divergências registradas
 
-(nenhuma ainda)
+- 27/10, slide 7 e legenda: "é o dono sentindo a ponta" (fala literal do MBV, D2 l.11448) virou "é o dono na linha de frente", a pedido do João. Mais claro pra quem não fez o MBV; sem perda de sentido.
