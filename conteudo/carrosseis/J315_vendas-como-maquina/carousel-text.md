@@ -1,10 +1,10 @@
-# J315 — Quem pensa em venda é vendedor. Empresário pensa em vendas como máquina. (formato Notas, perfil do Hélio)
+# J315 — Quem pensa em venda é vendedor. Empresário pensa em vendas como uma máquina. (formato Notas, perfil do Hélio)
 
 **Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: segunda 02/11.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Sexta e última peça: o J314 fecha em "juntos, eles têm outro nome"; aqui o nome é máquina de vendas, e a peça amarra meta, rito, reconhecimento, contratação e cobrança.
 **Formato:** Notas do iPhone (build do J309).
-**Lastro MBV:** D3 l.10000-10010 ("crescimento não é venda a qualquer custo; quem pensa em venda é vendedor, empresário pensa em vendas como máquina, empresário pensa em vendas como crescimento; crescimento pra nós não é crescimento da primeira linha, é crescimento da última linha do teu DR... faturamento é vaidade, métrica de vaidade"); D2 l.11436 ("três cadências que fazem a máquina funcionar").
+**Lastro MBV:** D3 l.10000-10010 ("crescimento não é venda a qualquer custo; quem pensa em venda é vendedor, empresário pensa em vendas como uma máquina, empresário pensa em vendas como crescimento; crescimento pra nós não é crescimento da primeira linha, é crescimento da última linha do teu DR... faturamento é vaidade, métrica de vaidade"); D2 l.11436 ("três cadências que fazem a máquina funcionar").
 
 ## Declarações
 
@@ -21,7 +21,7 @@ Convenção: *itálico* = entrada em serifa itálica; [marca-texto] = trecho em 
 
 **1 (capa)**
 *Quem pensa em venda* é vendedor.
-[marca-texto] Empresário pensa em vendas como máquina.
+[marca-texto] Empresário pensa em vendas como uma máquina.
 
 **2**
 *Vendedor pensa* no cliente de hoje, na comissão do mês, no negócio que está pra fechar.
@@ -61,7 +61,7 @@ que eu mando o link no seu direct.
 ## Legenda (post)
 
 ```
-Tem uma frase que eu repito no MBV: quem pensa em venda é vendedor. Empresário pensa em vendas como máquina.
+Tem uma frase que eu repito no MBV: quem pensa em venda é vendedor. Empresário pensa em vendas como uma máquina.
 
 Vendedor pensa no cliente de hoje, na comissão do mês, no negócio que está pra fechar. E está certo, esse é o trabalho dele. O problema é quando o dono pensa igual. Ele vira o melhor vendedor da própria empresa, e a empresa passa a vender do tamanho da agenda dele. Quando ele para, a venda para junto.
 
@@ -78,4 +78,4 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 
 ## Divergências registradas
 
-(nenhuma ainda)
+- 27/10, capa: "como máquina" virou "como uma máquina", a pedido do João (a fala do MBV é "como máquina"); a legenda acompanhou.

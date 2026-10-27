@@ -53,7 +53,7 @@ def HL(t): return f'<span class="hl sel">{t}</span>'
 
 S = {
  1: note(P(I("Quem pensa em venda") + " é vendedor.", "font-size:76px;line-height:1.24")
-        + P(HL("Empresário pensa em vendas como máquina."), "font-size:76px;line-height:1.3;margin-top:40px;text-wrap:balance")),
+        + P(HL("Empresário pensa em vendas como uma máquina."), "font-size:76px;line-height:1.3;margin-top:40px;text-wrap:balance")),
  2: note(P(I("Vendedor pensa") + " no cliente de hoje, na comissão do mês, no negócio que está pra fechar.")
         + P(HL("O dono que pensa igual vira o melhor vendedor da própria empresa."))),
  3: note(P(I("E a empresa") + " passa a vender do tamanho da agenda dele.")
