@@ -1,6 +1,6 @@
 # J309 — Você promoveu o seu melhor vendedor a gerente. E perdeu os dois. (formato Notas, perfil do Hélio)
 
-**Status:** texto liberado pelo João em 27/10 ("vamos fazer ele no formato bloco de notas.. crie as imagens"); slides renderizados (build adaptado de `J301_pro-labore-de-gerente/_scripts/build.py`) e entregues em `POSTS/Carrossel sem rosto/NP J309_melhor-vendedor-gerente/` pra avaliação. Aprovado pelo João em 27/10 ("esse post será postado às 19h"). **Publicação:** 27/10/2026 às 19h (agendado).
+**Status:** DESCARTADO pelo João em 27/10 ("o primeiro sobre o vendedor que virou gerente vamos excluir... não iremos postar mais"). Não vai ao ar. Automação LIDER apagada no Manychat (lixeira), ficha tirada do registro, pasta tirada do POSTS. No lugar dele entrou o J316 (abertura da sequência time comercial).
 
 **Origem:** pedido do João em 27/10: mais um carrossel pro dia. A última semana foi quase toda Lucratividade (J273 margem, J255 6x1, J282, J301 pró-labore, J280, reposts RICO e GESTAO), então a proposta foi voltar pra Cultura/gente, com um ângulo inédito no registro (0 posts sobre promoção de vendedor a gerente). Tema aprovado pelo João ("pode ser então vamos fazer algo desse assunto").
 **Formato:** Notas do iPhone, igual ao J245, J255 e J301 (o formato segue em teste em dia de semana). Escolha do Claude, já que o João não indicou.

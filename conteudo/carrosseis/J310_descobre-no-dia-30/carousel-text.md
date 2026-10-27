@@ -2,7 +2,7 @@
 
 **Status:** CHECKPOINT 1 (texto aguardando aprovação do João, 27/10). Publicação prevista: quarta 28/10.
 
-**Origem:** primeira peça da sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Continua o J309 (o dono monta a ferramenta do gerente), abrindo a primeira ferramenta: o rito diário.
+**Origem:** primeira peça da sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Vem depois do J316 (falta oportunidade, não técnica): quem olha a quantidade só no fim do mês descobre no dia 30; aqui entra o rito diário. (Antes partia do J309, descartado em 27/10.)
 **Formato:** Notas do iPhone (build do J309).
 **Lastro MBV:** D2 l.11440-11450 ("rituais, três cadências que fazem a máquina funcionar: rito diário, todo dia, mesma hora, quinze minutos, três perguntas pra cada vendedor: o que você fez ontem, o que você faz hoje, tem algo te travando; não é reunião longa, é reunião de empresário sentindo o que está acontecendo no tato da ponta"); D2 l.11540-11570 ("ontem cê falou dez, hoje cê fez três... coloca uma meta coerente aqui que você vai conseguir... eu quero saber o número"); D3 l.2828-2835 (gerenciar pelo processo, não só pelo resultado do fim do mês); D3 l.3876-3880 (reunião diária pra acompanhamento, semanal pra meta da semana).
 
