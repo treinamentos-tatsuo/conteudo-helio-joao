@@ -1,6 +1,6 @@
 # J316 — Você manda o vendedor pra curso de fechamento. O problema dele é que não tem pra quem vender. (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 27/10 ("vamos postar ele no lugar daquele que vc excluiu... a postagem será feita às 19h"). **Publicação:** 27/10/2026 às 19h (agendado). Entregue em `POSTS/Carrossel sem rosto/NP J316_falta-cliente-nao-tecnica/`.
+**Status:** aprovado pelo João em 27/10 ("vamos postar ele no lugar daquele que vc excluiu... a postagem será feita às 19h"). **Publicação:** no ar em 27/10/2026, ~20h20 (previsto pras 19h), post `DfBBXx3kd7h` (https://www.instagram.com/p/DfBBXx3kd7h/). Manychat OPORTUNIDADE LIVE às ~20h23. Entregue em `POSTS/Carrossel sem rosto/J316_falta-cliente-nao-tecnica/` (NP tirado) e copiado pro Drive em `POST CLAUDE/HÉLIO TATSUO/27-10-2026/`.
 
 **Manychat:** `IG | 2026-10-27 | OPORTUNIDADE | falta cliente nao tecnica`, montada STOPPED em 27/10 ~16h40 (duplicada da PATRIMONIO, intocada), caminho imersão MBV, 3 grafias, DM "Técnica nenhuma salva quem não tem cliente na frente. Quer ver como eu ensino o dono a gerar oportunidade no MBV?" (escrita pelo Claude), botão `>> Quero ver <<`, link `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=2026-10-27-OPORTUNIDADE` (+ `&utm_content=` com o post na hora de amarrar). Timer às 19h01. Painel conferido: nenhuma automação com "oportunidade". URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261027193611_214555.
 
