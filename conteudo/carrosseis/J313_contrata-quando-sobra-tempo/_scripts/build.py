@@ -52,9 +52,9 @@ def I(t): return f'<span class="i">{t}</span>'
 def HL(t): return f'<span class="hl sel">{t}</span>'
 
 S = {
- 1: note(P(I("Você contrata vendedor") + " quando sobra tempo.", "font-size:76px;line-height:1.24")
-        + P(HL("E depois reclama que não acha gente boa."), "font-size:76px;line-height:1.3;margin-top:40px;text-wrap:balance")),
- 2: note(P(I("Abre a vaga,") + " recebe meia dúzia de currículos, faz duas entrevistas entre um incêndio e outro.")
+ 1: note(P(I("O melhor vendedor da sua cidade") + " trabalha pro seu concorrente.", "font-size:76px;line-height:1.24")
+        + P(HL("E você nunca foi atrás dele."), "font-size:76px;line-height:1.3;margin-top:40px;text-wrap:balance")),
+ 2: note(P(I("Você só procura vendedor") + " quando a vaga abre. Recebe meia dúzia de currículos, faz duas entrevistas entre um incêndio e outro.")
         + P(HL("E contrata quem estava disponível, não quem era bom."))),
  3: note(P(I("Três meses depois,") + " o vendedor não entrega, você manda embora e abre a vaga de novo.")
         + P(HL("Do mesmo jeito."))),

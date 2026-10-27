@@ -1,4 +1,4 @@
-# J313 — Você contrata vendedor quando sobra tempo. E depois reclama que não acha gente boa. (formato Notas, perfil do Hélio)
+# J313 — O melhor vendedor da sua cidade trabalha pro seu concorrente. E você nunca foi atrás dele. (formato Notas, perfil do Hélio)
 
 **Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: sábado 31/10.
 
@@ -22,11 +22,11 @@
 Convenção: *itálico* = entrada em serifa itálica; [marca-texto] = trecho em carmim com texto branco.
 
 **1 (capa)**
-*Você contrata vendedor* quando sobra tempo.
-[marca-texto] E depois reclama que não acha gente boa.
+*O melhor vendedor da sua cidade* trabalha pro seu concorrente.
+[marca-texto] E você nunca foi atrás dele.
 
 **2**
-*Abre a vaga,* recebe meia dúzia de currículos, faz duas entrevistas entre um incêndio e outro.
+*Você só procura vendedor* quando a vaga abre. Recebe meia dúzia de currículos, faz duas entrevistas entre um incêndio e outro.
 [marca-texto] E contrata quem estava disponível, não quem era bom.
 
 **3**
@@ -63,6 +63,8 @@ que eu mando o link no seu direct.
 ## Legenda (post)
 
 ```
+O melhor vendedor da sua cidade está trabalhando pro seu concorrente. E você nunca foi atrás dele.
+
 Quase todo dono contrata vendedor do mesmo jeito. A vaga abre, ele recebe meia dúzia de currículos, faz duas entrevistas entre um incêndio e outro e contrata quem estava disponível. Três meses depois o vendedor não entrega, ele manda embora e abre a vaga de novo. Do mesmo jeito.
 
 Eu sempre tive dificuldade pra contratar vendedor. Muita. Até entender uma coisa: contratar vendedor é uma venda. Precisa de prospecção todo mês, com vaga aberta ou não, do mesmo jeito que você corre atrás de cliente.
@@ -80,4 +82,4 @@ Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
 
 ## Divergências registradas
 
-(nenhuma ainda)
+- 27/10, capa: o João achou fraco o gancho "Você contrata vendedor quando sobra tempo. E depois reclama que não acha gente boa." Nova capa: "O melhor vendedor da sua cidade trabalha pro seu concorrente. E você nunca foi atrás dele." O slide 2 passou a abrir com "Você só procura vendedor quando a vaga abre" pra ligar a capa à cena; a legenda abre com a nova capa.
