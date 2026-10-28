@@ -1,6 +1,8 @@
 # J310 — Você só descobre que o mês foi ruim no dia 30. (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 (texto aguardando aprovação do João, 27/10). Publicação prevista: quarta 28/10.
+**Status:** aprovado pelo João em 28/10 ("o carrossel J310 será postado às 17:00h"). **Publicação:** 28/10/2026 às 17h (agendado). Entregue em `POSTS/Carrossel sem rosto/NP J310_descobre-no-dia-30/`.
+
+**Manychat:** `IG | 2026-10-28 | RITMO | descobre no dia 30`, montada STOPPED em 28/10 ~15h20 (duplicada da OPORTUNIDADE, intocada), caminho imersão MBV, 3 grafias, DM "Quem só olha o resultado descobre o buraco no dia 30. Quer ver como eu ensino o dono a acompanhar o time todo dia no MBV?" (escrita pelo Claude), botão `>> Quero ver <<`, link com `utm_campaign=2026-10-28-RITMO` (+ `utm_content` na hora de amarrar). Timer às 17h01. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261028181535_573103.
 
 **Origem:** primeira peça da sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Vem depois do J316 (falta oportunidade, não técnica): quem olha a quantidade só no fim do mês descobre no dia 30; aqui entra o rito diário. (Antes partia do J309, descartado em 27/10.)
 **Formato:** Notas do iPhone (build do J309).
