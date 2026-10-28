@@ -1,6 +1,6 @@
 # J310 — Você só descobre que o mês foi ruim no dia 30. (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 28/10 ("o carrossel J310 será postado às 17:00h"). **Publicação:** 28/10/2026 às 17h (agendado). Entregue em `POSTS/Carrossel sem rosto/NP J310_descobre-no-dia-30/`.
+**Status:** aprovado pelo João em 28/10 ("o carrossel J310 será postado às 17:00h"). **Publicação:** no ar em 28/10/2026 às 17h, post `DfDPZgBFIaz` (https://www.instagram.com/p/DfDPZgBFIaz/). Manychat RITMO LIVE às ~17h03. Entregue em `POSTS/Carrossel sem rosto/J310_descobre-no-dia-30/` (NP tirado) e copiado pro Drive em `POST CLAUDE/HÉLIO TATSUO/28-10-2026/`.
 
 **Manychat:** `IG | 2026-10-28 | RITMO | descobre no dia 30`, montada STOPPED em 28/10 ~15h20 (duplicada da OPORTUNIDADE, intocada), caminho imersão MBV, 3 grafias, DM "Quem só olha o resultado descobre o buraco no dia 30. Quer ver como eu ensino o dono a acompanhar o time todo dia no MBV?" (escrita pelo Claude), botão `>> Quero ver <<`, link com `utm_campaign=2026-10-28-RITMO` (+ `utm_content` na hora de amarrar). Timer às 17h01. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261028181535_573103.
 
