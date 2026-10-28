@@ -1,5 +1,6 @@
 # Post J317 — "A Pepsi fatura o dobro da Coca-Cola. E lucra menos." (apostila p. 24 e pp. 27-28; perfil Tatsuo Academy)
 
+**Publicado:** 28/10/2026 no perfil da Tatsuo Academy (aviso do João). Sem /etiqueta, porque é perfil da Academy.
 **Origem:** reel de terceiro que o João viu em 28/10 (Pepsi × Coca, fechando no CTA de uma auditoria). Ele pediu o mesmo assunto na linguagem da Tatsuo Academy.
 **Regime:** refação de post de terceiro (modelo infográfico, seção 2, que vale também para o handmade da Academy). Da fonte ficam a ideia e o exemplo Pepsi × Coca; o texto nasce do zero. A lição sai da apostila do MBV: p. 24 ("Dois produtos vendidos a R$ 100 podem ter margens completamente diferentes: um deixa R$ 60, o outro deixa R$ 15") e pp. 27-28 (o peso da estrutura fixa no resultado). O CTA da auditoria sai e entra o do MBV.
 **Modelo:** handmade, no layout do J254, J278 e J307. Os números entram desenhados, como no post "3 contas" da Academy.
