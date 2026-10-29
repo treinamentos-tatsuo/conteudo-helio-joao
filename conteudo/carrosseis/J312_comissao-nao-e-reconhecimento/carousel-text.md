@@ -1,6 +1,8 @@
 # J312 — Você paga a comissão em dia e acha que isso é motivar o time. (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: sexta 30/10.
+**Status:** aprovado e postado pelo João em 29/10 ("vou postar o carrossel j312... vou postar ele agora"), um dia antes do previsto e antes do J311. **Publicação:** no ar em 29/10/2026 ~13h15, post `DfFar9qEWCl` (https://www.instagram.com/p/DfFar9qEWCl/). Entregue em `POSTS/Carrossel sem rosto/J312_comissao-nao-e-reconhecimento/` e no Drive em `POST CLAUDE/HÉLIO TATSUO/29-10-2026/`.
+
+**Manychat:** `IG | 2026-10-29 | TROFEU | comissao nao e reconhecimento`, duplicada da RITMO (intocada), 6 grafias, DM "Comissão paga o resultado. Reconhecimento faz o time querer repetir. Quer ver como eu ensino o dono a reconhecer quem bate meta no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-10-29-TROFEU` e `utm_content` do post. LIVE às ~13h22. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261029161725_542556.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Terceira peça: o J311 fecha no vendedor que bateu a meta e ninguém percebeu; aqui entra o reconhecimento.
 **Formato:** Notas do iPhone (build do J309).
