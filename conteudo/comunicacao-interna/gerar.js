@@ -97,6 +97,28 @@ function porta(w, h, { nome, sub }) {
   <div class="faixa base"></div>`);
 }
 
+// Placa de direção (aponta pra outro andar ou ambiente). Unidade = largura/20.
+function direcao(w, h, { seta, nomes, onde }) {
+  const css = `
+  .faixa { height: 1.2rem; }
+  main { padding: 0 1.6rem; }
+  .seta { width: 5.2rem; height: 5.2rem; margin-bottom: 1.6rem; }
+  .nome { font-weight: 900; font-size: 3.4rem; letter-spacing: -0.02em; line-height: 1; }
+  .e { font-weight: 600; font-size: 1.3rem; color: var(--bordo); margin: .5rem 0; }
+  .fio { width: 4rem; height: .2rem; background: var(--bordo); margin: 1.6rem auto; }
+  .onde { font-weight: 600; font-size: 1.1rem; letter-spacing: .18em; color: var(--bordo); }`;
+  const giro = { cima: 0, direita: 90, baixo: 180, esquerda: 270 }[seta];
+  return pagina(w, h, w / 20, css, `
+  <div class="faixa topo"></div>
+  <main>
+    <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(${giro}deg)"><path d="M50 4 L94 50 L66 50 L66 96 L34 96 L34 50 L6 50 Z" fill="#6C0302"/></svg>
+    ${nomes.map((n, i) => (i ? '<div class="e">e</div>' : '') + `<div><span class="fit nome">${n}</span></div>`).join('')}
+    <div class="fio"></div>
+    <div><span class="fit onde">${onde}</span></div>
+  </main>
+  <div class="faixa base"></div>`);
+}
+
 const NBH = '&#8209;'; // hífen que não quebra linha
 
 const PLACAS = [
@@ -117,6 +139,9 @@ const PLACAS = [
   ['placa-sala-aula', 150, 200, destaque, {
     topo: 'SILÊNCIO', grande: 'EM AULA',
     linhas: ['CELULAR NO SILENCIOSO', { e: 'e' }, 'ENTRE SEM INTERROMPER'] }],
+  // Direção
+  ['placa-buffet-banheiros', 600, 800, direcao, {
+    seta: 'cima', nomes: ['BUFFET', 'BANHEIROS'], onde: 'NO ANDAR DE CIMA' }, 150],
   // Portas
   ...[
     ['banheiro-masculino', 'BANHEIRO', 'MASCULINO'],
@@ -132,14 +157,14 @@ const PLACAS = [
 (async () => {
   const filtro = process.argv.slice(2);
   const b = await chromium.launch();
-  for (const [nome, w, h, modelo, dados] of PLACAS) {
+  for (const [nome, w, h, modelo, dados, dpi = 300] of PLACAS) {
     if (filtro.length && !filtro.some(f => nome.includes(f))) continue;
     const dir = path.join(__dirname, nome.includes('/') ? path.dirname(nome) : nome);
     const base = path.join(dir, path.basename(nome));
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(base + '.html', modelo(w, h, dados));
     const px = mm => Math.round(mm * 96 / 25.4);
-    const p = await b.newPage({ viewport: { width: px(w), height: px(h) }, deviceScaleFactor: 300 / 96 });
+    const p = await b.newPage({ viewport: { width: px(w), height: px(h) }, deviceScaleFactor: dpi / 96 });
     await p.goto(pathToFileURL(base + '.html').href);
     await p.waitForSelector('body[data-ok]', { state: 'attached' });
     await p.screenshot({ path: base + '.png' });

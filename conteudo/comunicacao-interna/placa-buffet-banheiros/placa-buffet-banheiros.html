@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<style>@page { size: 600mm 800mm; margin: 0; }
+html { font-size: 30mm; } html, body { width: 600mm; height: 800mm; }
+
+  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  .fit { display: inline-block; white-space: nowrap; }
+  .faixa { flex: none; background: var(--bordo); }
+  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
+  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+
+  .faixa { height: 1.2rem; }
+  main { padding: 0 1.6rem; }
+  .seta { width: 5.2rem; height: 5.2rem; margin-bottom: 1.6rem; }
+  .nome { font-weight: 900; font-size: 3.4rem; letter-spacing: -0.02em; line-height: 1; }
+  .e { font-weight: 600; font-size: 1.3rem; color: var(--bordo); margin: .5rem 0; }
+  .fio { width: 4rem; height: .2rem; background: var(--bordo); margin: 1.6rem auto; }
+  .onde { font-weight: 600; font-size: 1.1rem; letter-spacing: .18em; color: var(--bordo); }</style></head>
+<body>
+  <div class="faixa topo"></div>
+  <main>
+    <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(0deg)"><path d="M50 4 L94 50 L66 50 L66 96 L34 96 L34 50 L6 50 Z" fill="#6C0302"/></svg>
+    <div><span class="fit nome">BUFFET</span></div><div class="e">e</div><div><span class="fit nome">BANHEIROS</span></div>
+    <div class="fio"></div>
+    <div><span class="fit onde">NO ANDAR DE CIMA</span></div>
+  </main>
+  <div class="faixa base"></div><script>
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.fit').forEach(el => {
+    const m = el.closest('main'), cs = getComputedStyle(m);
+    const max = m.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    let fs = parseFloat(getComputedStyle(el).fontSize);
+    while (el.getBoundingClientRect().width > max && fs > 4) { fs *= 0.98; el.style.fontSize = fs + 'px'; }
+  });
+  document.body.dataset.ok = '1';
+});</script></body></html>
