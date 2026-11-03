@@ -1,6 +1,8 @@
 # J322 — Geração Z não quer só dinheiro. (editorial-punch, perfil do Hélio)
 
-**Status:** aprovado pelo João em 03/11 (texto, imagens refeitas no enquadramento das referências e capa invertida a pedido dele). Publicação: a definir. Entregue em `POSTS/Carrossel sem rosto/NP J322_geracao-z-lideranca-obsoleta/`.
+**Status:** aprovado pelo João em 03/11 e postado no mesmo dia. **Publicação:** no ar em 03/11/2026 ~20h30, post `DfS98d3Ed8a` (https://www.instagram.com/p/DfS98d3Ed8a/). Entregue em `POSTS/Carrossel sem rosto/POSTADOS/J322_geracao-z-lideranca-obsoleta/` e no Drive em `POST CLAUDE/HÉLIO TATSUO/03-11-2026/`.
+
+**Manychat:** `IG | 2026-11-03 | GERACAO | geracao z lideranca obsoleta`, duplicada da ATITUDE (intocada), 6 grafias, DM "Não é a geração que mudou pra pior. É a liderança que ficou pra trás. Quer ver como eu ensino o dono a liderar o time de hoje no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-11-03-GERACAO` e `utm_content` do post. LIVE às ~20h35. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261103233142_910603.
 
 **Origem:** pedido do João em 03/11. Gancho dele, literal na capa: "Geração Z não quer só dinheiro". Narrativa dele: as gerações mudam e as lideranças também precisam mudar; não é culpa da geração, é culpa da sua liderança obsoleta (a frase dele entra literal no slide 6).
 **Modelo:** editorial-punch (texto em cima, foto P&B gerada na faixa de baixo), escolhido pelo João ("modelo com imagens criadas embaixo").
