@@ -1,0 +1,74 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On a bare wooden office desk lies a single open pay envelope with a few banknotes sticking out. Across the desk, the visitor chair has been pushed back and is empty, slightly turned toward the door, as if the person just left. The open pay envelope is the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On an office desk, an employee ID badge on a lanyard has been left next to a mobile phone lying face up, and a denim jacket hangs over the back of the empty chair. Clearly someone just quit and walked out. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. A long wooden key-and-badge board mounted low on a wall: a row of many small hooks, almost all of them EMPTY, with only two employee badges still hanging. The empty hooks are the clear focus. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old mechanical time clock on a small stand, next to a wall rack holding a row of worn, yellowed punch cards, decades old, with faded handwriting that is illegible. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Inside a small Brazilian company office, 1980s: a middle-aged boss in a suit, seen from BEHIND (back to the camera, face not visible), points his finger angrily at a young employee. The young employee already has his backpack on his shoulder and is turning toward the open door, leaving. Both people fully inside the frame."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An old dusty typewriter on a desk, covered in a thick layer of dust and a few cobwebs, next to an old rotary dial telephone, also dusty. Obsolete office equipment, clearly abandoned in time. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. In a mechanic workshop, an older experienced mechanic and a young apprentice lean together over an open car engine; the older man points at a part with his hand, explaining, and the young apprentice watches with full attention and interest. Both people fully inside the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. On an office desk, a small stack of banknotes lies untouched next to a pen. Behind the desk, a chair is still in use: a suit jacket hangs on it and a coffee mug sits steaming nearby, meaning the person stayed. The untouched money is in the foreground. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. Three young men in shirts and ties walk side by side, seen from BEHIND, entering through the open gate of a factory across the street, confident, on their first day. Faces not visible. All three fully inside the frame."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. In a small company meeting room, an older man in shirt sleeves stands at the head of a table, seen from behind or in profile with his face turned away, explaining something on a sheet of paper; four young employees around the table lean in, engaged, looking at the same sheet. Everyone fully inside the frame."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1960s to 1970s. An office door standing wide open with soft morning light coming in, and in front of it a tidy desk with a chair pulled out, waiting for someone to sit down. Calm, inviting. NO PEOPLE anywhere in the frame, no hands, no faces: a still life of objects only. COMPOSITION DETAIL: the camera is CLOSE, at table height; the wooden desk or surface is LARGE and fills the FULL WIDTH of the frame from the left edge to the right edge and runs past the bottom edge, with the objects big and filling the lower half. Nothing hangs or descends from the top."
+  }
+ ]
+}

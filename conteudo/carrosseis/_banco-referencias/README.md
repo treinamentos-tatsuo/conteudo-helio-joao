@@ -1120,3 +1120,72 @@ Vêm em PNG 1080×1920. Ao **usar como recorte solto** no slide (não como refer
 | 1062.png | Grupo caminhando atras de um lider numa trilha de campo, de costas (gerada IA - carrossel 231, liderar e unir) | lideranca, seguir, caminho |
 | 1063.png | Mesa comprida com cadeiras todas diferentes em volta (gerada IA - carrossel 231, liderar e unir) | cultura, reuniao, oferta, gente diferente |
 | 1064.png | Grupo de pessoas diferentes de costas, abracadas ombro a ombro (gerada IA - carrossel 231, liderar e unir) | uniao, time, cta |
+
+| 1065.png | Homem firme de pe no cais na tempestade, os outros agachados de costas (gerada IA - carrossel 244, lider forte repost) | firmeza, lider forte, resistencia, capa, tempestade |
+| 1066.png | Poltrona funda ao lado de escada ingreme (gerada IA - carrossel 244, lider forte repost) | conforto x crescer, escolha |
+| 1067.png | Mao recusando copo de remedio amargo (gerada IA - carrossel 244, lider forte repost) | desconforto, recusa, frágil |
+| 1068.png | Martelo, lima e esquadro lado a lado na bancada (gerada IA - carrossel 244, lider forte repost) | tres tipos, ferramentas, lideranca |
+| 1069.png | Mestre marceneiro apontando defeito pro aprendiz (gerada IA - carrossel 244, lider forte repost) | feedback direto, ensinar, corrigir |
+| 1070.png | Maos de alfaiate desfazendo costura torta (gerada IA - carrossel 244, lider forte repost) | corrigir, refazer, seguir trabalhando |
+| 1071.png | Jovem de bracos cruzados na calcada e homem estendendo pa (gerada IA - carrossel 244, lider forte repost) | vitimismo, trabalho, responsabilidade |
+| 1072.png | Muda fraca na redoma ao lado de planta firme ao ar livre (gerada IA - carrossel 244, lider forte repost) | passar a mao na cabeca, superprotecao, potencial |
+| 1073.png | Prumo reto ao lado de muro de tijolos na chuva (gerada IA - carrossel 244, lider forte repost) | padrao alto, sob pressao, prumo |
+| 1074.png | Barco a deriva e barco com timoneiro firme na tempestade (gerada IA - carrossel 244, lider forte repost) | fracos x fortes, firmeza, crise |
+| 1075.png | Tabua cortada torta junto ao esquadro reto (gerada IA - carrossel 244, lider forte repost) | padrao, erro, desculpa, regua |
+| 1076.png | Capataz de costas diante de operarios de bracos cruzados (gerada IA - carrossel 244, lider forte repost) | lideranca firme, arrogancia, resistencia do time |
+| 1077.png | Dono a porta da oficina e time concentrado ao fundo (gerada IA - carrossel 244, lider forte repost) | respeito em silencio, autoridade, cultura |
+| 1078.png | Mesa simples com caderno aberto e caneta (gerada IA - carrossel 244, lider forte repost) | oferta, gestao, reuniao |
+| 1079.png | Poste de ferro reto no capim em pe (gerada IA - carrossel 244, lider forte repost) | firmeza, cta, bookend |
+| 1080.png | Cartilha no padrao Caminho Suave sobre a carteira, so a pagina do A: abelha simples, abelha com 'a' em cinza, vogais, Cubra e copie a lapis; P&B horizontal (gerada IA - carrossel 253, cartilha caminho suave) | cartilha, infancia, padrao, aprender |
+| 1081.png | Cartilha no padrao Caminho Suave sobre a carteira, so a pagina do B: bebe com b na barriga, ba em cinza, Eu vejo a barriga do bebe, Cubra e copie a lapis; P&B horizontal (gerada IA - carrossel 253, cartilha caminho suave) | cartilha, infancia, padrao, repeticao |
+| 1082.png | Sala de aula anos 70, criancas na mesma cartilha e professora conferindo caderno (gerada IA - carrossel 253, cartilha caminho suave) | mesma cartilha, padrao, acompanhamento, infancia |
+| 1083.png | Cinco blocos de pedido iguais preenchidos de cinco jeitos (gerada IA - carrossel 253, cartilha caminho suave) | sem padrao, cada um faz de um jeito, vendas |
+| 1084.png | Vendedor veterano largado com pe na mesa e novato copiando a pose (gerada IA - carrossel 253, cartilha caminho suave) | novato aprende com o pior, cultura, vicio |
+| 1085.png | Estante de pastas com etiquetas em branco e fichario vazio (gerada IA - carrossel 253, cartilha caminho suave) | sem processo escrito, so na cabeca do dono |
+| 1086.png | Dono no celular de costas pra familia no almoco de ferias (gerada IA - carrossel 253, cartilha caminho suave) | dono refem, ferias, familia, tempo |
+| 1087.png | Cartilha antiga aberta ao lado de fichario-manual da empresa (gerada IA - carrossel 253, cartilha caminho suave) | playbook, cartilha da empresa, processo |
+| 1088.png | Funcionario novo e veterano lendo a mesma pagina do fichario (gerada IA - carrossel 253, cartilha caminho suave) | mesma pagina, padrao, integracao |
+| 1089.png | Computador velho desligado com fichario empoeirado e planta morta (gerada IA - carrossel 253, cartilha caminho suave) | playbook abandonado, sem acompanhamento |
+| 1090.png | Time inteiro na mesa de reuniao com o mesmo fichario aberto (gerada IA - carrossel 253, cartilha caminho suave) | oferta, gestao, time alinhado |
+| 1091.png | Cartilha antiga fechada sobre a mesa do dono com agenda e caneta (gerada IA - carrossel 253, cartilha caminho suave) | cta, cartilha, bookend |
+| 1092.png | Mesa do refeitorio com marmitas e a cadeira da cabeceira vazia (gerada IA - carrossel 251, pequeno perto) | sem ser pra cobrar, dono ausente, time, almoco |
+| 1093.png | Mesa de escritorio arrumada com cracha sobre carta dobrada (gerada IA - carrossel 251, pequeno perto) | pediu as contas, saida, ultimo a saber |
+| 1094.png | Contrato com caneta-tinteiro cara sobre mesa de luxo (gerada IA - carrossel 251, pequeno perto) | proposta da multinacional, salario, contrato |
+| 1095.png | Cofre de banco aberto cheio de macos de dinheiro (gerada IA - carrossel 251, pequeno perto) | capital do grande, o que o dinheiro nao compra |
+| 1096.png | Cracha antigo amarelado ao lado do relogio de ponto (gerada IA - carrossel 251, pequeno perto) | 24 anos de casa, lealdade, tempo |
+| 1097.png | Dois banquinhos com xicaras de cafe num caixote no chao de fabrica (gerada IA - carrossel 251, pequeno perto) | proximidade, lado a lado, dono perto |
+| 1098.png | Porta de geladeira com fotos de familia, desenho de crianca e cachorro (gerada IA - carrossel 251, pequeno perto) | conhecer a familia, vinculo, perto |
+| 1099.png | Porta de escritorio fechada no fim do corredor (gerada IA - carrossel 251, pequeno perto) | distancia, sala com porta, dono inacessivel |
+| 1100.png | Escritorio envidracado no mezanino acima do galpao (gerada IA - carrossel 251, pequeno perto) | pedestal, distancia, copiar o grande |
+| 1101.png | Dois holerites lado a lado com regua em cima (gerada IA - carrossel 251, pequeno perto) | contracheque, comparar salario |
+| 1102.png | Porta do escritorio aberta para o galpao (gerada IA - carrossel 251, pequeno perto) | descer da sala, abrir a porta, proximidade |
+| 1103.png | Sala de treinamento vazia com graficos no quadro (gerada IA - carrossel 251, pequeno perto) | oferta, treinamento, gestao |
+| 1104.png | Canecas diferentes penduradas lado a lado na copa (gerada IA - carrossel 251, pequeno perto) | cta, cada um do time, perto |
+| 1105.png | Manequim de alfaiataria montado com partes que nao combinam e costuras grossas (gerada IA - carrossel 252, empresa frankenstein) | frankenstein, cada um faz do seu jeito, empresa sem padrao |
+| 1106.png | Tres gavetas de arquivo abertas com a mesma ficha guardada de tres jeitos (gerada IA - carrossel 252, empresa frankenstein) | sem padrao, cada um de um jeito, falta de processo |
+| 1107.png | Moeda girando em pe ao lado da campainha de balcao (gerada IA - carrossel 252, empresa frankenstein) | cliente na sorte, atendimento imprevisivel, aposta |
+| 1108.png | Cadeira gasta diante da mesa com pilha de carteiras de trabalho (gerada IA - carrossel 252, empresa frankenstein) | rotatividade, rescisao, problema no mesmo lugar |
+| 1109.png | Folha com papel-carbono copiando o mesmo risco torto (gerada IA - carrossel 252, empresa frankenstein) | copiar o erro, vicio passado adiante, novato |
+| 1110.png | Porta de vidro entreaberta com cracha largado na saida (gerada IA - carrossel 252, empresa frankenstein) | pediu as contas, saida do melhor funcionario |
+| 1111.png | Molho com todas as chaves da empresa sobre a bancada de um funcionario (gerada IA - carrossel 252, empresa frankenstein) | refem de funcionario, dependencia, gente de confianca |
+| 1112.png | Livro antigo de capa de tecido ao lado de um fichario da empresa (gerada IA - carrossel 252, empresa frankenstein) | ponte, conto, historia e empresa |
+| 1113.png | Bancada de medico do seculo XIX com agulha de sutura e instrumentos (gerada IA - carrossel 252, empresa frankenstein) | o medico que costurou, criador, responsabilidade |
+| 1114.png | Carretel de linha e agulha ao lado da caneta-tinteiro do dono (gerada IA - carrossel 252, empresa frankenstein) | o dono costurou, faz do jeito que achar melhor |
+| 1115.png | Almoco de domingo com celular tocando ao lado do prato (gerada IA - carrossel 252, empresa frankenstein) | familia, dono refem, problema no fim de semana |
+| 1116.png | Fileira de pastas de arquivo identicas alinhadas na estante (gerada IA - carrossel 252, empresa frankenstein) | padrao, do jeito que eu quero, ordem |
+| 1117.png | Manual grosso de capa dura com fichas de indice (gerada IA - carrossel 252, empresa frankenstein) | playbook, manual, jeito da casa no papel |
+| 1118.png | Manual aberto com marcador e lapis (gerada IA - carrossel 252, empresa frankenstein) | pagina quatro, nos combinamos, acompanhamento |
+| 1119.png | Agulha refazendo costura sobre pontos velhos arrebentados (gerada IA - carrossel 252, empresa frankenstein) | retrabalho, mesmo erro de novo, costurar de novo |
+| 1120.png | Sala de treinamento vazia com cadeiras viradas pro flipchart (gerada IA - carrossel 252, empresa frankenstein) | oferta, treinamento, gestao |
+| 1121.png | Engrenagens de maquina antiga encaixadas (gerada IA - carrossel 252, empresa frankenstein) | cta, maquina, empresa com padrao |
+| 1122.png | Envelope de pagamento aberto com dinheiro sobre a mesa, cadeira vazia (gerada IA - carrossel J322, geracao z) | salario, so dinheiro, oferta pobre |
+| 1123.png | Cracha, celular e jaqueta deixados na mesa vazia (gerada IA - carrossel J322, geracao z) | pediu as contas, saiu, demissao pelo WhatsApp |
+| 1124.png | Quadro de ganchos de cracha quase vazio, so dois crachas (gerada IA - carrossel J322, geracao z) | rotatividade, quem ficou, time que vai embora |
+| 1125.png | Relogio de ponto antigo com cartoes amarelados (gerada IA - carrossel J322, geracao z) | geracao antiga, trinta anos na mesma empresa |
+| 1126.png | Chefe de terno de costas apontando o dedo pro jovem saindo com mochila (gerada IA - carrossel J322, geracao z) | manda quem pode, autoridade, pedido de demissao |
+| 1127.png | Maquina de escrever empoeirada com telefone de disco (gerada IA - carrossel J322, geracao z) | obsoleto, lideranca velha, parado no tempo |
+| 1128.png | Mecanico velho ensinando aprendiz jovem no motor (gerada IA - carrossel J322, geracao z) | com esse cara eu aprendo, mentor, lider que ensina |
+| 1129.png | Dinheiro intocado na mesa e paleto na cadeira de quem ficou (gerada IA - carrossel J322, geracao z) | ninguem troca lider por dinheiro, quem fica |
+| 1130.png | Tres jovens de camisa e gravata entrando no portao da fabrica vizinha (gerada IA - carrossel J322, geracao z) | concorrente contrata os melhores, futuro, gerentes |
+| 1131.png | Homem mais velho explicando uma folha pra jovens em volta da mesa (gerada IA - carrossel J322, geracao z) | oferta, treinamento, gestao de pessoas |
+| 1132.png | Porta aberta com luz da manha e mesa com cadeira puxada (gerada IA - carrossel J322, geracao z) | cta, convite, time que fica |

@@ -1,0 +1,139 @@
+# J322 — Geração Z não quer só dinheiro. (editorial-punch, perfil do Hélio)
+
+**Status:** aprovado pelo João em 03/11 (texto, imagens refeitas no enquadramento das referências e capa invertida a pedido dele). Publicação: a definir. Entregue em `POSTS/Carrossel sem rosto/NP J322_geracao-z-lideranca-obsoleta/`.
+
+**Origem:** pedido do João em 03/11. Gancho dele, literal na capa: "Geração Z não quer só dinheiro". Narrativa dele: as gerações mudam e as lideranças também precisam mudar; não é culpa da geração, é culpa da sua liderança obsoleta (a frase dele entra literal no slide 6).
+**Modelo:** editorial-punch (texto em cima, foto P&B gerada na faixa de baixo), escolhido pelo João ("modelo com imagens criadas embaixo").
+**Regime:** `tema` (ideia do João, voz e arco nascem no arco do modelo).
+**Lastro MBV:** D1 l.860-875, o Hélio: "ninguém quer nada com nada, essa geração do mimimi, é uma geração fraca que não se compromete com absolutamente nada... a cultura é o que vai definir o tipo de pessoa que vai trabalhar com você"; "dono tem autoridade hierárquica, manda quem pode, obedece quem tem juízo, eu que pago teu salário... até um determinado patamar o comando funciona muito bem... liderança não é autoridade hierárquica". D1 l.1480-1500, o Hélio: "eu quero trabalhar com um cara que eu olho e falo: com esse cara eu aprendo... e aí tem gente que fala: essa geração não quer nada com nada. Claro, cê tá indo no cara errado... nós estamos perto do pleno emprego... qual é a tua perspectiva de carreira?". D3 l.6712 (palestrante convidado): o que retém a geração Z é propósito e experiência. D1 l.2221 (a Regina): "essa geração nova quer muito fazer diferença, elas só são mal interpretadas" (só como conceito; a voz é do Hélio).
+
+## Declarações
+
+- **Interlocutor:** o dono de PME que tem time e reclama da geração nova. O funcionário jovem só aparece em terceira pessoa. Os verbos de solução são de dono: liderar, dar perspectiva, ser alguém com quem vale aprender.
+- **Uma dor só:** o dono perde gente boa e põe a culpa na geração.
+- **Causa técnica:** a liderança do dono ainda é autoridade hierárquica ("manda quem pode, eu pago o seu salário"), que segurava gente quando emprego era raro e não segura quem tem três propostas. Falta liderança: perspectiva de carreira e um líder que o time admira.
+- **Caminho do CTA:** **imersão MBV**. A peça termina com o dono querendo o "como" (liderar essa geração), e o treinamento ensina gestão de pessoas, cultura e liderança. Link `https://rtc.tatsuoacademy.com/v2-maio-org`, UTM `AAAA-MM-DD-GERACAO`.
+- **Palavra-chave:** **GERAÇÃO** (a palavra que o dono usa pra reclamar vira a que ele comenta). No Manychat, 6 grafias: `GERACAO, geracao, Geracao, GERAÇÃO, geração, Geração`; UTM sem acento. Inédita no registro. Painel do Manychat: conferir antes de montar.
+- **Vizinhança:** 165_telefone-sem-fio (30/09, "essa geração não quer nada com nada" no slide 3, PADRAO, 8 com.; o ângulo era delegar sem cartilha). Aqui a reclamação da geração é a tese inteira, e a frase vem com outra redação ("é fraca, não se compromete com nada"). 182_quem-nao-brilha (BRILHO, 87 com., o brilho no olho que some com o dono) e 171_almoco-de-terca ("não te troca nem pelo dobro do salário", eco no slide 8). 200 usou "líder frouxo": fica de fora.
+- **Regras aplicadas:** a peça nunca vira reclamação de funcionário (doutrina: motivação é obra do dono); "eu" no 2, no 3 e na oferta; molde "não é X, é Y" uma vez só, no 6, com a frase do João; sem número de pesquisa (não há dado verificado; o "três propostas na mesa" é fala de dono, não estatística).
+
+## Imagens: slide a slide (a foto diz o punch)
+
+P&B editorial vintage, parede lisa no tom do fundo padrão nos 45% de cima, sujeito nos 55% de baixo. Universo livre, cada foto casa com o punch do seu slide. O Hélio não aparece.
+
+1. **Capa: SÓ TEM SALÁRIO PRA OFERECER** — still: um envelope de pagamento aberto sobre uma mesa de escritório vazia, a cadeira do outro lado afastada, vazia. NO PEOPLE.
+2. **pede as contas pelo WhatsApp numa segunda** — still: um crachá de funcionário e um celular antigo deixados juntos em cima de uma mesa, a jaqueta pendurada no encosto da cadeira vazia. NO PEOPLE.
+3. **quantos ainda trabalham com você?** — still: um quadro de cabides de crachás na parede de baixo, quase todos os ganchos vazios, só dois crachás pendurados. NO PEOPLE.
+4. **a geração do seu pai ficou trinta anos** — still: um relógio de ponto antigo com uma fileira de cartões de ponto gastos e amarelados no suporte. NO PEOPLE.
+5. **manda quem pode, obedece quem tem juízo** — um homem de terno, de costas, apontando o dedo pra um funcionário jovem que já está com a mochila no ombro, virado pra porta. (gente, sem rosto do dono)
+6. **LIDERANÇA OBSOLETA** — still: uma máquina de escrever antiga coberta de pó sobre uma mesa, ao lado de um telefone de disco. NO PEOPLE.
+7. **com esse cara eu aprendo** — um mecânico mais velho e um aprendiz jovem debruçados juntos sobre um motor aberto, o velho mostrando com a mão e o jovem prestando atenção. (gente)
+8. **ninguém troca um líder que admira por quinhentos reais** — still: notas de dinheiro em cima de uma mesa, intocadas, e uma cadeira ainda ocupada por um paletó pendurado (quem ficou). NO PEOPLE.
+9. **os gerentes da empresa dele, não da sua** — um grupo de jovens de camisa e gravata atravessando o portão de uma fábrica vizinha, de costas, entrando. (gente)
+10. **Oferta** — um homem mais velho de pé à frente de um pequeno grupo de jovens em volta de uma mesa, todos olhando pra mesma folha. (gente, sem rosto do dono)
+11. **CTA** — still: uma porta de escritório aberta, luz da manhã entrando, uma mesa arrumada com uma cadeira puxada esperando alguém. NO PEOPLE.
+
+## Slides (texto que renderiza)
+
+Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estrofes. Capa: setup em Source Serif preto + grito em Anton vermelho.
+
+**1 (capa)**
+**GERAÇÃO Z NÃO QUER SÓ DINHEIRO.** (grito em Anton vermelho, em cima)
+E você só tem salário pra oferecer. (Source Serif preto, menor, embaixo)
+
+**2**
+Em toda sala de empresário eu escuto:
+"essa geração é fraca, não se compromete com nada."
+//
+O menino pede as contas pelo WhatsApp
+**e o dono jura que o problema é o menino.**
+
+**3**
+Pode reclamar, eu também já reclamei.
+Mas me responde uma coisa.
+//
+Dos bons que você contratou nos últimos dois anos,
+**quantos ainda trabalham com você?**
+
+**4**
+A geração do seu pai ficava trinta anos na mesma empresa
+porque emprego bom era coisa rara.
+//
+Hoje quem é bom tem três propostas na mesa.
+**E escolhe com quem vai trabalhar.**
+
+**5**
+Aí o dono faz o que aprendeu:
+"manda quem pode, obedece quem tem juízo. Quem paga o seu salário sou eu."
+//
+Isso segurava gente nos anos 90.
+**Hoje, isso vira pedido de demissão.**
+
+**6**
+As gerações mudam.
+E a liderança tem que mudar junto.
+//
+Não é culpa da geração.
+**É culpa da sua liderança obsoleta.**
+
+**7**
+Essa geração quer o que você queria com vinte anos:
+olhar pro chefe e pensar "com esse cara eu aprendo".
+//
+Quer saber pra onde vai crescer
+**e pra que serve o que faz.**
+
+**8**
+O concorrente cobre a sua proposta amanhã.
+Mais quinhentos reais e o seu melhor funcionário vai embora.
+//
+O que ele não cobre é um líder que o time admira.
+**Esse, ninguém troca por quinhentos reais.**
+
+**9**
+Enquanto você reclama da geração,
+o seu concorrente contrata os melhores dela.
+//
+Daqui a dez anos, eles vão ser os gerentes.
+**Da empresa dele, não da sua.**
+
+**10 (oferta)**
+Eu tenho um treinamento de gestão
+pra donos de pequena e média empresa,
+//
+inclusive gestão de pessoas,
+**cultura e liderança.**
+
+**11 (CTA)**
+Quer um time que fica
+porque quer, e não porque precisa?
+//
+Comenta
+**GERAÇÃO**
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+Toda geração já foi chamada de perdida pela geração anterior. A minha foi. A sua também. E o dono que hoje reclama do menino de vinte e poucos anos provavelmente ouviu do pai que não ia dar em nada.
+
+O que mudou não foi o caráter de quem chega. Foi o mercado. Quando emprego bom era raro, o funcionário engolia o chefe ruim pra não perder a vaga. A liderança era o crachá e o salário no fim do mês. Manda quem pode, obedece quem tem juízo.
+
+Hoje quem é bom tem proposta na mesa. E ele não pergunta só quanto você paga. Ele pergunta, mesmo sem falar: com esse cara eu aprendo? Aqui eu cresço? O que eu faço aqui serve pra alguma coisa?
+
+Se a resposta for não, ele vai embora. Numa segunda-feira, pelo WhatsApp, sem aviso prévio caprichado. E o dono conta essa história no almoço como prova de que a geração não presta.
+
+Só que a mesma geração que pede as contas na sua empresa está crescendo na do vizinho. Mesma idade, mesma rede social, mesmo celular. A diferença está em quem lidera.
+
+Liderança não é autoridade de quem assina a folha. Isso segura gente até um certo tamanho de empresa. Daí pra frente, quem quer crescer vai precisar de gente boa, e gente boa escolhe com quem vai trabalhar.
+
+Antes de reclamar da geração, olha pra quem ficou e pra quem foi embora. E pergunta o que eles viram em você.
+
+Comenta GERAÇÃO que eu mando no seu direct o link do MBV, o meu treinamento de gestão pra donos de PME, inclusive gestão de pessoas, cultura e liderança.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+- 03/11, capa: o modelo pede setup pequeno em preto em cima e o grito em Anton vermelho embaixo. O João inverteu: o gancho dele ("Geração Z não quer só dinheiro") vira o grito grande em vermelho, em cima, e "e você só tem salário pra oferecer" fica menor, em preto, embaixo. Não fere a leitura (não é capa toda em Anton); a versão anterior está em `_rodadas/slides-v1/slide-01-v2-grito-embaixo.png`.
