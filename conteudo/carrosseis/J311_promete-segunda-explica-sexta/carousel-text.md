@@ -1,6 +1,6 @@
 # J311 — Segunda você promete. Sexta você explica. (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: quinta 29/10.
+**Status:** postado e APAGADO pelo João em 03/11 ("eu exclui o post acabei de ver que ele não faz sentido pela data do mês que estamos"); saiu do ar minutos depois. Automação SEMANA apagada no Manychat (lixeira) e ficha tirada do registro. A pasta segue com NP no POSTS até o João decidir se volta com ajuste ou sai da fila.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Segunda peça: o J310 fecha em "o diário mostra o dia; se o mês vai fechar é outra conversa"; aqui entra a reunião semanal.
 **Formato:** Notas do iPhone (build do J309).

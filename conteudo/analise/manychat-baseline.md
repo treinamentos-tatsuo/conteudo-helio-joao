@@ -1207,3 +1207,7 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-28-RITMO`; palavras `RITMO, ritm
 
 Caminho **imersão MBV**; `utm_campaign=2026-10-29-TROFEU`; palavras `TROFEU, trofeu, Trofeu, TROFÉU, troféu, Troféu` (busca "trofeu" em 29/10: nenhuma automação); DM "Comissão paga o resultado. Reconhecimento faz o time querer repetir. Quer ver como eu ensino o dono a reconhecer quem bate meta no MBV?" (escrita pelo Claude). Duplicada da RITMO (intocada, LIVE). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261029161725_542556.
 - **29/10 ~13h22, LIVE.** O João avisou "vou postar agora" ~13h15; montada STOPPED, salva, amarrada ao post `DfFar9qEWCl` (legenda "Comissão em dia é obrigação, não motivação…", 1º card em "Mostrar todos") e ativada. `utm_content=https://www.instagram.com/p/DfFar9qEWCl/` acrescentado no botão logo depois. Conferido recarregando: LIVE, post novo no HTML, campaign `2026-10-29-TROFEU`, nada da RITMO.
+
+## 03/11/2026 — `IG | 2026-11-03 | SEMANA | promete segunda explica sexta` (carrossel J311) — APAGADA
+
+Duplicada da TROFEU (intocada), palavras `SEMANA, semana, Semana` (busca em 03/11: nenhuma), DM "Meta que só se olha na sexta vira explicação. Quer ver como eu ensino o dono a acertar a semana ainda no meio dela, no MBV?", campaign `2026-11-03-SEMANA`. Amarrada ao post e ativada no "postei" (~10h55); minutos depois o João apagou o post ("não faz sentido pela data do mês") e pediu pra excluir a automação: interrompida e apagada (lixeira). 0 envios.
