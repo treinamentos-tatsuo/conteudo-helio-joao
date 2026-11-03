@@ -1,6 +1,8 @@
 # J314 — Ele não bate meta há três meses. E continua aí. Por quê? (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: domingo 01/11.
+**Status:** aprovado e postado pelo João em 03/11 ("vou subir ele 12:30"). **Publicação:** no ar em 03/11/2026 ~12h30, post `DfSNT_5EfbJ` (https://www.instagram.com/p/DfSNT_5EfbJ/). Entregue em `POSTS/Carrossel sem rosto/POSTADOS/J314_tres-meses-sem-meta/` e no Drive em `POST CLAUDE/HÉLIO TATSUO/03-11-2026/`.
+
+**Manychat:** `IG | 2026-11-03 | ATITUDE | tres meses sem meta`, duplicada da TROFEU (intocada), 3 grafias, DM "Quem não é cobrado aprende que pode continuar igual. Quer ver como eu ensino o dono a cobrar o time sem amenizar, no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-11-03-ATITUDE` e `utm_content` do post. Montada STOPPED ~10h55; o timer das 12h31 só rodou às 14h36, então ficou LIVE às ~14h40 (cerca de 2h depois do post). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261103173453_011899.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Quinta peça: o J313 fecha no vendedor que não entrega; aqui entra a cobrança e a decisão.
 **Formato:** Notas do iPhone (build do J309).

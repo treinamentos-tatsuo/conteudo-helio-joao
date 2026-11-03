@@ -1211,3 +1211,8 @@ Caminho **imersão MBV**; `utm_campaign=2026-10-29-TROFEU`; palavras `TROFEU, tr
 ## 03/11/2026 — `IG | 2026-11-03 | SEMANA | promete segunda explica sexta` (carrossel J311) — APAGADA
 
 Duplicada da TROFEU (intocada), palavras `SEMANA, semana, Semana` (busca em 03/11: nenhuma), DM "Meta que só se olha na sexta vira explicação. Quer ver como eu ensino o dono a acertar a semana ainda no meio dela, no MBV?", campaign `2026-11-03-SEMANA`. Amarrada ao post e ativada no "postei" (~10h55); minutos depois o João apagou o post ("não faz sentido pela data do mês") e pediu pra excluir a automação: interrompida e apagada (lixeira). 0 envios.
+
+## 03/11/2026 — `IG | 2026-11-03 | ATITUDE | tres meses sem meta` (carrossel J314, formato Notas) — MONTADA STOPPED ~10h55, pras 12h30
+
+Caminho **imersão MBV**; `utm_campaign=2026-11-03-ATITUDE`; palavras `ATITUDE, atitude, Atitude` (busca em 03/11: nenhuma); DM "Quem não é cobrado aprende que pode continuar igual. Quer ver como eu ensino o dono a cobrar o time sem amenizar, no MBV?" (escrita pelo Claude). Duplicada da TROFEU (intocada). O João pediu "o 313 com ATITUDE"; o 313 pede TALENTO, ATITUDE é o 314: perguntado, ele confirmou o J314. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261103173453_011899.
+- **03/11 ~14h40, LIVE (atrasada).** Post `DfSNT_5EfbJ` (legenda "Todo dono tem ou já teve esse vendedor…"), publicado ~12h30. O timer das 12h31 só foi atendido às 14h36 (sessão parada), então a automação ficou ~2h sem rodar: comentários ATITUDE desse intervalo ficaram sem DM. Amarrado antes de ativar; `utm_content=https://www.instagram.com/p/DfSNT_5EfbJ/` no botão. Conferido recarregando: LIVE, post novo no HTML, campaign novo, nada da TROFEU.
