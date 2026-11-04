@@ -1,6 +1,8 @@
 # J313 — Você contrata vendedor depois da primeira entrevista. E passa três meses pagando o erro. (formato Notas, perfil do Hélio)
 
-**Status:** CHECKPOINT 1 — texto e slides pra aprovação do João (27/10), na pasta de aprovação da Área de Trabalho. Publicação prevista: sábado 31/10.
+**Status:** postagem marcada pelo João pra 04/11 às 12h30 (aviso dele em 04/11). Entrega em `POSTS/Carrossel sem rosto/NP J313_contrata-quando-sobra-tempo/`.
+
+**Manychat:** `IG | 2026-11-04 | TALENTO | contrata quando sobra tempo`, duplicada da GERACAO (intocada), 3 grafias, DM "Contratar vendedor é uma venda: precisa de prospecção o ano inteiro, não só quando a vaga abre. Quer ver como eu ensino o dono a montar o time de vendas, da contratação até a meta, no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-11-04-TALENTO`. Montada STOPPED ~10h20; amarrar ao post e ativar às 12h31. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261104130744_877214.
 
 **Origem:** sequência "time comercial" (`_fila/sequencia-time-comercial-2026-10-28.md`), pedida pelo João em 27/10: um Notas por dia até segunda, fluindo de um pro outro sem parecer série. Quarta peça: o J312 fecha no time que cresce e falta gente; aqui entra a contratação de vendedor.
 **Formato:** Notas do iPhone (build do J309).

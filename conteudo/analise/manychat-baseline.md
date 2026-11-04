@@ -1221,3 +1221,7 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-03-ATITUDE`; palavras `ATITUDE, 
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-03-GERACAO`; palavras `GERACAO, geracao, Geracao, GERAÇÃO, geração, Geração` (busca "geracao" em 03/11: nenhuma); DM "Não é a geração que mudou pra pior. É a liderança que ficou pra trás. Quer ver como eu ensino o dono a liderar o time de hoje no MBV?" (escrita pelo Claude). Duplicada da ATITUDE (intocada, LIVE). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261103233142_910603.
 - **03/11 ~20h35, LIVE.** O João avisou "postei" ~20h30; amarrada ao post `DfS98d3Ed8a` (legenda "Toda geração já foi chamada de perdida…") antes de ativar. `utm_content=https://www.instagram.com/p/DfS98d3Ed8a/` no botão. Conferido recarregando: LIVE, post novo no HTML, campaign novo, palavras com acento, nada da ATITUDE.
+
+## 04/11/2026 — `IG | 2026-11-04 | TALENTO | contrata quando sobra tempo` (carrossel J313, formato Notas) — MONTADA STOPPED ~10h20, pras 12h30
+
+Caminho **imersão MBV**; `utm_campaign=2026-11-04-TALENTO`; palavras `TALENTO, talento, Talento` (busca "talento" em 04/11: nenhuma); DM "Contratar vendedor é uma venda: precisa de prospecção o ano inteiro, não só quando a vaga abre. Quer ver como eu ensino o dono a montar o time de vendas, da contratação até a meta, no MBV?" (escrita pelo Claude). Duplicada da GERACAO (intocada, LIVE). Pedido do João chegou pela conversa Frase foto. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261104130744_877214.
