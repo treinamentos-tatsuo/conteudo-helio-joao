@@ -1244,3 +1244,5 @@ Material em `G:\Meu Drive\POST CLAUDE\HÉLIO TATSUO\04-11-2026\` (kit e `00-PROG
 ## 04/11/2026 — `IG | 2026-11-04 | LIDERAR | geracao passada e atual` (carrossel J326, editorial-punch) — MONTADA STOPPED ~15h25, pras 19h
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-04-LIDERAR`; palavras `LIDERAR, liderar, Liderar` (busca "liderar" em 04/11: só a UNIR, que tem "liderar" no nome, não na palavra); DM "Ninguém ensinou o seu gerente a liderar: ele repete o chefe que teve. Quer ver como eu ensino o dono a montar a cultura que segura gente boa de qualquer idade, no MBV?" (escrita pelo Claude). Duplicada da TALENTO (intocada, LIVE). A aba do Chrome não tirava screenshot, então a montagem foi feita por JS (setter nativo) e conferida recarregando. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261104182058_955239.
+
+LIVE antecipada ~17h05 de 04/11, a pedido do João ("pode deixar ativada já... não sei se vou estar com o computador ligado na hora"): gatilho trocado de publicação específica pra **próxima publicação ou Reel**, e ativada. Fica sem `utm_content` até alguém amarrar ao post. Risco: qualquer post publicado antes do J326 pega a automação.
