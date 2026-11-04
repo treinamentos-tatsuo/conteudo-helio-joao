@@ -5,40 +5,42 @@
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1350px;background:#0A0A0A;font-family:Montserrat,sans-serif;color:#fff;overflow:hidden}
 .page{position:relative;width:1080px;height:1350px;padding:84px 84px 0}
-.top{display:flex;justify-content:space-between;align-items:center}
-.top img{height:58px}
+.foto{position:absolute;left:470px;bottom:150px;width:610px;height:920px;background:url(messias-pb.jpg) 0 0/auto 100% no-repeat;
+  -webkit-mask-image:linear-gradient(to right,transparent 0,#000 28%),linear-gradient(to bottom,transparent 0,#000 12%);
+  -webkit-mask-composite:source-in;mask-composite:intersect}
+.txt{position:relative;z-index:2;width:470px}
 .eyebrow{font-weight:600;font-size:22px;letter-spacing:.22em;text-transform:uppercase;color:#9A9A9A}
 .eyebrow.red{color:#A91C20}
-.tag{margin-top:120px}
-h1{margin-top:22px;font-weight:900;font-size:128px;line-height:.92;letter-spacing:-.03em;text-transform:uppercase}
+.tag{margin-top:215px}
+h1{margin-top:22px;font-weight:900;font-size:74px;line-height:.98;letter-spacing:-.03em;text-transform:uppercase}
 h1 .r{color:#A91C20}
-.com{margin-top:34px;font-weight:500;font-size:40px;color:#C7C7C7}
+.com{margin-top:30px;font-weight:500;font-size:38px;color:#C7C7C7}
 .com b{font-weight:800;color:#fff}
-.data{margin-top:64px;display:flex;border-top:1px solid rgba(255,255,255,.14);border-bottom:1px solid rgba(255,255,255,.14)}
-.data div{flex:1;padding:30px 0}
-.data div+div{border-left:1px solid rgba(255,255,255,.14);padding-left:40px}
-.data .v{font-weight:900;font-size:72px;letter-spacing:-.02em;line-height:1;margin-top:12px}
-.obj{margin-top:56px;display:flex;gap:28px}
+.data{margin-top:56px;border-top:1px solid rgba(255,255,255,.14)}
+.data div{padding:22px 0;border-bottom:1px solid rgba(255,255,255,.14);display:flex;align-items:baseline;justify-content:space-between}
+.data .v{font-weight:900;font-size:52px;letter-spacing:-.02em;line-height:1}
+.obj{margin-top:48px;display:flex;gap:24px}
 .obj .bar{width:6px;background:#A91C20;flex:none}
-.obj p{font-weight:500;font-size:34px;line-height:1.38;color:#E6E6E6;margin-top:14px}
-.foot{position:absolute;left:0;right:0;bottom:0;height:150px;border-top:1px solid rgba(255,255,255,.14);display:flex;align-items:center;justify-content:space-between;padding:0 84px}
+.obj p{font-weight:500;font-size:25px;line-height:1.4;color:#E6E6E6;margin-top:12px}
+.foot{position:absolute;left:0;right:0;bottom:0;height:150px;border-top:1px solid rgba(255,255,255,.14);display:flex;align-items:center;justify-content:space-between;padding:0 84px;background:#0A0A0A;z-index:3}
 .foot img{opacity:.92}
 .foot .alta{height:56px}.foot .acqua{height:58px}.foot .tatsuo{height:64px}
 </style></head><body><div class="page">
-  <div class="top">
+  <div class="foto"></div>
+  <div class="txt">
     <span class="eyebrow">Treinamento · Time todo</span>
+    <div class="eyebrow red tag">Tema</div>
+    <h1>Fazendo a<br><span class="r">diferença</span></h1>
+    <div class="com">com <b>Messias</b></div>
+    <div class="data">
+      <div><span class="eyebrow">Data</span><span class="v">06 NOV</span></div>
+      <div><span class="eyebrow">Horário</span><span class="v">15H</span></div>
+    </div>
+    <div class="obj"><div class="bar"></div><div>
+      <span class="eyebrow">Objetivo</span>
+      <p>Descobrir caminhos para contribuir com o meu sucesso profissional e fazer a diferença na empresa que represento.</p>
+    </div></div>
   </div>
-  <div class="eyebrow red tag">Tema</div>
-  <h1>Fazendo<br>a <span class="r">diferença</span></h1>
-  <div class="com">com <b>Messias</b></div>
-  <div class="data">
-    <div><span class="eyebrow">Data</span><div class="v">06 NOV</div></div>
-    <div><span class="eyebrow">Horário</span><div class="v">15H</div></div>
-  </div>
-  <div class="obj"><div class="bar"></div><div>
-    <span class="eyebrow">Objetivo</span>
-    <p>Descobrir caminhos para contribuir com o meu sucesso profissional e fazer a diferença na empresa que represento.</p>
-  </div></div>
   <div class="foot">
     <img class="alta" src="logo-alta-branco.png">
     <img class="acqua" src="logo-acqua-branco.png">
