@@ -1189,3 +1189,14 @@ Vêm em PNG 1080×1920. Ao **usar como recorte solto** no slide (não como refer
 | 1130.png | Tres jovens de camisa e gravata entrando no portao da fabrica vizinha (gerada IA - carrossel J322, geracao z) | concorrente contrata os melhores, futuro, gerentes |
 | 1131.png | Homem mais velho explicando uma folha pra jovens em volta da mesa (gerada IA - carrossel J322, geracao z) | oferta, treinamento, gestao de pessoas |
 | 1132.png | Porta aberta com luz da manha e mesa com cadeira puxada (gerada IA - carrossel J322, geracao z) | cta, convite, time que fica |
+| 1133.png | Duas cadeiras vazias, uma de couro velha e uma simples nova, viradas pra porta (gerada IA - carrossel J326, geracao passada e atual) | duas geracoes, perder os dois, saida |
+| 1134.png | Mesa comprida com duas xicaras de cafe, uma em cada ponta (gerada IA - carrossel J326, geracao passada e atual) | briga, distancia, dono no meio |
+| 1135.png | Pilha de pastas, paletó na cadeira e luminaria acesa (gerada IA - carrossel J326, geracao passada e atual) | virar noite, geracao passada, aguentar |
+| 1136.png | Rapaz jovem lendo uma folha com a testa franzida (gerada IA - carrossel J326, geracao passada e atual) | pra que serve, porque, geracao atual |
+| 1137.png | Calendario de mesa aberto em AGOSTO com cracha deixado ao lado (gerada IA - carrossel J326, geracao passada e atual) | pedir as contas, retorno tardio, saida |
+| 1138.png | Bilhete preso sob peso de papel com caneta tinteiro (gerada IA - carrossel J326, geracao passada e atual) | ordem sem explicacao, capricho de chefe |
+| 1139.png | Escada de madeira e bancada com ferramentas organizadas (gerada IA - carrossel J326, geracao passada e atual) | degrau, carreira, aprender |
+| 1140.png | Retrato antigo de patrao de bigode ao lado de carimbo (gerada IA - carrossel J326, geracao passada e atual) | liderado trinta anos atras, chefe antigo |
+| 1141.png | Duas trilhas de terra que chegam a mesma porteira (gerada IA - carrossel J326, geracao passada e atual) | mesma meta, caminhos diferentes |
+| 1142.png | Homem mais velho mostrando planta a dois funcionarios de idades diferentes (gerada IA - carrossel J326, geracao passada e atual) | oferta, treinamento, cultura |
+| 1143.png | Mesa de reuniao com cadeiras de modelos diferentes, todas puxadas (gerada IA - carrossel J326, geracao passada e atual) | cta, time misto, mesma meta |

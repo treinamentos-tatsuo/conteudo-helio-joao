@@ -1240,3 +1240,7 @@ Material em `G:\Meu Drive\POST CLAUDE\HÉLIO TATSUO\04-11-2026\` (kit e `00-PROG
   - Erro de digitação no campo URL do flow: o `type` comeu o 1º caractere ("h") num replace com seleção por shift+setas, e `setSelectionRange` por JS não é respeitado (o caractere entra onde foi o clique). Corrigir por ctrl+Home + ArrowRight×N + Backspace, conferindo por JS.
 - Timer das 17h01 armado (bash em segundo plano) pra amarrar e ativar a 290; keep-awake pedido ao app.
 - **04/11 ~12h35, LIVE.** Post `DfUyC3MEQkZ` (legenda "Você contrata vendedor depois da primeira entrevista…"), publicado ~12h30; o timer das 12h31 foi atendido na hora. Amarrado antes de ativar; `utm_content=https://www.instagram.com/p/DfUyC3MEQkZ/` no botão. Conferido recarregando: LIVE, post novo no HTML, campaign novo, nada da GERACAO.
+
+## 04/11/2026 — `IG | 2026-11-04 | LIDERAR | geracao passada e atual` (carrossel J326, editorial-punch) — MONTADA STOPPED ~15h25, pras 19h
+
+Caminho **imersão MBV**; `utm_campaign=2026-11-04-LIDERAR`; palavras `LIDERAR, liderar, Liderar` (busca "liderar" em 04/11: só a UNIR, que tem "liderar" no nome, não na palavra); DM "Ninguém ensinou o seu gerente a liderar: ele repete o chefe que teve. Quer ver como eu ensino o dono a montar a cultura que segura gente boa de qualquer idade, no MBV?" (escrita pelo Claude). Duplicada da TALENTO (intocada, LIVE). A aba do Chrome não tirava screenshot, então a montagem foi feita por JS (setter nativo) e conferida recarregando. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261104182058_955239.
