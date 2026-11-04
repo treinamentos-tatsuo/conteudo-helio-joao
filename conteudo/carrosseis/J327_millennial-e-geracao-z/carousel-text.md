@@ -1,6 +1,6 @@
 # Post J327 — "Você lidera millennial e geração Z do mesmo jeito?" (perfil Tatsuo Academy)
 
-**Status:** CHECKPOINT 1 — texto v1 pra aprovação do João (04/11).
+**Status:** texto aprovado pelo João em 04/11 ("crie as imagens.. quero no modelo com desenhos riscados"); 8 slides handmade montados, aguardando avaliação.
 **Origem:** a v1 do J326 (`J326_geracao-z-e-millennials/_rodadas/v1.md`), que o João achou jovial demais pro Hélio e boa pra Academy ("a primeira versão que vc fez acho que ficaria ótima para a Tatsuo Academy"). O J326 final (geração passada × geração atual, LIDERAR) vai ao ar no @helio.tatsuo.
 **Modelo:** handmade, no layout do J278, J307 e J317.
 **Perfil Tatsuo Academy: sem /etiqueta, sem Manychat, CTA link na bio.**
