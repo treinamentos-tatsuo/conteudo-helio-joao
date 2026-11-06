@@ -70,7 +70,7 @@ slide(at(6),  st(("No dia 25, você chama", B), ("a reunião de emergência.", B
             + st(("Mas aí só sobra um jeito", R), ("de fechar o mês.", R)), fs=48)
 slide(at(7),  st(("Dez por cento de desconto,", B), ("noventa dias de prazo", B), ("e o frete por sua conta.", B))
             + st(("Você bate a meta", R), ("e não sobra nada.", R)), fs=50)
-slide(at(8),  st(("Por isso eu não espero o dia 25.", B), ("Peço pro vendedor um número", B), ("que ele bate chova ou faça sol.", B))
+slide(at(8),  st(("Por isso eu não espero o dia 25.", B), ("Peço pro vendedor um número", B), ("que ele bate faça chuva ou faça sol.", B))
             + st(("E cobro esse número", R), ("todo dia.", R)), fs=48)
 slide(at(9),  st(("Quando ele fica devendo,", B), ("eu não aceito promessa.", B))
             + st(("Eu pergunto qual cliente,", R), ("que horário e quem ajuda.", R)), fs=50)

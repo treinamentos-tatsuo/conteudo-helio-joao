@@ -57,7 +57,7 @@ Dez por cento de desconto, / noventa dias de prazo / e o frete por sua conta.
 **Você bate a meta / e não sobra nada.**
 
 **8** · img homem na chuva
-Por isso eu não espero o dia 25. / Peço pro vendedor um número / que ele bate chova ou faça sol.
+Por isso eu não espero o dia 25. / Peço pro vendedor um número / que ele bate faça chuva ou faça sol.
 //
 **E cobro esse número / todo dia.**
 
