@@ -1,6 +1,6 @@
 # J332 — Semana que vem a gente tira. (editorial-punch, perfil do Hélio)
 
-**Status:** v1 aguardando o CHECKPOINT 1 (06/11).
+**Status:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
 
 **Origem:** pedido do João em 06/11: carrossel do modelo sem foto, com imagens de IA, pra hoje, dando continuidade ao J329 (a primeira semana da meta, no ar às 12h30). O J329 perguntou quanto da meta já entrou e mostrou que a meta tem que descer até o dia. Este pega o passo seguinte: o atraso apareceu, e o que o dono faz com ele. A dor nova é a promessa de recuperar que ele aceita, e a diferença que vai pro fim do mês e sai em desconto.
 **Modelo:** editorial-punch (build do J326).
