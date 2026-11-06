@@ -1,9 +1,12 @@
 # J332 — Semana que vem a gente tira. (editorial-punch, perfil do Hélio)
 
-**Status (v6, 06/11):** narrativa encadeada (ver nota em Slides). Aguardando aprovação.
+**Status:** aprovado pelo João em 06/11 (v6 + slide 8 com "faça chuva ou faça sol"; "está aprovado.. vou postar ele hoje no perfil as 19h"). Postagem 06/11 às 19h. Entregue em `POSTS/Carrossel sem rosto/NP J332_semana-que-vem-a-gente-tira/`.
+**Status (v6, 06/11):** narrativa encadeada (ver nota em Slides).
 **Status (v5, 06/11):** texto enxugado e 12 slides (ver nota na seção Slides). Aguardando aprovação.
 **Status (v3, 06/11):** capa dividida em dois slides a pedido do João ("separar em dois slides a primeira frase para construir a ideia e a parte vermelha no segundo com o punch"). Argumentei que a capa sem grito vermelho perde o feed; ele mandou criar as imagens e foi a proposta do meio: capa com "E VOCÊ ACREDITOU." e o preço num slide só dele (novo slide 2, imagem nova da mão pagando com dinheiro). 10 slides.
 **Status anterior:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
+
+**Manychat:** `IG | 2026-11-06 | PLANO | semana que vem a gente tira`, duplicada da AJUSTE, 3 grafias, DM "Promessa sem plano é só o atraso com data marcada. Quer ver como eu ensino o dono a cobrar o número todo dia e a tirar a diferença antes que ela vire desconto, no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-11-06-PLANO`. Montada STOPPED ~16h05; amarrar ao post e ativar às 19h01. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261106185727_853810.
 
 **Origem:** pedido do João em 06/11: carrossel do modelo sem foto, com imagens de IA, pra hoje, dando continuidade ao J329 (a primeira semana da meta, no ar às 12h30). O J329 perguntou quanto da meta já entrou e mostrou que a meta tem que descer até o dia. Este pega o passo seguinte: o atraso apareceu, e o que o dono faz com ele. A dor nova é a promessa de recuperar que ele aceita, e a diferença que vai pro fim do mês e sai em desconto.
 **Modelo:** editorial-punch (build do J326).
