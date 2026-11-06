@@ -1,5 +1,6 @@
 # J332 — Semana que vem a gente tira. (editorial-punch, perfil do Hélio)
 
+**Status (v6, 06/11):** narrativa encadeada (ver nota em Slides). Aguardando aprovação.
 **Status (v5, 06/11):** texto enxugado e 12 slides (ver nota na seção Slides). Aguardando aprovação.
 **Status (v3, 06/11):** capa dividida em dois slides a pedido do João ("separar em dois slides a primeira frase para construir a ideia e a parte vermelha no segundo com o punch"). Argumentei que a capa sem grito vermelho perde o feed; ele mandou criar as imagens e foi a proposta do meio: capa com "E VOCÊ ACREDITOU." e o preço num slide só dele (novo slide 2, imagem nova da mão pagando com dinheiro). 10 slides.
 **Status anterior:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
@@ -20,7 +21,7 @@
 ## Slides (texto que renderiza)
 
 Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estrofes. Capa e slide 2: setup em Source Serif preto + grito em Anton vermelho.
-v5 (06/11, pedido do João: "a maioria dos slides tem muito texto... veja o que dá pra reduzir e os que não der divide em dois"): texto enxugado; o antigo 3 virou 3 e 4, e o antigo 8 virou 9 e 10. 12 slides.
+v6 (06/11, pedido do João: "na narrativa o storytelling tem que ficar mais fluido"): cada slide puxa o próximo, e a ordem do tempo foi corrigida (promessa, dia seguinte, a diferença empurrada, dia 25, dia 30, virada). 12 slides.
 
 **1 (capa)** · img dedos cruzados
 O gerente jurou que semana que vem tira a diferença.
@@ -31,35 +32,32 @@ No dia 30, / você paga essa promessa
 **COM A SUA MARGEM.** (Anton)
 
 **3** · img telefone mudo
-O vendedor promete dez ligações / e faz três.
+E ela começa pequena. / O vendedor marca dez ligações / e faz três.
 //
-Aí jura que amanhã
-**faz dezessete.**
+**Aí jura que amanhã / faz dezessete.**
 
 **4** · img bloco de largada vazio
-Em 38 anos de empresa, / eu aprendi:
+Só que quem não fez dez ontem / não faz dezessete hoje.
 //
-**quem não fez dez ontem / não faz dezessete hoje.**
+**No dia seguinte, / ele faz três de novo.**
 
-**5** · img tesoura na etiqueta
-A diferença não some. / Ela só vai mudando de data.
+**5** · img ampulheta
+E a diferença vai sendo empurrada: / pra amanhã, pra semana que vem...
 //
-E no dia 30, quando não dá / mais pra empurrar,
-**ela vira desconto.**
+**até chegar o dia 25.**
 
-**6** · img troféu e caixa vazia
-O vendedor liga oferecendo dez por cento, / noventa dias e o frete por sua conta.
+**6** · img homem perdendo o trem
+No dia 25, você chama / a reunião de emergência. / Grita, cobra e inventa campanha.
+//
+**Mas aí só sobra um jeito / de fechar o mês.**
+
+**7** · img troféu e caixa vazia
+Dez por cento de desconto, / noventa dias de prazo / e o frete por sua conta.
 //
 **Você bate a meta / e não sobra nada.**
 
-**7** · img homem perdendo o trem
-Aí, no dia 25, vem / a reunião de emergência.
-//
-Que não salva o mês.
-**Só escolhe quem leva a culpa.**
-
 **8** · img homem na chuva
-Eu peço pro vendedor um número / que ele bate chova ou faça sol.
+Por isso eu não espero o dia 25. / Peço pro vendedor um número / que ele bate chova ou faça sol.
 //
 **E cobro esse número / todo dia.**
 
@@ -68,7 +66,7 @@ Quando ele fica devendo, / eu não aceito promessa.
 //
 **Eu pergunto qual cliente, / que horário e quem ajuda.**
 
-**10** · img ampulheta
+**10** · img calendário com folhas arrancadas
 Porque promessa sem plano
 //
 **é só o atraso / com data marcada.**
