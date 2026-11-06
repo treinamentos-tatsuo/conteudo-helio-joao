@@ -1,6 +1,8 @@
 # J329 — A primeira semana de novembro acabou. (formato Notas, perfil do Hélio)
 
-**Status:** texto v1, aguardando o CHECKPOINT 1.
+**Status:** aprovado pelo João em 06/11 de primeira (v1, "otimo salve na pasta e programe a automação para 12:30h"). Postagem marcada pra 06/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J329_primeira-semana-da-meta/`.
+
+**Manychat:** `IG | 2026-11-06 | AJUSTE | primeira semana da meta`, duplicada da LIDERAR (intocada, LIVE), 3 grafias, DM "Meta que fica só no quadro do dono não anda. Quer ver como eu ensino o dono a fazer a meta chegar em cada vendedor e a acompanhar toda semana, no MBV?" (escrita pelo Claude), link com `utm_campaign=2026-11-06-AJUSTE`. Montada STOPPED ~09h20; amarrar ao post e ativar às 12h31. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261106121618_197748.
 
 **Origem:** pedido do João em 06/11: "na mesma linha do carrossel 311", sobre metas, com a primeira semana do mês já passada, falando direto com o dono e perguntando como estão as metas da empresa e do time. O J311 foi apagado em 03/11 porque a data não batia ("segunda promete, sexta explica" no começo do mês). Aqui a data é o gancho, então a peça **vence**: tem que ir ao ar até segunda, 09/11.
 **Formato:** Notas do iPhone (build do J311).
