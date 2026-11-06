@@ -57,8 +57,8 @@ def st(*lines, mt=None):
     return f'      <div class="stanza"{extra}>\n' + "\n".join(parts) + '\n      </div>\n'
 B, R, A = "", " red", " anton"
 def at(n): cur[0] = n; return n
-slide(at(1),  st(("O seu time fechou a semana", B), ("atrás da meta, e o gerente jurou:", B))
-            + st(("SEMANA QUE VEM A GENTE TIRA.", A), mt=18), top=280, fs=48)
+slide(at(1),  st(("O gerente jurou que semana que vem", B), ("tira a diferença.", B))
+            + st(("NO DIA 30 VOCÊ PAGA", A), ("COM A SUA MARGEM.", A), mt=18), top=280, fs=48)
 slide(at(2),  st(("Eu escuto essa promessa há 38 anos.", B), ("O vendedor promete dez ligações, faz três", B), ("e jura que amanhã faz dezessete.", B))
             + st(("E eu sempre respondo:", B), ("quem não fez dez ontem", R), ("não vai fazer dezessete hoje.", R)), fs=42)
 slide(at(3),  st(("A diferença não some. Ela só muda de data:", B), ("vai pra amanhã, pra semana que vem,", B), ("pro dia 25.", B))

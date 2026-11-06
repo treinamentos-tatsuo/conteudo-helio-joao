@@ -17,7 +17,7 @@
 
 ## Contexto de cada slide (guia a imagem)
 
-1. Capa: a promessa do gerente na sexta. Imagem: homem de terno visto de costas, mãos atrás do corpo com os dedos cruzados.
+1. Capa: a promessa do gerente e o preço dela, a margem do dono (v2, pedido do João: "o gancho da capa está fraco, precisa ser mais agressivo"; opção A das três). Imagem: homem de terno visto de costas, mãos atrás do corpo com os dedos cruzados.
 2. A conta que não fecha, com a cena do Hélio no MBV. Imagem: telefone antigo de disco, mudo, sobre a mesa vazia.
 3. A diferença muda de data até virar desconto. Imagem: tesoura cortando uma etiqueta de preço em branco.
 4. O mês fecha bonito e a margem vai embora. Imagem: troféu ao lado de uma caixa registradora aberta e vazia.
@@ -32,8 +32,8 @@
 Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estrofes. Capa: setup em Source Serif preto + grito em Anton vermelho.
 
 **1 (capa)**
-O seu time fechou a semana atrás da meta, e o gerente jurou: (Source Serif preto)
-**SEMANA QUE VEM A GENTE TIRA.** (Anton vermelho)
+O gerente jurou que semana que vem tira a diferença. (Source Serif preto)
+**NO DIA 30 VOCÊ PAGA COM A SUA MARGEM.** (Anton vermelho, em duas linhas: não cabe numa só nem a 56px)
 
 **2**
 Eu escuto essa promessa há 38 anos.
