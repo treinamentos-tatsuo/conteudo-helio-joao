@@ -1,5 +1,6 @@
 # J332 — Semana que vem a gente tira. (editorial-punch, perfil do Hélio)
 
+**Status (v5, 06/11):** texto enxugado e 12 slides (ver nota na seção Slides). Aguardando aprovação.
 **Status (v3, 06/11):** capa dividida em dois slides a pedido do João ("separar em dois slides a primeira frase para construir a ideia e a parte vermelha no segundo com o punch"). Argumentei que a capa sem grito vermelho perde o feed; ele mandou criar as imagens e foi a proposta do meio: capa com "E VOCÊ ACREDITOU." e o preço num slide só dele (novo slide 2, imagem nova da mão pagando com dinheiro). 10 slides.
 **Status anterior:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
 
@@ -16,82 +17,70 @@
 - **Palavra-chave:** **PLANO** (o estado desejado: a diferença tirada com plano, não com promessa). Inédita no registro. 3 grafias: `PLANO, plano, Plano`. Painel do Manychat: conferir antes de montar.
 - **Vizinhança:** J329 (AJUSTE, hoje 12h30), J310 (RITMO, "descobre no dia 30"), J314 (ATITUDE). Para não repetir o J329: aqui não entra "quanto já entrou", nem a cascata empresa → vendedor → semana → dia, nem "na última semana só torce". O ângulo novo é a promessa e o desconto do fim do mês.
 
-## Contexto de cada slide (guia a imagem)
-
-1. Capa: a promessa do gerente e o preço dela, a margem do dono (v2, pedido do João: "o gancho da capa está fraco, precisa ser mais agressivo"; opção A das três). Imagem: homem de terno visto de costas, mãos atrás do corpo com os dedos cruzados.
-2. A conta que não fecha, com a cena do Hélio no MBV. Imagem: telefone antigo de disco, mudo, sobre a mesa vazia.
-3. A diferença muda de data até virar desconto. Imagem: tesoura cortando uma etiqueta de preço em branco.
-4. O mês fecha bonito e a margem vai embora. Imagem: troféu ao lado de uma caixa registradora aberta e vazia.
-5. A cobrança da última semana. Imagem: homem de terno correndo na plataforma vazia enquanto o trem vai embora.
-6. A virada: o número que ele bate chova ou faça sol. Imagem: homem de terno com guarda-chuva e pasta andando na chuva.
-7. A conversa do dia seguinte, com plano. Imagem: ampulheta sobre a mesa.
-8. Oferta. Imagem: caderno de capa dura aberto com caneta-tinteiro numa mesa de madeira.
-9. CTA. Imagem: livro-razão aberto com uma marca de visto a lápis.
-
 ## Slides (texto que renderiza)
 
-Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estrofes. Capa: setup em Source Serif preto + grito em Anton vermelho.
+Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estrofes. Capa e slide 2: setup em Source Serif preto + grito em Anton vermelho.
+v5 (06/11, pedido do João: "a maioria dos slides tem muito texto... veja o que dá pra reduzir e os que não der divide em dois"): texto enxugado; o antigo 3 virou 3 e 4, e o antigo 8 virou 9 e 10. 12 slides.
 
-**1 (capa)**
-O gerente jurou que semana que vem tira a diferença. (Source Serif preto)
-**E VOCÊ ACREDITOU.** (Anton vermelho)
+**1 (capa)** · img dedos cruzados
+O gerente jurou que semana que vem tira a diferença.
+**E VOCÊ ACREDITOU.** (Anton)
 
-**2 (o soco, sozinho)**
-No dia 30,
-você paga essa promessa
-**COM A SUA MARGEM.** (Anton vermelho, como o grito da capa: pedido do João)
+**2** · img mão pagando com dinheiro
+No dia 30, / você paga essa promessa
+**COM A SUA MARGEM.** (Anton)
 
-**3**
-Eu escuto essa promessa há 38 anos.
-O vendedor promete dez ligações, faz três e jura que amanhã faz dezessete.
+**3** · img telefone mudo
+O vendedor promete dez ligações / e faz três.
 //
-E eu sempre respondo:
-**quem não fez dez ontem não vai fazer dezessete hoje.**
+Aí jura que amanhã
+**faz dezessete.**
 
-**4**
-A diferença não some. Ela só muda de data:
-vai pra amanhã, pra semana que vem, pro dia 25.
+**4** · img bloco de largada vazio
+Em 38 anos de empresa, / eu aprendi:
 //
-E no dia 30, quando não tem mais pra onde empurrar,
+**quem não fez dez ontem / não faz dezessete hoje.**
+
+**5** · img tesoura na etiqueta
+A diferença não some. / Ela só vai mudando de data.
+//
+E no dia 30, quando não dá / mais pra empurrar,
 **ela vira desconto.**
 
-**5**
-É aí que o vendedor liga pro cliente oferecendo dez por cento,
-prazo de noventa dias e o frete por sua conta.
+**6** · img troféu e caixa vazia
+O vendedor liga oferecendo dez por cento, / noventa dias e o frete por sua conta.
 //
-O mês fecha bonito no painel.
-**Você bateu a meta e não sobrou nada.**
+**Você bate a meta / e não sobra nada.**
 
-**6**
-Aí você faz o que todo dono faz na última semana:
-reunião de emergência, grito e campanha relâmpago.
+**7** · img homem perdendo o trem
+Aí, no dia 25, vem / a reunião de emergência.
 //
-Cobrança no dia 25 não salva o mês.
-**Só escolhe quem vai levar a culpa.**
+Que não salva o mês.
+**Só escolhe quem leva a culpa.**
 
-**7**
-Eu faço diferente. Peço pro vendedor um número
-que ele bate chova ou faça sol.
+**8** · img homem na chuva
+Eu peço pro vendedor um número / que ele bate chova ou faça sol.
 //
-Nem o que me agrada, nem o que é fácil pra ele.
-**O número que ele bate, e que eu cobro todo dia.**
+**E cobro esse número / todo dia.**
 
-**8**
-Quando ele fica devendo, a conversa do dia seguinte é outra:
-qual cliente ele vai ligar, em que horário e quem vai ajudar.
+**9** · img agenda, relógio e telefone
+Quando ele fica devendo, / eu não aceito promessa.
 //
+**Eu pergunto qual cliente, / que horário e quem ajuda.**
+
+**10** · img ampulheta
 Porque promessa sem plano
-**é só o atraso com data marcada.**
-
-**9 (oferta)**
-Eu tenho um treinamento de gestão pra donos de PME: o MBV.
 //
-Lá eu ensino o dono a cobrar o número todo dia e a tirar a diferença antes que ela vire desconto:
-**Lucratividade, Crescimento e Cultura.**
+**é só o atraso / com data marcada.**
 
-**10 (CTA)**
-Quer tirar a diferença na terça-feira,
-e não no dia 30?
+**11 (oferta)** · img caderno e caneta
+Eu tenho um treinamento de gestão / pra donos de PME, o MBV,
+//
+onde eu ensino a cobrar o número
+**antes que ele vire desconto.**
+
+**12 (CTA)** · img livro-razão com visto
+Quer tirar a diferença na terça-feira, / e não no dia 30?
 //
 Comenta **PLANO**
 que eu mando o link no seu direct.

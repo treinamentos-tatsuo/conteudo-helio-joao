@@ -4,7 +4,7 @@ const dir = require('path').resolve(__dirname, '../instagram');
 
 (async () => {
   const list = process.argv.slice(2).map(Number);
-  const nums = list.length ? list : Array.from({ length: 10 }, (_, i) => i + 1);
+  const nums = list.length ? list : Array.from({ length: 12 }, (_, i) => i + 1);
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: 1080, height: 1350 }, deviceScaleFactor: 1 });
   for (const n of nums) {
