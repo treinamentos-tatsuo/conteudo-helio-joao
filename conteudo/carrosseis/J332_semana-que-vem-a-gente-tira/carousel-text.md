@@ -1,6 +1,7 @@
 # J332 — Semana que vem a gente tira. (editorial-punch, perfil do Hélio)
 
-**Status:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
+**Status (v3, 06/11):** capa dividida em dois slides a pedido do João ("separar em dois slides a primeira frase para construir a ideia e a parte vermelha no segundo com o punch"). Argumentei que a capa sem grito vermelho perde o feed; ele mandou criar as imagens e foi a proposta do meio: capa com "E VOCÊ ACREDITOU." e o preço num slide só dele (novo slide 2, imagem nova da mão pagando com dinheiro). 10 slides.
+**Status anterior:** v1 do texto mostrado ao João em 06/11; ele pediu pra ver com as imagens ("crie as imagens para ver como fica"). Slides v1 montados (9 imagens gpt-image-2; a 1 regerada porque os dedos não apareciam cruzados e o paletó tinha corte reto). Aguardando aprovação da peça inteira.
 
 **Origem:** pedido do João em 06/11: carrossel do modelo sem foto, com imagens de IA, pra hoje, dando continuidade ao J329 (a primeira semana da meta, no ar às 12h30). O J329 perguntou quanto da meta já entrou e mostrou que a meta tem que descer até o dia. Este pega o passo seguinte: o atraso apareceu, e o que o dono faz com ele. A dor nova é a promessa de recuperar que ele aceita, e a diferença que vai pro fim do mês e sai em desconto.
 **Modelo:** editorial-punch (build do J326).
@@ -33,57 +34,62 @@ Convenção: linha em **negrito** = punch em vermelho; `//` = respiro entre estr
 
 **1 (capa)**
 O gerente jurou que semana que vem tira a diferença. (Source Serif preto)
-**NO DIA 30 VOCÊ PAGA COM A SUA MARGEM.** (Anton vermelho, em duas linhas: não cabe numa só nem a 56px)
+**E VOCÊ ACREDITOU.** (Anton vermelho)
 
-**2**
+**2 (o soco, sozinho)**
+No dia 30,
+você paga essa promessa
+**com a sua margem.**
+
+**3**
 Eu escuto essa promessa há 38 anos.
 O vendedor promete dez ligações, faz três e jura que amanhã faz dezessete.
 //
 E eu sempre respondo:
 **quem não fez dez ontem não vai fazer dezessete hoje.**
 
-**3**
+**4**
 A diferença não some. Ela só muda de data:
 vai pra amanhã, pra semana que vem, pro dia 25.
 //
 E no dia 30, quando não tem mais pra onde empurrar,
 **ela vira desconto.**
 
-**4**
+**5**
 É aí que o vendedor liga pro cliente oferecendo dez por cento,
 prazo de noventa dias e o frete por sua conta.
 //
 O mês fecha bonito no painel.
 **Você bateu a meta e não sobrou nada.**
 
-**5**
+**6**
 Aí você faz o que todo dono faz na última semana:
 reunião de emergência, grito e campanha relâmpago.
 //
 Cobrança no dia 25 não salva o mês.
 **Só escolhe quem vai levar a culpa.**
 
-**6**
+**7**
 Eu faço diferente. Peço pro vendedor um número
 que ele bate chova ou faça sol.
 //
 Nem o que me agrada, nem o que é fácil pra ele.
 **O número que ele bate, e que eu cobro todo dia.**
 
-**7**
+**8**
 Quando ele fica devendo, a conversa do dia seguinte é outra:
 qual cliente ele vai ligar, em que horário e quem vai ajudar.
 //
 Porque promessa sem plano
 **é só o atraso com data marcada.**
 
-**8 (oferta)**
+**9 (oferta)**
 Eu tenho um treinamento de gestão pra donos de PME: o MBV.
 //
 Lá eu ensino o dono a cobrar o número todo dia e a tirar a diferença antes que ela vire desconto:
 **Lucratividade, Crescimento e Cultura.**
 
-**9 (CTA)**
+**10 (CTA)**
 Quer tirar a diferença na terça-feira,
 e não no dia 30?
 //
