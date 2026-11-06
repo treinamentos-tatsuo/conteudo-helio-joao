@@ -39,7 +39,7 @@ O gerente jurou que semana que vem tira a diferença. (Source Serif preto)
 **2 (o soco, sozinho)**
 No dia 30,
 você paga essa promessa
-**com a sua margem.**
+**COM A SUA MARGEM.** (Anton vermelho, como o grito da capa: pedido do João)
 
 **3**
 Eu escuto essa promessa há 38 anos.
