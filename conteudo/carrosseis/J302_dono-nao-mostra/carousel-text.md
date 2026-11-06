@@ -14,4 +14,4 @@
 
 **Legenda aprovada** sem edição.
 
-**Publicação:** a definir (pasta com NP na POSTS até ir ao ar).
+**Publicação:** já postado (o João confirmou em 06/11; dia e versão da imagem a confirmar). Pasta movida pra `POSTS/Frase sem rosto/Postadas/` sem o NP.

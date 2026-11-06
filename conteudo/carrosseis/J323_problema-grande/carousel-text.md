@@ -12,4 +12,4 @@
 
 **Legenda:** `legenda.txt` v1, 369 caracteres, CTA pro link da bio.
 
-**Publicação:** a definir.
+**Publicação:** já postado (o João confirmou em 06/11; dia e versão da imagem a confirmar). Pasta movida pra `POSTS/Frase sem rosto/Postadas/` sem o NP.

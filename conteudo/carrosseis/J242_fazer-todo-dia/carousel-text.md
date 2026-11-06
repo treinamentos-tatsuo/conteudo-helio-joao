@@ -17,4 +17,4 @@
 
 **Legenda:** `legenda.txt` (347 caracteres); `legenda-v1.txt` (401) enxugada antes de mostrar.
 
-**Publicação:** a definir.
+**Publicação:** já postado (o João confirmou em 06/11; dia e versão da imagem a confirmar). Pasta movida pra `POSTS/Frase sem rosto/Postadas/` sem o NP.
