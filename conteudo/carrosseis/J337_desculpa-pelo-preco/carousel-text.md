@@ -10,8 +10,13 @@
 - Preto: TEM EMPRESA PIOR QUE A SUA / COBRANDO MAIS CARO.
 - Vermelho: A DIFERENÇA É QUE ELA / NÃO PEDE DESCULPA PELO PREÇO.
 
-**Imagem:** base `vidro-base-mid.png`, prompt em `_scripts/prompt-v1.txt`. `vidro-v1` saiu com i minúsculo em "PiOR", "MAiS" e "DiFERENÇA" e foi descartada. **Final: `vidro-v2`**, copiada como `instagram/vidro.png`; grafia e acentos conferidos.
+**Imagem:** base `vidro-base-mid.png`, prompt em `_scripts/prompt-v1.txt`. `vidro-v1` saiu com i minúsculo em "PiOR", "MAiS" e "DiFERENÇA" e foi descartada. `vidro-v2` foi a primeira entrega (07/11).
 
-**Legenda:** `legenda.txt`.
+**Correção do João (07/11): "a fonte da letra está diferente das últimas e ficou pequena em relação à imagem".** O erro foi meu: na v1/v2 o prompt pedia "medium-small size", e com isso o traço afinou. O prompt novo (`_scripts/prompt-v2.txt`) pede marcador grosso e letra grande, o mesmo padrão da J283 e da J288, e passou a frase a 3 linhas por cor pra caber sem cruzar a emenda (nenhuma palavra mudou):
+- Preto: TEM EMPRESA PIOR / QUE A SUA / COBRANDO MAIS CARO.
+- Vermelho: A DIFERENÇA É / QUE ELA NÃO PEDE / DESCULPA PELO PREÇO.
+- `vidro-v3` (letra maior, encosta mais na emenda) e `vidro-v4` (escrita mais natural). Grafia conferida nas duas. **Final: `vidro-v4`**, copiada como `instagram/vidro.png`.
+
+**Legenda:** `legenda.txt` (sem mudança).
 **Entrega:** `~/Desktop/POSTS/FRASE TATSUO ACADEMY/NP J337_desculpa-pelo-preco/` (07/11).
 **Publicação:** a confirmar.
