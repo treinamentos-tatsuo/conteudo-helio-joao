@@ -18,8 +18,12 @@
 - `vidro-v3` (letra maior, encosta mais na emenda) e `vidro-v4` (escrita mais natural). Grafia conferida nas duas. `vidro-v4` foi a segunda entrega.
 
 **Correção do João (07/11): "ficou muito grande a escrita agora, faça com o mesmo padrão de letra do Hélio".** O gabarito é o 210 (`.claude/skills/frase-foto/casos/210-vidro.jpg`): marcador comum, letra com cerca de 5% da altura da imagem, bloco entre 20% e 78% da largura e 3 linhas por cor. Prompt em `_scripts/prompt-v3.txt`.
-- `vidro-v5` (traço mais apagado) e `vidro-v6` (traço mais perto do 210). Grafia conferida nas duas. O João disse "a melhor foi a 210", ou seja, a do padrão 210. **Final: `vidro-v6`**, copiada como `instagram/vidro.png`.
+- `vidro-v5` (traço mais apagado) e `vidro-v6` (traço mais perto do 210). Grafia conferida nas duas. O João disse "a melhor foi a 210", ou seja, a do padrão 210. `vidro-v6` foi a terceira entrega.
 - **Ficou de regra pra vidro da Academy:** usar o tamanho de letra do 210. Frase longa vai a 3 linhas por cor, nunca com letra menor ("medium-small" afina o traço) nem com letra grossa e grande.
+
+**Correção do João (07/11):** ele mandou o 210 ("esse é o padrão de letra que eu quero"), porque a v6 ainda saiu menor e mais fina que o 210. Usei a própria imagem final do 210 como base (`imagens/base-210.png`) e pedi pro motor trocar só o texto, mantendo letra, tamanho, traço e posição (prompt em `_scripts/prompt-v4-sobre-210.txt`). O motor devolveu 1122x1402 (4:5), reduzido pra 1080x1350.
+- `vidro-v7` e `vidro-v8`, com a grafia conferida nas duas. **Final, escolhida pelo João: `vidro-v7`**, copiada como `instagram/vidro.png`.
+- **Método que ficou:** pra copiar a letra do vidro do Hélio, usar a imagem do 210 como base e trocar só o texto. Funciona melhor do que descrever o tamanho no prompt.
 
 **Legenda:** `legenda.txt` (sem mudança).
 **Entrega:** `~/Desktop/POSTS/FRASE TATSUO ACADEMY/NP J337_desculpa-pelo-preco/` (07/11).
