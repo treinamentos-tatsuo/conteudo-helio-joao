@@ -1301,3 +1301,5 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-07-PADRAO`; link `https://mbv.ta
 ## 08/11/2026 — `IG | 2026-11-08 | EQUILIBRIO | ponto de equilibrio` (carrossel J336, Notas) — MONTADA STOPPED em 07/11 ~15h55, pras 12h30 de domingo
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-08-EQUILIBRIO`; link `https://mbv.tatsuoacademy.com/v2`; 6 grafias `EQUILIBRIO, equilibrio, Equilibrio, EQUILÍBRIO, equilíbrio, Equilíbrio`; DM "Quem não sabe o ponto de equilíbrio comemora mês que deu prejuízo. Quer ver como eu ensino o dono a fazer essa conta no MBV?" (escrita pelo Claude). Duplicada da PADRAO de 07/11 (intocada). Busca com e sem acento: nenhuma automação. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261107184901_305484.
+- **Timer 16h01 disparou na hora** (PC acordado). O reel DEGRAU não estava no perfil: checado às 16h02, 16h05, 16h08, 16h13, 16h23 e 16h38, sempre com o mais recente sendo o reel dos depoimentos do MBV 7 (`DfcnWxCBKrV`, legenda com CTA VAGA). Automação continua STOPPED, aguardando o "postei".
+- **Alerta:** o reel `DfcnWxCBKrV` (CTA "Comenta VAGA") está no ar sem automação VAGA no Manychat. Avisado ao João.
