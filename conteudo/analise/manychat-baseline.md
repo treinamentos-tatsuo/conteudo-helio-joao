@@ -1297,3 +1297,7 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-07-DEGRAU`; link `https://mbv.ta
 ## 07/11/2026 — `IG | 2026-11-07 | PADRAO | seja o lider chato` (carrossel J335, editorial-punch) — MONTADA STOPPED ~14h15, pras 19h
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-07-PADRAO`; link `https://mbv.tatsuoacademy.com/v2`; 6 grafias `PADRAO, padrao, Padrao, PADRÃO, padrão, Padrão`; DM "Chato com o padrão, não com a pessoa. Quer ver como eu ensino o dono a ter um time que segura o padrão, no MBV?" (escrita pelo Claude). Duplicada da MARGEM de hoje (intocada, LIVE). Colisão: a busca achou `IG | 2026-09-30 | PADRAO | telefone sem fio` LIVE, mas presa a um post específico, então não dispara no J335. "padrão" com acento não achou nada. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261107170523_246759.
+
+## 08/11/2026 — `IG | 2026-11-08 | EQUILIBRIO | ponto de equilibrio` (carrossel J336, Notas) — MONTADA STOPPED em 07/11 ~15h55, pras 12h30 de domingo
+
+Caminho **imersão MBV**; `utm_campaign=2026-11-08-EQUILIBRIO`; link `https://mbv.tatsuoacademy.com/v2`; 6 grafias `EQUILIBRIO, equilibrio, Equilibrio, EQUILÍBRIO, equilíbrio, Equilíbrio`; DM "Quem não sabe o ponto de equilíbrio comemora mês que deu prejuízo. Quer ver como eu ensino o dono a fazer essa conta no MBV?" (escrita pelo Claude). Duplicada da PADRAO de 07/11 (intocada). Busca com e sem acento: nenhuma automação. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261107184901_305484.
