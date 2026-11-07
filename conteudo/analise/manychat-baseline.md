@@ -1266,9 +1266,11 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-06-AJUSTE`; palavras `AJUSTE, aj
 
 **Amarrada e LIVE (06/11, 12h33):** post DfZ7sprEXH5 (publicado 12h30:34), gatilho trocado do J326 pro J329 em "Mostrar todos"; `utm_content=https://www.instagram.com/p/DfZ7sprEXH5/` no botão; conferida recarregando (LIVE, gatilho com a capa do J329, 3 grafias).
 
-## 06/11/2026 — `IG | 2026-11-06 | PLANO | semana que vem a gente tira` (carrossel J332, editorial-punch) — MONTADA STOPPED ~16h05, pras 19h
+## 06/11/2026 — `IG | 2026-11-06 | PLANO | semana que vem a gente tira` (carrossel J332, editorial-punch) — MONTADA STOPPED ~16h05, pras 19h; LIVE 07/11 ~8h58
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-06-PLANO`; palavras `PLANO, plano, Plano` (nenhuma automação com "plano" no nome em 06/11); DM "Promessa sem plano é só o atraso com data marcada. Quer ver como eu ensino o dono a cobrar o número todo dia e a tirar a diferença antes que ela vire desconto, no MBV?" (escrita pelo Claude). Duplicada da AJUSTE (intocada, LIVE). Gatilho deixado em "próxima publicação"; ficou LIVE por ~1 min às 16h02 por erro de leitura do horário (o carimbo do content ID do Manychat é UTC, 185727 = 15h57 daqui) e foi interrompida às 16h03, antes de qualquer post. Na hora de amarrar: trocar pra "publicação específica" (o J332), conferir o link e pôr `utm_content`. Aba travou duas vezes na edição (save pendente); refeita em aba nova. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261106185727_853810.
+
+**LIVE 07/11 ~8h58** (atrasada): o J332 foi ao ar 06/11 às 19h00 (DfaoSXzFAdl), mas o PC estava dormindo e o timer das 19h01 só disparou 07/11 às 8h52. Foram ~14h sem automação, com 1 comentário no post nesse intervalo. Amarrada ao post específico; o link já estava no novo `https://mbv.tatsuoacademy.com/v2` (troca feita por outra sessão), com `utm_campaign=2026-11-06-PLANO&utm_content=https://www.instagram.com/p/DfaoSXzFAdl/`. Recarregada: LIVE, miniatura do J332.
 
 ## 06/11/2026 — Troca dos links do MBV e do diagnóstico em todas as automações (pedido do João)
 
