@@ -1,0 +1,80 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small fabric and clothing store. A middle-aged CUSTOMER in a plain coat stands ALONE at the front counter, waiting, glancing at his wristwatch with visible impatience; a small service bell sits on the empty counter in front of him. Far behind him, small and soft in the background, two clerks chat and laugh with each other, nobody looking at the customer. The customer is large, sharp and centered."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on an office desk: an old rotary telephone with the handset in its cradle, next to a messy heap of loose order slips and papers spilling over, one slip half fallen off the edge; an empty wooden chair pushed back. NO PEOPLE. The papers show only vague illegible marks."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, an office of a small distribution company. A firm, calm MANAGER in shirt and tie stands beside a seated employee at her desk, leaning slightly and pointing with one finger at a specific line of a document on the desk, serious but respectful; the employee looks exactly at that point, attentive. Both large, chest up, fully inside the frame."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a reception counter: a large mechanical stopwatch lying next to the handset of a telephone, both sharp and centered. NO PEOPLE."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a shoe store. A young SALESMAN leans lazily on the counter with his back half turned to a waiting woman customer, absorbed in reading a folded newspaper; the customer holds a shoe box and looks at him, ignored. Both large and fully inside the frame."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: under a cluttered office desk, a single order form lies crumpled on the dusty floor among dropped papers and a fallen pen, next to the foot of the desk. NO PEOPLE. Paper shows only vague illegible marks."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small furniture workshop. Over a wooden counter, a craftsman's hands hand over a finished wooden chair, neatly wrapped in brown paper and string, to a customer's hands receiving it. Only hands, forearms and the wrapped chair, large and sharp."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a hardware store counter. An older shopkeeper in an apron warmly shakes hands with a returning customer across the counter, both smiling with familiarity, the shopkeeper's other hand already reaching for the item the customer usually buys on the shelf below the counter. Both chest up, fully inside the frame."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life in a small shop's storeroom: a tall wooden cabinet door HANGING CLEARLY CROOKED, sagging open at an angle because its top hinge has come loose, the loose screws visible sticking half out of the wood; right below, on the shelf, a screwdriver lies untouched, as if nobody bothered. The crooked sagging door is large, sharp and obvious. NO PEOPLE."
+  },
+  {
+   "n": 10,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a tailor shop. An older master TAILOR stands at the cutting table showing a young apprentice how to cut fabric with large scissors; the apprentice leans in close, watching intently, with clear admiration. Both large, chest up, fully inside the frame."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a wooden meeting table with open notebooks and pens arranged neatly in front of empty chairs, ready for a class. NO PEOPLE. Notebooks show only vague illegible marks."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a perfectly organized shop counter at opening time, a wooden order book closed and aligned, pens in a cup, a clean bell, everything square and in its place. NO PEOPLE."
+  }
+ ]
+}

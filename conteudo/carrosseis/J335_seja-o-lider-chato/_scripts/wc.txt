@@ -1,0 +1,12 @@
+1 {"wrap":[],"textBottom":647,"imgTop":720}
+2 {"wrap":[],"textBottom":610,"imgTop":410}
+3 {"wrap":[],"textBottom":610,"imgTop":630}
+4 {"wrap":[],"textBottom":644,"imgTop":350}
+5 {"wrap":[],"textBottom":630,"imgTop":410}
+6 {"wrap":[],"textBottom":544,"imgTop":410}
+7 {"wrap":[],"textBottom":520,"imgTop":410}
+8 {"wrap":[],"textBottom":610,"imgTop":410}
+9 {"wrap":[],"textBottom":610,"imgTop":410}
+10 {"wrap":[],"textBottom":610,"imgTop":410}
+11 {"wrap":[],"textBottom":587,"imgTop":350}
+12 {"wrap":[],"textBottom":611,"imgTop":350}
