@@ -15,7 +15,11 @@
 **Correção do João (07/11): "a fonte da letra está diferente das últimas e ficou pequena em relação à imagem".** O erro foi meu: na v1/v2 o prompt pedia "medium-small size", e com isso o traço afinou. O prompt novo (`_scripts/prompt-v2.txt`) pede marcador grosso e letra grande, o mesmo padrão da J283 e da J288, e passou a frase a 3 linhas por cor pra caber sem cruzar a emenda (nenhuma palavra mudou):
 - Preto: TEM EMPRESA PIOR / QUE A SUA / COBRANDO MAIS CARO.
 - Vermelho: A DIFERENÇA É / QUE ELA NÃO PEDE / DESCULPA PELO PREÇO.
-- `vidro-v3` (letra maior, encosta mais na emenda) e `vidro-v4` (escrita mais natural). Grafia conferida nas duas. **Final: `vidro-v4`**, copiada como `instagram/vidro.png`.
+- `vidro-v3` (letra maior, encosta mais na emenda) e `vidro-v4` (escrita mais natural). Grafia conferida nas duas. `vidro-v4` foi a segunda entrega.
+
+**Correção do João (07/11): "ficou muito grande a escrita agora, faça com o mesmo padrão de letra do Hélio".** O gabarito é o 210 (`.claude/skills/frase-foto/casos/210-vidro.jpg`): marcador comum, letra com cerca de 5% da altura da imagem, bloco entre 20% e 78% da largura e 3 linhas por cor. Prompt em `_scripts/prompt-v3.txt`.
+- `vidro-v5` (traço mais apagado) e `vidro-v6` (traço mais perto do 210). Grafia conferida nas duas. O João disse "a melhor foi a 210", ou seja, a do padrão 210. **Final: `vidro-v6`**, copiada como `instagram/vidro.png`.
+- **Ficou de regra pra vidro da Academy:** usar o tamanho de letra do 210. Frase longa vai a 3 linhas por cor, nunca com letra menor ("medium-small" afina o traço) nem com letra grossa e grande.
 
 **Legenda:** `legenda.txt` (sem mudança).
 **Entrega:** `~/Desktop/POSTS/FRASE TATSUO ACADEMY/NP J337_desculpa-pelo-preco/` (07/11).
