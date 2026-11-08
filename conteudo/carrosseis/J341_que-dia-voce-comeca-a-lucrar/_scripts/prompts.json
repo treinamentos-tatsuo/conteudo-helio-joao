@@ -1,0 +1,74 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small company office: the OWNER, a middle-aged man in shirt and tie, sits at his desk with his chin on his hand, staring worried at a large paper wall calendar where the first days of the month are crossed off with pencil. He is large, fully inside the frame. The calendar shows only vague marks, no readable numbers."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a wooden desk: a neat pile of unopened bills and payment envelopes held by a metal clip, next to an old mechanical adding machine with a paper tape and a pencil. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: an old metal cash box open on a shop counter with only a few banknotes and coins inside, a hand-written daily sales slip beside it (illegible). NO PEOPLE, no readable text."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a desk: banknotes being divided into several small brown envelopes, most envelopes already stuffed, only one small envelope at the end almost empty. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a large paper wall calendar pinned to the wall with its bottom part torn away, the last row of days ripped off and lying crumpled on the desk below. The pages show only vague marks, no readable numbers. NO PEOPLE."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, a quiet country road splitting into two paths at a fork, an old wooden signpost with two blank arrow boards pointing different ways. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a desk: a large pair of steel office scissors cutting a long white typed paper invoice (a utility or supplier bill sheet, NOT money, NOT a banknote) in half, the two paper halves separating, a rubber stamp and a pencil beside. NO PEOPLE, no readable text, no banknotes, no coins."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a shop counter: an old brass balance scale tipped clearly to one side, a stack of coins on the heavier pan, beside a cardboard price tag on a string. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a paper desk calendar page with two days firmly circled in pencil, a pencil lying across it and a cup of coffee beside. The page shows only vague marks, no readable numbers. NO PEOPLE."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a wooden desk: an open notebook with handwritten columns of figures (illegible), a fountain pen across it, and a small adding machine. NO PEOPLE."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: an open accounting ledger on a desk with a firm handwritten check mark next to a row (illegible lines), a fountain pen resting on it, an empty coffee cup nearby. NO PEOPLE."
+  }
+ ]
+}

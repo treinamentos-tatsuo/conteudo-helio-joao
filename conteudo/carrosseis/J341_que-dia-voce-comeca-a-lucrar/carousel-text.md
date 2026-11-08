@@ -1,0 +1,102 @@
+# J341 — Que dia você começa a lucrar? (editorial-punch, perfil do Hélio)
+
+**Status:** postado 08/11 às 20h53 (https://www.instagram.com/p/Dff-14uESV4/). Manychat LUCRAR LIVE ~21h, amarrada ao post e com `utm_content` (URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261108235216_144553). Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/08-11-2026/`. Etiqueta: mediana 10-38.
+**Status (aprovação):** aprovado pelo João em 08/11 ("É isso mesmo, salva ele na pasta com a legenda que vou postar ele. Aí você pode criar automação já."). Postagem 08/11 à noite. Entregue em `POSTS/Carrossel sem rosto/NP J341_que-dia-voce-comeca-a-lucrar/`.
+**Status (v2, 08/11):** o João não queria em Notas: "eu não queria ele com um modelo de bloco de nota". O pedido original era o modelo do J332, então refiz em editorial-punch com imagens de IA, 11 slides, no máximo 3 linhas de setup e 2 de punch. A conta e a legenda não mudaram. A versão de Notas está em `_rodadas/notas-v1/`. Aguardando aprovação.
+**Status (v1, 08/11):** versão em Notas mostrada ao João.
+
+**Origem:** pedido do João em 08/11. Ele perguntou qual era o assunto seguinte da apostila do MBV depois de margem e ponto de equilíbrio. Mostrei a ordem do Mapa 1 (DRE gerencial, margem de contribuição, três alavancas, ponto de equilíbrio, "Que dia você começa a lucrar?") e o começo do Mapa 2 (ciclo financeiro). Recomendei a p.30 porque continua o J336 com os mesmos números e combina com a data (segunda semana do mês). Ele escolheu: "faz um carrossel com esse assunto que dia você começa a lucrar".
+**Modelo:** editorial-punch (build do J340, que veio do J339 e do J335). A v1 saiu em Notas por engano meu: a série da margem estava em Notas, mas o João tinha pedido o modelo do J332.
+**Fonte:** apostila MBV, p.30, "Que dia você começa a lucrar?": "Todo mês você trabalha primeiro para pagar a estrutura. Só depois de cobri-la o lucro começa. O ponto de equilíbrio diz quanto; o calendário diz quando." E as duas saídas: cortar gasto fixo ou subir a margem, e "dois dias a menos pagando estrutura são dois dias inteiros de lucro". Os números da apostila (320 mil, 800 mil) foram trocados pelos da série (150 mil, 40%, 500 mil).
+**Lastro MBV:** D1 l.6740-6770: "na segunda-feira cê já começou devendo o gasto fixo do mês".
+
+## Declarações
+
+- **Interlocutor:** o dono de PME, a mesma empresa do J333 e do J336.
+- **Uma dor só:** o dono acha que o lucro vem do mês inteiro, mas o mês inteiro paga a estrutura e o lucro cabe nos últimos dias. Por isso uma semana fraca leva justamente o lucro.
+- **Causa técnica:** gasto fixo ÷ margem de contribuição por dia = o dia em que o lucro começa. As duas alavancas (gasto fixo menor, margem maior) trazem esse dia pra antes.
+- **Caminho do CTA:** **imersão MBV** (pilar Lucratividade). Link `https://mbv.tatsuoacademy.com/v2`, UTM `AAAA-MM-DD-LUCRAR`.
+- **Palavra-chave:** **LUCRAR**. Não aparece como gatilho no registro nem no baseline (só dentro do texto de uma DM, "Faturar não é lucrar"). 3 grafias: `LUCRAR, lucrar, Lucrar`. LUCRO já foi usada (J273, J280), por isso o verbo.
+- **Contas conferidas:** 500 mil ÷ 25 dias = 20 mil por dia; 40% = 8 mil por dia pra estrutura. 150 ÷ 8 = 18,75, então a estrutura fica paga no dia 19. Lucro do mês: 500 × 40% − 150 = 50 mil, ou seja, 6,25 dias × 8 mil. Cortar 15 mil (10%): 135 ÷ 8 = 16,9, dia 17; lucro 200 − 135 = 65 mil. Margem de 45%: 9 mil por dia; 150 ÷ 9 = 16,7, dia 17; lucro 225 − 150 = 75 mil.
+- **Data:** "o mês já está na segunda semana" serve se for ao ar no dia 8 ou no dia 9.
+
+## Slides (texto que renderiza)
+
+Convenção: linha em **negrito** = punch em vermelho; `//` = respiro. Capa: setup em serifa preta + grito em Anton vermelho.
+
+**1 (capa)** · img dono olhando o calendário com a primeira semana riscada
+O mês já está na segunda semana. / E a sua empresa ainda
+**NÃO GANHOU UM REAL.** (Anton)
+
+**2** · img contas e envelopes presos num clipe
+Lembra da conta: / estrutura de 150 mil, / margem de 40%.
+//
+**Precisa vender 375 mil / só pra empatar.**
+
+**3** · img caixa de dinheiro com pouca nota
+Vendendo 20 mil por dia, / sobram 8 mil / pra pagar a estrutura.
+//
+**A estrutura só fica paga / no dia 19.**
+
+**4** · img dinheiro dividido em envelopes, o último quase vazio
+Do dia 1 ao dia 18, / você trabalha pro aluguel, / pra folha e pro sistema.
+//
+**O lucro do mês inteiro / cabe em seis dias.**
+
+**5** · img calendário com a última fileira arrancada
+E quando o mês atrasa, / ele não come o começo.
+//
+**Come o fim. / Justo os dias do lucro.**
+
+**6** · img estrada que se divide em duas
+Tem dois jeitos / de o lucro chegar antes.
+//
+**E nenhum deles é / vender mais.**
+
+**7** · img tesoura cortando uma conta
+O primeiro: cortar 15 mil / do que você paga por costume.
+//
+**A linha chega no dia 17, / e o lucro vai a 65 mil.**
+
+**8** · img balança pendendo pro lado das moedas
+O segundo: subir a margem / de 40% pra 45%.
+//
+**Dia 17 de novo, / e o lucro vai a 75 mil.**
+
+**9** · img calendário com dois dias circulados
+Dois dias a menos / pagando a estrutura
+//
+**são dois dias inteiros / de lucro.**
+
+**10 (oferta)** · img caderno com contas
+Eu tenho um treinamento de gestão / pra donos de PME, o MBV,
+//
+onde eu ensino essa conta / **com os números da sua empresa.**
+
+**11 (CTA)** · img livro-razão com visto
+Quer saber em que dia / a sua empresa começa a lucrar?
+//
+Comenta **LUCRAR**
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+Nas últimas semanas eu fiz uma conta com você: a empresa que fatura 500 mil, fica com 40% de cada venda e tem 150 mil de estrutura. Ela precisa vender 375 mil só pra empatar. Hoje eu quero te mostrar o que esse número quer dizer no calendário.
+
+Vendendo 20 mil por dia, sobram 8 mil pra pagar a estrutura. Os 150 mil só ficam pagos no dia 19. Do dia 1 ao dia 18, a empresa trabalha pro aluguel, pra folha, pro sistema, pro contador. O lucro do mês inteiro cabe nos últimos seis dias.
+
+É por isso que uma semana fraca dói tanto. Ela não tira um pouco de cada dia. A estrutura continua lá, esperando ser paga, e quem some é o fim do mês, que era justamente onde estava o lucro.
+
+E tem dois jeitos de trazer esse dia pra antes. Cortar da estrutura o que você paga por costume, ou subir a margem de cada venda. Com 15 mil a menos de gasto fixo, a linha chega no dia 17 e o lucro vai de 50 pra 65 mil. Com a margem em 45%, também no dia 17, e o lucro vai a 75 mil. Dois dias a menos pagando estrutura são dois dias inteiros de lucro.
+
+Faz essa conta com os números da sua empresa: o gasto fixo dividido pelo que sobra de cada dia de venda. Se você não sabe em que dia começa a lucrar, você não sabe quanto um feriado, uma semana fraca ou um desconto te custam.
+
+Comenta LUCRAR que eu mando no seu direct o link do MBV, o meu treinamento de gestão pra donos de PME.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+(nenhuma ainda)

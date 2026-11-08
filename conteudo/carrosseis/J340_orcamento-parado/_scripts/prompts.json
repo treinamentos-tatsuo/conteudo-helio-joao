@@ -1,0 +1,80 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE view of an old metal office filing cabinet with the top drawer pulled wide open, packed with dozens of forgotten paper folders and loose quotation sheets sticking out, slightly dusty, one folder half fallen out. NO PEOPLE, papers show only vague illegible marks."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on an office desk: an old rotary telephone with the handset resting in its cradle, untouched, beside a single typed price quotation sheet lying under it, a pencil and a cold cup of coffee. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a tall stack of old paper folders and quotation sheets tied with string, piled on the corner of a wooden desk, slightly dusty and yellowed, forgotten. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 4,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small sales office: a SALESMAN in shirt and tie, briefcase in hand, walking briskly out through the office door, seen from the side, already looking ahead; on the desk in the foreground, large and sharp, a single forgotten quotation sheet left behind. The salesman fully inside the frame."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a long apartment building corridor with a row of identical closed doors; a tired SALESMAN in suit with a briefcase knocks on one of the doors, nobody answering. The salesman large, fully inside the frame."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a desk: a price quotation sheet in a paper folder, and beside it a cup of coffee gone cold, no steam, a spoon resting on the saucer. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small company office on a Monday morning: the OWNER, a firm middle-aged man in shirt and tie, and two salespeople stand in front of a wall board covered with paper index cards pinned in columns; the owner points at one card in the column of stalled ones. Everyone large, fully inside the frame."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: an open desk agenda with handwritten lines (illegible) and one line firmly circled in pencil, a rotary telephone beside it and a pencil lying across the page. NO PEOPLE."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, an office: a young SALESMAN seated at his desk talking on a rotary telephone, taking notes, focused; the OWNER stands beside him with one hand resting firmly on his shoulder, looking at the notes. Both large, fully inside the frame."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a small flip desk calendar on a wooden desk with only a few pages turned over the top, most of the month's pages still ahead, next to a fountain pen. The pages show only vague illegible marks, no readable numbers. NO PEOPLE."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a wooden desk: an open notebook with handwritten lines (illegible), a fountain pen across it, and a small stack of index cards. NO PEOPLE."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a rotary telephone with the handset lifted off its cradle, lying on a desk next to an open folder of quotations with a firm check mark on the top sheet. NO PEOPLE, no readable text."
+  }
+ ]
+}

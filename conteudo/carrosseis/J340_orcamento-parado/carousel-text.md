@@ -1,0 +1,125 @@
+# J340 — Abre a gaveta de orçamentos (editorial-punch, perfil do Hélio)
+
+**Status (reserva, 08/11):** texto e 12 slides prontos, ainda não mostrados ao João. Ele trocou o pedido pelo J341 (que dia você começa a lucrar) antes de ver esta. Fica de opção pra um dia de meio de mês; mostrar no CHECKPOINT 1 antes de usar.
+
+**Origem:** pedido do João em 08/11: um carrossel pra hoje no modelo do J332, continuando o assunto pela sequência do MBV. A primeira proposta (J339, reunião de direção do mês) ficou guardada: "seria apropriado se fosse final do mês. Nós ainda estamos no dia 8 [...] Vamos fazer algo que dê sentido para a data". Esta pega a parte do ritmo comercial que cai no meio do mês: a reunião semanal do funil.
+**A sequência no MBV (D2 l.11610-11625):** diário = o número do dia (J332); **semanal = o diagnóstico**: "olhar qual o percentual da meta já foi realizado [J329], se o pipeline tem volume suficiente, quais oportunidades estão avançando, quais estão travadas e se os follow-ups estão acontecendo; é aqui que você consegue fazer os ajustes antes de esperar o mês acabar"; mensal = direção (J339, guardado). O J329 usou o percentual; este usa as oportunidades travadas e o follow-up.
+**Modelo:** editorial-punch (build do J339).
+**Lastro MBV:**
+- D2 l.7170-7180: um aluno no MBV: "você tem setenta orçamentos parados, porque eu dava o valor, eu não tinha follow-up, e aí o paciente falava: ah, então tá, vou falar com a minha esposa, eu vou pensar". É o lastro dos slides 2 e 3.
+- D2 l.5130-5140: "na boca do funil tem que bater quarenta porta pra quantos te atender? dez". Slide 5.
+- D2 l.1990-2030: "se você não tem um sistema de pajeamento, que hoje se chama follow-up, que se chama acompanhamento, não funciona o processo [...] babá de adulto". Slide 9.
+- D2 l.11455-11460: "quantos negócios estão no funil de vendas deles e quanto desses negócios ele pretende converter". Slide 7.
+
+## Declarações
+
+- **Interlocutor:** o dono de PME com time comercial. Vendedor em terceira pessoa; os verbos de solução são de dono (olhar o funil com o time, perguntar quem liga e até quando, acompanhar).
+- **Uma dor só:** no meio do mês o dono manda o time buscar cliente novo, enquanto quem já pediu orçamento esfria sem ninguém ligar de volta.
+- **Causa técnica:** falta a reunião semanal do funil (negócios abertos, parados, follow-up com dono e prazo). Sem acompanhamento, o processo comercial não roda.
+- **Caminho do CTA:** **imersão MBV**. A peça entrega o que olhar toda segunda, e o dono sai querendo o "como" da gestão comercial (funil, acompanhamento, ritmo). Link `https://mbv.tatsuoacademy.com/v2`, UTM `AAAA-MM-DD-FUNIL`.
+- **Palavra-chave:** **FUNIL** (o que o dono passa a olhar toda semana). Não aparece no registro nem no baseline. 3 grafias: `FUNIL, funil, Funil`. Conferir no painel antes de montar.
+- **Vizinhança:** J316 (OPORTUNIDADE, "falta cliente, não técnica"): lá o problema é pouca oportunidade entrando; aqui a oportunidade já entrou e morreu parada. J329 (AJUSTE) e J332 (PLANO) são a mesma série de ritmo comercial.
+- **Data:** a peça fala de "meio do mês" e "o mês ainda tem três semanas", sem citar o dia, pra servir se for ao ar no dia 8 ou no dia 9.
+
+## Contexto de cada slide (guia da imagem)
+
+1. Capa: gaveta de arquivo aberta, cheia de pastas de orçamento esquecidas.
+2. "Vou pensar": telefone no gancho e um orçamento na mesa, ninguém ligando.
+3. Setenta orçamentos: pilha alta de pastas de orçamento amarradas, empoeiradas.
+4. O vendedor que passou o preço e foi pro próximo: vendedor saindo pela porta com a pasta, um orçamento esquecido na mesa.
+5. Bater quarenta portas: um corredor de portas fechadas, um vendedor batendo numa delas.
+6. A venda mais barata: um orçamento sobre a mesa e uma xícara de café esfriando ao lado.
+7. Segunda-feira: dono e vendedor diante de um quadro de fichas ou cartões em colunas.
+8. Quem liga e até quando: agenda aberta com um nome circulado e um telefone.
+9. Ninguém faz sozinho: a mão do dono sobre o ombro do vendedor ao telefone.
+10. Três semanas: calendário de mesa com poucas folhas viradas.
+11. Oferta.
+12. CTA.
+
+## Slides (texto que renderiza)
+
+Convenção: linha em **negrito** = punch em vermelho; `//` = respiro. Capa: setup em serifa preta + grito em Anton vermelho. No máximo 3 linhas de setup e 2 de punch.
+
+**1 (capa)**
+Antes de mandar o time / atrás de cliente novo,
+**ABRE A GAVETA / DE ORÇAMENTOS.** (Anton)
+
+**2**
+O cliente pediu o preço, / ouviu o valor e disse: / "vou pensar".
+//
+**E ninguém ligou de volta.**
+
+**3**
+Um aluno meu descobriu / setenta orçamentos parados / na empresa dele.
+//
+**Setenta clientes que já tinham / levantado a mão.**
+
+**4**
+O vendedor passou o preço / e foi atrás do próximo.
+//
+**E ninguém mandou ele voltar.**
+
+**5**
+Aí, no meio do mês, / o dono manda o time / buscar cliente novo.
+//
+**Bater em quarenta portas / pra dez atenderem.**
+
+**6**
+Enquanto isso, quem já pediu preço / esfria na gaveta.
+//
+**A venda mais barata é a que / já está no seu funil.**
+
+**7**
+Por isso, toda segunda-feira, / eu olho o funil com o time.
+//
+**Quantos negócios estão abertos / e quais estão parados.**
+
+**8**
+Pra cada orçamento parado, / eu faço uma pergunta só.
+//
+**Quem liga, e até quando?**
+
+**9**
+Porque o time não faz follow-up / sozinho.
+//
+**Ou alguém acompanha, / ou o orçamento morre.**
+
+**10**
+O mês ainda tem três semanas. / E a venda mais rápida delas
+//
+**já pediu orçamento / pra você.**
+
+**11 (oferta)**
+Eu tenho um treinamento de gestão / pra donos de PME, o MBV,
+//
+onde eu ensino a acompanhar o funil / **antes que o mês acabe.**
+
+**12 (CTA)**
+Quer um time que volta / em todo orçamento?
+//
+Comenta **FUNIL**
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+Todo mês fraco o dono faz a mesma coisa: chama o comercial e manda buscar cliente novo. Mais ligação, mais visita, mais anúncio. E quase nunca faz a pergunta mais barata de todas: quanto orçamento a gente passou e ninguém foi atrás?
+
+Um aluno meu fez essa conta no treinamento e achou setenta orçamentos parados. Setenta pessoas que já tinham pedido preço, ouvido o valor e dito "vou pensar" ou "vou falar com a minha esposa". Ninguém ligou de volta. O vendedor passou o preço e foi atrás do próximo, porque ninguém mandou ele voltar.
+
+Cliente novo é caro. Pra cada dez que te atendem, você bate em quarenta portas. Quem já pediu orçamento pulou essa parte inteira. Ele já sabe quem você é, já sabe o que você vende e já levantou a mão. Só está esperando alguém voltar.
+
+Por isso toda segunda-feira eu olho o funil com o time: quantos negócios estão abertos, quais estão andando e quais estão parados. Pra cada um parado, uma pergunta: quem liga, e até quando? Parece pouco. É o que separa o mês que fecha do mês que você corre atrás no dia 25.
+
+E não espera o time fazer isso sozinho. Follow-up não acontece porque o vendedor é bom. Acontece porque alguém acompanha.
+
+O mês ainda tem três semanas. A venda mais rápida delas já pediu orçamento pra você.
+
+Comenta FUNIL que eu mando no seu direct o link do MBV, o meu treinamento de gestão pra donos de PME.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+(nenhuma ainda)
