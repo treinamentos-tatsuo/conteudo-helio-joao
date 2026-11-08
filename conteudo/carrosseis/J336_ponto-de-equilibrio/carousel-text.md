@@ -1,6 +1,7 @@
 # J336 — Ponto de equilíbrio (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 07/11 ("gostei desse aprovado.. salva no pc e cria a automação para amanha (domingo) 12:30"). Postagem 08/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J336_ponto-de-equilibrio/`.
+**Status:** postado 08/11 às 12h30 (https://www.instagram.com/p/DffFU06FPaE/). Manychat EQUILIBRIO LIVE ~13h55, amarrada ao post e com `utm_content` (o timer atrasou com o PC dormindo). Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/08-11-2026/`.
+**Status (aprovação):** aprovado pelo João em 07/11 ("gostei desse aprovado.. salva no pc e cria a automação para amanha (domingo) 12:30"). Postagem 08/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J336_ponto-de-equilibrio/`.
 **Manychat:** `IG | 2026-11-08 | EQUILIBRIO | ponto de equilibrio`, duplicada da PADRAO de hoje (intocada). 6 grafias `EQUILIBRIO, equilibrio, Equilibrio, EQUILÍBRIO, equilíbrio, Equilíbrio`. DM "Quem não sabe o ponto de equilíbrio comemora mês que deu prejuízo. Quer ver como eu ensino o dono a fazer essa conta no MBV?" (escrita pelo Claude). Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-08-EQUILIBRIO`. Montada STOPPED em 07/11 ~15h55; amarrar e ativar em 08/11 às 12h31. A busca por "equilibrio" e "equilíbrio" não achou nada. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261107184901_305484.
 
 **Status (v1, 07/11):** texto e slides mostrados ao João no CHECKPOINT 1 ("legal monte esse carrossel estilo bloco de notas.. e me mande as imagens para ver"). Aguardando aprovação. Postagem prevista: domingo, 08/11.
