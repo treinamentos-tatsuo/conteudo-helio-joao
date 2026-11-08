@@ -1294,7 +1294,7 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-07-DEGRAU`; link `https://mbv.ta
 - Reel com automação específica, como os aftermovies (TURMA, PRÓXIMA) e o Kongo Gumi (PREPARO), porque a legenda pede uma palavra própria. Pedido do João.
 - Timer no Windows: laço em PowerShell em segundo plano até 16h01, segurando o PC acordado com `SetThreadExecutionState` (não mexe no plano de energia), mais o keep-awake do app.
 
-## 07/11/2026 — `IG | 2026-11-07 | PADRAO | seja o lider chato` (carrossel J335, editorial-punch) — MONTADA STOPPED ~14h15, pras 19h
+## 07/11/2026 — `IG | 2026-11-07 | PADRAO | seja o lider chato` (carrossel J335, editorial-punch) — LIVE ~19h10, amarrada ao post das 19h00 (https://www.instagram.com/p/DfdNHOEFCrX/), com `utm_content`
 
 Caminho **imersão MBV**; `utm_campaign=2026-11-07-PADRAO`; link `https://mbv.tatsuoacademy.com/v2`; 6 grafias `PADRAO, padrao, Padrao, PADRÃO, padrão, Padrão`; DM "Chato com o padrão, não com a pessoa. Quer ver como eu ensino o dono a ter um time que segura o padrão, no MBV?" (escrita pelo Claude). Duplicada da MARGEM de hoje (intocada, LIVE). Colisão: a busca achou `IG | 2026-09-30 | PADRAO | telefone sem fio` LIVE, mas presa a um post específico, então não dispara no J335. "padrão" com acento não achou nada. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261107170523_246759.
 
