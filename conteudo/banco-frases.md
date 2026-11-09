@@ -859,3 +859,17 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 | 132 | Quem se compara, se perde. | olhar demais a vida do outro tira você do próprio caminho | duas bicicletas, uma olhando pra outra | em produção (post J298, 26/10); vizinha da grama do vizinho (138) |
 | 133 | Toda desculpa esconde um medo. | por trás do "não deu" quase sempre tem um "não tive coragem" | a agenda com o compromisso riscado | em produção (post J299, 26/10); vizinha de "O que você evita é o que te governa" (170) |
 | 134 | Medo de errar é o erro mais caro. | quem não tenta pra não errar perde mais do que perderia errando | o papel em branco na mesa e o lápis sem ponta gasta | em produção (post J300, 26/10); vizinha da vergonha de errar (225) |
+
+## Lote 23 — versões novas das campeãs dos últimos 120 dias (09/11, a crivar pelo João)
+
+> Pedido do João em 09/11 pra semana das 7h: ranking das frases pelos compartilhamentos no `desempenho.json` (dado até 15/10, último pacote importado) e uma versão nova de cada campeã, mesma tese com outro objeto.
+
+| # | Campeã (shares) | Frase nova | Conceito | Atenção / status |
+|---|---|---|---|---|
+| 135 | 134 calçada varrida (12.314) | Quem lava a louça não discute de quem é a vez. | quem faz não perde tempo discutindo o certo | candidata |
+| 136 | 230 varal frouxo (1.848) | Parafuso frouxo é o que faz barulho. | o que não está firme range até cair | candidata |
+| 137 | 109 chuva e carro lavado (1.430) | O trânsito não sabe que você está atrasado. | brigar com o que não depende de você só cansa | candidata; frase tirada da legenda do 109 |
+| 138 | 176 feijão antes do pudim (1.244) | Ninguém pendura quadro antes de rebocar a parede. | primeiro o que sustenta, depois o que enfeita | candidata |
+| 139 | 175 louça da ocasião especial (848) | Roupa boa envelhece no armário. | o que você guarda pra depois estraga sem uso | candidata |
+| 140 | 208 plateia (790) | Quem só varre quando vem visita não tem casa limpa. | caráter é o que você faz quando ninguém vê | candidata; mesma família da 141, espaçar |
+| 141 | 139 troco e cofre (664) | Quem devolve o troco errado não precisa de câmera. | quem é honesto no pequeno não precisa de vigia | candidata; mesma família da 140, espaçar |
