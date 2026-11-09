@@ -1360,3 +1360,10 @@ Caminho **imersão MBV**; duplicada da RIQUEZA (J358, intocada, STOPPED); easy b
 - Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-09-RECRUTAR&utm_content=https://www.instagram.com/p/DfiGKUXlLYF/`. O kit (feito na máquina do Pedro) mandava `rtc.tatsuoacademy.com/v2-maio-org`; ficou o `mbv.../v2`, igual às automações recentes.
 - Post `DfiGKUXlLYF` (16:35:56, legenda "Quando um dono me diz que está difícil contratar"), miniatura 894386371 (2ª do grid; a 1ª era o J342).
 - Conferido recarregando: LIVE, post, campaign e palavras no HTML, 1 botão só. Sem ficha nesta máquina (a ficha é da máquina do Pedro, regra do kit). Palavra nova, então a global 307 não precisa pausar.
+
+## 09/11/2026 — J344 RAIO-X amarrada e LIVE às ~20h13 (post DfiWtMVkb91 no ar às 19h00 BRT)
+
+- Post `https://www.instagram.com/p/DfiWtMVkb91/` publicado às 19:00:06 BRT (22:00:06 UTC), no horário marcado.
+- **Atraso de 73 minutos:** os timers de shell (18h56 e 19h01) só dispararam às ~20h11; o PC ficou parado e o shell não andou no horário. A automação específica ficou LIVE às ~20h13. Na janela, o post tinha 2 comentários; a global `RAIO - X` (qualquer publicação) estava ligada e pode ter respondido com o link dela, sem o `utm_campaign` do post.
+- Amarrada ao card do post (capa "Eu DUVIDO"), link do botão com `&utm_content=https://www.instagram.com/p/DfiWtMVkb91/` (169 chars). Conferido depois de recarregar: LIVE, capa certa, DM "Em 30 dias...", um botão, link com a campanha `2026-11-09-RAIO-X` e o utm_content. Saída da edição por Cancelar, sem mudança.
+- Lição: timer de shell não garante horário com o PC em repouso; pra post das 19h, o João avisar "postei" é o gatilho mais seguro.
