@@ -1,6 +1,7 @@
 # J342 — O seu lucro ainda não chegou (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 09/11 ("ficou bom salve na pasta e crie a automação iremos postar ele as 12:30 de hoje"). Postagem 09/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J342_dinheiro-preso-no-prazo/`.
+**Status:** postado 09/11 às 12h30 (https://www.instagram.com/p/DfhqEW3EaD7/). Manychat CICLO LIVE 12h36, amarrada ao post e com `utm_content` (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109133830_927143). Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/09-11-2026/`. Etiqueta: mediana 11-41.
+**Status (aprovação):** aprovado pelo João em 09/11 ("ficou bom salve na pasta e crie a automação iremos postar ele as 12:30 de hoje"). Postagem 09/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J342_dinheiro-preso-no-prazo/`.
 **Status (v1, 09/11):** texto e slides mostrados ao João no CHECKPOINT 1. Aguardando aprovação. Postagem prevista: 09/11 às 12h30.
 
 **Origem:** pedido do João em 09/11: "precisamos de um carrossel estilo bloco de notas para as 12:30 pro perfil do helio.. veja o ultimo postado qual o assunto e vamos dar continuidade". O último foi o J341 ("Que dia você começa a lucrar?", p.30 da apostila, a última página do Mapa 1). A sequência da apostila abre o **Mapa 2, a Matriz Financeira**: "Quando eu vou colher? Produzir não é o mesmo que ter o dinheiro na mão." Esta peça é o ciclo financeiro (p.38-40).
