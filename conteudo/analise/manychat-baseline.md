@@ -1327,3 +1327,12 @@ Caminho **imersão MBV**; duplicada da `IG | 2026-11-08 | EQUILIBRIO | ponto de 
 
 Caminho **imersão MBV**; duplicada da `IG | 2026-11-08 | LUCRAR | que dia voce comeca a lucrar` (intocada, LIVE); 3 grafias `CICLO, ciclo, Ciclo`; DM "O seu lucro está preso entre pagar o fornecedor e receber do cliente. Quer ver como eu ensino o dono a soltar esse dinheiro, no MBV?" (escrita pelo Claude); botão `>> Quero ver <<` (herdado); link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-09-CICLO` (o `utm_content` entra na hora de amarrar). Busca "ciclo": nenhuma automação. Palavra, DM e link gravados pelo setter nativo + evento `input` e conferidos no reload. Timer às 12h31. URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261109133830_927143.
 
+
+## 09/11/2026 — `IG | 2026-11-09 | RAIO-X | cinco passos 30 dias` (carrossel J344) — MONTADA STOPPED ~12h20 (post marcado pelo user pras 19h; timers às 18h56 e 19h01)
+
+Caminho **RAIO-X**; `utm_campaign=2026-11-09-RAIO-X`; `utm_content` entra na hora de amarrar; palavras: as 12 grafias de RAIO-X (herdadas do modelo); DM "Em 30 dias você descobre se a sua empresa te deixa mais rico. Pega a aula do raio-x." (85 chars; escrita pelo Claude); botão `>> Quero a aula <<` (herdado). Duplicada da `IG | 2026-10-19 | RAIO-X | numero nao vota` (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261109150806_812922.
+
+- Colisão: as outras RAIO-X da busca são de post específico ou de story/live; a global `RAIO - X` (qualquer publicação) fica no ar como manda a skill, e a específica tem prioridade.
+- Conferido recarregando: STOPPED, campaign novo no HTML, DM nova inteira, nada da DM e do campaign do modelo, 1 botão só; link com 116 caracteres (o tamanho exato).
+- Timer antecipado (18h56) por causa do 245 (17/10), que subiu 4 min antes do horário marcado.
+- No mesmo dia tem outra automação montada por outra conversa: `IG | 2026-11-09 | CICLO | ...`.
