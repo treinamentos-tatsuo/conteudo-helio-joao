@@ -98,6 +98,13 @@ Templates (copiar pra `$P/instagram/slide-01.html` e trocar fotos, textos e posi
    - vidro: texto à esquerda da emenda sem cruzar, um pouco acima do meio, longe do teto, fundo bem desfocado;
    - papel: letra de tamanho de nota, centralizada, com margem branca em volta.
 
+## 2C. Flip chart (padrão do João, 09/11: "mantenha sempre assim para esse modelo de flip chart")
+
+O mesmo fluxo do 2B, com três diferenças. A referência é o J253 (outubro) e o J343 (09/11).
+1. **Base:** `cp $F/bases/flip-mbv.png $P/imagens/base-flip-real.png` (a foto real do flip chart da sala do MBV; o flip chart gerado por IA foi reprovado em 16/10).
+2. **Letra comum, não caixa alta:** minúsculas com maiúscula só no começo, 2 linhas por cor, respiro de uma linha entre o preto e o vermelho, bloco com ~60% da largura da folha, no alto do meio. Prompt em `templates/b-prompt-flip.txt`: trocar só as linhas e os acentos. Escrever por cima de uma arte anterior herda a força da tinta mas deixa a letra com cara de fonte e colada nas bordas (reprovado no J343): sempre partir da base em branco.
+3. **Depois do corte, reforçar a tinta, sempre:** `python3 $F/scripts/reforca_tinta.py $P/instagram/flip-v1.png $P/instagram/flip-v1-forte.png`. O motor entrega a tinta fraca e o vermelho rosado, mais ainda em frase longa ("fraca, meio apagada", J343). Mostrar ao João a versão `-forte`, comparando com o `casos/253-flip-chart.png`.
+
 ## 3. Legenda (`$P/legenda.txt`)
 
 Como se o próprio Hélio tivesse escrito embaixo da foto.
@@ -164,8 +171,8 @@ E se quiser ir mais fundo nisso, o link tá na bio.
 
 ## Arquivos desta skill
 
-- `templates/`: os HTML da variante A (tabela acima) e os prompts da variante B (`b-prompt-vidro.txt`, `b-prompt-papel.txt`).
-- `scripts/`: `fotos.py` (lista e folha de miniaturas), `prepara_foto.py` (recorte da foto), `render.js` (PNG + margem), `edit.sh` (escrita no papel/vidro), `corta.py` (corte pro post + zoom do texto), `capa_revista.py` e `lift.swift` (só capa de revista).
-- `bases/`: `vidro-base-mid.png` e `mesa-v3.png`, as bases aprovadas do 210 (reusadas do 212 ao 228).
+- `templates/`: os HTML da variante A (tabela acima) e os prompts da variante B (`b-prompt-vidro.txt`, `b-prompt-papel.txt`, `b-prompt-flip.txt`).
+- `scripts/`: `fotos.py` (lista e folha de miniaturas), `prepara_foto.py` (recorte da foto), `render.js` (PNG + margem), `edit.sh` (escrita no papel/vidro/flip chart), `corta.py` (corte pro post + zoom do texto), `reforca_tinta.py` (tinta do flip chart), `capa_revista.py` e `lift.swift` (só capa de revista).
+- `bases/`: `vidro-base-mid.png` e `mesa-v3.png`, as bases aprovadas do 210 (reusadas do 212 ao 228); `flip-mbv.png`, a foto real do flip chart do MBV (251 em diante).
 - `referencias/`: `gente-boa.jpg` (a referência do formato, feita pelo user) e `tetris-rascunho-user.jpg`.
 - `casos/`: as imagens finais dos casos acima e dos templates.
