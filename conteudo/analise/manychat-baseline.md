@@ -1336,3 +1336,20 @@ Caminho **RAIO-X**; `utm_campaign=2026-11-09-RAIO-X`; `utm_content` entra na hor
 - Conferido recarregando: STOPPED, campaign novo no HTML, DM nova inteira, nada da DM e do campaign do modelo, 1 botão só; link com 116 caracteres (o tamanho exato).
 - Timer antecipado (18h56) por causa do 245 (17/10), que subiu 4 min antes do horário marcado.
 - No mesmo dia tem outra automação montada por outra conversa: `IG | 2026-11-09 | CICLO | ...`.
+
+## 09/11/2026 — série de seis carrosséis Notas (J353 a J358), um por dia às 9h de 10 a 15/11 — SEIS MONTADAS STOPPED ~16h30
+
+Todas duplicadas da `IG | 2026-11-09 | CICLO | ...` (intocada, LIVE). Caminho **imersão MBV**, link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=AAAA-MM-DD-PALAVRA`; botão `>> Quero ver <<`; 3 grafias cada (MAIÚSCULA, minúscula, Capitalizada). `utm_content` entra na hora de amarrar. **Ainda estão com o post do J342 selecionado (herdado da cópia): trocar a miniatura pelo post do dia antes de ativar.**
+
+| Dia | Peça | Automação | Easy builder | DM |
+|---|---|---|---|---|
+| 10/11 | J353 | `IG | 2026-11-10 | NEGATIVO | quem financia a sua empresa` | content20261109161153_418165 | Ciclo negativo é o cliente financiando o seu crescimento. Quer ver como eu ensino o dono a chegar nele, no MBV? |
+| 11/11 | J354 | `IG | 2026-11-11 | GIRO | capital de giro` | content20261109161607_957581 | Toda empresa tem um valor que precisa ficar parado pra operação girar. Quer ver como eu ensino o dono a calcular o da empresa dele, no MBV? |
+| 12/11 | J355 | `IG | 2026-11-12 | FONTE | de onde sai o dinheiro` | content20261109161757_858649 | O dinheiro parado da sua empresa sai de algum lugar, e o mais barato é o que o dono menos usa. Quer ver como eu ensino essa conta no MBV? |
+| 13/11 | J356 | `IG | 2026-11-13 | CRESCER | vender mais afoga o caixa` | content20261109161829_905714 | Crescer sem capital de giro afoga o caixa. Quer ver como eu ensino o dono a fazer essa conta antes de acelerar, no MBV? |
+| 14/11 | J357 | `IG | 2026-11-14 | PREVER | orcamento de caixa` | content20261109162017_952157 | Todo aperto de caixa foi decidido semanas antes. Quer ver como eu ensino o dono a enxergar isso antes, no MBV? |
+| 15/11 | J358 | `IG | 2026-11-15 | RIQUEZA | cade o dinheiro` | content20261109162110_620960 | O lucro não some, muda de forma. Quer ver como eu ensino o dono a saber se está ficando mais rico, no MBV? |
+
+- Colisão: nenhuma das seis palavras aparece como gatilho no registro nem neste baseline.
+- Conferido recarregando cada uma: STOPPED, campaign novo no HTML, DM nova, nada da DM e do campaign do CICLO, 1 botão só.
+- Pegadinha da lista (aba com a janela minimizada, `innerWidth` 0): o ⋮ do card só abre com um clique real (ref do `find`) seguido de um clique por script; depois de cada Duplicar/Renomear, recarregar a lista antes do próximo. O campo de renomear não aceita o setter de `HTMLInputElement.prototype` ("Illegal invocation"): usar `Object.getPrototypeOf(el)`.
