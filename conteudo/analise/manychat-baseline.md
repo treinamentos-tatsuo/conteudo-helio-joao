@@ -1353,3 +1353,10 @@ Todas duplicadas da `IG | 2026-11-09 | CICLO | ...` (intocada, LIVE). Caminho **
 - Colisão: nenhuma das seis palavras aparece como gatilho no registro nem neste baseline.
 - Conferido recarregando cada uma: STOPPED, campaign novo no HTML, DM nova, nada da DM e do campaign do CICLO, 1 botão só.
 - Pegadinha da lista (aba com a janela minimizada, `innerWidth` 0): o ⋮ do card só abre com um clique real (ref do `find`) seguido de um clique por script; depois de cada Duplicar/Renomear, recarregar a lista antes do próximo. O campo de renomear não aceita o setter de `HTMLInputElement.prototype` ("Illegal invocation"): usar `Object.getPrototypeOf(el)`.
+
+## 09/11/2026 — `IG | 2026-11-09 | RECRUTAR | gente boa empregada repost` (repost 285 do 23_gente-boa-empregada) — MONTADA STOPPED ~16h20; LIVE 16h38
+
+Caminho **imersão MBV**; duplicada da RIQUEZA (J358, intocada, STOPPED); easy builder content20261109191325_377244; 3 grafias `RECRUTAR, recrutar, Recrutar`; DM do kit "Gente boa não responde anúncio, ela escolhe empresa. Quer ver como eu ensino a montar a sua no MBV?"; botão `>> Quero ver <<`.
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-09-RECRUTAR&utm_content=https://www.instagram.com/p/DfiGKUXlLYF/`. O kit (feito na máquina do Pedro) mandava `rtc.tatsuoacademy.com/v2-maio-org`; ficou o `mbv.../v2`, igual às automações recentes.
+- Post `DfiGKUXlLYF` (16:35:56, legenda "Quando um dono me diz que está difícil contratar"), miniatura 894386371 (2ª do grid; a 1ª era o J342).
+- Conferido recarregando: LIVE, post, campaign e palavras no HTML, 1 botão só. Sem ficha nesta máquina (a ficha é da máquina do Pedro, regra do kit). Palavra nova, então a global 307 não precisa pausar.
