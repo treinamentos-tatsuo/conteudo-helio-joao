@@ -866,11 +866,11 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 | # | Campeã (shares) | Frase nova | Conceito | Atenção / status |
 |---|---|---|---|---|
-| 135 | 134 calçada varrida (12.314) | Quem lava a louça não discute de quem é a vez. | quem faz não perde tempo discutindo o certo | aprovada (João 09/11) |
-| 136 | 230 varal frouxo (1.848) | Parafuso frouxo é o que faz barulho. | o que não está firme range até cair | aprovada (João 09/11) |
-| 137 | 109 chuva e carro lavado (1.430) | O trânsito não sabe que você está atrasado. | brigar com o que não depende de você só cansa | aprovada (João 09/11); frase tirada da legenda do 109 |
-| 138 | 176 feijão antes do pudim (1.244) | Ninguém pendura quadro antes de rebocar a parede. | primeiro o que sustenta, depois o que enfeita | aprovada (João 09/11) |
-| 139 | 175 louça da ocasião especial (848) | Roupa boa envelhece no armário. | o que você guarda pra depois estraga sem uso | aprovada (João 09/11, reescrita A: "Perfume guardado perde o cheiro.", a confirmar) |
+| 135 | 134 calçada varrida (12.314) | Quem lava a louça não discute de quem é a vez. | quem faz não perde tempo discutindo o certo | em produção (post J346, 09/11) |
+| 136 | 230 varal frouxo (1.848) | Parafuso frouxo é o que faz barulho. | o que não está firme range até cair | em produção (post J347, 09/11) |
+| 137 | 109 chuva e carro lavado (1.430) | O trânsito não sabe que você está atrasado. | brigar com o que não depende de você só cansa | em produção (post J348, 09/11) |
+| 138 | 176 feijão antes do pudim (1.244) | Ninguém pendura quadro antes de rebocar a parede. | primeiro o que sustenta, depois o que enfeita | em produção (post J349, 09/11) |
+| 139 | 175 louça da ocasião especial (848) | Roupa boa envelhece no armário. | o que você guarda pra depois estraga sem uso | em produção (post J350, 09/11) |
 | 140 | 208 plateia (790) | Quem só varre quando vem visita não tem casa limpa. | caráter é o que você faz quando ninguém vê | descartada (João 09/11: "6 e 7 não gostei"); mesma família da 141, espaçar |
 | 141 | 139 troco e cofre (664) | Quem devolve o troco errado não precisa de câmera. | quem é honesto no pequeno não precisa de vigia | descartada (João 09/11: "6 e 7 não gostei"); mesma família da 140, espaçar |
 
@@ -881,11 +881,11 @@ Reescritas de 09/11 pras que o João mandou melhorar (139, 140, 141):
 
 Novas opções de 09/11 pros dias 6 e 7 (o João não gostou das reescritas da 140 e da 141), tiradas de outras campeãs:
 - 142 (de 166, laje com peso em cima: a força só aparece no peso): "Mala boa se conhece na esteira do aeroporto." — descartada (João 09/11)
-- 143 (de 163, cozinheiro bom prova antes de servir): "Tempero se acerta provando, não lembrando." — aprovada (João 09/11: "somente a 2 ficou boa")
+- 143 (de 163, cozinheiro bom prova antes de servir): "Tempero se acerta provando, não lembrando." — em produção (post J351, 09/11)
 - 144 (de 110, trilha não se faz passando uma vez): "Caminho no gramado é pé que passou todo dia." — descartada (João 09/11)
 - 145 (de 209, a vida solta antes de avisar): "Ninguém espera ficar pronto pra aprender a nadar." — descartada (João 09/11)
 
 Opções de 09/11 pra última frase da semana:
-- 146 (de 134, calçada varrida: o feito explica sozinho): "Mão calejada não precisa de currículo." — candidata; o calo já apareceu no 84, com outra ideia
+- 146 (de 134, calçada varrida: o feito explica sozinho): "Mão calejada não precisa de currículo." — em produção (post J352, 09/11)
 - 147 (de 176, primeiro o que sustenta): "Pneu se calibra antes da viagem, não na estrada." — candidata
 - 148 (de 230, o que afrouxa vai pro chão): "Goteira pequena apodrece o telhado inteiro." — candidata; tom de advertência
