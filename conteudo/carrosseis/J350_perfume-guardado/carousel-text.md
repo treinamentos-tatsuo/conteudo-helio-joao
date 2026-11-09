@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 09/11, uma opção):** img-01, frasco de perfume antigo empoeirado, com fita no gargalo e a caixa de presente aberta ao lado.
 - Final: a definir.
 
-**Legenda:** a escrever depois da avaliação das imagens.
+**Legenda:** `legenda.txt` v1, 1683 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir (semana das 7h).

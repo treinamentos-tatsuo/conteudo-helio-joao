@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 09/11, uma opção):** img-01, panela no fogão com a colher de pau de provar atravessada na borda e o potinho de sal.
 - Final: a definir.
 
-**Legenda:** a escrever depois da avaliação das imagens.
+**Legenda:** `legenda.txt` v1, 1730 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir (semana das 7h).

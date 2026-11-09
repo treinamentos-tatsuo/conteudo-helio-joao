@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 09/11, uma opção):** img-01, vista do motorista num engarrafamento, painel embaixo e a fila de lanternas acesas (aparecem logo da Fiat e placa legível).
 - Final: a definir.
 
-**Legenda:** a escrever depois da avaliação das imagens.
+**Legenda:** `legenda.txt` v1, 1766 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir (semana das 7h).

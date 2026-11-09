@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 09/11, uma opção):** img-01, pia com o escorredor cheio de louça lavada e a esponja com espuma.
 - Final: a definir.
 
-**Legenda:** a escrever depois da avaliação das imagens.
+**Legenda:** `legenda.txt` v1, 1754 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir (semana das 7h).

@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 09/11, uma opção):** img-01, quadro encostado no chão diante de uma parede de tijolo baiano sem reboco, com balde de massa e colher.
 - Final: a definir.
 
-**Legenda:** a escrever depois da avaliação das imagens.
+**Legenda:** `legenda.txt` v1, 1763 caracteres com o CTA (legenda.py: OK). Aguardando aprovação.
 
 **Publicação:** a definir (semana das 7h).
