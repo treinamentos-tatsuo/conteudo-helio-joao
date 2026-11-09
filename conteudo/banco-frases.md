@@ -866,10 +866,15 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 | # | Campeã (shares) | Frase nova | Conceito | Atenção / status |
 |---|---|---|---|---|
-| 135 | 134 calçada varrida (12.314) | Quem lava a louça não discute de quem é a vez. | quem faz não perde tempo discutindo o certo | candidata |
-| 136 | 230 varal frouxo (1.848) | Parafuso frouxo é o que faz barulho. | o que não está firme range até cair | candidata |
-| 137 | 109 chuva e carro lavado (1.430) | O trânsito não sabe que você está atrasado. | brigar com o que não depende de você só cansa | candidata; frase tirada da legenda do 109 |
-| 138 | 176 feijão antes do pudim (1.244) | Ninguém pendura quadro antes de rebocar a parede. | primeiro o que sustenta, depois o que enfeita | candidata |
-| 139 | 175 louça da ocasião especial (848) | Roupa boa envelhece no armário. | o que você guarda pra depois estraga sem uso | candidata |
-| 140 | 208 plateia (790) | Quem só varre quando vem visita não tem casa limpa. | caráter é o que você faz quando ninguém vê | candidata; mesma família da 141, espaçar |
-| 141 | 139 troco e cofre (664) | Quem devolve o troco errado não precisa de câmera. | quem é honesto no pequeno não precisa de vigia | candidata; mesma família da 140, espaçar |
+| 135 | 134 calçada varrida (12.314) | Quem lava a louça não discute de quem é a vez. | quem faz não perde tempo discutindo o certo | aprovada (João 09/11) |
+| 136 | 230 varal frouxo (1.848) | Parafuso frouxo é o que faz barulho. | o que não está firme range até cair | aprovada (João 09/11) |
+| 137 | 109 chuva e carro lavado (1.430) | O trânsito não sabe que você está atrasado. | brigar com o que não depende de você só cansa | aprovada (João 09/11); frase tirada da legenda do 109 |
+| 138 | 176 feijão antes do pudim (1.244) | Ninguém pendura quadro antes de rebocar a parede. | primeiro o que sustenta, depois o que enfeita | aprovada (João 09/11) |
+| 139 | 175 louça da ocasião especial (848) | Roupa boa envelhece no armário. | o que você guarda pra depois estraga sem uso | a melhorar (João 09/11) |
+| 140 | 208 plateia (790) | Quem só varre quando vem visita não tem casa limpa. | caráter é o que você faz quando ninguém vê | a melhorar (João 09/11); mesma família da 141, espaçar |
+| 141 | 139 troco e cofre (664) | Quem devolve o troco errado não precisa de câmera. | quem é honesto no pequeno não precisa de vigia | a melhorar (João 09/11); mesma família da 140, espaçar |
+
+Reescritas de 09/11 pras que o João mandou melhorar (139, 140, 141):
+- 139 (guardar pra depois): A. "Perfume guardado perde o cheiro." · B. "Vinho guardado pra ocasião especial vira vinagre." · C. "Louça boa não foi feita pra caixa."
+- 140 (fazer sem plateia): A. "Ninguém aplaude quem arruma a cama todo dia." · B. "Ninguém vê quem arruma a casa antes de todo mundo acordar." · C. "O que você faz sem plateia é o que você é."
+- 141 (confiança no pequeno): A. "Ninguém empresta o carro pra quem não devolve a caneta." · B. "Confiança se perde é no centavo." · C. "Quem atrasa o pequeno atrasa o grande."
