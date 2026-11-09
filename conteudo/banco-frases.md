@@ -880,7 +880,12 @@ Reescritas de 09/11 pras que o João mandou melhorar (139, 140, 141):
 - 141 (confiança no pequeno): A. "Ninguém empresta o carro pra quem não devolve a caneta." · B. "Confiança se perde é no centavo." · C. "Quem atrasa o pequeno atrasa o grande."
 
 Novas opções de 09/11 pros dias 6 e 7 (o João não gostou das reescritas da 140 e da 141), tiradas de outras campeãs:
-- 142 (de 166, laje com peso em cima: a força só aparece no peso): "Mala boa se conhece na esteira do aeroporto." — candidata
-- 143 (de 163, cozinheiro bom prova antes de servir): "Tempero se acerta provando, não lembrando." — candidata
-- 144 (de 110, trilha não se faz passando uma vez): "Caminho no gramado é pé que passou todo dia." — candidata
-- 145 (de 209, a vida solta antes de avisar): "Ninguém espera ficar pronto pra aprender a nadar." — candidata; vizinha da borda da piscina (descartada)
+- 142 (de 166, laje com peso em cima: a força só aparece no peso): "Mala boa se conhece na esteira do aeroporto." — descartada (João 09/11)
+- 143 (de 163, cozinheiro bom prova antes de servir): "Tempero se acerta provando, não lembrando." — aprovada (João 09/11: "somente a 2 ficou boa")
+- 144 (de 110, trilha não se faz passando uma vez): "Caminho no gramado é pé que passou todo dia." — descartada (João 09/11)
+- 145 (de 209, a vida solta antes de avisar): "Ninguém espera ficar pronto pra aprender a nadar." — descartada (João 09/11)
+
+Opções de 09/11 pra última frase da semana:
+- 146 (de 134, calçada varrida: o feito explica sozinho): "Mão calejada não precisa de currículo." — candidata; o calo já apareceu no 84, com outra ideia
+- 147 (de 176, primeiro o que sustenta): "Pneu se calibra antes da viagem, não na estrada." — candidata
+- 148 (de 230, o que afrouxa vai pro chão): "Goteira pequena apodrece o telhado inteiro." — candidata; tom de advertência
