@@ -1381,3 +1381,11 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-10-CULTURA`; `utm_content` entra
 - `LIVE | 2026-10-13 | RAIO-X | comentario na live`: LIVE, gatilho "Comentários ao vivo", a mensagem inclui `raio-x, raiox, raio x`; 73 execuções, CTR 52,1% até aqui.
 - `LIVE | 2026-10-13 | RAIO-X | DM palavra-chave` (plano B): LIVE, 12 grafias; 3 execuções.
 - Outras de live ligadas e sem conflito (palavras diferentes): `DIAGNOSTICO | comentario na live` e `MBV | comentario na live MBV 7`.
+
+## 10/11/2026 — link novo pra live com DIAGNÓSTICO (pedido do João)
+
+Regra do João: **comentário DIAGNÓSTICO em live** recebe `https://mbv.tatsuoacademy.com/livelive`; **comentário DIAGNÓSTICO em post** continua no `https://mbv.tatsuoacademy.com/dgc1`; **live com RAIO-X** vai pra `https://tatsuoacademy.com/raio-x-empresa-lucrativa/`.
+
+- `LIVE | 2026-10-21 | DIAGNOSTICO | comentario na live` (content20261022001732_197708): só o caminho do botão `Quero o diagnóstico` trocado de `/dgc1` pra `/livelive`; UTMs e `&ig={{Usuário}}` mantidos (`https://mbv.tatsuoacademy.com/livelive?utm_source=instagram&utm_medium=manychat&utm_campaign=live-diagnostico&ig={{Usuário}}`). Link testado (200) antes; Atualização; recarregada e conferida no modal do botão; segue LIVE (681 envios até aqui).
+- `LIVE | 2026-10-13 | RAIO-X | comentario na live` e `LIVE | 2026-10-13 | RAIO-X | DM palavra-chave`: já apontavam pro `raio-x-empresa-lucrativa/` (a de comentário com `utm_campaign=live-2026-10-13`). Nada alterado.
+- Automações de post do DIAGNÓSTICO (dgc1): não tocadas. Ao duplicar a de live pra montar automação de post, trocar o `livelive` por `dgc1`.
