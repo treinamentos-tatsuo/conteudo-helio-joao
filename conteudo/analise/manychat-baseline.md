@@ -1375,3 +1375,9 @@ Caminho **imersão MBV**; `utm_campaign=2026-11-10-CULTURA`; `utm_content` entra
 - DM (escrita pelo Claude, 117 chars): "Quem resolve vale mais que quem fala bonito. Quer ver como eu ensino o dono a montar a cultura que escolhe quem entra?" Botão `>> Quero ver <<` (herdado). Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-10-CULTURA` (98 chars).
 - A digitação pelo navegador comeu letras da DM duas vezes ("Quer ve", "escolh"); o texto foi gravado pelo campo direto e conferido depois de recarregar.
 - O gatilho ainda aponta pro post do RECRUTAR (herdado); troca na hora de amarrar. Timers às 18h56 (com trava que impede o PC de dormir, por causa do atraso de 73 min de ontem) e 19h01.
+
+## 10/11/2026 — live do Hélio com CTA RAIO-X — automações de live já LIVE, conferidas antes da live, nada alterado
+
+- `LIVE | 2026-10-13 | RAIO-X | comentario na live`: LIVE, gatilho "Comentários ao vivo", a mensagem inclui `raio-x, raiox, raio x`; 73 execuções, CTR 52,1% até aqui.
+- `LIVE | 2026-10-13 | RAIO-X | DM palavra-chave` (plano B): LIVE, 12 grafias; 3 execuções.
+- Outras de live ligadas e sem conflito (palavras diferentes): `DIAGNOSTICO | comentario na live` e `MBV | comentario na live MBV 7`.
