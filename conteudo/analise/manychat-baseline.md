@@ -1367,3 +1367,11 @@ Caminho **imersão MBV**; duplicada da RIQUEZA (J358, intocada, STOPPED); easy b
 - **Atraso de 73 minutos:** os timers de shell (18h56 e 19h01) só dispararam às ~20h11; o PC ficou parado e o shell não andou no horário. A automação específica ficou LIVE às ~20h13. Na janela, o post tinha 2 comentários; a global `RAIO - X` (qualquer publicação) estava ligada e pode ter respondido com o link dela, sem o `utm_campaign` do post.
 - Amarrada ao card do post (capa "Eu DUVIDO"), link do botão com `&utm_content=https://www.instagram.com/p/DfiWtMVkb91/` (169 chars). Conferido depois de recarregar: LIVE, capa certa, DM "Em 30 dias...", um botão, link com a campanha `2026-11-09-RAIO-X` e o utm_content. Saída da edição por Cancelar, sem mudança.
 - Lição: timer de shell não garante horário com o PC em repouso; pra post das 19h, o João avisar "postei" é o gatilho mais seguro.
+
+## 10/11/2026 — `IG | 2026-11-10 | CULTURA | quem fala pobrema` (carrossel J360) — MONTADA STOPPED ~14h05 (post marcado pelo João pras 19h)
+
+Caminho **imersão MBV**; `utm_campaign=2026-11-10-CULTURA`; `utm_content` entra na hora de amarrar. Duplicada da `IG | 2026-11-09 | RECRUTAR | gente boa empregada repost` (intocada, LIVE). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261110170424_847173.
+- Palavras: `CULTURA, cultura, Cultura`. Colisão: a busca por CULTURA só achou automações de post específico (10/26 verdade meio chata, 08/25 explica mil vezes, cópias "cultura MBV especifico"); nenhuma global. Sem colisão.
+- DM (escrita pelo Claude, 117 chars): "Quem resolve vale mais que quem fala bonito. Quer ver como eu ensino o dono a montar a cultura que escolhe quem entra?" Botão `>> Quero ver <<` (herdado). Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-10-CULTURA` (98 chars).
+- A digitação pelo navegador comeu letras da DM duas vezes ("Quer ve", "escolh"); o texto foi gravado pelo campo direto e conferido depois de recarregar.
+- O gatilho ainda aponta pro post do RECRUTAR (herdado); troca na hora de amarrar. Timers às 18h56 (com trava que impede o PC de dormir, por causa do atraso de 73 min de ontem) e 19h01.
