@@ -1,6 +1,6 @@
 # J363 — O imposto que girava a sua empresa (split payment; editorial-punch, perfil do Hélio)
 
-**Status:** v4 (12 slides) aprovada pelo João em 11/11 ("gostei, salve ele na pasta"). Post programado pelo João pra hoje, 11/11, às 15h. Manychat FOLEGO montado STOPPED (content20261111161546_707418); amarrar e ativar às 15h. Entregue em `POSTS/Carrossel Foto/NP J363_imposto-que-girava/` e `carrosseis claude/imposto/`.
+**Status:** postado em 11/11 às 15h00 (`https://www.instagram.com/p/DfnE3qbFJfc/`). Manychat FOLEGO LIVE às ~15h04 (content20261111161546_707418). NP retirado (`POSTS/Carrossel Foto/J363_imposto-que-girava/`) e cópia no Drive em `POST CLAUDE/HÉLIO TATSUO/11-11-2026/J363_imposto-que-girava`. Também em `carrosseis claude/imposto/`.
 
 **Origem:** sugestão do Claude, pedida pelo João em 11/11 ("me dê os assuntos que você acha que terão mais engajamento"). Dado de outubro: os dois carrosséis que mais renderam no mês saíram de notícia da semana (183 com 283 comentários, 182 com 109).
 **Regime:** `tema` (a notícia é insumo; arco do modelo).

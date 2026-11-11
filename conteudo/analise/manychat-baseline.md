@@ -1426,5 +1426,5 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Duplicada da CULTURA (J360, intocada, LIVE). Easy builder `content20261111161546_707418`. Caminho imersão MBV.
 - Colisão: a única FOLEGO é a `IG | 2026-10-17 | FOLEGO | vendeu mais foi no banco` (LIVE, post específico): sem conflito.
 - Palavras `FOLEGO, folego, Folego` e DM "O imposto vai sair do seu caixa antes do dinheiro cair. Quer ver como eu ensino o dono a fazer a conta do giro, no MBV?", botão `>> Quero ver <<`. Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-FOLEGO`, conferido depois de recarregar.
-- Pendente às 15h: trocar o post (ainda aponta pro J360), completar o `&utm_content=` e ativar. Timer às 15h01, que também impede o PC de dormir.
+- **LIVE às ~15h04 (11/11)**, ~4 min depois do post `https://www.instagram.com/p/DfnE3qbFJfc/`. Post trocado (conferido pela imagem do card contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfnE3qbFJfc/` gravado e conferido no modo de edição depois de recarregar. O timer de shell rodou no horário.
 - Lição de edição: o primeiro preenchimento caiu no modo de visualização e foi perdido. Sempre conferir o botão "Atualização" no topo antes de preencher.
