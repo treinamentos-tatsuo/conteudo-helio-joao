@@ -1411,3 +1411,13 @@ Link completo: `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=
 Conferido depois de recarregar: LIVE, post novo, campaign, DM exata, 1 botão `>> Quero ver <<`, nada do post do modelo (`DfkO5qAEckW`).
 Atraso: uns 7 minutos depois do post (2 minutos acima do limite de 5). O post tinha 2 comentários na prévia na hora da ativação; o bloco de DM e link pra mandar à mão foi entregue ao João.
 - **LIVE 11h13**, amarrada ao `DfmqQzZEckr` (postado 11:08:21; miniatura 894543150), `utm_content=https://www.instagram.com/p/DfmqQzZEckr/`.
+
+## 11/11/2026 — `IG | 2026-11-11 | CREDO | empresa igreja repost` (repost 286 do 31_empresa-igreja) — LIVE ~12h48 (post 12h44, sem passar pela parada)
+
+Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy builder content20261111154530_282651 (https://app.manychat.com/fb2015128/cms/easy-builder/content20261111154530_282651).
+- Busca CREDO no painel: nenhuma automação (sem colisão; palavra nova, a global 307 não precisa pausar).
+- Palavras: `CREDO, credo, Credo`. DM do kit (93 chars): "Cultura não se fala uma vez, se instala. Quer ver como eu ensino credo, rito e rotina no MBV?". Botão `>> Quero ver <<` (herdado).
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-CREDO&utm_content=https://www.instagram.com/p/Dfm1On_ETeG/` (149 chars). O kit (máquina do Pedro) mandava `rtc.tatsuoacademy.com/v2-maio-org`, morto desde 06/11; ficou o `mbv.../v2`.
+- Post `Dfm1On_ETeG` (11/11 12:44:10 BRT), legenda "Todo empresário já soltou essa frase numa reunião...", card 1º da grade (capa "EMPRESA TEM QUE SER IGUAL A UMA IGREJA.", conferida na prévia).
+- Conferido recarregando: LIVE, post novo, campaign, palavras e DM no HTML, 1 botão, nada do post do modelo (`DfmqQzZEckr`), nada de `rtc.`.
+- Nenhum comentário CREDO antes da ativação. Sem ficha nesta máquina (a ficha é da máquina do Pedro, regra do kit): avisar o Pedro do dia, hora e link.
