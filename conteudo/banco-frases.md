@@ -735,7 +735,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 
 | # | Preto | Vermelho | Conceito | Lastro / atenção | Status |
 |---|---|---|---|---|---|
-| 92 | Você não precisa virar contador. | Precisa aprender a ler / o número da sua empresa. | o dono não faz conta de contador; ele lê o número pra decidir | MBV: "vocês não são contadores, vocês são empresários" | candidata |
+| 92 | Você não precisa virar contador. | Precisa aprender a ler / o número da sua empresa. | o dono não faz conta de contador; ele lê o número pra decidir | MBV: "vocês não são contadores, vocês são empresários" | feita (post J365, 11/11, papel) |
 | 93 | Ninguém abre empresa / pra pagar boleto. | Abre pra ter lucro. / Se não sobra, tem algo errado. | empresa existe pra deixar dinheiro no bolso do dono | âncora: "empresa nasceu pra gerar riqueza no bolso do dono" | candidata |
 | 94 | Tem empresário que trabalha / 14 horas por dia | e ganha menos que / o próprio gerente. | o dono sem pró-labore trabalha mais e leva menos | dono não pode ser CLT da própria empresa | candidata |
 | 95 | Venda resolve o mês. | Gestão resolve / a empresa. | vender tapa o buraco de agora; gestão impede o próximo | tamanho não paga conta | feita (post J338, 08/11, papel) |
