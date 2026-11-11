@@ -1421,3 +1421,10 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Post `Dfm1On_ETeG` (11/11 12:44:10 BRT), legenda "Todo empresário já soltou essa frase numa reunião...", card 1º da grade (capa "EMPRESA TEM QUE SER IGUAL A UMA IGREJA.", conferida na prévia).
 - Conferido recarregando: LIVE, post novo, campaign, palavras e DM no HTML, 1 botão, nada do post do modelo (`DfmqQzZEckr`), nada de `rtc.`.
 - Nenhum comentário CREDO antes da ativação. Sem ficha nesta máquina (a ficha é da máquina do Pedro, regra do kit): avisar o Pedro do dia, hora e link.
+
+## 11/11/2026 — `IG | 2026-11-11 | FOLEGO | imposto que girava` (carrossel J363, split payment) — MONTADA STOPPED ~13h20, pro post programado das 15h
+- Duplicada da CULTURA (J360, intocada, LIVE). Easy builder `content20261111161546_707418`. Caminho imersão MBV.
+- Colisão: a única FOLEGO é a `IG | 2026-10-17 | FOLEGO | vendeu mais foi no banco` (LIVE, post específico): sem conflito.
+- Palavras `FOLEGO, folego, Folego` e DM "O imposto vai sair do seu caixa antes do dinheiro cair. Quer ver como eu ensino o dono a fazer a conta do giro, no MBV?", botão `>> Quero ver <<`. Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-FOLEGO`, conferido depois de recarregar.
+- Pendente às 15h: trocar o post (ainda aponta pro J360), completar o `&utm_content=` e ativar. Timer às 15h01, que também impede o PC de dormir.
+- Lição de edição: o primeiro preenchimento caiu no modo de visualização e foi perdido. Sempre conferir o botão "Atualização" no topo antes de preencher.
