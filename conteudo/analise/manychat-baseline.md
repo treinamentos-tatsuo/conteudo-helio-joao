@@ -1410,3 +1410,4 @@ Ativada a partir da conversa FRASE TATSUO ACADEMY, onde o João avisou "carrosse
 Link completo: `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-ORGULHO&utm_content=https://www.instagram.com/p/DfmqQzZEckr/` (151 caracteres, conferido por JS: campaign, post e barra no fim).
 Conferido depois de recarregar: LIVE, post novo, campaign, DM exata, 1 botão `>> Quero ver <<`, nada do post do modelo (`DfkO5qAEckW`).
 Atraso: uns 7 minutos depois do post (2 minutos acima do limite de 5). O post tinha 2 comentários na prévia na hora da ativação; o bloco de DM e link pra mandar à mão foi entregue ao João.
+- **LIVE 11h13**, amarrada ao `DfmqQzZEckr` (postado 11:08:21; miniatura 894543150), `utm_content=https://www.instagram.com/p/DfmqQzZEckr/`.

@@ -1,6 +1,7 @@
 # J362 — Resultado só sai através de gente (Notas escuro com desenho, perfil do Hélio)
 
-**Status:** postado 11/11 às ~11h05 (https://www.instagram.com/p/DfmqQzZEckr/). Manychat ORGULHO LIVE ~11h12, amarrada ao post e com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/11-11-2026/`.
+**Status:** postado 11/11 às 11h08 (https://www.instagram.com/p/DfmqQzZEckr/). Manychat ORGULHO LIVE 11h13, com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/11-11-2026/`.
+**Status (aprovação):** postado 11/11 às ~11h05 (https://www.instagram.com/p/DfmqQzZEckr/). Manychat ORGULHO LIVE ~11h12, amarrada ao post e com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/11-11-2026/`.
 **Aprovação:** aprovado pelo João em 11/11 ("aprovado pode salvar.. cria a automação vou posatr ele agora 11:05h"). Postagem 11/11 às 11h05. Entregue em `POSTS/Carrossel sem rosto/NP J362_resultado-atraves-de-gente/`. Manychat `IG | 2026-11-11 | ORGULHO | resultado atraves de gente` (https://app.manychat.com/fb2015128/cms/easy-builder/content20261111140004_082161) montado STOPPED.
 **Status (v1, 11/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 

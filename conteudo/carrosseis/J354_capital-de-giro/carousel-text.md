@@ -1,6 +1,7 @@
 # J354 — Quanto dinheiro a sua empresa precisa ter parado (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem qua 11/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J354_capital-de-giro/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109161607_957581); amarrar ao post e ativar no "postei".
+**Status:** postado 11/11 às 10h10 (https://www.instagram.com/p/Dfmjow_EaSu/). Manychat GIRO LIVE 11h02 (52 min depois: o timer esperava 12h30), com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/11-11-2026/`.
+**Status (aprovação):** aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem qua 11/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J354_capital-de-giro/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109161607_957581); amarrar ao post e ativar no "postei".
 **Status (v1, 09/11):** texto mostrado ao João no CHECKPOINT 1, na sequência J353 a J358. Aguardando aprovação. Postagem prevista: qua 11/11, 12h30.
 
 **Origem:** sequência pedida pelo João em 09/11 (ver J353). Segundo da semana.
