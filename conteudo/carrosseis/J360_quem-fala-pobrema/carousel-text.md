@@ -1,6 +1,6 @@
 # J360 — Eu prefiro quem fala "pobrema" (modelo do J344, perfil do Hélio)
 
-**Status:** v1 aprovada pelo João em 10/11. Post marcado pra hoje, 10/11, às 19h. Entregue em `POSTS/Carrossel Foto/NP J360_quem-fala-pobrema` (o NP sai e a peça sobe pro Drive na publicação).
+**Status:** postado em 10/11 às 19h00 (`https://www.instagram.com/p/Dfk7heiFJVJ/`). Manychat CULTURA LIVE só em 11/11 às ~9h40: a ativação das 19h não rodou, e os comentários dessas ~14h (12 no total às 9h30) ficaram sem DM automática. NP retirado (`POSTS/Carrossel Foto/J360_quem-fala-pobrema`) e cópia no Drive em `POST CLAUDE/HÉLIO TATSUO/10-11-2026/J360_quem-fala-pobrema`.
 
 **Origem:** texto do João (10/11), 11 slides, com liberdade pra mexer e enxugar. Formato: o mesmo do J344 (capa com foto do Hélio + bilhete à mão, slide 2 preto continuando o gancho, bloco de notas escuro no miolo, slide preto com a pergunta, CTA com foto).
 
