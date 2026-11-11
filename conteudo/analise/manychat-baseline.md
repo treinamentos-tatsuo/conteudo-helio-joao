@@ -1397,3 +1397,9 @@ Regra do João: **comentário DIAGNÓSTICO em live** recebe `https://mbv.tatsuoa
 - Comentários da janela parada (12 às 9h30): não foram lidos daqui, porque o Instagram não carrega a lista com a janela minimizada. Quem comentou CULTURA nesse intervalo precisa de DM manual.
 
 - **10-11/11 — NEGATIVO (J353):** post `DfkO5qAEckW` (10/11 12:30:47), miniatura 901147300. O timer de shell das 12h31 morreu (exit 4) e a automação ficou STOPPED até 11/11 10h50, quando foi amarrada e ativada. Lição: timer de shell não sobrevive a reinício do app; conferir no dia seguinte se a peça do dia anterior ficou LIVE.
+
+- **11/11 — GIRO (J354):** o post saiu às 10:10:27 (`Dfmjow_EaSu`, miniatura 898987570), não às 12h30 como o timer esperava. Amarrada e LIVE às 11h02 (52 min depois), com `utm_content`. Timer das 12h31 cancelado.
+
+## 11/11/2026 — `IG | 2026-11-11 | ORGULHO | resultado atraves de gente` (carrossel J362, Notas escuro com desenho) — MONTADA STOPPED ~11h00, pro post das 11h05
+
+Caminho **imersão MBV**; duplicada da NEGATIVO (J353, intocada, LIVE); easy builder content20261111140004_082161; 3 grafias `ORGULHO, orgulho, Orgulho` (a ORGULHO do 116, set/26, era de post específico); DM "Time com orgulho defende o resultado como se fosse dele. Quer ver como eu ensino o dono a construir isso, no MBV?"; botão `>> Quero ver <<`; `utm_campaign=2026-11-11-ORGULHO`. Conferido: STOPPED, palavra, DM e link novos, 1 botão.
