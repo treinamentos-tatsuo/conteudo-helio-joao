@@ -1403,3 +1403,10 @@ Regra do João: **comentário DIAGNÓSTICO em live** recebe `https://mbv.tatsuoa
 ## 11/11/2026 — `IG | 2026-11-11 | ORGULHO | resultado atraves de gente` (carrossel J362, Notas escuro com desenho) — MONTADA STOPPED ~11h00, pro post das 11h05
 
 Caminho **imersão MBV**; duplicada da NEGATIVO (J353, intocada, LIVE); easy builder content20261111140004_082161; 3 grafias `ORGULHO, orgulho, Orgulho` (a ORGULHO do 116, set/26, era de post específico); DM "Time com orgulho defende o resultado como se fosse dele. Quer ver como eu ensino o dono a construir isso, no MBV?"; botão `>> Quero ver <<`; `utm_campaign=2026-11-11-ORGULHO`. Conferido: STOPPED, palavra, DM e link novos, 1 botão.
+
+## 11/11/2026 — `IG | 2026-11-11 | ORGULHO | resultado atraves de gente` (carrossel J362) — LIVE ~11h12 (post ~11h05, "postei" do João)
+
+Ativada a partir da conversa FRASE TATSUO ACADEMY, onde o João avisou "carrossel postado.. pode ativar a automação". Post achado no perfil pelo JS: `DfmqQzZEckr`, legenda "Tem dono que sabe de cabeça a meta, o faturamento e a margem do mês..." (bate com a J362). Na grade do editor, o card selecionado era o do modelo (NEGATIVO, "Tem empresa que recebe antes de pagar"); foi trocado pelo 2º card, capa escura "Você cobra o resultado todo mês", conferida na prévia com a legenda.
+Link completo: `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-ORGULHO&utm_content=https://www.instagram.com/p/DfmqQzZEckr/` (151 caracteres, conferido por JS: campaign, post e barra no fim).
+Conferido depois de recarregar: LIVE, post novo, campaign, DM exata, 1 botão `>> Quero ver <<`, nada do post do modelo (`DfkO5qAEckW`).
+Atraso: uns 7 minutos depois do post (2 minutos acima do limite de 5). O post tinha 2 comentários na prévia na hora da ativação; o bloco de DM e link pra mandar à mão foi entregue ao João.
