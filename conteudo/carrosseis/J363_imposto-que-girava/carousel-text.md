@@ -1,0 +1,118 @@
+# J363 — O imposto que girava a sua empresa (split payment; editorial-punch, perfil do Hélio)
+
+**Status:** v4 (12 slides) aprovada pelo João em 11/11 ("gostei, salve ele na pasta"). Horário da postagem a definir pelo João; ele avisa pra montar o Manychat FOLEGO. Entregue em `POSTS/Carrossel Foto/NP J363_imposto-que-girava/` e `carrosseis claude/imposto/`.
+
+**Origem:** sugestão do Claude, pedida pelo João em 11/11 ("me dê os assuntos que você acha que terão mais engajamento"). Dado de outubro: os dois carrosséis que mais renderam no mês saíram de notícia da semana (183 com 283 comentários, 182 com 109).
+**Regime:** `tema` (a notícia é insumo; arco do modelo).
+**Fatos conferidos (11/11):**
+- O split payment da reforma tributária separa o imposto (IBS e CBS) na hora do pagamento e manda direto pro governo. A Fin (confederação dos bancos) estima 98% das operações entre empresas cobertas a partir de outubro de 2027 ([g1, 10/11](https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml)).
+- A Tax Group estima cerca de 981 mil empresas afetadas e até R$ 117 bilhões a mais de capital de giro necessário, com custo financeiro anual de R$ 38 bilhões. São estimativas ([Poder Nacional](https://www.podernacional.com.br/split-payment/); [Gazeta do Povo](https://www.gazetadopovo.com.br/economia/split-payment-do-maior-iva-do-mundo-ameaca-caixa-das-empresas-em-ate-r-117-bilhoes/)).
+- O que some é o prazo médio de cerca de 40 dias entre a venda e o recolhimento ([Contábeis](https://www.contabeis.com.br/artigos/80720/split-payment-pode-pressionar-o-caixa-das-empresas/)).
+
+## Declarações
+
+- **Interlocutor:** o dono de PME que paga imposto e nunca separou quanto do caixa é imposto ainda não recolhido. Nenhum slide ensina o contador ou o fiscal a operar o sistema.
+- **Uma dor só:** o dono vai vender a mesma coisa e ter menos dinheiro no caixa, porque parte do giro dele era imposto.
+- **Sujeito do nervo:** o sistema (a empresa que nunca teve capital de giro próprio), não o caráter do dono. Sem lado político: a peça não defende nem ataca a reforma; a conta volta pro dono.
+- **Causa técnica:** necessidade de capital de giro (ciclo × gasto) e quanto dela era financiada pelo prazo do imposto.
+- **Caminho do CTA:** imersão MBV (o dono sai querendo aprender a conta do caixa).
+- **Palavra-chave:** FOLEGO (estado desejado: fôlego no caixa). Sem acento. Não aparece no registro.
+- **Vizinhança:** a série do capital de giro está saindo às 9h (J353 NEGATIVO 10/11, J354 GIRO hoje). Este post conversa com ela pela notícia, sem repetir a conta. Risco: dois posts de caixa no mesmo dia.
+
+## Contexto de cada slide (guia a imagem, v4)
+
+1. Capa: mão de terno tirando o maço da gaveta do caixa; a mão do dono parada no balcão.
+2. Guia de imposto presa num calendário de mesa com as folhas viradas semanas à frente.
+3. Maço de notas em cima das contas a pagar.
+4. Fita do caixa registradora sendo cortada ao meio pela tesoura.
+5. Mar de caixas de arquivo: o tamanho do número.
+6. Mesa do gerente do banco, contrato e caneta.
+7. Jornal dobrado com os óculos do dono em cima.
+8. Lanterna no chão iluminando o buraco entre as tábuas.
+9. Boia pendurada num cais vazio.
+10. Calculadora com a fita caindo da mesa.
+11. Calendário de mesa com as folhas viradas.
+12. CTA: livro-caixa aberto, caneta e cofrinho de ferro.
+
+## Slides (texto que renderiza)
+
+Convenção: linha 1 = setup em preto; **negrito** = punch em vermelho.
+
+**1 (capa)**
+Em 2027, (serifa preta, menor)
+**O IMPOSTO VAI SAIR DO SEU CAIXA** (Anton vermelho, maior)
+antes do dinheiro (serifa preta, menor)
+**CAIR NA SUA CONTA.** (Anton vermelho, maior)
+
+**2**
+Hoje você vende e recebe.
+**O imposto, você só paga semanas depois.**
+
+**3**
+Nesse meio tempo, esse dinheiro paga fornecedor e cobre a folha.
+**O imposto está girando a sua empresa.**
+
+**4**
+Com o split payment, o imposto sai na hora em que o cliente paga.
+**O dinheiro já chega sem ele.**
+
+**5**
+Uma consultoria fez a conta:
+**as empresas vão precisar de até R$ 117 bilhões a mais de giro.**
+
+**6**
+E onde o dono vai buscar esse dinheiro? No banco.
+**Pagando juro pelo que antes girava de graça.**
+
+**7**
+Aí o dono culpa o governo. Pode até ser.
+**Mas a conta de 2027 quem paga é você.**
+
+**8**
+O split payment não cria o buraco.
+**Ele só mostra o buraco.**
+
+**9**
+Quem fechava o mês com o dinheiro do imposto
+**nunca teve capital de giro. Tinha empréstimo do governo.**
+
+**10**
+Me responde: quanto do seu caixa hoje é imposto?
+**Se você não sabe, 2027 vai te contar.**
+
+**11**
+Ainda dá tempo de fazer essa conta.
+**Quem fizer em 2026 depende menos do banco em 2027.**
+
+**12 (oferta + CTA)**
+Eu tenho um treinamento de gestão pra donos de PME.
+Comenta **FOLEGO**
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+Tem uma conta que quase nenhum dono fez ainda. E ela vence em 2027.
+
+Hoje a sua empresa vende, recebe e só recolhe o imposto semanas depois. Nesse meio tempo, esse dinheiro trabalha pra você: paga fornecedor, cobre a folha, segura o mês ruim. A maioria dos donos nunca percebeu que uma parte do capital de giro da empresa é imposto que ainda não foi pago.
+
+Com o split payment da reforma tributária, isso acaba. O imposto é separado na hora em que o cliente paga, e o dinheiro chega na sua conta já sem ele. Uma estimativa da Tax Group fala em até R$ 117 bilhões que as empresas vão ter que arrumar de capital de giro.
+
+Em 38 anos de empresa, eu vi muita regra mudar. E toda vez foi igual: o dono que conhecia a própria conta se ajustou em silêncio. O que não conhecia foi pro banco pagar juro pra tapar o buraco, e passou anos achando que o problema era a regra.
+
+Discutir se o split payment é justo não paga fornecedor. O que paga é você saber quanto do seu caixa hoje é imposto, qual é o seu ciclo e de quanto capital de giro a sua operação precisa de verdade. Empresa que só fecha o mês com o dinheiro do governo nunca foi dona do próprio caixa.
+
+Comenta FOLEGO que eu te mando no direct o link do MBV, o meu treinamento de gestão pra donos de PME.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+- **Capa (v2, João, 11/11):** "o imposto vai sair do seu caixa" passou pro vermelho, "ANTES DO DINHEIRO" pro preto e só "CAIR NA SUA CONTA." ficou no grito vermelho. "Antes de o dinheiro" virou "antes do dinheiro" (forma falada). O modelo pede o setup em preto e o grito em vermelho; aqui o João quis duas manchas vermelhas. **v3 (João, 11/11):** vermelho em fonte maior e preto em fonte menor, alternando as linhas (preto, vermelho, preto, vermelho). A capa ficou com 4 linhas, contra a regra de 2 linhas do modelo; decisão dele.
+- **v4 (João, 11/11): "os demais slides ficaram com o texto muito longo, reduza um pouco, e os que ficarem sem sentido se reduzir divida em dois".** Todos os slides de 2 a 10 foram enxugados pra uma estrofe de setup e uma de punch. O antigo 2 virou 2 e 3; o antigo 7 virou 8 e 9. O carrossel passou de 10 pra 12 slides. Saíram a "conta garantida" e a "reserva da família" (slide 6), "o seu ciclo, a sua margem, o giro" (11) e "inclusive a conta do caixa" (oferta). Imagens novas nos slides 2 (guia do imposto presa no calendário) e 8 (lanterna mostrando o buraco no chão); as outras foram reaproveitadas. v1 das imagens e dos PNGs em `imagens/_v1` e `instagram/_v1`.
+
+## Etiqueta (11/11)
+
+- **Ficha:** gravada no `registro-posts.csv` (Lucratividade, dor sentida, sujeito do nervo = sistema, quebra de ilusão + número que vira, roupa direto, objetivo lead). **Previsão: `mediana`, 12 a 37 comentários em D+7** (banda de hoje: 10 a 37). `data_publicacao` em branco até o João definir o horário.
+- **Manychat (a montar quando o João avisar o horário):** palavra `FOLEGO, folego, Folego`; caminho imersão MBV; link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-MM-DD-FOLEGO` + `&utm_content=` com o post. DM sugerida: "O imposto vai sair do seu caixa antes do dinheiro cair. Quer ver como eu ensino o dono a fazer a conta do giro, no MBV?" Botão `>> Quero ver <<`.
