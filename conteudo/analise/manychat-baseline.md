@@ -1429,8 +1429,8 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - **LIVE às ~15h04 (11/11)**, ~4 min depois do post `https://www.instagram.com/p/DfnE3qbFJfc/`. Post trocado (conferido pela imagem do card contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfnE3qbFJfc/` gravado e conferido no modo de edição depois de recarregar. O timer de shell rodou no horário.
 - Lição de edição: o primeiro preenchimento caiu no modo de visualização e foi perdido. Sempre conferir o botão "Atualização" no topo antes de preencher.
 
-## 11/11/2026 — `IG | 2026-11-11 | LIVRE | empregado da propria clinica` (carrossel J367, médico é empresário) — MONTADA STOPPED ~17h, pro post programado das 19h
+## 11/11/2026 — `IG | 2026-11-11 | LIVRE | empregado da propria clinica` (carrossel J367, médico é empresário) — MONTADA STOPPED ~17h, pro post programado das 19h10 (era 19h)
 - Duplicada da FOLEGO (J363, intocada, LIVE). Easy builder `content20261111214315_566937`. Caminho imersão MBV.
 - Colisão: nenhuma automação com LIVRE no nome.
 - Palavras `LIVRE, livre, Livre` e DM "Médico que não separa o honorário do lucro vira empregado da própria clínica. Quer ver como eu ensino o médico a ler a clínica como empresa, no MBV?", botão `>> Quero ver <<`. Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-LIVRE`, conferido no modo de edição depois de recarregar.
-- Pendente às 19h: trocar o post (ainda aponta pro J363), completar o `&utm_content=` e ativar. Timer de shell às 19h01, que também impede o PC de dormir.
+- **LIVE às ~19h12 (11/11)**, ~2 min depois do post `https://www.instagram.com/p/DfnhcvrlEtQ/` (programado 19h10). Post trocado (imagem do card conferida contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfnhcvrlEtQ/` gravado e conferido no modo de edição depois de recarregar.

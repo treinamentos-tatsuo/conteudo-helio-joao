@@ -1,6 +1,6 @@
 # J367 — O empregado da própria clínica (formato do J360/J344, perfil do Hélio)
 
-**Status:** aprovado pelo João em 11/11. Post programado pra hoje, 11/11, às 19h. Entregue em `POSTS/Carrossel Foto/NP J367_empregado-da-propria-clinica/` e `carrosseis claude/clinica/`. Manychat LIVRE montado STOPPED (content20261111214315_566937); amarrar e ativar às 19h. v1 em `_rodadas/v1.md`. Pedido do João: carrossel pra médico, no dia em que o Hélio está num congresso médico em Fortaleza. A tese é "médico é empresário e precisa agir como empresário", tirada do que o Hélio já falou.
+**Status:** postado em 11/11 às 19h10 (`https://www.instagram.com/p/DfnhcvrlEtQ/`). Manychat LIVRE LIVE às ~19h12 (content20261111214315_566937). NP retirado (`POSTS/Carrossel Foto/J367_empregado-da-propria-clinica/`) e cópia no Drive em `POST CLAUDE/HÉLIO TATSUO/11-11-2026/J367_empregado-da-propria-clinica`. Também em `carrosseis claude/clinica/`. v1 em `_rodadas/v1.md`.
 
 **Origem:** pedido do João (11/11). O acervo não tem carrossel feito pra médico. O médico só apareceu como metáfora (144: "médico nenhum deixa outra pessoa interpretar o exame"; 7: o universo clínico do "caixa é sintoma"). Esta é a primeira peça com o médico como interlocutor.
 **Regime:** `tema` (o lastro é o MBV).
