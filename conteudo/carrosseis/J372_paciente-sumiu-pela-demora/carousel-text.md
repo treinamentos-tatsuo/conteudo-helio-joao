@@ -1,6 +1,6 @@
 # J372 — O paciente sumiu pela demora (formato do J367/J360, perfil do Hélio)
 
-**Status:** aprovado pelo João em 12/11. Post programado pra hoje, 12/11, às 19h10. Entregue em `POSTS/Carrossel Foto/NP J372_paciente-sumiu-pela-demora/` e `carrosseis claude/paciente/`. Manychat MOP por post montado STOPPED (content20261112213759_974143); amarrar e ativar às 19h10.
+**Status:** postado em 12/11 (programado 19h10, no ar ~19h16; `https://www.instagram.com/p/DfqG2ICFGlj/`). Manychat MOP por post LIVE às ~19h18 (content20261112213759_974143). NP retirado (`POSTS/Carrossel Foto/J372_paciente-sumiu-pela-demora/`) e cópia no Drive em `POST CLAUDE/HÉLIO TATSUO/12-11-2026/J372_paciente-sumiu-pela-demora`. Também em `carrosseis claude/paciente/`.
 
 **Origem:** continuação do J367 (11/11). O J367 tratou do dinheiro (honorário × lucro). Este trata da venda: o atendimento da clínica que ninguém mede.
 **Regime:** `tema` (lastro no MBV).
