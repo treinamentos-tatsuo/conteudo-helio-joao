@@ -1447,3 +1447,13 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Ativação pelo timer de shell (17h16): post achado no perfil (legenda "Faturamento é o número mais gostoso de olhar..."), 2º card da grade do gatilho (capa do porquinho "SORRINDO."), trocado, `utm_content` acrescentado, Atualização, toggle do gatilho do post ligado. Gatilho de live segue Off. Lista conferida: LIVE, gatilho do post ativo, live Off.
 - Conferência do botão depois de recarregar não saiu: a janela do Chrome parou de renderizar (screenshot com timeout). O link foi visto completo no modal antes da Atualização.
 - Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
+
+## 12/11/2026 — `IG | 2026-11-12 | CABECA | dois tipos de funcionario repost` (repost 290 da máquina do Pedro) — MONTADA STOPPED ~18h10, LIVE ~18h33 (post programado 18h30, https://www.instagram.com/p/DfqBnQEFH5A/)
+- Pasta `POSTS/REPOST CARROSSEL/290_dois-tipos-de-funcionario-repost`, kit em `manychat-kit.md`. Caminho imersão MBV.
+- Duplicada da `IG | 2026-11-12 | FONTE | de onde sai o dinheiro` (intocada, LIVE). Easy builder `content20261112210402_271480`.
+- Colisão: busca "cabe" só achou o texto de DMs (DIAGNOSTICO-1, LUCRAR, DECISAO, PONTE, PEQUENO); nenhuma com CABEÇA no gatilho, nenhuma global.
+- Palavras `CABECA, cabeca, Cabeca, CABEÇA, cabeça, Cabeça`. DM do kit (94 chars): "O time executa o jogo que o dono define. Quer ver como eu ensino o dono a ser o cabeça no MBV?" Botão `>> Quero ver <<` (herdado).
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-12-CABECA&utm_content=https://www.instagram.com/p/DfqBnQEFH5A/` (150 chars, conferido por JS no modal). O kit mandava `rtc.../v2-maio-org` (morto desde 06/11): ficou o `mbv.../v2`.
+- Ativação pelo timer de shell (18h31): post achado no perfil (legenda "Toda semana algum dono me fala a mesma frase..."), 2º card da grade (capa dos dois homens de terno na janela, "Só existem 2 tipos de funcionários"), prévia conferida.
+- Conferido recarregando: LIVE, post novo, campaign, palavras e DM no HTML, 1 botão, nada da FONTE (palavras nem post Dfpf9zglFF8), nada de `rtc.`.
+- Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
