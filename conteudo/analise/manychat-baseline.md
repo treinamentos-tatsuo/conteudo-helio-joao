@@ -1434,3 +1434,5 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Colisão: nenhuma automação com LIVRE no nome.
 - Palavras `LIVRE, livre, Livre` e DM "Médico que não separa o honorário do lucro vira empregado da própria clínica. Quer ver como eu ensino o médico a ler a clínica como empresa, no MBV?", botão `>> Quero ver <<`. Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-11-LIVRE`, conferido no modo de edição depois de recarregar.
 - **LIVE às ~19h12 (11/11)**, ~2 min depois do post `https://www.instagram.com/p/DfnhcvrlEtQ/` (programado 19h10). Post trocado (imagem do card conferida contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfnhcvrlEtQ/` gravado e conferido no modo de edição depois de recarregar.
+
+- **12/11 — FONTE (J355):** post `Dfpf9zglFF8` (13:36:06, miniatura 902255611), LIVE 13h38 no "está postando" do João, com `utm_content`.
