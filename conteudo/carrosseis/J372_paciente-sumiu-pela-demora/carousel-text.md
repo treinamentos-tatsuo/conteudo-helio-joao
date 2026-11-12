@@ -1,0 +1,138 @@
+# J372 — O paciente sumiu pela demora (formato do J367/J360, perfil do Hélio)
+
+**Status:** aprovado pelo João em 12/11. Post programado pra hoje, 12/11, às 19h10. Entregue em `POSTS/Carrossel Foto/NP J372_paciente-sumiu-pela-demora/` e `carrosseis claude/paciente/`. Manychat MOP por post montado STOPPED (content20261112213759_974143); amarrar e ativar às 19h10.
+
+**Origem:** continuação do J367 (11/11). O J367 tratou do dinheiro (honorário × lucro). Este trata da venda: o atendimento da clínica que ninguém mede.
+**Regime:** `tema` (lastro no MBV).
+**Formato:** o mesmo do J367.
+- A capa leva foto do Hélio no congresso e o bilhete à mão.
+- O slide 2 é preto.
+- Do 3 ao 7 vai o bloco de notas escuro.
+- O 8 tem foto do Hélio.
+- O 9 é preto, com o desafio.
+- O 10 é o CTA com foto do Hélio, sem a do Dr. Raul.
+- As fotos são as do congresso (IMG_7414 e IMG_7492), em posição e recorte diferentes dos do J367.
+
+## Lastro no MBV (dia 2)
+
+- **l.6480-6530:** pra vender pra médico, o primeiro passo é o "cliente oculto": mandar mensagem como paciente. "a maior parte dos médicos... tá cagando por tempo de resposta"; "tem alguns que demora um dia, não responde, tem gente que demora duas horas, três horas"; "quantos dos médicos que a gente aborda... todos demoram mais de um minuto". Vai pros slides 2 e 3.
+- **l.6463-6470:** "no telefone 1 minuto é muito e no WhatsApp 1 minuto não é muito... responde depois do almoço... o cara já até sarou, já passou a dor de cabeça". Vai pro slide 4.
+- **l.6620-6626:** a secretária responde "a consulta do doutor Paulo custa 700 reais. Esse que é a abordagem?... cê nunca ouviu falar em conexão". Vai pro slide 5.
+- **l.6779-6787:** "o objetivo nosso é vender o procedimento ou a cirurgia... começa pela consulta, consulta é a boca do funil". Vai pro slide 6.
+- **l.6569-6600:** "só o fato de responder em cima da hora já aumentou venda... só o fato de acompanhar... já aumentou o faturamento". Vai pro slide 7.
+- **l.2652-2656:** "na clínica médica a gente tem que bater meta também". Vai pro slide 8.
+
+## Declarações
+
+- **Interlocutor:** o médico dono de clínica, que manda a empresa atender. Nenhum slide ensina a secretária a responder; a peça fala do que o dono não mede e não cobra.
+- **Uma dor só:** o paciente pergunta o preço e some, e o médico acha que foi o preço ou o concorrente. Foi a demora e o atendimento frio, que ninguém mede.
+- **Sujeito do nervo:** o sistema. A clínica não mede o tempo de resposta nem quantas mensagens viram consulta. A secretária não é a culpada, e o médico também não é acusado de caráter.
+- **Causa técnica:** o funil da clínica (mensagem → consulta → procedimento), o tempo de resposta e a taxa de conversão de cada etapa.
+- **Caminho do CTA:** MOP, o Mapa de Oportunidades da Alta Escala (`https://mop.altaescala.com.br/`). É uma sessão de cerca de 40 minutos com um especialista comercial, que mostra onde a clínica perde paciente. Escolha do João em 12/11, depois de o Claude levantar que a automação global `MOP` já existia. Fora dos dois caminhos da skill (MBV e RAIO-X): é oferta da Alta Escala, específica pra clínica.
+- **Palavra-chave:** MOP, a mesma da automação global `MOP` (LIVE desde 19/09, qualquer post, link sem UTM). A automação por post, com `utm_campaign=AAAA-MM-DD-MOP` e `utm_content`, aponta pra mesma página: no pior caso, o lead recebe duas DMs (precedente: RAIO-X, 18/09).
+- **Vizinhança:** o slide 6 do J367 (de ontem) citou o WhatsApp em uma linha; este post aprofunda o tema. Mesmo público e mesma série de fotos: funciona como parte 2. Convém não postar no mesmo dia de outro post pra médico.
+
+## Contexto de cada slide
+
+1. Capa: Hélio no congresso (foto definida na montagem), com o bilhete à mão.
+2. Preto.
+3. a 7. Bloco de notas escuro.
+8. Foto do Hélio no congresso.
+9. Preto.
+10. CTA: recorte fechado do Hélio.
+
+## Slides (texto que renderiza)
+
+**1 (capa, foto do Hélio)**
+Se eu pudesse te ensinar
+1 só coisa
+pra vender mais cirurgias,
+**sabe qual seria?**
+[bilhete à mão] E não tem nada a ver com medicina. →
+
+**2 (preto)**
+Responda o paciente
+**em menos de 1 minuto.**
+Parece simples demais. Quase nenhuma clínica faz.
+
+**3 (notas)**
+A gente testa isso **se passando por paciente.**
+Uma das minhas empresas atende clínicas médicas. É o primeiro teste que a gente faz.
+· resposta em 5, 10 minutos
+· resposta em 2, 3 horas
+· clínica que só responde no dia seguinte
+[rodapé] Dos consultórios que a gente testou, **nenhum respondeu em menos de um minuto.**
+
+**4 (notas)**
+No telefone, 1 minuto esperando é uma eternidade.
+No WhatsApp, ninguém liga. Mandou de manhã, a clínica responde depois do almoço.
+Uai, aí o paciente **já até sarou.**
+[rodapé] Já passou a dor de cabeça dele. Ou ele já marcou com outro médico.
+
+**5 (notas)**
+E quando responde, é assim:
+"A consulta custa 700 reais."
+Sem perguntar o nome, o caso, o que ele está sentindo.
+**Isso não é atendimento. É tabela de preço.**
+[rodapé] Aí o paciente compara preço. Foi a única coisa que a clínica deu pra ele comparar.
+
+**6 (notas)**
+A consulta é a porta de entrada.
+· o paciente entra pela consulta
+· na consulta, ele conhece o procedimento
+· é o procedimento que sustenta a clínica
+[rodapé] Quem perde a consulta no WhatsApp **perde a cirurgia junto.**
+
+**7 (notas)**
+E o médico não vê nada disso.
+Ninguém mede quanto tempo a clínica leva pra responder, nem quantas mensagens viram consulta.
+**O que ninguém mede, ninguém cobra.**
+[rodapé] Nas clínicas que a gente atende, só acompanhar o tempo de resposta já aumentou o faturamento.
+
+**8 (foto do Hélio)**
+Clínica tem meta.
+Tem funil.
+**Tem venda.**
+[menor] Médico que acha que venda é coisa de comerciante deixa o paciente pro concorrente que respondeu primeiro.
+
+**9 (preto)**
+Faz o teste hoje:
+manda uma mensagem pra sua clínica como se fosse paciente.
+**Quanto tempo ela levou pra responder?**
+
+**10 (CTA, foto do Hélio)**
+Se a resposta te incomodou, a sua clínica está perdendo paciente no caminho.
+A Alta Escala, uma das minhas empresas, faz o Mapa de Oportunidades da sua clínica: mostra onde o paciente desiste.
+Comenta MOP
+que eu mando o link no seu direct.
+
+## Legenda (post)
+
+```
+Se eu pudesse te ensinar uma só coisa pra vender mais cirurgias, sabe qual seria? Responder o paciente em menos de um minuto.
+
+Tem médico que acha que perdeu o paciente pro preço. Ou pro concorrente que cobra menos. Na maioria das vezes, perdeu pra demora.
+
+Uma das minhas empresas atende clínicas médicas. Antes de começar com uma clínica nova, a gente faz um teste simples: manda mensagem no WhatsApp como se fosse paciente. Tem clínica que responde em duas, três horas. Tem clínica que só responde no dia seguinte. Dos consultórios que a gente testou, nenhum respondeu em menos de um minuto.
+
+E quando a resposta chega, quase sempre vem igual: o preço da consulta, e mais nada. Ninguém pergunta o nome, o caso, o que a pessoa está sentindo. Aí o paciente faz a única coisa que dá pra fazer com uma tabela de preço: compara.
+
+O médico não vê nada disso, porque está atendendo. E a consulta é a porta de entrada de tudo. É nela que o paciente conhece o procedimento, a cirurgia, o tratamento que de fato sustenta a clínica. Quem perde a consulta no WhatsApp perde o resto junto.
+
+Clínica tem meta, tem funil e tem venda, como qualquer empresa. Nas clínicas que a gente atende, só começar a medir o tempo de resposta já aumentou o faturamento. Não precisou de anúncio nem de desconto.
+
+Faz o teste hoje: manda uma mensagem pra sua clínica como se fosse paciente e marca quanto tempo ela levou pra responder.
+
+Comenta MOP que eu te mando no direct o link do Mapa de Oportunidades da Alta Escala, uma das minhas empresas: uma análise da sua clínica com um especialista comercial, que mostra onde o paciente desiste do contato até o fechamento.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+## Divergências registradas
+
+- **Capa (v2, João, 12/11):** o João achou a capa da v1 ("Não foi o preço. Foi a demora.") genérica e propôs: "Se eu pudesse te ensinar 1 só coisa para vender mais cirurgias seria isso:". O texto dele entrou literal na capa, com "pra" no lugar de "para", como o Hélio fala. Como a capa agora promete uma lição, o slide 2 entrega a lição ("Responda o paciente em menos de 1 minuto") e o teste do cliente oculto foi pro título do slide 3. A legenda ganhou uma abertura que conversa com a capa. A v1 dos PNGs está em `instagram/_v1`. **CTA (João, 12/11):** saiu MBV/AGENDA e entrou MOP. **Slide 4 (João, 12/11):** "não parece o Hélio falando". Foi reescrito colado na fala do MBV (dia 2, l.6463-6470: "responde depois do almoço, uai, o cara já até sarou, já passou a dor de cabeça"). **v3 (João, 12/11):** ele quis fechar a capa com pergunta ("como seria isso?"). O Claude argumentou que essa forma quebrava a promessa da frase e sugeriu "sabe qual seria?", que o João escolheu.
+
+## Etiqueta (12/11)
+
+- **Ficha:** gravada no `registro-posts.csv` (Crescimento, dor sentida, sujeito do nervo = sistema, quebra de ilusão + espelho na prática, roupa direto, objetivo lead). **Previsão: `mediana`, 10 a 30 comentários em D+7** (banda de hoje: 10 a 37).
+- **Manychat:** palavra `MOP, Mop, mop`; caminho MOP (Alta Escala); link `https://mop.altaescala.com.br/?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-12-MOP` + `&utm_content=` com o post. DM: "Toda clínica perde paciente em algum ponto do atendimento. Quer o mapa que mostra onde a sua perde?" Botão `>> Quero meu mapa <<`. A global `MOP` (LIVE, qualquer post, sem UTM) continua ligada.

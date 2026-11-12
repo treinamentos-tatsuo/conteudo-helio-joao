@@ -1457,3 +1457,9 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Ativação pelo timer de shell (18h31): post achado no perfil (legenda "Toda semana algum dono me fala a mesma frase..."), 2º card da grade (capa dos dois homens de terno na janela, "Só existem 2 tipos de funcionários"), prévia conferida.
 - Conferido recarregando: LIVE, post novo, campaign, palavras e DM no HTML, 1 botão, nada da FONTE (palavras nem post Dfpf9zglFF8), nada de `rtc.`.
 - Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
+
+## 12/11/2026 — `IG | 2026-11-12 | MOP | paciente sumiu pela demora` (carrossel J372, médico, CTA da Alta Escala) — MONTADA STOPPED, pro post programado das 19h10
+- Duplicada da LIVRE (J367, intocada, LIVE). Easy builder `content20261112213759_974143`. Caminho MOP: o Mapa de Oportunidades da Alta Escala, escolha do João em 12/11.
+- **Colisão conhecida e aceita:** a global `MOP` (`content20260919215227_752167`, LIVE desde 19/09, qualquer publicação ou Reel, palavras `MOP, Mop, mop`, DM "Quer saber como fazer a sua clínica vender mais e sobrar mais?", link `https://mop.altaescala.com.br/` sem UTM) continua ligada. As duas apontam pra mesma página. No pior caso, o lead recebe duas DMs ou cai no balde sem UTM da global (mesmo raciocínio do RAIO-X de 18/09).
+- Palavras `MOP, Mop, mop` e DM "Toda clínica perde paciente em algum ponto do atendimento. Quer o mapa que mostra onde a sua perde?". Botão `>> Quero meu mapa <<`. Link `https://mop.altaescala.com.br/?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-12-MOP`, conferido no modo de edição depois de recarregar.
+- Pendente às 19h10: trocar o post (ainda aponta pro J367), completar o `&utm_content=` e ativar. Timer de shell às 19h11.
