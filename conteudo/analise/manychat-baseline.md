@@ -1436,3 +1436,14 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - **LIVE às ~19h12 (11/11)**, ~2 min depois do post `https://www.instagram.com/p/DfnhcvrlEtQ/` (programado 19h10). Post trocado (imagem do card conferida contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfnhcvrlEtQ/` gravado e conferido no modo de edição depois de recarregar.
 
 - **12/11 — FONTE (J355):** post `Dfpf9zglFF8` (13:36:06, miniatura 902255611), LIVE 13h38 no "está postando" do João, com `utm_content`.
+
+## 12/11/2026 — `IG | 2026-11-12 | DIAGNOSTICO | quebrar sorrindo repost` (repost 289 da máquina do Pedro, Flow Builder) — MONTADA STOPPED ~16h50, LIVE ~17h19 (post programado 17h15, https://www.instagram.com/p/Dfp5BJGFLNt/)
+- O João chamou de "carrossel 289": é o `POSTS/REPOST CARROSSEL/289_quebrar-sorrindo-repost`, não a frase J289 (nunca se perdeu). Kit em `manychat-kit.md` da pasta.
+- Duplicada da `IG | 2026-11-08 | DIAGNOSTICO | feriado previsibilidade repost` (intocada, LIVE). Flow Builder `content20261112194323_945484`. Caminho DIAGNÓSTICO.
+- Colisão: busca "diagnos" só trouxe específicas (setembro, 06/11, 08/11) e a da live. Nenhuma global de feed.
+- Palavras `DIAGNOSTICO`, `DIAGNÓSTICO` (herdadas; o Manychat ignora maiúscula). DM do kit (108 chars): "Venda que não deixa margem cava o buraco. Preenche aqui que eu seleciono alguns empresários pro diagnóstico." Botão `Quero o diagnóstico`.
+- Link `https://mbv.tatsuoacademy.com/dgc1?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-12-DIAGNOSTICO&ig={{Usuário}}&utm_content=https://www.instagram.com/p/Dfp5BJGFLNt/`. O kit mandava `rtc.../diagnostico-live` (morto desde 06/11): ficou o dgc1. O `utm_content` foi digitado depois da variável (ordem de parâmetro não importa). O campo comeu o `h` inicial de novo; reposto.
+- **Pegadinha nova:** na cópia do Flow Builder, a Atualização com os gatilhos herdados LIGOU a automação na hora (LIVE ~4 min, ainda presa ao post do 284). Desligados os dois toggles na mesma hora, 0 envios nesse tempo. Na próxima: desligar os toggles dos gatilhos ANTES da primeira Atualização.
+- Ativação pelo timer de shell (17h16): post achado no perfil (legenda "Faturamento é o número mais gostoso de olhar..."), 2º card da grade do gatilho (capa do porquinho "SORRINDO."), trocado, `utm_content` acrescentado, Atualização, toggle do gatilho do post ligado. Gatilho de live segue Off. Lista conferida: LIVE, gatilho do post ativo, live Off.
+- Conferência do botão depois de recarregar não saiu: a janela do Chrome parou de renderizar (screenshot com timeout). O link foi visto completo no modal antes da Atualização.
+- Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
