@@ -7,8 +7,10 @@
 - Vermelho: Caixa é que / paga a conta.
 
 **Imagem:** base `bases/flip-mbv.png`, prompt do `templates/b-prompt-flip.txt` (em `_scripts/prompt-flip-v1.txt`), tinta reforçada com `scripts/reforca_tinta.py`. `flip-v1-forte`, `flip-v2-forte` e `flip-v3-forte`, as três no padrão do J343. Grafia e acentos (é) conferidos. Indicada: v2 (bloco mais centralizado).
-- Final: a definir.
+**Final (João, 13/11: "pode salvar na pasta com a legenda", sem dizer a versão; ficou a indicada):** `flip-v2-forte`, copiada como `instagram/flip-chart.png`.
 
 **Legenda:** `legenda.txt` v1, 374 caracteres, CTA pro link da bio.
 
-**Publicação:** a definir.
+**Legenda aprovada** sem edição.
+
+**Publicação:** a definir (pasta com NP na POSTS até ir ao ar).
