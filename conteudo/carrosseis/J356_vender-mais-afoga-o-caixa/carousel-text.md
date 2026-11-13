@@ -1,6 +1,7 @@
 # J356 — O seu maior problema pode ser vender mais (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem sex 13/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J356_vender-mais-afoga-o-caixa/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109161829_905714); amarrar ao post e ativar no "postei".
+**Status:** postado 13/11 às 12h25, programado pelo João (https://www.instagram.com/p/Dfr8n-hkY90/). Manychat CRESCER LIVE 12h27, com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/13-11-2026/`.
+**Status (aprovação):** aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem sex 13/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J356_vender-mais-afoga-o-caixa/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109161829_905714); amarrar ao post e ativar no "postei".
 **Status (v1, 09/11):** texto mostrado ao João no CHECKPOINT 1, na sequência J353 a J358. Aguardando aprovação. Postagem prevista: sex 13/11, 12h30.
 
 **Origem:** sequência pedida pelo João em 09/11 (ver J353). Quarto da semana.
