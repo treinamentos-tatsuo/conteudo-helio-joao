@@ -1465,3 +1465,13 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - **LIVE às ~19h18 (12/11).** O post das 19h10 só apareceu às ~19h16 (`https://www.instagram.com/p/DfqG2ICFGlj/`): às 19h11 e 19h12 o último post era outro, e a conferência foi refeita às 19h17. Post trocado (imagem do card conferida contra o link "Ver no Instagram"), `&utm_content=https://www.instagram.com/p/DfqG2ICFGlj/` gravado e conferido no modo de edição depois de recarregar. A global `MOP` continua LIVE.
 
 - **13/11 — CRESCER (J356):** post programado `Dfr8n-hkY90` (12:25:00, miniatura 901764424), LIVE 12h27 pelo timer das 12h26, com `utm_content`.
+
+## 13/11/2026 — `IG | 2026-11-13 | OLHO | parou de olhar repost` (repost 287 da máquina do Pedro) — MONTADA STOPPED ~14h13, LIVE ~14h34 (post programado 14h30, https://www.instagram.com/p/DfsK8cAlEZV/)
+- Pasta `POSTS/REPOST CARROSSEL/287_parou-de-olhar-repost`, kit em `manychat-kit.md`. Caminho imersão MBV. (Não confundir com a frase J287 "mês difícil arruma a casa".)
+- Duplicada da `IG | 2026-11-12 | CABECA | dois tipos de funcionario repost` (intocada, LIVE). Easy builder `content20261113171133_590581`.
+- Colisão: busca "olho" só trouxe a `PREPARO | genchi genbutsu` (texto da DM, gatilho preparo). Nenhuma com OLHO no gatilho, nenhuma global (o original saiu com a 307; não usada).
+- Palavras `OLHO, olho, Olho`. DM do kit (93 chars): "Crescer sem tirar o olho da empresa não é dom, é método. Quer ver como eu ensino isso no MBV?" Botão `>> Quero ver <<` (herdado).
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-13-OLHO&utm_content=https://www.instagram.com/p/DfsK8cAlEZV/` (148 chars, conferido por JS no modal). O kit mandava `rtc.../v2-maio-org` (morto): ficou o `mbv.../v2`.
+- Ativação pelo timer de shell (14h31): post achado no perfil (legenda "Tem empresário que só descobre que a empresa desandou..."), 2º card da grade (capa "DONO NÃO TIRA O OLHO.", vaqueiro na cerca), prévia conferida.
+- Conferido recarregando: LIVE (botão Interromper), post novo, campaign, palavras e DM no HTML, 1 botão, nada do post do modelo (DfqBnQEFH5A), nada de `rtc.`. A extensão perdeu a conexão no lote do Ativar; o estado foi lido antes de repetir qualquer clique.
+- Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
