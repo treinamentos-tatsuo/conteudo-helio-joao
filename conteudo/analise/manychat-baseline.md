@@ -1475,3 +1475,12 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Ativação pelo timer de shell (14h31): post achado no perfil (legenda "Tem empresário que só descobre que a empresa desandou..."), 2º card da grade (capa "DONO NÃO TIRA O OLHO.", vaqueiro na cerca), prévia conferida.
 - Conferido recarregando: LIVE (botão Interromper), post novo, campaign, palavras e DM no HTML, 1 botão, nada do post do modelo (DfqBnQEFH5A), nada de `rtc.`. A extensão perdeu a conexão no lote do Ativar; o estado foi lido antes de repetir qualquer clique.
 - Sem ficha nesta máquina (é da máquina do Pedro): avisar o Pedro do dia, hora e link.
+
+## 14/11/2026 — `IG | 2026-11-14 | PREVER | orcamento de caixa` (carrossel J357) — montada STOPPED em 09/11, LIVE ~12h30 no "está postado" (post ~12h20, https://www.instagram.com/p/DfugedfkT0V/)
+- Automação já existia (easy builder `content20261109162017_952157`, montada em 09/11 com o lote da sequência). Conferida antes de amarrar: STOPPED, `PREVER, prever, Prever`, DM "Todo aperto de caixa foi decidido semanas antes. Quer ver como eu ensino o dono a enxergar isso antes, no MBV?", campaign `2026-11-14-PREVER`, link `mbv.../v2`, 1 botão.
+- Post achado no perfil (legenda "A semana inteira eu fiz contas com você..."), 2º card da grade (capa nota "Todo aperto de caixa parece que chega de surpresa"), prévia conferida.
+- Link final `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-14-PREVER&utm_content=https://www.instagram.com/p/DfugedfkT0V/` (150 chars, conferido por JS no modal).
+- Conferido recarregando: LIVE, post novo, campaign, palavras e DM no HTML, 1 botão, nada de `rtc.`.
+- Pegadinhas: o Manychat abriu em branco por link direto (lista e easy builder) até passar pelo `/dashboard`; depois o link direto carregou. A extensão caiu e voltou com outro deviceId no meio; a aba era a mesma (Tatsuo), estado lido antes de repetir clique.
+- ~10 min entre o post e a LIVE (a página em branco consumiu o tempo). Busca de colisão pela lista não rodou (página em branco); PREVER já tinha sido checada na montagem de 09/11 (sem automação nem global).
+- Postado: NP tirado e pasta movida pra `POSTS/Carrossel sem rosto/POSTADOS/`, cópia no Drive `HÉLIO TATSUO/14-11-2026/`, post_id no registro.
