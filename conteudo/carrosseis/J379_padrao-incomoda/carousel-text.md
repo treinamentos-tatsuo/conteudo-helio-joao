@@ -1,6 +1,7 @@
 # J379 — Líder com padrão incomoda (base: 244 líder forte)
 
-**Status:** aprovado pelo João em 16/11 ("esse numero 1 está aprovado.. vou postar ele as 12:30"). Capa refeita a pedido dele: título em Anton vermelho, em duas linhas. Postagem 16/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J379_padrao-incomoda/`.
+**Status:** postado 16/11 às 12h30 (https://www.instagram.com/p/Dfzrr8qEbsv/). Manychat FIRMEZA LIVE 12h32, com `utm_content`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive em `HÉLIO TATSUO/16-11-2026/`.
+**Status (aprovação):** aprovado pelo João em 16/11 ("esse numero 1 está aprovado.. vou postar ele as 12:30"). Capa refeita a pedido dele: título em Anton vermelho, em duas linhas. Postagem 16/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J379_padrao-incomoda/`.
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
 **Origem:** pedido do João em 16/11: "quero que vc se baseie nos 3 com mais engajamento e crie 3 novos modelos usando a mesma base deles mudando as palavras porém que o conteudo seja o mesmo.. e crie 3 novos modelos com imagens geradas por IA.. primeiro crie as escritas dos 3". Os 3 com mais interações nos últimos 30 dias (pacote de 15/11): 244 líder forte (11.764), 245 líderes não só cobram (10.491) e o repost do 231 "liderar é unir" (10.076).
