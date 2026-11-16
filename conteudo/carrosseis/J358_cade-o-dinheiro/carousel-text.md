@@ -1,6 +1,6 @@
 # J358 — O dinheiro não some, muda de forma (formato Notas, perfil do Hélio)
 
-**Status:** aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem dom 15/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J358_cade-o-dinheiro/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109162110_620960); amarrar ao post e ativar no "postei".
+**Status:** POSTADO 15/11/2026 ~18h15 (https://www.instagram.com/p/Dfxt79dFAsa/), Manychat RIQUEZA LIVE 16/11 ~15h35 (o Manychat estava deslogado no Chrome em 15/11). Aprovado pelo João em 09/11 ("ficaram bons.. salve eles e se quiser criar as automações de cada um deles pode criar.. será postado na sequencia todos os dias as 9h"). Postagem dom 15/11 às 9h. Entregue em `POSTS/Carrossel sem rosto/NP J358_cade-o-dinheiro/`. Manychat montado STOPPED (https://app.manychat.com/fb2015128/cms/easy-builder/content20261109162110_620960); amarrar ao post e ativar no "postei".
 **Status (v1, 09/11):** texto mostrado ao João no CHECKPOINT 1, na sequência J353 a J358. Aguardando aprovação. Postagem prevista: dom 15/11, 12h30.
 
 **Origem:** sequência pedida pelo João em 09/11 (ver J353). Fecha a semana do Mapa 2 e abre o Mapa 3 (Matriz Patrimonial), que pode virar a série da semana seguinte (Balanço Japonês, p.52-55).
