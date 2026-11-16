@@ -900,5 +900,5 @@ Opções de 09/11 pra última frase da semana:
 | 150 | Quem empurra com a barriga engorda o problema. | o que se adia cresce | a pilha de envelopes fechados na mesa | candidata |
 | 151 | Ferida que você cutuca não fecha. | remoer o que doeu impede de sarar | o joelho com o curativo descolado | candidata |
 | 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | candidata |
-| 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | candidata |
+| 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | em produção (post J378, 16/11) |
 | 154 | Peso na mochila se resolve tirando, não aguentando. | aliviar o que não precisa em vez de só suportar | a mochila aberta com pedras dentro | candidata |
