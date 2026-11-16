@@ -898,7 +898,7 @@ Opções de 09/11 pra última frase da semana:
 |---|---|---|---|---|
 | 149 | Planta não cresce mais rápido porque você puxa. | pressa não acelera o que tem tempo próprio | a mão puxando a muda no vaso | candidata |
 | 150 | Quem empurra com a barriga engorda o problema. | o que se adia cresce | a pilha de envelopes fechados na mesa | candidata |
-| 151 | Ferida que você cutuca não fecha. | remoer o que doeu impede de sarar | o joelho com o curativo descolado | candidata |
+| 151 | Ferida que você cutuca não fecha. | remoer o que doeu impede de sarar | o joelho com o curativo descolado | em produção (post J387, 16/11, versão curta \"Ferida cutucada não fecha.\") |
 | 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | candidata |
 | 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | em produção (post J378, 16/11) |
 | 154 | Peso na mochila se resolve tirando, não aguentando. | aliviar o que não precisa em vez de só suportar | a mochila aberta com pedras dentro | candidata |
@@ -909,14 +909,14 @@ Opções de 09/11 pra última frase da semana:
 
 | # | Frase | Conceito | Atenção / status |
 |---|---|---|---|
-| 155 | Mapa não anda por você. | saber o caminho não substitui caminhar | candidata |
-| 156 | Semente não mostra a raiz. | o que sustenta cresce primeiro, escondido | candidata |
+| 155 | Mapa não anda por você. | saber o caminho não substitui caminhar | em produção (post J382, 16/11) |
+| 156 | Semente não mostra a raiz. | o que sustenta cresce primeiro, escondido | em produção (post J383, 16/11) |
 | 157 | Corda esticada demais arrebenta. | todo mundo tem limite; descanso é parte do esforço | candidata |
 | 158 | Fósforo só acende uma vez. | tem momento que não volta | candidata |
-| 159 | Sapato novo aperta antes de servir. | toda mudança incomoda antes de ajustar | candidata |
+| 159 | Sapato novo aperta antes de servir. | toda mudança incomoda antes de ajustar | em produção (post J384, 16/11) |
 | 160 | Nó apertado se desfaz com calma. | problema embolado piora com pressa | candidata |
-| 161 | Raiz funda não teme vento. | quem tem base atravessa a crise | candidata |
-| 162 | Ninguém tropeça em montanha. | o que derruba é o pequeno que ninguém olhou | candidata; vizinha da goteira (148) |
-| 163 | Promessa não enche panela. | o que alimenta é o feito, não o dito | candidata |
-| 164 | Lenha molhada só faz fumaça. | esforço sem preparo só faz barulho | candidata |
-| 165 | Quem rega todo dia não precisa de chuva. | constância dispensa sorte | candidata |
+| 161 | Raiz funda não teme vento. | quem tem base atravessa a crise | em produção (post J385, 16/11) |
+| 162 | Ninguém tropeça em montanha. | o que derruba é o pequeno que ninguém olhou | em produção (post J386, 16/11); vizinha da goteira (148) |
+| 163 | Promessa não enche panela. | o que alimenta é o feito, não o dito | em produção (post J388, 16/11) |
+| 164 | Lenha molhada só faz fumaça. | esforço sem preparo só faz barulho | em produção (post J389, 16/11) |
+| 165 | Quem rega todo dia não precisa de chuva. | constância dispensa sorte | em produção (post J390, 16/11) |
