@@ -920,3 +920,22 @@ Opções de 09/11 pra última frase da semana:
 | 163 | Promessa não enche panela. | o que alimenta é o feito, não o dito | em produção (post J388, 16/11) |
 | 164 | Lenha molhada só faz fumaça. | esforço sem preparo só faz barulho | em produção (post J389, 16/11) |
 | 165 | Quem rega todo dia não precisa de chuva. | constância dispensa sorte | em produção (post J390, 16/11) |
+
+## Lote 26 — vidro, papel e flip chart no perfil do Hélio (16/11, a crivar pelo João)
+
+> Pedido do João em 16/11: 12 frases pra tirar 6 (2 de vidro, 2 de papel, 2 de flip chart). Olhei os posts de frase do Joel Jota e do Alfredo Soares só pela ESTRUTURA (contraste curto, "não confunda X com Y", verdade que vira valor), nunca pela voz. Tese e voz do Hélio/MBV. Nenhuma repete as já postadas nesses modelos (238 a J377).
+
+| # | Preto | Vermelho | Modelo sugerido | Conceito | Status |
+|---|---|---|---|---|---|
+| 166 | Não confunda estar ocupado | com estar crescendo. | vidro | agenda cheia não é empresa andando | candidata |
+| 167 | Funcionário bom não pede pra sair por dinheiro. | Pede quando ninguém olha pra ele. | vidro | reconhecimento segura gente boa | candidata |
+| 168 | Seu concorrente não é o mais barato. | É o que atende melhor. | vidro | o cliente troca pelo atendimento | candidata |
+| 169 | Ninguém ensina ninguém a ser dono. | Por isso tanto dono aprende apanhando. | vidro | enaltece quem empreende; falta de formação, não de esforço | candidata |
+| 170 | Desconto fecha a venda. | Margem fecha o mês. | papel | o desconto sai do lucro | candidata |
+| 171 | Você não precisa de mais cliente. | Precisa de mais lucro em cada um. | papel | crescer em volume sem margem é cansar mais | candidata |
+| 172 | O que é óbvio pra você | é o que o seu cliente paga pra aprender. | papel | experiência do dono é o produto | candidata |
+| 173 | Quem não sabe quanto custa | não sabe quanto cobrar. | papel | preço nasce do custo | candidata |
+| 174 | Meta que não está no papel | é só vontade. | flip chart | meta escrita vira compromisso | candidata |
+| 175 | Lucro não é o que sobra. | É o que você planejou que sobrasse. | flip chart | lucro se decide antes | candidata |
+| 176 | Quem cresce sem controle | cresce o problema junto. | flip chart | crescimento sem gestão multiplica a bagunça | candidata |
+| 177 | Empresa não quebra por falta de venda. | Quebra por falta de caixa. | flip chart | caixa é o oxigênio | candidata |
