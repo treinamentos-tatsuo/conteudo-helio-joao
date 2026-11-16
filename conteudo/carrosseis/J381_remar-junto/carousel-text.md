@@ -1,5 +1,6 @@
 # J381 — Liderar é fazer remar junto (base: 231 liderar é unir)
 
+**Status:** aprovado pelo João em 16/11 ("aprovado.. esse será postado na quarta feira as 12h30"). Postagem qua 18/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J381_remar-junto/`. Capa em Anton vermelho (padrão do J379).
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
 **Origem:** pedido do João em 16/11 (ver J379): três peças novas a partir dos 3 carrosséis com mais engajamento, mesmo conteúdo com palavras novas, imagens por IA.
