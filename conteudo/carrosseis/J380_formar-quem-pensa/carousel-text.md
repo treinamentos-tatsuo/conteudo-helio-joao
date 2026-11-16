@@ -1,5 +1,6 @@
 # J380 — Cobrar todo mundo cobra (base: 245 líderes não só cobram)
 
+**Status:** aprovado pelo João em 16/11 ("aprovado.. salve na pasta com a legenda.. esse será postado amanha as 12:30h"). Postagem 17/11 às 12h30. Entregue em `POSTS/Carrossel sem rosto/NP J380_formar-quem-pensa/`. Ajustes na diagramação: capa em Anton vermelho (padrão do J379); slide 11 encurtado pra "em vez de fazer no lugar" (cabe em duas linhas); capa regerada pro supervisor ficar no centro.
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
 **Origem:** pedido do João em 16/11 (ver J379): três peças novas a partir dos 3 carrosséis com mais engajamento, mesmo conteúdo com palavras novas, imagens por IA.
