@@ -5,8 +5,8 @@
 **Frase:** "Lenha molhada só faz fumaça." 44px, uma linha, toda em preto, `top:300px`.
 
 **Imagem (rodada 1, 16/11, uma opção):** img-01, fogão a lenha com a porta aberta, lenha molhada soltando fumaça sem chama.
-- Final: a definir.
+- Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1885 caracteres com o CTA fixo (legenda.py: OK). Aguardando aprovação.
+**Legenda:** `legenda.txt` v1, ~1885 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 206-520 shares).
 
 **Publicação:** a definir (semana das 7h).

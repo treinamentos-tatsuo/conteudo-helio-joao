@@ -5,8 +5,8 @@
 **Frase:** "Quem rega todo dia não precisa de chuva." 44px, uma linha, toda em preto, `top:300px`.
 
 **Imagem (rodada 1, 16/11, uma opção):** img-01, regador de lata ao lado do canteiro de mudas verdes na terra úmida.
-- Final: a definir.
+- Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1942 caracteres com o CTA fixo (legenda.py: OK). Aguardando aprovação.
+**Legenda:** `legenda.txt` v1, ~1942 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 220-620 shares).
 
 **Publicação:** a definir (semana das 7h).
