@@ -902,3 +902,21 @@ Opções de 09/11 pra última frase da semana:
 | 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | candidata |
 | 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | em produção (post J378, 16/11) |
 | 154 | Peso na mochila se resolve tirando, não aguentando. | aliviar o que não precisa em vez de só suportar | a mochila aberta com pedras dentro | candidata |
+
+## Lote 25 — 15 curtas pra adiantar a semana (16/11, a crivar pelo João)
+
+> Pedido do João em 16/11: "uma lista de 15 frases filosóficas, foque nas mais curtas". Leis diretas com objeto do dia a dia, sem repetir as teses dos lotes 19, 22, 23 e 24 já produzidos. A 9, 10, 11 e 15 são versões encurtadas da 106, 152, 151 e 149.
+
+| # | Frase | Conceito | Atenção / status |
+|---|---|---|---|
+| 155 | Mapa não anda por você. | saber o caminho não substitui caminhar | candidata |
+| 156 | Semente não mostra a raiz. | o que sustenta cresce primeiro, escondido | candidata |
+| 157 | Corda esticada demais arrebenta. | todo mundo tem limite; descanso é parte do esforço | candidata |
+| 158 | Fósforo só acende uma vez. | tem momento que não volta | candidata |
+| 159 | Sapato novo aperta antes de servir. | toda mudança incomoda antes de ajustar | candidata |
+| 160 | Nó apertado se desfaz com calma. | problema embolado piora com pressa | candidata |
+| 161 | Raiz funda não teme vento. | quem tem base atravessa a crise | candidata |
+| 162 | Ninguém tropeça em montanha. | o que derruba é o pequeno que ninguém olhou | candidata; vizinha da goteira (148) |
+| 163 | Promessa não enche panela. | o que alimenta é o feito, não o dito | candidata |
+| 164 | Lenha molhada só faz fumaça. | esforço sem preparo só faz barulho | candidata |
+| 165 | Quem rega todo dia não precisa de chuva. | constância dispensa sorte | candidata |
