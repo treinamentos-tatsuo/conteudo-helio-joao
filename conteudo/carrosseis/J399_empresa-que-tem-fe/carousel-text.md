@@ -1,5 +1,6 @@
 # J399 — Toda empresa forte funciona como igreja (base: 31 empresa igreja)
 
+**Status:** aprovado pelo João em 16/11 ("aprovado salve na pasta com a legenda"). Data de postagem a definir (não antes de meados de dezembro, por causa do repost 286 de 11/11). Entregue em `POSTS/Carrossel sem rosto/NP J399_empresa-que-tem-fe/`. Imagens de primeira.
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
 **Origem:** pedido do João em 16/11 (ver J397): nova versão, com outras palavras e a mesma mensagem, dos 3 carrosséis de agosto com mais comentários.
