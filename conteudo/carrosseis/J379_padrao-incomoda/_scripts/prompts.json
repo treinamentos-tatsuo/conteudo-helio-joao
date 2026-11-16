@@ -1,0 +1,98 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a rocky seashore on a stormy windy day: a middle-aged man in a dark overcoat stands upright and firm facing the wind, while behind him several people crouch, hunch and shield themselves from the spray. He is large, fully inside the frame. No readable text anywhere."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE interior still life: an old deep worn armchair sagging in the corner of a room, and right beside it a narrow steep wooden staircase going up. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 3,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE on a plain wooden table: an open hand raised flat in a firm stop gesture, refusing a small glass that another hand is pushing toward it. Only hands and forearms visible. No readable text anywhere."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life on a heavy carpenter's workbench: three solid old tools laid side by side, a hammer, a wood chisel and a steel square. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 5,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s carpentry workshop: an older master craftsman with an apron leans over the bench and points directly at a flaw in a wooden piece, looking his young apprentice in the eye, calm and direct, no anger. No readable text anywhere."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE on a workbench: two working hands sweeping wood shavings off the bench with one hand while the other already picks up the plane tool again to keep working. No readable text anywhere."
+  },
+  {
+   "n": 7,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life: an empty old office chair with a very soft plump cushion on it, in an empty office corner. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 8,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE: an adult's hand resting gently on top of the bowed head of a young man sitting slumped, seen from the side, faces not visible. No readable text anywhere."
+  },
+  {
+   "n": 9,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life: an old spirit level resting on a wooden construction beam, its bubble perfectly centered. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "A sturdy old wooden post standing straight and firm in the middle of rushing flood water that swirls around it. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 11,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life: a wicker wastebasket overflowing with crumpled handwritten paper notes, a few on the floor beside it. NO PEOPLE, no readable text."
+  },
+  {
+   "n": 12,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s office meeting: one calm man stands with his arms crossed and a serene steady face while around him several people gesture and argue loudly. He is the center, everyone fully inside the frame. No readable text anywhere."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a quiet meeting room: a group of employees seated in silence, all attentively looking at the man standing at the front of the room, who says nothing. Seen from behind the seated group. No readable text anywhere."
+  },
+  {
+   "n": 14,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE still life on a desk: an open notebook with handwritten notes and simple hand-drawn charts, a fountain pen across it, illegible writing. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 15,
+   "cinema": false,
+   "fit": true,
+   "scene": "CLOSE: a firm handshake between two men in shirt sleeves, only hands and forearms, strong grip, side view. No readable text anywhere."
+  }
+ ]
+}
