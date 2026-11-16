@@ -1,0 +1,92 @@
+{
+ "base": "black-and-white editorial vintage documentary photograph, desaturated, high contrast, grainy film texture. WIDE HORIZONTAL LANDSCAPE orientation, 3:2 aspect ratio, much wider than tall. FRAMING IS CRITICAL: the camera is CLOSE and the subject is VERY LARGE, filling the entire BOTTOM THREE QUARTERS of the frame from the left edge to the right edge, extending past the bottom edge. Only a NARROW BAND across the very TOP of the frame, about one fifth of the height, is empty pale bright almost-white wall or light, completely free of objects. EVERYTHING IS IN SHARP CRISP FOCUS, deep depth of field, no blur, no bokeh, no soft focus. This is ONE single real photographic exposure, never a composite: every element shares the same light and grain. THE TOP OF THE FRAME IS BRIGHT OVEREXPOSED LIGHT, and the transition from the scene into that light is GRADUAL and soft, as if the light swallows the upper part of the scene: NO horizontal edge anywhere, no shelf edge, no ceiling line, no sign, no roofline crossing the top. Surfaces and objects fade softly upward into the light. THE TOP BAND IS A HARD REQUIREMENT: that top fifth must be ONE single continuous evenly-lit pale surface spanning the FULL width, bright and uniform, with NOTHING crossing it at all: no shelf, no beam, no lamp, no head, no edge of any object. It must read as smooth blank paper. NO fog, NO mist, NO haze and NO smoke anywhere inside the scene itself; only that narrow band at the very top is pale. Natural unposed body language. Brazil; every sign, card, notebook, photograph, uniform or object in the scene is PLAIN and UNBRANDED: no printed brand names, no logos, no legible writing of any kind; any papers, notebooks, punch cards or photographs show only vague illegible marks, never readable letters or numbers. No text, no words, no letters, no numbers, no logos, no emojis, no gradients, no added color, no stock photo look.",
+ "cinema": " CINEMATIC DIRECTION: camera at chest height, one strong directional light source raking across the scene, deep shadows, dramatic contrast. People LARGE and CLOSE, chest up, heads at about one fifth from the top of the frame. Every person is FULLY inside the frame: heads complete with clear empty space above them, nobody cropped at the neck, shoulders or waist, nobody touching the left or right edges.",
+ "fit": " COMPOSITION FOR THE SLIDE (HARD REQUIREMENT): the subject occupies ONLY the LOWER 55 percent of the frame; the ENTIRE UPPER 45 percent of the frame is a plain, flat, evenly lit surface in a very pale OFF-WHITE tone (like unbleached linen paper, hex F3F3F3), with a faint fine texture and absolutely nothing on it: no shelves, no objects, no doorway, no window, no sign, no ceiling line, no heads. That pale surface is part of the photograph and simply continues upward, staying very pale and uniform to the top edge.",
+ "setting": "",
+ "images": [
+  {
+   "n": 1,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE shock image: a grown man in his forties wearing a business suit and tie sits awkwardly in an oversized wooden baby high chair, a white baby bib tied around his neck, while an older woman in an apron spoon-feeds him with a small child's spoon; his mouth is open and slightly smeared with food, obedient expression. Both large, fully inside the frame. No readable text anywhere."
+  },
+  {
+   "n": 2,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE interior of a small company training room the morning after: messy empty chairs out of line, a flipchart with used sheets flipped over, forgotten coffee cups on the chairs. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 3,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a group of employees in simple work clothes seated in rows in a small company training room, clapping enthusiastically, open notebooks on their laps, nodding and smiling. Seen from the front at chest height. No readable text anywhere."
+  },
+  {
+   "n": 4,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life on a concrete floor: a worn canvas backpack lying open, a small notebook shoved deep inside it, half hidden, forgotten. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 5,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: a crumpled banknote falling into a metal office wastebasket full of crumpled paper. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 6,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE: the door of a small company training room standing open onto an empty corridor, the room behind dark and the corridor in light. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 7,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a crowd of workers leaving a small auditorium through a wide doorway, scattering, each one walking off in a different direction, seen from behind and from the side. No readable text anywhere."
+  },
+  {
+   "n": 8,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a manager standing right beside an employee at a workshop bench, both looking down at the work together, the manager pointing at a detail, patient posture. No readable text anywhere."
+  },
+  {
+   "n": 9,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a manager pointing once again at the same spot on a sheet of paper on a desk, while the employee sitting in front of him lowers his head; patient, firm, repeated gesture. No readable text anywhere."
+  },
+  {
+   "n": 10,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE still life: an old wall-mounted mechanical time clock with a rack of punched paper time cards lined up beside it, marks of daily repetition. NO PEOPLE. No readable text anywhere."
+  },
+  {
+   "n": 11,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small factory production line working in order: several workers in a row each doing their task in rhythm, calm and focused, no boss in the scene. No readable text anywhere."
+  },
+  {
+   "n": 12,
+   "cinema": false,
+   "fit": true,
+   "scene": "Brazil, 1970s, CLOSE on a plain wooden desk: a hand with a pencil writing a short list on a sheet of paper; only the hand and forearm visible, marks illegible.  No readable text anywhere."
+  },
+  {
+   "n": 13,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a business owner in rolled-up shirt sleeves standing in front of his small team in a workshop in the morning, talking, the team listening attentively, calm commanding posture. No readable text anywhere."
+  },
+  {
+   "n": 14,
+   "cinema": true,
+   "fit": true,
+   "scene": "Brazil, 1970s, a small team of workers in a workshop working together side by side in rhythm, carrying and assembling, energetic, proud. No readable text anywhere."
+  }
+ ]
+}
