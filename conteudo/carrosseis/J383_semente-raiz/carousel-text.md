@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, pote de vidro com terra: em cima só um broto pequeno, embaixo a raiz tomando o pote inteiro.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1851 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 220-600 shares).
+**Legenda:** `legenda.txt` v1, ~1851 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 60-280 shares).
 
 **Publicação:** a definir (semana das 7h).

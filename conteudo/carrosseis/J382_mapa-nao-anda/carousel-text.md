@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, mapa de papel aberto na mesa ao lado da bota de trilha nova, de cadarço amarrado.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1909 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 210-540 shares).
+**Legenda:** `legenda.txt` v1, ~1909 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 50-220 shares).
 
 **Publicação:** a definir (semana das 7h).

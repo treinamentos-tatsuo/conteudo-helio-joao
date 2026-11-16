@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, fogão a lenha com a porta aberta, lenha molhada soltando fumaça sem chama.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1885 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 206-520 shares).
+**Legenda:** `legenda.txt` v1, ~1885 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 45-200 shares).
 
 **Publicação:** a definir (semana das 7h).

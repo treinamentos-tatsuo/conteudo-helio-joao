@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, sapato novo e duro ao lado do mesmo sapato velho, amaciado.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1895 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 210-560 shares).
+**Legenda:** `legenda.txt` v1, ~1895 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 55-250 shares).
 
 **Publicação:** a definir (semana das 7h).

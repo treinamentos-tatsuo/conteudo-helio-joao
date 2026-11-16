@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, panela de alumínio amassada, vazia, no fogão apagado, tampa ao lado.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1940 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (abaixo, 80-205 shares).
+**Legenda:** `legenda.txt` v1, ~1940 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (abaixo, 15-40 shares).
 
 **Publicação:** a definir (semana das 7h).

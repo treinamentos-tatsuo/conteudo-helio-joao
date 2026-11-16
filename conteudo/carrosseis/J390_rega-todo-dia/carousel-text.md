@@ -7,6 +7,6 @@
 **Imagem (rodada 1, 16/11, uma opção):** img-01, regador de lata ao lado do canteiro de mudas verdes na terra úmida.
 - Final (João, 16/11: "Aprovadas"): img-01, `instagram/slide-01.png`.
 
-**Legenda:** `legenda.txt` v1, ~1942 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 220-620 shares).
+**Legenda:** `legenda.txt` v1, ~1942 caracteres com o CTA fixo (legenda.py: OK). Aprovada sem edição. Etiquetado em 16/11 (mediana, 60-280 shares).
 
 **Publicação:** a definir (semana das 7h).
