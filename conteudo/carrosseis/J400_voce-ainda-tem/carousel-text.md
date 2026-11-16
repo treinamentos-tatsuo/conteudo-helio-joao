@@ -1,6 +1,6 @@
 # J400 — Você ainda tem (escada do "1 hora ruim", perfil do Hélio)
 
-**Status:** v2 (formato do J372, 11 slides) aprovada pelo João em 16/11 ("gostei desse, está aprovado"). Post de hoje, 16/11, às 19h (o João mudou de 20h pra 19h). Entregue em `POSTS/Carrossel Foto/NP J400_voce-ainda-tem/` e `carrosseis claude/virada/`. Manychat VIRADA montado STOPPED (content20261116202031_235263); amarrar e ativar às 19h.
+**Status:** postado em 16/11, às 19h (`https://www.instagram.com/p/Df0YTMAFMzR/`). Manychat VIRADA por post LIVE às ~19h05 (content20261116202031_235263). NP retirado (`POSTS/Carrossel Foto/J400_voce-ainda-tem/`) e cópia no Drive em `POST CLAUDE/HÉLIO TATSUO/16-11-2026/J400_voce-ainda-tem`. Também em `carrosseis claude/virada/`. v1 (faixas) em `_v1-faixas/`.
 
 **Origem:** pedido do João (16/11): 5 carrosséis no molde dos posts com foto do Hélio que mais renderam nos últimos 5 meses, com a estrutura validada e assunto novo (não reescrever o mesmo post). Segunda = estrutura do **"1 hora ruim. Você ainda tem 23."** (07/10, `DeM27pLkYu4`: 233.588 de alcance, 11.770 curtidas, 2.544 compartilhamentos, 32 comentários; sem CTA nos slides).
 
