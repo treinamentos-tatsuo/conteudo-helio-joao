@@ -927,15 +927,15 @@ Opções de 09/11 pra última frase da semana:
 
 | # | Preto | Vermelho | Modelo sugerido | Conceito | Status |
 |---|---|---|---|---|---|
-| 166 | Não confunda estar ocupado | com estar crescendo. | vidro | agenda cheia não é empresa andando | candidata |
+| 166 | Não confunda estar ocupado | com estar crescendo. | vidro | agenda cheia não é empresa andando | em produção (post J391, 16/11) |
 | 167 | Funcionário bom não pede pra sair por dinheiro. | Pede quando ninguém olha pra ele. | vidro | reconhecimento segura gente boa | candidata |
 | 168 | Seu concorrente não é o mais barato. | É o que atende melhor. | vidro | o cliente troca pelo atendimento | candidata |
-| 169 | Ninguém ensina ninguém a ser dono. | Por isso tanto dono aprende apanhando. | vidro | enaltece quem empreende; falta de formação, não de esforço | candidata |
+| 169 | Ninguém ensina ninguém a ser dono. | Por isso tanto dono aprende apanhando. | vidro | enaltece quem empreende; falta de formação, não de esforço | em produção (post J392, 16/11) |
 | 170 | Desconto fecha a venda. | Margem fecha o mês. | papel | o desconto sai do lucro | candidata |
-| 171 | Você não precisa de mais cliente. | Precisa de mais lucro em cada um. | papel | crescer em volume sem margem é cansar mais | candidata |
-| 172 | O que é óbvio pra você | é o que o seu cliente paga pra aprender. | papel | experiência do dono é o produto | candidata |
+| 171 | Você não precisa de mais cliente. | Precisa de mais lucro em cada um. | papel | crescer em volume sem margem é cansar mais | em produção (post J393, 16/11) |
+| 172 | O que é óbvio pra você | é o que o seu cliente paga pra aprender. | papel | experiência do dono é o produto | em produção (post J394, 16/11) |
 | 173 | Quem não sabe quanto custa | não sabe quanto cobrar. | papel | preço nasce do custo | candidata |
-| 174 | Meta que não está no papel | é só vontade. | flip chart | meta escrita vira compromisso | candidata |
+| 174 | Meta que não está no papel | é só vontade. | flip chart | meta escrita vira compromisso | em produção (post J395, 16/11) |
 | 175 | Lucro não é o que sobra. | É o que você planejou que sobrasse. | flip chart | lucro se decide antes | candidata |
-| 176 | Quem cresce sem controle | cresce o problema junto. | flip chart | crescimento sem gestão multiplica a bagunça | candidata |
+| 176 | Quem cresce sem controle | cresce o problema junto. | flip chart | crescimento sem gestão multiplica a bagunça | em produção (post J396, 16/11) |
 | 177 | Empresa não quebra por falta de venda. | Quebra por falta de caixa. | flip chart | caixa é o oxigênio | candidata |
