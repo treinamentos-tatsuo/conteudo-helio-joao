@@ -889,3 +889,16 @@ Opções de 09/11 pra última frase da semana:
 - 146 (de 134, calçada varrida: o feito explica sozinho): "Mão calejada não precisa de currículo." — em produção (post J352, 09/11)
 - 147 (de 176, primeiro o que sustenta): "Pneu se calibra antes da viagem, não na estrada." — candidata
 - 148 (de 230, o que afrouxa vai pro chão): "Goteira pequena apodrece o telhado inteiro." — candidata; tom de advertência
+
+## Lote 24 — semana das 7h de 16/11 (16/11, a crivar pelo João)
+
+> Pedido do João em 16/11: opções de frase filosófica pra semana. Molde das leis diretas com objeto do dia a dia (o que mais circulou), sem repetir as teses da semana anterior (J346 a J352) nem dos lotes 19 e 22. Junto, as candidatas antigas que ainda servem (104, 106, 147, 148).
+
+| # | Frase | Conceito | Imagem possível | Atenção / status |
+|---|---|---|---|---|
+| 149 | Planta não cresce mais rápido porque você puxa. | pressa não acelera o que tem tempo próprio | a mão puxando a muda no vaso | candidata |
+| 150 | Quem empurra com a barriga engorda o problema. | o que se adia cresce | a pilha de envelopes fechados na mesa | candidata |
+| 151 | Ferida que você cutuca não fecha. | remoer o que doeu impede de sarar | o joelho com o curativo descolado | candidata |
+| 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | candidata |
+| 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | candidata |
+| 154 | Peso na mochila se resolve tirando, não aguentando. | aliviar o que não precisa em vez de só suportar | a mochila aberta com pedras dentro | candidata |
