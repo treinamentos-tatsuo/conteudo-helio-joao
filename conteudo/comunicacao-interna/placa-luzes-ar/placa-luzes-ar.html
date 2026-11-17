@@ -1,33 +1,49 @@
 <!doctype html>
-<html lang="pt-BR">
-<head>
-<meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800;900&display=swap" rel="stylesheet">
-<style>
-  @page { size: 100mm 150mm; margin: 0; }
-  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<style>@page { size: 100mm 150mm; margin: 0; }
+html { font-size: 10mm; } html, body { width: 100mm; height: 150mm; }
+
+  :root { --verm: #A00F0F; --capa: #8C1C1C; --tinta: #1E1E1E; --cinza: #6E6E6E;
+          --fio: #E4E4DF; --card: #F6F2F2; --papel: #FFFFFF; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  html, body { width: 100mm; height: 150mm; background: var(--bege); }
-  body { font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
-  .topo { flex: none; height: 36mm; background: var(--bordo); color: var(--bege); display: flex; align-items: center; justify-content: center; border-bottom: 1mm solid var(--bege); box-shadow: 0 1mm 0 var(--bordo); }
-  .topo span { font-weight: 900; font-size: 15mm; letter-spacing: -0.01em; }
-  main { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 0 6mm; text-align: center; }
-  .verbo { font-weight: 900; font-size: 14mm; letter-spacing: -0.02em; line-height: 1; }
-  .fio { width: 22mm; height: 1mm; background: var(--bordo); margin: 6mm auto; }
-  .item { font-weight: 800; font-size: 7.2mm; white-space: nowrap; line-height: 1.1; letter-spacing: -0.01em; }
-  .e { font-weight: 600; font-size: 5.5mm; color: var(--bordo); margin: 2.5mm 0; }
-  .base { flex: none; height: 9mm; background: var(--bordo); border-top: 1mm solid var(--bege); box-shadow: 0 -1mm 0 var(--bordo); }
-</style>
-</head>
-<body>
-  <div class="topo"><span>AO SAIR</span></div>
+  body { position: relative; overflow: hidden; background: var(--papel); color: var(--tinta);
+         font-family: 'Lato', sans-serif; display: flex; flex-direction: column; }
+  .fit { display: inline-block; white-space: nowrap; }
+  .kicker { font-family: 'Poppins', sans-serif; font-weight: 600; text-transform: uppercase; color: var(--verm); }
+  .titulo { font-family: 'Lora', serif; font-weight: 600; line-height: 1.05; letter-spacing: -0.01em; }
+  .regua { background: var(--verm); }
+  .diag { position: absolute; top: 0; right: 0; pointer-events: none; }
+  .diag line { stroke: var(--verm); stroke-opacity: .28; }
+  .rodape { flex: none; display: flex; justify-content: space-between; align-items: baseline; border-top: .04rem solid var(--fio); }
+  .marca { font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: .06em; }
+  .rodape .apoio { color: var(--cinza); }
+  main { display: flex; flex-direction: column; }
+
+  body { background: var(--capa); color: #fff; padding: 1rem .85rem .6rem; }
+  .diag line { stroke: #fff; stroke-opacity: .22; }
+  main { flex: 1; justify-content: center; }
+  .kicker { color: rgba(255,255,255,.78); font-size: .27rem; letter-spacing: .3em; }
+  .titulo { margin-top: .3rem; } .titulo .fit { font-size: 1.45rem; }
+  .regua { background: #fff; width: 1.3rem; height: .05rem; margin: .55rem 0 .5rem; }
+  .linha { font-size: .46rem; line-height: 1.45; }
+  .rodape { border-top-color: rgba(255,255,255,.3); padding-top: .3rem; }
+  .marca { font-size: .22rem; letter-spacing: .3em; } .apoio { display: none; }</style></head>
+<body><svg class="diag" style="width:4.2rem;height:4.2rem" viewBox="0 0 100 100">
+  <line x1="34" y1="0" x2="100" y2="66" stroke-width="0.6"/><line x1="48" y1="0" x2="100" y2="52" stroke-width="0.6"/><line x1="62" y1="0" x2="100" y2="38" stroke-width="0.6"/><line x1="76" y1="0" x2="100" y2="24" stroke-width="0.6"/><line x1="90" y1="0" x2="100" y2="10" stroke-width="0.6"/></svg>
   <main>
-    <div class="verbo">DESLIGUE</div>
-    <div class="fio"></div>
-    <div class="item">AS LUZES</div>
-    <div class="e">e o</div>
-    <div class="item">AR&#8209;CONDICIONADO</div>
+    <div class="kicker">Ao sair</div>
+    <h1 class="titulo"><div><span class="fit">Desligue</span></div><div><span class="fit">as luzes</span></div></h1>
+    <div class="regua"></div>
+    <div class="linha">e o ar&#8209;condicionado.</div>
   </main>
-  <div class="base"></div>
-</body>
-</html>
+  <div class="rodape"><span class="marca">TATSUO ACADEMY</span><span class="apoio">Comunicação interna</span></div><script>
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.fit').forEach(el => {
+    const m = el.closest('main'), cs = getComputedStyle(m);
+    const max = m.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    let fs = parseFloat(getComputedStyle(el).fontSize);
+    while (el.getBoundingClientRect().width > max && fs > 4) { fs *= 0.98; el.style.fontSize = fs + 'px'; }
+  });
+  document.body.dataset.ok = '1';
+});</script></body></html>

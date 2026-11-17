@@ -1,29 +1,38 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: 200mm 80mm; margin: 0; }
 html { font-size: 10mm; } html, body { width: 200mm; height: 80mm; }
 
-  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  :root { --verm: #A00F0F; --capa: #8C1C1C; --tinta: #1E1E1E; --cinza: #6E6E6E;
+          --fio: #E4E4DF; --card: #F6F2F2; --papel: #FFFFFF; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  body { position: relative; overflow: hidden; background: var(--papel); color: var(--tinta);
+         font-family: 'Lato', sans-serif; display: flex; flex-direction: column; }
   .fit { display: inline-block; white-space: nowrap; }
-  .faixa { flex: none; background: var(--bordo); }
-  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
-  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
-  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .kicker { font-family: 'Poppins', sans-serif; font-weight: 600; text-transform: uppercase; color: var(--verm); }
+  .titulo { font-family: 'Lora', serif; font-weight: 600; line-height: 1.05; letter-spacing: -0.01em; }
+  .regua { background: var(--verm); }
+  .diag { position: absolute; top: 0; right: 0; pointer-events: none; }
+  .diag line { stroke: var(--verm); stroke-opacity: .28; }
+  .rodape { flex: none; display: flex; justify-content: space-between; align-items: baseline; border-top: .04rem solid var(--fio); }
+  .marca { font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: .06em; }
+  .rodape .apoio { color: var(--cinza); }
+  main { display: flex; flex-direction: column; }
 
-  .faixa { height: .7rem; }
-  main { padding: 0 1.4rem; }
-  .nome { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; line-height: 1; }
-  .sub { margin-top: .45rem; font-weight: 600; font-size: .55rem; letter-spacing: .18em; color: var(--bordo); }</style></head>
-<body>
-  <div class="faixa topo"></div>
+  main { flex: 1; justify-content: center; padding: 0 1.5rem; }
+  .regua { width: 1.4rem; height: .08rem; margin-bottom: .55rem; }
+  .titulo .fit { font-size: 1.7rem; }
+  .kicker { margin-top: .4rem; font-size: .4rem; letter-spacing: .24em; }
+  .marca { position: absolute; right: 1.5rem; bottom: .55rem; font-size: .26rem; letter-spacing: .3em; color: var(--cinza); }</style></head>
+<body><svg class="diag" style="width:3.4rem;height:3.4rem" viewBox="0 0 100 100">
+  <line x1="34" y1="0" x2="100" y2="66" stroke-width="0.7"/><line x1="48" y1="0" x2="100" y2="52" stroke-width="0.7"/><line x1="62" y1="0" x2="100" y2="38" stroke-width="0.7"/><line x1="76" y1="0" x2="100" y2="24" stroke-width="0.7"/><line x1="90" y1="0" x2="100" y2="10" stroke-width="0.7"/></svg>
   <main>
-    <div><span class="fit nome">SALA DE AULA</span></div>
+    <div class="regua"></div>
+    <div class="titulo"><span class="fit">Sala de aula</span></div>
     
   </main>
-  <div class="faixa base"></div><script>
+  <span class="marca">TATSUO ACADEMY</span><script>
 document.fonts.ready.then(() => {
   document.querySelectorAll('.fit').forEach(el => {
     const m = el.closest('main'), cs = getComputedStyle(m);

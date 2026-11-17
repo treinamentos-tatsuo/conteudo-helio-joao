@@ -1,4 +1,7 @@
-// Gera as placas de comunicação interna (bege, bordô, preto; Montserrat; sem logo).
+// Gera as placas de comunicação interna na identidade visual interna da Tatsuo Academy
+// (a mesma dos playbooks de cultura: branco, vermelho escuro, Lora nos títulos,
+// Poppins nos rótulos, Lato no texto, fio vermelho curto, diagonais finas no canto,
+// "TATSUO ACADEMY" escrito no rodapé).
 // Uso: node gerar.js            -> todas
 //      node gerar.js copa porta  -> só as que contêm esses trechos no nome
 const { chromium } = require('playwright');
@@ -7,15 +10,26 @@ const path = require('path');
 const { pathToFileURL } = require('url');
 
 const BASE = `
-  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  :root { --verm: #A00F0F; --capa: #8C1C1C; --tinta: #1E1E1E; --cinza: #6E6E6E;
+          --fio: #E4E4DF; --card: #F6F2F2; --papel: #FFFFFF; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  body { position: relative; overflow: hidden; background: var(--papel); color: var(--tinta);
+         font-family: 'Lato', sans-serif; display: flex; flex-direction: column; }
   .fit { display: inline-block; white-space: nowrap; }
-  .faixa { flex: none; background: var(--bordo); }
-  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
-  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
-  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .kicker { font-family: 'Poppins', sans-serif; font-weight: 600; text-transform: uppercase; color: var(--verm); }
+  .titulo { font-family: 'Lora', serif; font-weight: 600; line-height: 1.05; letter-spacing: -0.01em; }
+  .regua { background: var(--verm); }
+  .diag { position: absolute; top: 0; right: 0; pointer-events: none; }
+  .diag line { stroke: var(--verm); stroke-opacity: .28; }
+  .rodape { flex: none; display: flex; justify-content: space-between; align-items: baseline; border-top: .04rem solid var(--fio); }
+  .marca { font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: .06em; }
+  .rodape .apoio { color: var(--cinza); }
+  main { display: flex; flex-direction: column; }
 `;
+
+// Linhas diagonais finas no canto superior direito (assinatura da capa dos playbooks)
+const DIAG = (tam, traco) => `<svg class="diag" style="width:${tam}rem;height:${tam}rem" viewBox="0 0 100 100">
+  ${[34, 48, 62, 76, 90].map(a => `<line x1="${a}" y1="0" x2="100" y2="${100 - a}" stroke-width="${traco}"/>`).join('')}</svg>`;
 
 // Diminui cada .fit até caber na largura útil do <main> em que está
 const FIT = `
@@ -31,126 +45,142 @@ document.fonts.ready.then(() => {
 
 const pagina = (w, h, rem, css, corpo) => `<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: ${w}mm ${h}mm; margin: 0; }
 html { font-size: ${rem}mm; } html, body { width: ${w}mm; height: ${h}mm; }
 ${BASE}${css}</style></head>
 <body>${corpo}<script>${FIT}</script></body></html>`;
 
-// Aviso em lista (mesmo desenho da placa do banheiro). Unidade = largura/21.
-function lista(w, h, { titulo, itens, lembrete }) {
+const rodape = (apoio = 'Comunicação interna') =>
+  `<div class="rodape"><span class="marca">TATSUO ACADEMY</span><span class="apoio">${apoio}</span></div>`;
+
+// Aviso em lista: rótulo, título em serifa, itens numerados entre fios, lembrete em card. Unidade = largura/21.
+function lista(w, h, { kicker, titulo, itens, lembrete }) {
   const css = `
-  .faixa { height: 1.6rem; }
-  main { padding: 0 1.8rem; }
-  h1 { font-weight: 900; font-size: 3rem; letter-spacing: -0.02em; line-height: 1; }
-  .fio { width: 4rem; height: .14rem; background: var(--bordo); margin: 1rem 0 1.6rem; }
-  ul { list-style: none; width: 100%; padding-left: .6rem; text-align: left; }
-  li { font-weight: 500; font-size: .88rem; line-height: 1.25; padding: .42rem 0; display: flex; align-items: flex-start; gap: .7rem; }
-  li::before { content: ""; flex: none; width: .42rem; height: .42rem; margin-top: .36em; background: var(--bordo); }
-  .lembrete { margin-top: 1.8rem; width: 100%; border: .08rem solid var(--bordo); padding: .8rem .6rem; font-style: italic; font-weight: 500; font-size: .74rem; line-height: 1.35; }`;
-  return pagina(w, h, w / 21, css, `
-  <div class="faixa topo"></div>
+  body { padding: 2.2rem 1.9rem 1.3rem; }
+  .kicker { font-size: .5rem; letter-spacing: .22em; }
+  .titulo { font-size: 2.9rem; margin-top: .5rem; }
+  .regua { width: 2.4rem; height: .1rem; margin: 1.1rem 0 0; }
+  main { flex: 1; justify-content: center; }
+  ol { list-style: none; border-bottom: .04rem solid var(--fio); }
+  li { display: flex; gap: .8rem; align-items: baseline; padding: .62rem 0; border-top: .04rem solid var(--fio);
+       font-size: .9rem; line-height: 1.3; }
+  li b { flex: none; width: 1.3rem; font-family: 'Poppins', sans-serif; font-weight: 700; font-size: .58rem; color: var(--verm); letter-spacing: .04em; }
+  .lembrete { margin-top: 1.3rem; background: var(--card); border-left: .12rem solid var(--verm);
+              padding: .75rem .9rem; font-size: .72rem; line-height: 1.4; }
+  .lembrete strong { font-weight: 700; }
+  .rodape { padding-top: .5rem; } .marca { font-size: .46rem; } .apoio { font-size: .42rem; }`;
+  return pagina(w, h, w / 21, css, `${DIAG(7, .5)}
+  <header><div class="kicker">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
   <main>
-    <h1 class="fit">${titulo}</h1>
-    <div class="fio"></div>
-    <ul>${itens.map(i => `<li>${i}</li>`).join('')}</ul>
+    <ol>${itens.map((t, i) => `<li><b>${String(i + 1).padStart(2, '0')}</b><span>${t}</span></li>`).join('')}</ol>
     ${lembrete ? `<div class="lembrete">${lembrete}</div>` : ''}
   </main>
-  <div class="faixa base"></div>`);
+  ${rodape()}`);
 }
 
-// Aviso de destaque (mesmo desenho da placa de luzes e ar). Unidade = largura/10.
-function destaque(w, h, { topo, grande, linhas }) {
+// Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
+function destaque(w, h, { kicker, titulo, linhas }) {
   const css = `
-  .faixa.topo { height: 3.6rem; color: var(--bege); padding: 0 .6rem; }
-  .faixa.topo .fit { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; }
-  .faixa.base { height: .9rem; }
-  main { padding: 0 .6rem; }
-  .grande { font-weight: 900; font-size: 1.4rem; letter-spacing: -0.02em; line-height: 1; }
-  .fio { width: 2.2rem; height: .1rem; background: var(--bordo); margin: .6rem auto; }
-  .item { font-weight: 800; font-size: .72rem; line-height: 1.1; letter-spacing: -0.01em; }
-  .e { font-weight: 600; font-size: .55rem; color: var(--bordo); margin: .25rem 0; }`;
-  // a faixa do topo também é um <main>, pra o ajuste de largura valer nela
-  return pagina(w, h, w / 10, css, `
-  <main class="faixa topo" style="flex:none"><span class="fit">${topo}</span></main>
+  body { background: var(--capa); color: #fff; padding: 1rem .85rem .6rem; }
+  .diag line { stroke: #fff; stroke-opacity: .22; }
+  main { flex: 1; justify-content: center; }
+  .kicker { color: rgba(255,255,255,.78); font-size: .27rem; letter-spacing: .3em; }
+  .titulo { margin-top: .3rem; } .titulo .fit { font-size: 1.45rem; }
+  .regua { background: #fff; width: 1.3rem; height: .05rem; margin: .55rem 0 .5rem; }
+  .linha { font-size: .46rem; line-height: 1.45; }
+  .rodape { border-top-color: rgba(255,255,255,.3); padding-top: .3rem; }
+  .marca { font-size: .22rem; letter-spacing: .3em; } .apoio { display: none; }`;
+  return pagina(w, h, w / 10, css, `${DIAG(4.2, .6)}
   <main>
-    <div><span class="fit grande">${grande}</span></div>
-    <div class="fio"></div>
-    ${linhas.map(l => l.e ? `<div class="e">${l.e}</div>` : `<div><span class="fit item">${l}</span></div>`).join('')}
+    <div class="kicker">${kicker}</div>
+    <h1 class="titulo">${titulo.map(t => `<div><span class="fit">${t}</span></div>`).join('')}</h1>
+    <div class="regua"></div>
+    ${linhas.map(l => `<div class="linha">${l}</div>`).join('')}
   </main>
-  <div class="faixa base"></div>`);
+  ${rodape()}`);
 }
 
-// Placa de porta (identificação de ambiente). Unidade = largura/20.
+// Placa de porta: fio vermelho, nome em serifa, complemento em rótulo. Unidade = largura/20.
 function porta(w, h, { nome, sub }) {
   const css = `
-  .faixa { height: .7rem; }
-  main { padding: 0 1.4rem; }
-  .nome { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; line-height: 1; }
-  .sub { margin-top: .45rem; font-weight: 600; font-size: .55rem; letter-spacing: .18em; color: var(--bordo); }`;
-  return pagina(w, h, w / 20, css, `
-  <div class="faixa topo"></div>
+  main { flex: 1; justify-content: center; padding: 0 1.5rem; }
+  .regua { width: 1.4rem; height: .08rem; margin-bottom: .55rem; }
+  .titulo .fit { font-size: 1.7rem; }
+  .kicker { margin-top: .4rem; font-size: .4rem; letter-spacing: .24em; }
+  .marca { position: absolute; right: 1.5rem; bottom: .55rem; font-size: .26rem; letter-spacing: .3em; color: var(--cinza); }`;
+  return pagina(w, h, w / 20, css, `${DIAG(3.4, .7)}
   <main>
-    <div><span class="fit nome">${nome}</span></div>
-    ${sub ? `<div><span class="fit sub">${sub}</span></div>` : ''}
+    <div class="regua"></div>
+    <div class="titulo"><span class="fit">${nome}</span></div>
+    ${sub ? `<div class="kicker">${sub}</div>` : ''}
   </main>
-  <div class="faixa base"></div>`);
+  <span class="marca">TATSUO ACADEMY</span>`);
 }
 
-// Placa de direção (aponta pra outro andar ou ambiente). Unidade = largura/20.
+// Placa de direção: seta em traço fino, ambientes em serifa, onde fica em rótulo. Unidade = largura/20.
 function direcao(w, h, { seta, nomes, onde }) {
   const css = `
-  .faixa { height: 1.2rem; }
-  main { padding: 0 1.6rem; }
-  .seta { width: 5.2rem; height: 5.2rem; margin-bottom: 1.6rem; }
-  .nome { font-weight: 900; font-size: 3.4rem; letter-spacing: -0.02em; line-height: 1; }
-  .e { font-weight: 600; font-size: 1.3rem; color: var(--bordo); margin: .5rem 0; }
-  .fio { width: 4rem; height: .2rem; background: var(--bordo); margin: 1.6rem auto; }
-  .onde { font-weight: 600; font-size: 1.1rem; letter-spacing: .18em; color: var(--bordo); }`;
+  body { padding: 2.2rem 1.8rem 1.1rem; }
+  main { flex: 1; justify-content: center; }
+  .seta { width: 4.6rem; height: 4.6rem; margin-bottom: 1.4rem; }
+  .titulo .fit { font-size: 3.5rem; }
+  .e { font-family: 'Lora', serif; font-style: italic; font-weight: 500; font-size: 1.6rem; color: var(--verm); margin: .15rem 0 .2rem; }
+  .regua { width: 2.6rem; height: .1rem; margin: 1.3rem 0 .9rem; }
+  .kicker { font-size: .8rem; letter-spacing: .24em; }
+  .rodape { padding-top: .45rem; } .marca { font-size: .5rem; } .apoio { font-size: .45rem; }`;
   const giro = { cima: 0, direita: 90, baixo: 180, esquerda: 270 }[seta];
-  return pagina(w, h, w / 20, css, `
-  <div class="faixa topo"></div>
+  return pagina(w, h, w / 20, css, `${DIAG(6.5, .45)}
   <main>
-    <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(${giro}deg)"><path d="M50 4 L94 50 L66 50 L66 96 L34 96 L34 50 L6 50 Z" fill="#6C0302"/></svg>
-    ${nomes.map((n, i) => (i ? '<div class="e">e</div>' : '') + `<div><span class="fit nome">${n}</span></div>`).join('')}
-    <div class="fio"></div>
-    <div><span class="fit onde">${onde}</span></div>
+    <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(${giro}deg)" fill="none" stroke="#A00F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M50 92 V10 M18 42 L50 10 L82 42"/></svg>
+    ${nomes.map((n, i) => (i ? '<div class="e">e</div>' : '') + `<div class="titulo"><span class="fit">${n}</span></div>`).join('')}
+    <div class="regua"></div>
+    <div class="kicker">${onde}</div>
   </main>
-  <div class="faixa base"></div>`);
+  ${rodape()}`);
 }
 
 const NBH = '&#8209;'; // hífen que não quebra linha
+const LEMBRETE_BANHEIRO = '<strong>Lembre-se:</strong> depois de você, outras pessoas vão usar este banheiro.';
 
 const PLACAS = [
   // Avisos em lista
+  ['placa-banheiro-feminino', 210, 297, lista, {
+    kicker: 'Banheiro feminino', titulo: 'Atenção',
+    itens: ['Não suba no vaso sanitário', 'Não urine no chão', 'Jogue o absorvente no lixo', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
+    lembrete: LEMBRETE_BANHEIRO }],
   ['placa-banheiro-masculino', 210, 297, lista, {
-    titulo: 'ATENÇÃO',
+    kicker: 'Banheiro masculino', titulo: 'Atenção',
     itens: ['Não suba no vaso sanitário', 'Não urine no chão', 'Levante a tampa antes de usar', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
-    lembrete: 'Lembre-se: depois de você,<br>outras pessoas vão usar este banheiro.' }],
+    lembrete: LEMBRETE_BANHEIRO }],
   ['placa-copa', 200, 300, lista, {
-    titulo: 'COPA',
-    itens: ['Lave, seque e guarde a sua louça', 'Identifique seus alimentos com nome e data', 'Não deixe comida vencida na geladeira', 'Limpe o que sujar: pia, mesa e micro-ondas', 'Jogue o lixo no lugar certo'],
-    lembrete: 'A copa é de todos.<br>Deixe como você gostaria de encontrar.' }],
+    kicker: 'Área comum', titulo: 'Copa',
+    itens: ['Lave, seque e guarde a sua louça', 'Identifique seus alimentos com nome e data', 'Não deixe comida vencida na geladeira', `Limpe o que sujar: pia, mesa e micro${NBH}ondas`, 'Jogue o lixo no lugar certo'],
+    lembrete: '<strong>A copa é de todos.</strong> Deixe como você gostaria de encontrar.' }],
   ['placa-sala-reuniao', 200, 300, lista, {
-    titulo: 'AO SAIR',
+    kicker: 'Sala de reunião', titulo: 'Ao sair',
     itens: ['Coloque as cadeiras no lugar', 'Deixe a mesa limpa', 'Apague o quadro', `Desligue luzes, TV e ar${NBH}condicionado`, 'Feche a porta'],
-    lembrete: 'A próxima reunião começa<br>do jeito que você deixar a sala.' }],
+    lembrete: '<strong>A próxima reunião começa</strong> do jeito que você deixar a sala.' }],
   // Destaque
   ['placa-sala-aula', 150, 200, destaque, {
-    topo: 'SILÊNCIO', grande: 'EM AULA',
-    linhas: ['CELULAR NO SILENCIOSO', { e: 'e' }, 'ENTRE SEM INTERROMPER'] }],
+    kicker: 'Sala de aula', titulo: ['Silêncio,', 'em aula'],
+    linhas: ['Celular no silencioso.', 'Entre sem interromper.'] }],
+  ['placa-luzes-ar', 100, 150, destaque, {
+    kicker: 'Ao sair', titulo: ['Desligue', 'as luzes'],
+    linhas: [`e o ar${NBH}condicionado.`] }],
   // Direção
   ['placa-buffet-banheiros', 600, 800, direcao, {
-    seta: 'cima', nomes: ['BUFFET', 'BANHEIROS'], onde: 'NO ANDAR DE CIMA' }, 150],
+    seta: 'cima', nomes: ['Buffet', 'Banheiros'], onde: 'No andar de cima' }, 150],
   // Portas
   ...[
-    ['banheiro-masculino', 'BANHEIRO', 'MASCULINO'],
-    ['banheiro-feminino', 'BANHEIRO', 'FEMININO'],
-    ['sala-de-aula', 'SALA DE AULA'],
-    ['sala-de-reuniao', 'SALA DE REUNIÃO'],
-    ['copa', 'COPA'],
-    ['recepcao', 'RECEPÇÃO'],
-    ['restrito', 'RESTRITO', 'SOMENTE FUNCIONÁRIOS'],
+    ['banheiro-masculino', 'Banheiro', 'Masculino'],
+    ['banheiro-feminino', 'Banheiro', 'Feminino'],
+    ['sala-de-aula', 'Sala de aula'],
+    ['sala-de-reuniao', 'Sala de reunião'],
+    ['copa', 'Copa'],
+    ['recepcao', 'Recepção'],
+    ['restrito', 'Restrito', 'Somente funcionários'],
   ].map(([slug, nome, sub]) => [`placas-porta/porta-${slug}`, 200, 80, porta, { nome, sub }]),
 ];
 

@@ -1,34 +1,43 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;0,900;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: 150mm 200mm; margin: 0; }
 html { font-size: 15mm; } html, body { width: 150mm; height: 200mm; }
 
-  :root { --bege: #F1E9DC; --bordo: #6C0302; --preto: #0A0A0A; }
+  :root { --verm: #A00F0F; --capa: #8C1C1C; --tinta: #1E1E1E; --cinza: #6E6E6E;
+          --fio: #E4E4DF; --card: #F6F2F2; --papel: #FFFFFF; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bege); font-family: 'Montserrat', sans-serif; color: var(--preto); display: flex; flex-direction: column; }
+  body { position: relative; overflow: hidden; background: var(--papel); color: var(--tinta);
+         font-family: 'Lato', sans-serif; display: flex; flex-direction: column; }
   .fit { display: inline-block; white-space: nowrap; }
-  .faixa { flex: none; background: var(--bordo); }
-  .faixa.topo { border-bottom: .12rem solid var(--bege); box-shadow: 0 .12rem 0 var(--bordo); }
-  .faixa.base { border-top: .12rem solid var(--bege); box-shadow: 0 -.12rem 0 var(--bordo); }
-  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .kicker { font-family: 'Poppins', sans-serif; font-weight: 600; text-transform: uppercase; color: var(--verm); }
+  .titulo { font-family: 'Lora', serif; font-weight: 600; line-height: 1.05; letter-spacing: -0.01em; }
+  .regua { background: var(--verm); }
+  .diag { position: absolute; top: 0; right: 0; pointer-events: none; }
+  .diag line { stroke: var(--verm); stroke-opacity: .28; }
+  .rodape { flex: none; display: flex; justify-content: space-between; align-items: baseline; border-top: .04rem solid var(--fio); }
+  .marca { font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: .06em; }
+  .rodape .apoio { color: var(--cinza); }
+  main { display: flex; flex-direction: column; }
 
-  .faixa.topo { height: 3.6rem; color: var(--bege); padding: 0 .6rem; }
-  .faixa.topo .fit { font-weight: 900; font-size: 1.5rem; letter-spacing: -0.01em; }
-  .faixa.base { height: .9rem; }
-  main { padding: 0 .6rem; }
-  .grande { font-weight: 900; font-size: 1.4rem; letter-spacing: -0.02em; line-height: 1; }
-  .fio { width: 2.2rem; height: .1rem; background: var(--bordo); margin: .6rem auto; }
-  .item { font-weight: 800; font-size: .72rem; line-height: 1.1; letter-spacing: -0.01em; }
-  .e { font-weight: 600; font-size: .55rem; color: var(--bordo); margin: .25rem 0; }</style></head>
-<body>
-  <main class="faixa topo" style="flex:none"><span class="fit">SILÊNCIO</span></main>
+  body { background: var(--capa); color: #fff; padding: 1rem .85rem .6rem; }
+  .diag line { stroke: #fff; stroke-opacity: .22; }
+  main { flex: 1; justify-content: center; }
+  .kicker { color: rgba(255,255,255,.78); font-size: .27rem; letter-spacing: .3em; }
+  .titulo { margin-top: .3rem; } .titulo .fit { font-size: 1.45rem; }
+  .regua { background: #fff; width: 1.3rem; height: .05rem; margin: .55rem 0 .5rem; }
+  .linha { font-size: .46rem; line-height: 1.45; }
+  .rodape { border-top-color: rgba(255,255,255,.3); padding-top: .3rem; }
+  .marca { font-size: .22rem; letter-spacing: .3em; } .apoio { display: none; }</style></head>
+<body><svg class="diag" style="width:4.2rem;height:4.2rem" viewBox="0 0 100 100">
+  <line x1="34" y1="0" x2="100" y2="66" stroke-width="0.6"/><line x1="48" y1="0" x2="100" y2="52" stroke-width="0.6"/><line x1="62" y1="0" x2="100" y2="38" stroke-width="0.6"/><line x1="76" y1="0" x2="100" y2="24" stroke-width="0.6"/><line x1="90" y1="0" x2="100" y2="10" stroke-width="0.6"/></svg>
   <main>
-    <div><span class="fit grande">EM AULA</span></div>
-    <div class="fio"></div>
-    <div><span class="fit item">CELULAR NO SILENCIOSO</span></div><div class="e">e</div><div><span class="fit item">ENTRE SEM INTERROMPER</span></div>
+    <div class="kicker">Sala de aula</div>
+    <h1 class="titulo"><div><span class="fit">Silêncio,</span></div><div><span class="fit">em aula</span></div></h1>
+    <div class="regua"></div>
+    <div class="linha">Celular no silencioso.</div><div class="linha">Entre sem interromper.</div>
   </main>
-  <div class="faixa base"></div><script>
+  <div class="rodape"><span class="marca">TATSUO ACADEMY</span><span class="apoio">Comunicação interna</span></div><script>
 document.fonts.ready.then(() => {
   document.querySelectorAll('.fit').forEach(el => {
     const m = el.closest('main'), cs = getComputedStyle(m);
