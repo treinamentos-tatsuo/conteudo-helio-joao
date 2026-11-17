@@ -1513,3 +1513,8 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Duplicada da VIRADA de 16/11. Colisão: a GRANDE de 11/10 (201, fé de empresário) é por post específico. Sem conflito.
 - Palavras `GRANDE, grande, Grande`; DM "Quem só olha o erro acaba com a autoestima do time. Quer ver como eu ensino o dono a liderar gente, no MBV?", botão `>> Quero ver <<`; link com `utm_campaign=2026-11-17-GRANDE`.
 - **PENSAR LIVE 13h01** (17/11), amarrada ao `Df2Tv6fkSk4` (J380; legenda "Cobrar todo mundo cobra. Meta, prazo, entrega."; capa "Cobrar todo mundo cobra. Liderar é outra coisa."; 1º card da grade). O post era das 12h30 mas só subiu ~12h55 (o timer das 12h31 achou só o "Faltam 10 dias", `Df2MFRxETpE`; ativada no "postei" do João). Miniatura do NOTA trocada; `utm_content=https://www.instagram.com/p/Df2Tv6fkSk4/` (link de 150 chars). Busca "pensar": só a DNA (específica), nenhuma global. Conferido recarregando: LIVE, nome, post, campaign `2026-11-17-PENSAR`, 1 botão, nada de `rtc.` nem do NOTA.
+
+## 17/11/2026 — `IG | 2026-11-17 | PERTO | pequeno perto repost` (2º post do 251 "pequeno perto", repost das 17h30)
+
+- Duplicada da `IG | 2026-10-20 | PERTO | perto do time` (LIVE, específica do post de 20/10, não cruza; nenhuma global com "perto"). MONTADA STOPPED ~15h10. content20261117180709_027964.
+- Palavras `PERTO, perto, Perto`; DM "O grande pode pagar mais que você, mas não pode estar mais perto. Quer ver como eu ensino liderança no MBV?"; botão `>> Quero ver <<`; link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-17-PERTO` (utm_content entra no post). Timer 17h31. Repost da máquina do Pedro: sem ficha aqui.
