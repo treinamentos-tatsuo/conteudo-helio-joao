@@ -9,7 +9,7 @@ Pedido do João em 17/11/2026: arte de feed 4:5 no padrão das artes de treiname
 - Segunda | 23 NOV
 - Horário | 8H30 – 9H30
 - Objetivo: Conhecer na prática os perfis comportamentais do DISC e aprender a identificar diferentes formas de comunicação, tomada de decisão e relacionamento, tornando suas interações mais assertivas e produtivas.
-- Rodapé: Alta Escala, Acquateria, Tatsuo Academy
+- Rodapé: só a logo da Tatsuo Academy, centralizada (pedido do João, 17/11)
 
 ## Ajustes
 - Objetivo no infinitivo ("Conhecer... e aprender"), igual ao bloco OBJETIVO do modelo; o texto original vinha em "você conhecerá... e aprenderá".
