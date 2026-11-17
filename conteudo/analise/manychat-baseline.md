@@ -1518,3 +1518,4 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 
 - Duplicada da `IG | 2026-10-20 | PERTO | perto do time` (LIVE, específica do post de 20/10, não cruza; nenhuma global com "perto"). MONTADA STOPPED ~15h10. content20261117180709_027964.
 - Palavras `PERTO, perto, Perto`; DM "O grande pode pagar mais que você, mas não pode estar mais perto. Quer ver como eu ensino liderança no MBV?"; botão `>> Quero ver <<`; link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-17-PERTO` (utm_content entra no post). Timer 17h31. Repost da máquina do Pedro: sem ficha aqui.
+- **REMAR (J381) antecipada pra hoje:** o João vai postar o J381 em 17/11 às 19h30 (não 18/11). Renomeada pra `IG | 2026-11-17 | REMAR | remar junto` e link trocado pra `utm_campaign=2026-11-17-REMAR`. Continua STOPPED, com a miniatura herdada (trocar no post). Busca "remar": só ela. Timer 19h31.
