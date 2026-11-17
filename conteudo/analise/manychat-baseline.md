@@ -1507,3 +1507,8 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Palavras `VIRADA, virada, Virada` e DM "Perda fala mais alto que tudo o que ficou. Quer ver como eu ensino o dono a ler a empresa com número na mão, no MBV?", botão `>> Quero ver <<`. Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-16-VIRADA`, conferido no modo de edição depois de recarregar.
 - Pendente às 19h: trocar o post (ainda aponta pro J367), completar o `&utm_content=` e ativar. Timer de shell às 19h01.
 - **Ativação (16/11, ~19h05):** post no ar como `Df0YTMAFMzR` (primeiro em "Mostrar Todos"). Amarrada ao post (mediaSelected conferido), link com `&utm_content=https://www.instagram.com/p/Df0YTMAFMzR/`, Salvar → Atualização → Ativar. Recarregada: LIVE, Interromper, capa do J400.
+
+## 17/11/2026 — `IG | 2026-11-17 | GRANDE | bater palma` (carrossel J401) — MONTADA STOPPED ~9h50, pro post das 10h
+
+- Duplicada da VIRADA de 16/11. Colisão: a GRANDE de 11/10 (201, fé de empresário) é por post específico. Sem conflito.
+- Palavras `GRANDE, grande, Grande`; DM "Quem só olha o erro acaba com a autoestima do time. Quer ver como eu ensino o dono a liderar gente, no MBV?", botão `>> Quero ver <<`; link com `utm_campaign=2026-11-17-GRANDE`.
