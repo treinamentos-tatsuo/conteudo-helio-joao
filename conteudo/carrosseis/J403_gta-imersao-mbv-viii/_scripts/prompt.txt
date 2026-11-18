@@ -1,0 +1,16 @@
+Create a vertical satirical promotional poster in the illustrated style of a classic open-world crime video game loading-screen cover art (comic-book cel shading, bold black ink outlines, saturated sunset colors: violet, magenta, hot orange, golden yellow, Miami-style palm trees and city skyline). Hand-drawn illustration look, like a painted cartoon, NOT a photograph.
+
+The man in the reference photos is the main character. Draw him as an illustrated cartoon version that stays clearly recognizable: same face shape, same short black hair, same East Asian features, same smile, wearing a navy blue blazer with a red pocket square, light blue open-collar shirt.
+
+Layout: a grid of tilted comic panels separated by thin black borders, like the reference cover art format:
+- Top-left panel: big close-up of him with an expressive, surprised face, palm trees and purple sunset skyline behind.
+- Top-right panel: a white helicopter flying over a large modern building with a big sign that reads "TATSUO ACADEMY".
+- Middle-left panel: a table with stacked workbooks and a financial report sheet, a round yellow sticker that reads "MBV".
+- Middle-right panel: him standing confident with arms crossed in front of the building entrance, wet reflective pavement.
+- Lower-left panel: him on a stage holding a microphone, pointing at the viewer, energetic.
+- Lower-right panel: a packed event room full of business owners sitting in rows, facing a stage with a big red screen.
+- Bottom strip: the "TATSUO ACADEMY" building at sunset with palm trees.
+
+CENTER (dominant, overlapping the panels): a huge stylized Roman numeral logo that reads "VIII", filled with a violet-to-magenta-to-orange sunset gradient with palm tree silhouettes inside, thick white and black outline. On top of it, two lines of chunky bold italic game-title lettering with heavy black outline and drop shadow: first line in white reads "IMERSÃO", second line in golden yellow reads "MBV".
+
+All text must be spelled exactly: "VIII", "IMERSÃO", "MBV", "TATSUO ACADEMY". No other text, no prices, no logos of real brands, no emojis, no watermark. Keep the central logo and faces inside the middle area of the canvas (leave safe margins top and bottom).
