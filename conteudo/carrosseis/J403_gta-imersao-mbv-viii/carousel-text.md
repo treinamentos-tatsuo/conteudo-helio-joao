@@ -22,9 +22,33 @@ Pedido do João: incluir 3 pessoas das fotos que ele mandou (`_scripts/ref-pesso
 
 - `imagens/gta-v2.png` + `instagram/J403_gta-imersao-mbv-viii_v2.png` (4:5)
 
-## Legenda
+## Legenda (post)
 
-Pendente (não pedida ainda).
+```
+O mundo inteiro está esperando o GTA VI. Eu estou esperando a VIII.
+
+Brincadeira à parte, tem uma diferença entre o jogo e a sua empresa que todo dono precisa entender.
+
+No jogo, você erra e volta pro último save. Bateu o carro, perdeu a missão, apertou um botão e começou de novo. Ninguém foi demitido, ninguém ficou sem salário, ninguém perdeu a casa.
+
+Na sua empresa não tem save. Não tem vida extra. Não tem código de trapaça.
+
+O caixa que acabou no dia 20 não volta. O seu melhor vendedor, que foi pro concorrente, não volta. O ano que você passou apagando incêndio não volta.
+
+E o que eu mais vejo é dono jogando a empresa no modo tentativa e erro. Sem saber a margem do que mais vende, sem número na mão, sem comando sobre o time. Apertando botão pra ver o que acontece.
+
+Empresa não se joga. Empresa se comanda. E comando exige domínio: saber ler o seu DRE, saber onde a sua empresa está sangrando, saber cobrar o time com número e não com grito.
+
+É isso que eu ensino em três dias na Imersão MBV. Lucratividade, Crescimento e Cultura, do jeito que eu aplico nas minhas empresas.
+
+Na oitava edição, quem segura o controle é você.
+
+Se você quer parar de jogar no tentativa e erro e assumir o comando da sua empresa, as vagas da Imersão MBV VIII estão no link da bio.
+
+Seja Bem-Vindo ao Fim do Analfabetismo Empresarial.
+```
+
+CTA no link da bio (sem Manychat). Data da VIII não incluída: conferir com o João se entra.
 
 ## v3 (18/11/2026) — troca pedida pelo João
 
