@@ -12,6 +12,12 @@ Peça única (imagem 4:5) no mesmo formato da J403, pro perfil do Rafael Tatsuo 
 - `imagens/alta-escala-v1.png` (gerada direto em 4:5)
 - `instagram/J404_gta-alta-escala-rafael.png` (1080x1350, feed)
 
+## v2 (18/11/2026)
+
+Pedido do João: uma placa no estilo da placa de boas-vindas de San Andreas escrita "NÃO SOMOS AGÊNCIA DE MARKETING" (com acento em AGÊNCIA). Ficou na faixa de baixo, à direita, entre as palmeiras.
+
+- `imagens/alta-escala-v2.png` + `instagram/J404_gta-alta-escala-rafael_v2.png` — **versão atual**
+
 ## Legenda
 
 Pendente.
