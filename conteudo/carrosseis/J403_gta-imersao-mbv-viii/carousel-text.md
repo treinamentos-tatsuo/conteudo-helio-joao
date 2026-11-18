@@ -25,3 +25,9 @@ Pedido do João: incluir 3 pessoas das fotos que ele mandou (`_scripts/ref-pesso
 ## Legenda
 
 Pendente (não pedida ainda).
+
+## v3 (18/11/2026) — troca pedida pelo João
+
+O Ruan (blazer claro) passou pro close de cima, no lugar do Hélio, e o Hélio voltou pro quadro de braços cruzados, como estava na v1.
+
+- `imagens/gta-v3.png` + `instagram/J403_gta-imersao-mbv-viii_v3.png` (4:5) — versão atual
