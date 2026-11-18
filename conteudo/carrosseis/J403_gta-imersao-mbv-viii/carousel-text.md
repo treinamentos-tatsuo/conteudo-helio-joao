@@ -71,3 +71,9 @@ Pedido do João, a partir de uma referência de outro perfil (quatro pessoas de 
 Pedido do João: juntar as 4 pessoas em 2 blocos e usar os blocos livres pra 3 fotos novas (`_scripts/ref-cena1/2/3`) em desenho. Em cima à esquerda, Ruan e o careca com o relatório. No meio à direita, Hélio de braços cruzados e o jovem de terno preto com o microfone. As cenas novas são o time comemorando no palco com o saco vermelho e o flipchart, a roda de mãos dadas e o Hélio de jaqueta cáqui dando aula. Os participantes das fotos também aparecem desenhados por IA.
 
 - `imagens/gta-v4.png` + `instagram/J403_gta-imersao-mbv-viii_v4.png` (4:5) — versão atual
+
+## v5 (18/11/2026) — volta à ideia inicial, só o Hélio + as 3 cenas novas
+
+Pedido do João: tirar o Ruan, o Rafael e o Mechi e ficar só com o Hélio (close, braços cruzados e dando aula de jaqueta cáqui), mais as cenas da comemoração no palco e da roda de mãos dadas. O Hélio de cáqui saiu de bigode na primeira geração e foi corrigido (v5b). No 4:5 a faixa de baixo do prédio saiu, porque o prédio já aparece no quadro do helicóptero.
+
+- `imagens/gta-v5b.png` (original 2:3) + `instagram/J403_gta-imersao-mbv-viii_v5.png` (feed 4:5) — **versão atual**
