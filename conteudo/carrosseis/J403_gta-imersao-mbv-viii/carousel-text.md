@@ -55,3 +55,12 @@ CTA no link da bio (sem Manychat). Data da VIII não incluída: conferir com o J
 O Ruan (blazer claro) passou pro close de cima, no lugar do Hélio, e o Hélio voltou pro quadro de braços cruzados, como estava na v1.
 
 - `imagens/gta-v3.png` + `instagram/J403_gta-imersao-mbv-viii_v3.png` (4:5) — versão atual
+
+## Peça extra: Missão da semana (18/11/2026)
+
+Pedido do João, a partir de uma referência de outro perfil (quatro pessoas de costas entrando numa loja, estilo GTA). Os 4 personagens da v3 (Ruan, Hélio, careca de blazer azul, jovem de terno preto), de costas, entram no prédio com a logo da Tatsuo Academy. Texto: "MISSÃO DA SEMANA: COMENTAR MBV PARA GARANTIR A ÚLTIMA OPORTUNIDADE DO ANO."
+
+- `imagens/missao-v1.png` (original)
+- `instagram/J403b_missao-da-semana_4x5.png` (feed, corta os pés)
+- `instagram/J403b_missao-da-semana_story.png` (9:16, imagem inteira com fundo desfocado)
+- CTA "comentar MBV" pede Manychat com a palavra MBV na hora de postar.
