@@ -1521,3 +1521,10 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - **REMAR (J381) antecipada pra hoje:** o João vai postar o J381 em 17/11 às 19h30 (não 18/11). Renomeada pra `IG | 2026-11-17 | REMAR | remar junto` e link trocado pra `utm_campaign=2026-11-17-REMAR`. Continua STOPPED, com a miniatura herdada (trocar no post). Busca "remar": só ela. Timer 19h31.
 - **PERTO LIVE ~17h37** no post do repost 251 (https://www.instagram.com/p/Df2yySPlBzS/), postado ~17h30. utm_content do post no link; conferido após reload: LIVE, post certo, campanha `2026-11-17-PERTO`, sem `rtc.`. Pasta movida pra `REPOST CARROSSEL/postados/` e copiada pro Drive `HÉLIO TATSUO/17-11-2026/`.
 - **REMAR LIVE ~19h40** no post do J381 (https://www.instagram.com/p/Df3AiFaFNvo/), postado ~19h30. Miniatura trocada pro post novo, utm_content do post no link; conferido após reload: LIVE, post certo, campanha `2026-11-17-REMAR`, sem `rtc.`. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/J381_remar-junto` e no Drive `HÉLIO TATSUO/17-11-2026/`.
+
+## 18/11/2026 — `IG | 2026-11-18 | ENTREGA | baba de marmanjo` (carrossel J397, releitura do 41) — MONTADA STOPPED ~12h05, pro post das 12h30
+- Duplicada da `IG | 2026-11-17 | REMAR | remar junto` (intocada, LIVE). Easy builder `content20261118150127_926839`. Caminho imersão MBV.
+- Colisão: busca "entrega" trouxe só as ENTREGA de 03/10 e 18/10 (específicas de outros posts) e automações com "entrega" na DM. Nenhuma global.
+- Palavras `ENTREGA, entrega, Entrega`. DM escrita pelo Claude (88 chars): "Avisar uma vez é recado. Conferir todo dia é gestão. Quer ver como eu ensino isso no MBV?". Botão `>> Quero ver <<` (herdado, 1 só).
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-18-ENTREGA` (98 chars, conferido por JS no modal); `utm_content` entra no post. Ainda presa ao post do J381 (miniatura herdada): trocar no post. Timer 12h31.
+- Conferido recarregando: STOPPED, nome, campaign nova, DM e palavras no HTML, nada da REMAR, nada de `rtc.`.
