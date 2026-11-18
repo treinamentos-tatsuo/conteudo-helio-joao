@@ -16,6 +16,12 @@ Peça única (imagem), sátira do lançamento de um jogo de mundo aberto, no for
 - `instagram/J403_gta-imersao-mbv-viii.png` — recorte 4:5 (1080x1350) para o feed
 - `_scripts/prompt.txt`, `_scripts/edit.sh`, `_scripts/ref-helio.png`
 
+## v2 (18/11/2026) — mais 3 pessoas
+
+Pedido do João: incluir 3 pessoas das fotos que ele mandou (`_scripts/ref-pessoaA/B/C`), tirando o Hélio de 2 dos 3 quadros. O Hélio ficou só no close de cima. Pessoa A (terno preto, microfone) no quadro de baixo à esquerda; pessoa B (blazer bege, braços cruzados) no da direita; pessoa C (careca, blazer azul) atrás das apostilas, segurando o relatório. Eles também foram desenhados por IA, dentro da mesma exceção pontual.
+
+- `imagens/gta-v2.png` + `instagram/J403_gta-imersao-mbv-viii_v2.png` (4:5)
+
 ## Legenda
 
 Pendente (não pedida ainda).

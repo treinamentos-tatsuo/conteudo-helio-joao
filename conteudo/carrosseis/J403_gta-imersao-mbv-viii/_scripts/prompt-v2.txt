@@ -1,0 +1,8 @@
+The left part of this reference is an illustrated comic-style poster (open-world crime video game cover art style). The right column shows three real people labeled A, B and C. Recreate the SAME poster as a single vertical image (only the poster, without the right column and without the letters A, B, C), keeping the exact same style, layout, panel grid, colors, central logo "VIII" with "IMERSÃO" in white and "MBV" in golden yellow, the helicopter, the "TATSUO ACADEMY" buildings, the audience panel and the bottom strip. Keep the top-left panel with the Asian man in the navy blazer exactly as it is (same face, same pose).
+
+Change only these panels, drawing each new person in the same cel-shaded cartoon illustration style, clearly recognizable from his photo (same face, hair, facial hair, body type, clothing):
+- Middle-right panel (where the Asian man stands with arms crossed): replace him with person B (young man, dark swept-back hair, short beard and mustache, light beige blazer, white shirt, event lanyard), standing confident with arms crossed in front of the building, same composition.
+- Lower-left panel (where the Asian man points with a microphone): replace him with person A (young man, voluminous dark hair, black suit, white shirt, small lapel pin), holding a microphone and pointing at the viewer, energetic expression.
+- Middle-left panel (books on the table): keep the stacked books with the yellow "MBV" sticker, and add person C (bald man with short gray beard, navy blazer over navy t-shirt, friendly smile) from the chest up behind the table, holding up the financial report sheet.
+
+All text must be spelled exactly: "VIII", "IMERSÃO", "MBV", "TATSUO ACADEMY". No other text, no emojis, no watermark.
