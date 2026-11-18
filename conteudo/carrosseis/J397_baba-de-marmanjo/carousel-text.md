@@ -1,5 +1,6 @@
 # J397 — Todo líder é babá de marmanjo (base: 41 gestor é babá de adulto)
 
+**Status:** POSTADO 18/11/2026 13h00 (https://www.instagram.com/p/Df44nFIkQzf/); Manychat ENTREGA LIVE 13h03. Pasta em `POSTS/Carrossel sem rosto/POSTADOS/` e no Drive `HÉLIO TATSUO/18-11-2026/`.
 **Status (revisão 18/11):** correções do João: "curso" vira "treinamento" do slide 5 em diante; slide 6 ganhou a construção do punch (antes o "dia seguinte" chegava solto); slide 9 com números (100, 101ª). Versão anterior em `_rodadas/v-aprovada-16-11.md`.
 **Status:** aprovado pelo João em 16/11 ("esse está aprovado.. salve na pasta com a legenda"). Data de postagem ainda não definida (sugestão: antes do J398 e do J399). Entregue em `POSTS/Carrossel sem rosto/NP J397_baba-de-marmanjo/`. Imagens de primeira.
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
