@@ -77,3 +77,4 @@ Pedido do João: juntar as 4 pessoas em 2 blocos e usar os blocos livres pra 3 f
 Pedido do João: tirar o Ruan, o Rafael e o Mechi e ficar só com o Hélio (close, braços cruzados e dando aula de jaqueta cáqui), mais as cenas da comemoração no palco e da roda de mãos dadas. O Hélio de cáqui saiu de bigode na primeira geração e foi corrigido (v5b). No 4:5 a faixa de baixo do prédio saiu, porque o prédio já aparece no quadro do helicóptero.
 
 - `imagens/gta-v5b.png` (original 2:3) + `instagram/J403_gta-imersao-mbv-viii_v5.png` (feed 4:5) — **versão atual**
+- Pedido do João: 4:5 sem cortar nada. A imagem inteira foi reduzida pra 900x1350 e encaixada em 1080x1350, com laterais desfocadas (`_v5_inteira-desfoque.png`, **a de postar**) ou pretas (`_v5_inteira.png`).
