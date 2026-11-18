@@ -1,0 +1,16 @@
+Create a vertical 4:5 satirical promotional poster in the illustrated style of a classic open-world crime video game cover art: comic-book cel shading, bold black ink outlines, saturated sunset palette of violet, magenta, hot pink, orange and golden yellow, Miami-style palm trees and city skyline. Hand-drawn cartoon illustration, NOT a photograph. Fill the whole canvas edge to edge.
+
+The reference strip shows the main character (photos labeled RAFAEL) and a logo (labeled LOGO). Draw the main character as an illustrated cartoon that stays clearly recognizable: young East Asian man, early twenties, thick dark hair swept back with volume, clean-shaven, slim, usually in a black suit with white shirt.
+
+Layout: grid of tilted comic panels separated by thick black borders:
+- Top-left: big close-up of him, confident sharp look, one hand adjusting his suit lapel, palm trees and purple sunset skyline behind.
+- Top-right: a white helicopter flying over a modern glass office building with a big sign on top reading "ALTA ESCALA".
+- Middle-left: him sitting at a modern desk with a laptop, wearing a headset, on a video call with a smiling doctor in a white lab coat with a stethoscope shown on the laptop screen; a sales chart going up on a second monitor.
+- Middle-right (tall): him standing confident with arms crossed in a black suit in front of the glass office building, wet reflective pavement.
+- Lower-left: a big wall screen with a video conference grid of six doctors and clinic owners in white coats, and him in the corner tile leading the meeting, pointing at a growth chart.
+- Lower-right: him on a stage holding a microphone, speaking to a packed audience of doctors, a big blue sales funnel graphic glowing on the screen behind him.
+- Bottom strip: the "ALTA ESCALA" office building at sunset with palm trees.
+
+CENTER (dominant, overlapping the panels): a huge version of the LOGO from the reference (a thick circle ring with a bold open triangle "A" shape inside whose right leg cuts through the bottom-right of the ring), rendered in the game cover style: filled with a hot pink to magenta to orange sunset gradient with palm tree silhouettes inside, thick white and black outline. In front of it, two lines of chunky heavy bold condensed game-title lettering (like the classic crime video game logo typeface) with thick black outline and drop shadow: first line in white reads "ALTA", second line in golden yellow reads "ESCALA".
+
+All text must be spelled exactly: "ALTA", "ESCALA", "ALTA ESCALA". No other text, no real brand logos besides the given logo, no emojis, no watermark.
