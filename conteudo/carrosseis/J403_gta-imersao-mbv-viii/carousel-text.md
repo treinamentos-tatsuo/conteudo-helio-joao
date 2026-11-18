@@ -78,3 +78,4 @@ Pedido do João: tirar o Ruan, o Rafael e o Mechi e ficar só com o Hélio (clos
 
 - `imagens/gta-v5b.png` (original 2:3) + `instagram/J403_gta-imersao-mbv-viii_v5.png` (feed 4:5) — **versão atual**
 - Pedido do João: 4:5 sem cortar nada. A imagem inteira foi reduzida pra 900x1350 e encaixada em 1080x1350, com laterais desfocadas (`_v5_inteira-desfoque.png`, **a de postar**) ou pretas (`_v5_inteira.png`).
+- Pedido do João: o 4:5 tem que ser a arte ocupando o quadro todo, sem corte e sem moldura. A IA estendeu as laterais (`imagens/gta-v5-45.png`) → `instagram/J403_gta-imersao-mbv-viii_v5_feed.png` (1080x1350), **a de postar**. As versões com moldura ficam só de reserva.
