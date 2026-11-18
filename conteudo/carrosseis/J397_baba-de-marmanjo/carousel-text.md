@@ -1,5 +1,6 @@
 # J397 — Todo líder é babá de marmanjo (base: 41 gestor é babá de adulto)
 
+**Status (revisão 18/11):** correções do João: "curso" vira "treinamento" do slide 5 em diante; slide 6 ganhou a construção do punch (antes o "dia seguinte" chegava solto); slide 9 com números (100, 101ª). Versão anterior em `_rodadas/v-aprovada-16-11.md`.
 **Status:** aprovado pelo João em 16/11 ("esse está aprovado.. salve na pasta com a legenda"). Data de postagem ainda não definida (sugestão: antes do J398 e do J399). Entregue em `POSTS/Carrossel sem rosto/NP J397_baba-de-marmanjo/`. Imagens de primeira.
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
@@ -37,11 +38,11 @@ Convenção: linha em **negrito** = punch em vermelho; `//` = respiro.
 **2** Você pagou curso pro time inteiro. // **Na segunda-feira, / ninguém lembrava de nada.** // E não foi barato. (sussurro)
 **3** Foi um dia bonito. / Todo mundo balançando a cabeça. // **Encheram o caderno. / Juraram que ia mudar.**
 **4** Uma semana depois, / cada um tinha voltado pro jeito antigo. // **O caderno sumiu na mochila. / A promessa ficou no estacionamento.**
-**5** Aí vem a conclusão de sempre: / curso é dinheiro jogado no lixo. // E **o culpado** / é esse time que não aprende.
-**6** O curso fez a parte dele. / O seu time é gente como qualquer um. // **NINGUÉM CUIDOU DO DIA SEGUINTE.** (Anton)
-**7** Ninguém ouve uma vez / e muda pro resto da vida. // Ninguém sai de um curso / acertando tudo na segunda. // **Gente é assim. Você também.**
+**5** Aí vem a conclusão de sempre: / treinamento é dinheiro jogado no lixo. // E **o culpado** / é esse time que não aprende.
+**6** O treinamento fez a parte dele. / O seu time é gente como qualquer um. // Faltou alguém conferir, na segunda, / se o que foi ensinado estava sendo feito. // **NINGUÉM CUIDOU DO DIA SEGUINTE.** (Anton)
+**7** Ninguém ouve uma vez / e muda pro resto da vida. // Ninguém sai de um treinamento / acertando tudo na segunda. // **Gente é assim. Você também.**
 **8** Tem quem chame esse trabalho / de acompanhamento. // **Eu chamo pelo nome: / pajear adulto.**
-**9** Você fica bravo de falar de novo. / "Eu já expliquei cem vezes." // **Explicou. E amanhã / vai explicar a cento e uma.**
+**9** Você fica bravo de falar de novo. / "Eu já expliquei 100 vezes." // **Explicou. E amanhã / vai explicar pela 101ª vez.**
 **10** Avisar uma vez, qualquer um avisa. / **CONFERIR TODO DIA É GESTÃO.** (Anton)
 **11** O combinado conferido todo dia / uma hora vira costume. // **E a empresa anda certa / até no dia em que você não está.**
 **12** Começa pelo básico: / põe o combinado no papel. // **E confere com o seu time / todo santo dia.**
