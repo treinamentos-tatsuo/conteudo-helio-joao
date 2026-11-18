@@ -1,0 +1,11 @@
+The left image is an illustrated comic-style poster (open-world crime video game cover art: cel shading, bold black ink outlines, violet/magenta/orange sunset palette). The right column shows three real photos labeled 1, 2 and 3. Create a NEW version of the poster as a single vertical image (without the right column and without labels), same style, same colors, same central logo "VIII" with "IMERSÃO" in white and "MBV" in golden yellow, same bottom strip with the "TATSUO ACADEMY" building and palm trees, same top-right panel with the helicopter over the "TATSUO ACADEMY" building.
+
+Rearrange the people so the four existing characters fit in only TWO panels, and use the freed panels for three new illustrated scenes:
+
+- Top-left panel: the young man in the light beige blazer (finger on temple, speaking) AND the bald man with gray beard in the navy blazer holding up the financial report, together side by side in the same panel, palm trees and skyline behind.
+- Middle-right panel (tall): the Asian man in the navy blazer with red pocket square, arms crossed, confident smile, AND next to him the young man with voluminous dark hair in the black suit holding a microphone, both standing in front of the building.
+- Middle-left panel: scene from photo 2 drawn as a cartoon: a team of five people (four men and one woman with long dark hair) celebrating on a stage, arms raised, one man holding up a red cloth bag, a red screen behind them and a flipchart on an easel with handwritten color names and scores.
+- Lower-left panel: scene from photo 3 drawn as a cartoon: a big circle of business people holding hands in a dark event room, seen from behind the shoulders of people in the foreground, a wall of sponsor-style blank badges behind them with red light.
+- Lower-right panel: scene from photo 1 drawn as a cartoon: the same Asian man, now in a khaki overshirt over a black t-shirt with a headset microphone, teaching and gesturing to a room of seated business owners, one man in a black polo with arms crossed listening.
+
+Keep faces recognizable from the photos and the poster. All text must be spelled exactly: "VIII", "IMERSÃO", "MBV", "TATSUO ACADEMY". No other readable text (the flipchart and screens can have scribbles only), no real brand logos, no emojis, no watermark.

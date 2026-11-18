@@ -65,3 +65,9 @@ Pedido do João, a partir de uma referência de outro perfil (quatro pessoas de 
 - `instagram/J403b_missao-da-semana_4x5.png` (feed, corta os pés)
 - `instagram/J403b_missao-da-semana_story.png` (9:16, imagem inteira com fundo desfocado)
 - CTA "comentar MBV" pede Manychat com a palavra MBV na hora de postar.
+
+## v4 (18/11/2026) — mais 3 cenas do MBV
+
+Pedido do João: juntar as 4 pessoas em 2 blocos e usar os blocos livres pra 3 fotos novas (`_scripts/ref-cena1/2/3`) em desenho. Em cima à esquerda, Ruan e o careca com o relatório. No meio à direita, Hélio de braços cruzados e o jovem de terno preto com o microfone. As cenas novas são o time comemorando no palco com o saco vermelho e o flipchart, a roda de mãos dadas e o Hélio de jaqueta cáqui dando aula. Os participantes das fotos também aparecem desenhados por IA.
+
+- `imagens/gta-v4.png` + `instagram/J403_gta-imersao-mbv-viii_v4.png` (4:5) — versão atual
