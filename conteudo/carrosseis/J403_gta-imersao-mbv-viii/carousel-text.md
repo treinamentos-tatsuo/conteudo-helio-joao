@@ -60,7 +60,8 @@ O Ruan (blazer claro) passou pro close de cima, no lugar do Hélio, e o Hélio v
 
 Pedido do João, a partir de uma referência de outro perfil (quatro pessoas de costas entrando numa loja, estilo GTA). Os 4 personagens da v3 (Ruan, Hélio, careca de blazer azul, jovem de terno preto), de costas, entram no prédio com a logo da Tatsuo Academy. Texto: "MISSÃO DA SEMANA: COMENTAR MBV PARA GARANTIR A ÚLTIMA OPORTUNIDADE DO ANO."
 
-- `imagens/missao-v1.png` (original)
+- `imagens/missao-v1.png` (original, prédio diferente do pôster)
+- `imagens/missao-v2.png` (atual: mesmo prédio da arte principal, pedido do João)
 - `instagram/J403b_missao-da-semana_4x5.png` (feed, corta os pés)
 - `instagram/J403b_missao-da-semana_story.png` (9:16, imagem inteira com fundo desfocado)
 - CTA "comentar MBV" pede Manychat com a palavra MBV na hora de postar.
