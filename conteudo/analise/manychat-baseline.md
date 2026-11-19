@@ -1529,3 +1529,10 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-18-ENTREGA` (98 chars, conferido por JS no modal); `utm_content` entra no post. Ainda presa ao post do J381 (miniatura herdada): trocar no post. Timer 12h31.
 - Conferido recarregando: STOPPED, nome, campaign nova, DM e palavras no HTML, nada da REMAR, nada de `rtc.`.
 - **ENTREGA LIVE 13h03** (18/11; o João mudou o horário do post pras 13h), amarrada ao `Df44nFIkQzf` (16:00:08 UTC, legenda "Todo dono conhece o dia seguinte ao treinamento."; capa "TODO LÍDER É BABÁ DE MARMANJO.", 2º card da grade), com `utm_content=https://www.instagram.com/p/Df44nFIkQzf/` (link de 151 chars). Conferido recarregando: LIVE, post novo, campaign, DM, 1 botão, nada do J381 (`Df3AiFaFNvo`) nem de `rtc.`.
+
+## 19/11/2026 — `IG | 2026-11-19 | CONTROLE | olho de dono` (J398, programado pras 12h30)
+
+- Duplicada da REMAR; busca "controle": nenhuma outra automação. MONTADA STOPPED ~10h50. content20261119134056_770752.
+- Palavras `CONTROLE, controle, Controle`; DM "Empresa cresce bem quando o dono não perde ela de vista. Quer ver como eu ensino o dono a crescer com controle, no MBV?"; botão `>> Quero ver <<`; link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-19-CONTROLE` (utm_content entra no post). Ainda presa ao post do J381 até a troca. Timer 12h31.
+- A digitação no campo da DM comeu letras (2 vezes); preenchido por JS com setter nativo. Conferir o texto depois de salvar.
+- Pasta movida pra `POSTS/Carrossel sem rosto/POSTADOS/J398_olho-de-dono` e copiada pro Drive `HÉLIO TATSUO/19-11-2026/` a pedido do João antes do horário. ClickUp `HT - CARROSSEL NOVO` (12h30 de 19/11, wdwmbdx9fg) marcada complete.
