@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""J280 v2 (21/10, correções do João): o Hélio recortado sobre o fundo preto liso (sem nada atrás) em todo slide em que ele fala;
+"""J280 v3 (19/11, pedido do João): o Hélio só na capa (1), no 10 e no 11; 2, 3, 4, 5 e 8 com imagem gerada minimalista; slide 10 começa em "É o que eu ensino no MBV". v2b em build_v2b.py e instagram/_v2b/.
+J280 v2 (21/10, correções do João): o Hélio recortado sobre o fundo preto liso (sem nada atrás) em todo slide em que ele fala;
 imagens geradas minimalistas nos outros (6, 7, 9); sombra leve no texto. v1 em build_v1.py e instagram/_v1/."""
 import pathlib, sys
 from PIL import Image
@@ -33,12 +34,12 @@ def gen(n):
 # n: ("fig", recorte, altura, centro x, topo) ou ("gen",)
 PH = {
  1: ("fig", "DSCF3122", 1650, 560, 110),
- 2: ("fig", "0027", 1250, 820, 150),
- 3: ("fig", "MBV-TATSUOAC-227", 1150, 500, 130),
- 4: ("fig", "MBV-TATSUOAC-240", 1200, 110, 160),
- 5: ("fig", "DSCF3116", 1600, 540, 110),
+ 2: ("gen",),
+ 3: ("gen",),
+ 4: ("gen",),
+ 5: ("gen",),
  6: ("gen",), 7: ("gen",),
- 8: ("fig", "MBV-TATSUOAC-247", 1000, 540, 130),
+ 8: ("gen",),
  9: ("gen",),
  10: ("fig", "0009", 1450, 760, 120),
  11: ("fig", "MBV-TATSUOAC-228", 1150, 560, 150),
@@ -52,21 +53,21 @@ S = {
      '<div class="b" style="bottom:200px;left:90px;right:90px;text-align:center">'
      '<div class="big" style="font-size:54px">Eu vendi mais de 9 bilhões<br>em 4 continentes.</div>'
      '<div style="margin-top:24px;font-size:112px;line-height:1.22"><span class="hla">HOJE EU TENHO</span><br><span class="hla">MEDO DE VENDA.</span></div></div>'),
- 2: (SIDE_L,
-     '<div class="b" style="top:0;bottom:0;left:90px;width:470px;display:flex;flex-direction:column;justify-content:center;text-align:left">'
-     '<div class="s" style="font-size:46px">Por muito tempo, eu resolvia tudo do mesmo jeito.</div>'
-     '<div class="s" style="font-size:50px;margin-top:30px">O caixa apertou?<br><span class="r">Vende mais.</span></div>'
-     '<div class="s" style="font-size:50px;margin-top:20px">A margem caiu?<br><span class="r">Vende mais.</span></div></div>'),
- 3: (FADE,
+ 2: (GENFADE,
+     '<div class="b" style="bottom:190px;left:100px;right:100px;text-align:center">'
+     '<div class="s" style="font-size:46px">Por muito tempo, eu resolvia<br>tudo do mesmo jeito.</div>'
+     '<div class="s" style="font-size:50px;margin-top:30px">O caixa apertou? <span class="r">Vende mais.</span></div>'
+     '<div class="s" style="font-size:50px;margin-top:14px">A margem caiu? <span class="r">Vende mais.</span></div></div>'),
+ 3: (GENFADE,
      '<div class="b" style="bottom:200px;left:100px;right:100px;text-align:center">'
      '<div class="s" style="font-size:46px">Cheguei a ter um escritório<br>de <b>2 mil metros quadrados.</b></div>'
      '<div class="s" style="font-size:48px;margin-top:26px"><span class="hl">E fretei avião pra levar</span><br><span class="hl">a equipe pra Europa.</span></div></div>'),
- 4: (SIDE_R,
-     '<div class="b" style="top:0;bottom:0;right:100px;width:480px;display:flex;flex-direction:column;justify-content:center;text-align:left">'
+ 4: (GENFADE,
+     '<div class="b" style="bottom:200px;left:100px;right:100px;text-align:center">'
      '<div class="big" style="font-size:56px">E o financeiro?</div>'
-     '<div class="big r" style="font-size:66px;margin-top:6px">Desarrumado.</div>'
-     '<div class="s" style="font-size:44px;margin-top:30px">Eu não sabia quanto sobrava de cada venda.</div></div>'),
- 5: (FADE,
+     '<div class="big r" style="font-size:72px;margin-top:6px">Desarrumado.</div>'
+     '<div class="s" style="font-size:44px;margin-top:30px">Eu não sabia quanto sobrava<br>de cada venda.</div></div>'),
+ 5: (GENFADE,
      '<div class="b" style="bottom:200px;left:100px;right:100px;text-align:center">'
      '<div class="s" style="font-size:44px">Aí eu aprendi do jeito mais caro:<br>venda com a casa desarrumada<br>não resolve o problema.</div>'
      '<div class="big" style="font-size:72px;margin-top:20px">Ela acelera <span class="r">a merda.</span></div></div>'),
@@ -79,7 +80,7 @@ S = {
      '<div class="s" style="font-size:46px">Conheço dono que comemora<br>recorde de venda em dezembro</div></div>'
      '<div class="b" style="bottom:200px;left:110px;right:110px;text-align:center">'
      '<div class="s" style="font-size:54px;line-height:1.5"><span class="hl">e em março vende o carro</span><br><span class="hl">pra pagar fornecedor.</span></div></div>'),
- 8: (FADE,
+ 8: (GENFADE,
      '<div class="b" style="bottom:200px;left:100px;right:100px;text-align:center">'
      '<div class="s" style="font-size:44px">Por isso eu digo sem vergonha nenhuma:</div>'
      '<div class="big" style="font-size:60px;margin-top:14px">hoje eu tenho medo de venda.</div>'
@@ -91,8 +92,8 @@ S = {
      '<div class="s" style="font-size:52px;margin-top:30px"><span class="hl">Depois vai pra rua vender.</span></div></div>'),
  10: (SIDE_L,
      '<div class="b" style="top:0;bottom:0;left:100px;width:520px;display:flex;flex-direction:column;justify-content:center;text-align:left">'
-     '<div class="s" style="font-size:44px">Eu ensino gestão pra donos de PME no meu treinamento, o MBV:</div>'
-     '<div class="big" style="font-size:50px;margin-top:20px">Lucratividade, Crescimento e Cultura.</div>'
+     '<div class="s" style="font-size:46px">É o que eu ensino no MBV pra donos de PME:</div>'
+     '<div class="big" style="font-size:52px;margin-top:20px">arrumar a casa antes de acelerar.</div>'
      '<div class="s" style="font-size:44px;margin-top:26px"><span class="hl">Pra você vender sabendo o que fica no seu bolso.</span></div></div>'),
  11: (FADE,
      '<div class="b" style="bottom:210px;left:100px;right:100px;text-align:center">'

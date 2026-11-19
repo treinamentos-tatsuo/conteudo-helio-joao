@@ -1,0 +1,9 @@
+{
+  "error": {
+    "message": "The server had an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID 961c7906-dac2-4107-98a7-0199c51904f3 in your message.)",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+}
+---STDERR---

@@ -34,7 +34,7 @@ E fretei avião pra levar a equipe pra Europa.
 E o financeiro? Desarrumado.
 Eu não sabia quanto sobrava de cada venda.
 
-**5 (foto do Hélio)**
+**5**
 Aí eu aprendi do jeito mais caro:
 venda com a casa desarrumada não resolve o problema.
 Ela acelera a merda.
@@ -47,7 +47,7 @@ Se a margem já é ruim, você só multiplica o prejuízo.
 Conheço dono que comemora recorde de venda em dezembro
 e em março vende o carro pra pagar fornecedor.
 
-**8 (foto do Hélio)**
+**8**
 Por isso eu digo sem vergonha nenhuma:
 hoje eu tenho medo de venda.
 Medo de vender sem saber quanto sobra.
@@ -56,8 +56,9 @@ Medo de vender sem saber quanto sobra.
 Primeiro arruma a casa: margem, custo e caixa.
 Depois vai pra rua vender.
 
-**10 (foto real do MBV)**
-Eu ensino gestão pra donos de PME no meu treinamento, o MBV: Lucratividade, Crescimento e Cultura.
+**10 (foto do Hélio)**
+É o que eu ensino no MBV pra donos de PME:
+arrumar a casa antes de acelerar.
 Pra você vender sabendo o que fica no seu bolso.
 
 **11 (CTA, só o Hélio)**
@@ -107,3 +108,13 @@ Pedido: "a foto do Hélio precisa ser uma que não tenha fundo ou muita informa�
 - **Palavra:** LUCRO (`LUCRO, lucro, Lucro`). Conferir colisão no painel do Manychat ao montar: já existiu automação com essa palavra.
 - **DM:** "Vender mais sem saber quanto sobra é acelerar o problema. Quer ver como eu ensino gestão no MBV?"
 - **Botão:** `>> Quero ver <<` · **Link:** `https://rtc.tatsuoacademy.com/v2-maio-org?utm_source=manychat&utm_medium=dm&utm_campaign=AAAA-MM-DD-LUCRO&utm_content=<link limpo do post>`
+
+## v3 (19/11, pedido do João)
+
+Pedido: "fotos do Hélio apenas nos slides 1 (capa), 10 e 11"; "no 10 comece a frase falando 'é o que eu ensino no MBV para donos...'"; "os outros pode usar imagens feitas por IA". Aprovado por ele antes de gerar.
+
+- **Hélio só no 1, 10 e 11** (mesmos recortes da v2). **2, 3, 4, 5 e 8 com imagem gerada** no padrão minimalista do 6, 7 e 9 (um objeto pequeno no fundo escuro, P&B, metade de baixo livre pro texto): 2 gaveta de caixa aberta e vazia · 3 cadeira de diretor sozinha numa sala enorme e escura · 4 pilha torta de notas e recibos · 5 velocímetro com o ponteiro no fim · 8 maquininha de cartão desligada. Prompts em `_scripts/prompts.json`; geradas em `imagens/_src/` (as gen-02/03/04 da v1 foram substituídas; a v1 desses slides segue em `instagram/_v1/`).
+- **Composições:** 2, 3, 4, 5 e 8 com o texto embaixo, centralizado (o 2 e o 4 deixaram o lateral, que era pra foto do Hélio).
+- **Slide 10:** "É o que eu ensino no MBV pra donos de PME: arrumar a casa antes de acelerar." O "é o que" amarra no slide 9 (primeiro arruma a casa), por isso saíram os três pilares (Lucratividade, Crescimento e Cultura), que viravam lista sem responder ao "o que". "pra" no lugar de "para" pela voz do Hélio.
+- **Divergência registrada:** o 5 ("acelera a merda") e o 8 ("hoje eu tenho medo de venda") são as falas mais fortes em primeira pessoa e na v2 tinham o rosto dele a pedido do próprio João. Argumentado que perdem peso sem a foto; o João manteve. Decisão dele.
+- A v2b está em `instagram/_v2b/` e o build anterior em `_scripts/build_v2b.py`.

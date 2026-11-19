@@ -1,6 +1,26 @@
 {
  "images": [
   {
+   "n": 2,
+   "size": "1024x1536",
+   "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single cash register drawer pulled fully open and completely empty, no bills, no coins, the empty compartments visible."
+  },
+  {
+   "n": 3,
+   "size": "1024x1536",
+   "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single tall executive office chair standing alone in the middle of a huge empty dark room, very small in the frame, the vast empty floor around it fading into darkness; no desk, no windows, no other furniture."
+  },
+  {
+   "n": 4,
+   "size": "1024x1536",
+   "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single messy pile of loose paper invoices and receipts, crooked and out of order, some sheets sliding off the pile, blank paper with no readable writing."
+  },
+  {
+   "n": 5,
+   "size": "1024x1536",
+   "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single round car speedometer gauge, isolated, with the needle pushed all the way to the far end past the maximum; the dial markings are plain tick lines with no readable numbers."
+  },
+  {
    "n": 6,
    "size": "1024x1536",
    "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a short stack of three cardboard boxes, the bottom box crushed and bent under the weight of the ones on top."
@@ -9,6 +29,11 @@
    "n": 7,
    "size": "1024x1536",
    "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single car key with a small blank cardboard tag tied to it, lying alone."
+  },
+  {
+   "n": 8,
+   "size": "1024x1536",
+   "prompt": "minimalist black-and-white still life photograph, desaturated, soft natural contrast, fine film grain. VERTICAL PORTRAIT orientation, 2:3. MINIMALISM IS THE HARD REQUIREMENT: ONE single small object only, placed in the upper-middle of the frame, occupying at most 20 percent of the frame; everything else is a plain seamless dark charcoal background with empty negative space and nothing else in it; the LOWER half of the frame is almost black and completely empty so text can sit over it. One soft light from the side. Sharp focus, one single real photographic exposure. No text, no readable words, no numbers, no logos, no added color. NO PEOPLE, no hands, no faces. SUBJECT: a single card payment terminal machine, switched off with a dark blank screen, standing alone."
   },
   {
    "n": 9,
