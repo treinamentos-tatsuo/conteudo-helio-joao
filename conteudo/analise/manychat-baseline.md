@@ -1537,3 +1537,12 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - A digitação no campo da DM comeu letras (2 vezes); preenchido por JS com setter nativo. Conferir o texto depois de salvar.
 - Pasta movida pra `POSTS/Carrossel sem rosto/POSTADOS/J398_olho-de-dono` e copiada pro Drive `HÉLIO TATSUO/19-11-2026/` a pedido do João antes do horário. ClickUp `HT - CARROSSEL NOVO` (12h30 de 19/11, wdwmbdx9fg) marcada complete.
 - **CONTROLE LIVE ~12h35** no post do J398 (https://www.instagram.com/p/Df7aAtckULc/), postado 12h30. Post trocado (saiu o do J381), utm_content do post no link; conferido após reload: LIVE, post certo, campanha `2026-11-19-CONTROLE`, sem `rtc.`.
+
+## 19/11/2026 — `IG | 2026-11-19 | LUCRO | medo de venda` (carrossel J280) — MONTADA STOPPED ~14h45, pro post programado das 19h
+
+- Duplicada da `IG | 2026-11-19 | CONTROLE | olho de dono` (LIVE, intocada). Easy builder `content20261119174001_242331`. Caminho imersão MBV.
+- Colisão: busca "lucro" trouxe só `IG | 2026-10-20 | LUCRO | margem repost` e `IG | 2026-08-27 | LUCRO | casas bahia noticia` (as duas de post específico, não cruzam) e a global `RAIO - X` (STOPPED; achada pelo texto). Nenhuma global viva com LUCRO.
+- Palavras `LUCRO, lucro, Lucro`. DM do kit do J280 (96 chars): "Vender mais sem saber quanto sobra é acelerar o problema. Quer ver como eu ensino gestão no MBV?" (gravada por JS com setter nativo). Botão `>> Quero ver <<` (herdado, 1 só).
+- Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-19-LUCRO` (96 chars, conferido por JS no modal; o kit antigo trazia `rtc.`, morto desde 06/11); `utm_content` entra no post. Ainda presa ao post do J398 (miniatura herdada): trocar no post. Timer 19h01 (shell, nesta conversa; PC Windows sem caffeinate, keep-awake do app pedido).
+- Conferido recarregando: STOPPED, nome, campaign nova, palavras e DM nos campos, nada da CONTROLE, nada de `rtc.`, 1 botão.
+- Pasta copiada pro Drive `HÉLIO TATSUO/19-11-2026/J280_medo-de-venda` a pedido do João antes do horário (mesmo procedimento do J398). O `NP` em `POSTS/Carrossel Foto/` sai na ativação.
