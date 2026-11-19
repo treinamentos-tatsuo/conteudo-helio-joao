@@ -1,6 +1,7 @@
 # J398 — Olho de dono não se terceiriza (base: 34 parou de olhar)
 
-**Status:** aprovado pelo João em 16/11 ("está aprovado salve na pasta com a legenda"). Data de postagem a definir (não antes de meados de dezembro, por causa do repost 287 de 13/11). Entregue em `POSTS/Carrossel sem rosto/NP J398_olho-de-dono/`. Imagens 2, 8 e 11 regeradas (v1 em `imagens/_img-NN-v1.png`).
+**Status:** POSTADO 19/11/2026 12h30 (https://www.instagram.com/p/Df7aAtckULc/), Manychat CONTROLE LIVE ~12h35. Divergência: a nota abaixo pedia não antes de meados de dezembro (repost 287 de 13/11, mesma mensagem); o João programou pra 19/11.
+**Status anterior:** aprovado pelo João em 16/11 ("está aprovado salve na pasta com a legenda"). Data de postagem a definir (não antes de meados de dezembro, por causa do repost 287 de 13/11). Entregue em `POSTS/Carrossel sem rosto/NP J398_olho-de-dono/`. Imagens 2, 8 e 11 regeradas (v1 em `imagens/_img-NN-v1.png`).
 **Status (v1, 16/11):** texto mostrado ao João no CHECKPOINT 1. Aguardando aprovação. Data de postagem ainda não definida.
 
 **Origem:** pedido do João em 16/11 (ver J397): nova versão, com outras palavras e a mesma mensagem, dos 3 carrosséis de agosto com mais comentários.
