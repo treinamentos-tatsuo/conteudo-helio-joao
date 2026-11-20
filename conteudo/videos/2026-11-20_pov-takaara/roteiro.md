@@ -35,6 +35,17 @@ Texto branco em caixa preta, destaque em vermelho carmim `#A91C20`. Sem emoji. �
 `pov-takaara-v1.mp4`: 1080x1920, 50 s, cópia em `Desktop/takaara/`. O vídeo não vai pro git (70 MB), só o roteiro e o `render.py`, que regera tudo a partir dos .MOV.
 Diferenças em relação à tabela acima: o Augusto (camiseta preta) entrou em três cenas (9761 0:08, entregando a sacola, com o título "Augusto, dono da Takaara"; 9760 0:46 e 9761 0:45, os dois rindo; 9762, high five na saída). As cenas com duas pessoas ficam num quadrado no centro, com fundo preto, porque no 9:16 cheio uma das duas sairia do quadro. O HDR do iPhone foi convertido pra SDR (tonemap hable). Sem música: o áudio em alta entra no Instagram, por baixo das falas.
 
+## v2 (20/11, ajustes do João) — é a versão entregue
+`pov-takaara-v2.mp4`: 1080x1920, 48 s. O `render.py` gera a v2.
+- Gancho virou POV do Hélio: "POV: você foi visitar o seu mentorado / ...e voltou com a feira da semana". Sem legenda da fala no primeiro take.
+- Textos descidos pro centro-baixo (título ~y 1020, legenda ~y 1400), longe da cabeça do Hélio.
+- Saiu o take da escada (9759), curto e tremido; entrou o Hélio andando no galpão (9760 0:03,3–0:06,6).
+- "Número na mesa" agora com o Hélio ativo, falando: 9757 0:00–0:01,9 (na mesa) + 9765 0:23,2–0:25,2 (falando com o time).
+- Acabou o fundo preto no meio (era o quadrado das cenas com duas pessoas): tudo em tela cheia; nas cenas dos dois, a câmera desliza do Hélio pro Augusto. Augusto agora entra chegando com as sacolas (9761 1:10–1:13,6).
+- Fala da situação anterior mais longa: áudio 9767 0:38–0:43,6 ("Você lembra da última que ele estava? Ele citou até que não via mais solução.") sobre imagem do Hélio dirigindo (9767 0:24).
+- Saiu o "mais um cliente satisfeito": o vídeo fala de aluno/empresário, não de cliente.
+- Cartela final do caminhão sobre o próprio vídeo desfocado, sem preto.
+
 ## Pendências
 - Legenda do post e CTA.
 - Marcar o Augusto e a Takaara no post.
