@@ -46,6 +46,16 @@ Diferenças em relação à tabela acima: o Augusto (camiseta preta) entrou em t
 - Saiu o "mais um cliente satisfeito": o vídeo fala de aluno/empresário, não de cliente.
 - Cartela final do caminhão sobre o próprio vídeo desfocado, sem preto.
 
+## v3 (20/11, segunda rodada do João) — é a versão entregue
+`pov-takaara-v3.mp4`: 1080x1920, 65 s.
+- "Mas antes da feira…" agora sobre o Hélio subindo a escada e entrando na sala (9771 0:13–0:16 e 0:19–0:21). **Atenção:** o 9771 foi gravado no escritório da Tatsuo, na volta da visita, não na Takaara.
+- Reunião: único material é o 9757 (14 s), com o Hélio recostado o tempo todo. Ficou o trecho em que ele fala e gesticula (0:06,95–0:10,45: "Exatamente. Mas porque está olhando, está acompanhando."), com o título "…teve reunião de plano". O "número na mesa" e o take do pátio com o Mechi e o Ruan saíram.
+- Carro remontado com transcrição melhor (modelo medium) e cortes só em silêncio:
+  - Hélio, 9767 0:13,35–0:22,95: "Nossa, essa é a maior recompensa nossa: ver o brilho nos olhos deles, ver a expectativa de futuro. Isso é o que paga tudo."
+  - Hélio, 0:25,75–0:37,4, contexto de resultado: "Porque até o jeito que os caras falaram sobre o negócio, a empolgação dos caras… eles estavam prontinhos esperando a gente pra trazer as boas novas." Insertos: Augusto rindo (9760 0:46,4) e Hélio rindo no galpão (9761 0:42).
+  - Ruan, 0:38,3–0:48,8, inteiro: "Você lembra da última que ele estava? Ele citou até que não via mais como sair, não via solução. Agora o cara enxergando o horizonte na frente dele." Insertos: Augusto sério na reunião (9757) e os dois rindo (9761 1:14,6).
+  - Hélio fecha, 0:48,8–0:50,98: "Bom demais, bom demais." (cortado antes do palavrão que vem em seguida) e 9766 0:18,3: "Vai explodir de resultado o caixa dele."
+
 ## Pendências
 - Legenda do post e CTA.
 - Marcar o Augusto e a Takaara no post.
