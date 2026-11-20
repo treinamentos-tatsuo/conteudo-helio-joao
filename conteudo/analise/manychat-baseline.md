@@ -1546,3 +1546,7 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 - Link `https://mbv.tatsuoacademy.com/v2?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-19-LUCRO` (96 chars, conferido por JS no modal; o kit antigo trazia `rtc.`, morto desde 06/11); `utm_content` entra no post. Ainda presa ao post do J398 (miniatura herdada): trocar no post. Timer 19h01 (shell, nesta conversa; PC Windows sem caffeinate, keep-awake do app pedido).
 - Conferido recarregando: STOPPED, nome, campaign nova, palavras e DM nos campos, nada da CONTROLE, nada de `rtc.`, 1 botão.
 - Pasta copiada pro Drive `HÉLIO TATSUO/19-11-2026/J280_medo-de-venda` a pedido do João antes do horário (mesmo procedimento do J398). O `NP` em `POSTS/Carrossel Foto/` sai na ativação.
+
+## 20/11/2026 — `IG | 2026-11-20 | REFLEXO | cabeca de dono` (repost 300 "cabeça de dono", programado pras 17h30)
+
+- Montada parada na máquina do Pedro hoje (content20261120135326_625434); não duplicada aqui. Conferida ~11h15: STOPPED, palavras `REFLEXO, reflexo, Reflexo`, DM "O seu time é reflexo do seu comando. Quer ver como eu ensino gestão de pessoas no MBV?", 1 botão, link `utm_campaign=2026-11-20-REFLEXO` sem utm_content, sem `rtc.`. Ainda presa ao post do 299 (CARATER) até a troca. Busca "reflexo": só ela. Timer 17h31. Material em `Desktop/progrmaçao sexta/300_cabeca-de-dono-reflexo`.
