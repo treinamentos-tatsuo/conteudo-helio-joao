@@ -1550,3 +1550,8 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 ## 20/11/2026 — `IG | 2026-11-20 | REFLEXO | cabeca de dono` (repost 300 "cabeça de dono", programado pras 17h30)
 
 - Montada parada na máquina do Pedro hoje (content20261120135326_625434); não duplicada aqui. Conferida ~11h15: STOPPED, palavras `REFLEXO, reflexo, Reflexo`, DM "O seu time é reflexo do seu comando. Quer ver como eu ensino gestão de pessoas no MBV?", 1 botão, link `utm_campaign=2026-11-20-REFLEXO` sem utm_content, sem `rtc.`. Ainda presa ao post do 299 (CARATER) até a troca. Busca "reflexo": só ela. Timer 17h31. Material em `Desktop/progrmaçao sexta/300_cabeca-de-dono-reflexo`.
+
+## 20/11/2026 — `IG | 2026-11-20 | MARTELO | empresa nao e democracia repost` (repost 301, programado pras 20h)
+
+- Duplicada da CONTROLE; busca "martelo": nenhuma. MONTADA STOPPED ~11h30. content20261120142546_374314.
+- Palavras `MARTELO, martelo, Martelo`; DM do kit "Ouvir todo mundo é obrigação. Bater o martelo é seu. Quer ver como eu ensino isso no MBV?"; 1 botão; link `utm_campaign=2026-11-20-MARTELO` (utm_content entra no post). Presa ao post do J398 até a troca. Timer 20h01. Material em `Desktop/progrmaçao sexta/301_empresa-nao-e-democracia-repost`.
