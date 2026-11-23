@@ -8,6 +8,6 @@
 
 **Imagem:** escrita por cima do vidro aprovado do J334 (`imagens/base.png`), trocando só as palavras (`_scripts/prompt.txt`). Duas gerações (`vidro-v1`, `vidro-v2`); grafia e acentos conferidos nas duas.
 
-**Legenda:** a escrever depois que o João escolher as 2 de vidro da semana.
+**Legenda:** `legenda.txt` v1 (23/11), CTA pro link da bio; sem "quatro décadas".
 
 **Status:** aguardando a escolha.
