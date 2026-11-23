@@ -1560,3 +1560,5 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 
 - Duplicada da MARTELO; busca "271": nenhuma. MONTADA STOPPED ~16h25. content20261123192131_816619.
 - Palavra `271` (grafia única, pedido do Pedro); DM do kit "Venda que mora na mão de um vendedor só é refém. Quer ver como montar a sua máquina de vendas?"; 1 botão; link `utm_campaign=2026-11-23-271` (utm_content entra no post). Presa ao post do 301 até a troca. Timer 17h31. Material em `POSTS/REPOST CARROSSEL/316_vendedor-estrela-repost`.
+
+- 2026-11-23 17h3x — **271 LIVE** (repost 316, vendedor estrela). Post DgGPf3wG1t1. Automação content20261123192131_816619 amarrada ao post novo, link com `utm_campaign=2026-11-23-271` e `utm_content` do post, sem `rtc.`; conferido após reload. Pasta movida pra REPOST CARROSSEL/postados e copiada pro Drive (HÉLIO TATSUO/NOVEMBRO/23-11-2026).
