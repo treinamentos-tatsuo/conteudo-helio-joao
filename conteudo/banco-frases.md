@@ -939,3 +939,22 @@ Opções de 09/11 pra última frase da semana:
 | 175 | Lucro não é o que sobra. | É o que você planejou que sobrasse. | flip chart | lucro se decide antes | candidata |
 | 176 | Quem cresce sem controle | cresce o problema junto. | flip chart | crescimento sem gestão multiplica a bagunça | em produção (post J396, 16/11) |
 | 177 | Empresa não quebra por falta de venda. | Quebra por falta de caixa. | flip chart | caixa é o oxigênio | candidata |
+
+## Lote 27 — vidro, papel e flip chart da semana de 23/11 (23/11, a crivar pelo João)
+
+> Pedido do João em 23/11: "novas frases pra essa semana, 2 de cada modelo". 12 opções pra ele tirar 6. Nenhuma repete as já postadas nesses modelos (238 a J396) nem o lote 26; a "cultura quando o dono não está" foi cortada por ser a tese do 239.
+
+| # | Preto | Vermelho | Modelo sugerido | Conceito | Status |
+|---|---|---|---|---|---|
+| 178 | O cliente esquece o preço. | Lembra do atendimento. | vidro | o que fideliza é a experiência | candidata; vizinha da 168 (não produzida) |
+| 179 | Chefe manda. | Líder faz o time querer. | vidro | liderança é engajar, não ordenar | candidata |
+| 180 | Funcionário que erra duas vezes no mesmo lugar | está pedindo um processo. | vidro | erro repetido é falha de sistema, não de gente | candidata |
+| 181 | Empresa que só funciona com o dono | não vale nada sem ele. | vidro | dependência do dono tira o valor da empresa | candidata; tese vizinha do 245 (refém), ângulo do valor |
+| 182 | Preço baixo atrai cliente. | Preço certo segura a empresa. | papel | preço é sobrevivência, não isca | candidata |
+| 183 | Quem mistura o dinheiro da casa com o da empresa | nunca sabe se teve lucro. | papel | separar PF e PJ é o primeiro passo do lucro | candidata |
+| 184 | Reunião sem decisão | é só conversa cara. | papel | reunião boa termina com dono e prazo | candidata |
+| 185 | Cliente que reclama ainda quer ficar. | Perigoso é o que vai embora calado. | papel | reclamação é chance; silêncio é perda | candidata; vizinha do carrossel J307 |
+| 186 | Processo não prende o dono. | Processo solta o dono. | flip chart | processo é o que libera o dono do operacional | candidata |
+| 187 | Delegar não é largar. | É acompanhar de perto. | flip chart | delegar com acompanhamento | candidata |
+| 188 | Vender a prazo sem controle | é financiar o cliente com o seu dinheiro. | flip chart | prazo sem gestão come o caixa | candidata; tese dos carrosséis J342 e J353 |
+| 189 | Elogio em público. | Correção em particular. | flip chart | regra básica de liderança | candidata |
