@@ -152,7 +152,7 @@ const PLACAS = [
     lembrete: LEMBRETE_BANHEIRO }],
   ['placa-banheiro-masculino', 210, 297, lista, {
     kicker: 'Banheiro masculino', titulo: 'Atenção',
-    itens: ['Não suba no vaso sanitário', 'Não urine no chão', 'Levante a tampa antes de usar', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
+    itens: ['Não suba no vaso sanitário', 'Mantenha este ambiente limpo', 'Levante a tampa antes de usar', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
     lembrete: LEMBRETE_BANHEIRO }],
   ['placa-copa', 200, 300, lista, {
     kicker: 'Área comum', titulo: 'Copa',
