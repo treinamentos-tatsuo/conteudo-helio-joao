@@ -8,23 +8,31 @@ OUT.mkdir(exist_ok=True)
 
 # img, posição do foco (background-position), l1, l2, corpo (lista de parágrafos; ** = negrito)
 SLIDES = [
-    ("img-01.jpg", "50% 30%", "CHILLI BEANS DEVE<br>R$ 340 MILHÕES", "PRO BANCO E FOI RENEGOCIAR.",
-     ["No fim de outubro, a rede de óculos do Caito Maia pediu recuperação extrajudicial. E ela não está sozinha nessa fila."]),
-    ("img-02.jpg", "50% 35%", "A SUA OPERAÇÃO", "PAGA OS JUROS DO BANCO?",
-     ["Antes de achar que isso é problema de empresa grande, arrasta e vê quem está nessa fila."]),
-    ("img-03.png", "50% 45%", "14.510 EMPRESAS", "EM RECUPERAÇÃO OU FALÊNCIA.",
-     ["É o maior número da série da PreservaCred, no fim do 3º trimestre de 2026. Foram quase nove empresas a mais por dia no último ano."]),
-    ("img-04.png", "50% 45%", "NÃO É EMPRESA NOVA.", "NEM É EMPRESA PEQUENA.",
-     ["A empresa típica que pede recuperação tem 12 anos e meio de estrada. Quase seis em cada dez não são micro nem pequena.",
-      "**Ou seja: é a empresa que deu certo.**"]),
-    ("img-05.png", "50% 40%", "NOVE EM CADA DEZ", "CULPAM A DÍVIDA E O CAIXA.",
-     ["Sete em cada dez falam de custo alto e margem apertada. Seis em cada dez, dos juros. Foi o que as próprias empresas escreveram no pedido."]),
-    ("img-06.jpg", "50% 22%", "ALONGAR A DÍVIDA", "NÃO CONSERTA A EMPRESA.",
-     ["Em 38 anos de empresa, eu aprendi: juro se paga com o que a operação sobra. Se não sobra, renegociar só compra tempo.",
-      "**E o banco cobra por esse tempo também.**"]),
-    ("img-07.jpg", "50% 60%;background-size:100%", "QUANTO A SUA<br>EMPRESA SOBRA", "DEPOIS DE PAGAR O BANCO?",
+    ("img-01.jpg", "50% 30%", "O QUE O DONO DE PEQUENA<br>E MÉDIA EMPRESA<br>PODE APRENDER", "COM A DÍVIDA DA<br>CHILLI BEANS.",
+     ["Eu não conheço os números de lá por dentro. Mas essa notícia ensina."], ""),
+    ("img-02.jpg", "50% 35%", "R$ 340 MILHÕES", "DEVIDOS PRO BANCO.",
+     ["No fim de outubro, a rede pediu recuperação extrajudicial pra renegociar essa dívida."], ""),
+    ("img-02b.jpg", "50% 40%", "FORNECEDOR E FUNCIONÁRIO", "FICARAM FORA DO ACORDO.",
+     ["A conversa foi só com quem emprestou. E foram esses credores que puseram até R$ 50 milhões novos na empresa.",
+      "**Guarda essa parte.**"], ""),
+    ("img-03.png", "50% 45%", "E ISSO NÃO É COISA", "SÓ DE EMPRESA GRANDE.",
+     ["Hoje são 14.510 empresas em recuperação ou falência no Brasil. É o recorde da PreservaCred."], ""),
+    ("img-04.png", "50% 45%", "A TÍPICA TEM", "12 ANOS DE ESTRADA.",
+     ["Não é quem abriu ontem.", "**É a empresa que deu certo.**"], ""),
+    ("img-08.png", "50% 40%", "FATURAMENTO NÃO<br>PAGA BANCO.", "QUEM PAGA<br>É O QUE SOBRA.",
+     ["Você pode vender 30 milhões por ano e não sobrar pra parcela.",
+      "**Aí quem paga o banco é o seu patrimônio.**"], "1ª lição"),
+    ("img-06.jpg", "50% 22%", "RENEGOCIAR<br>COMPRA TEMPO.", "NÃO CONSERTA<br>A EMPRESA.",
+     ["Eu já vi muito dono alongar a dívida e voltar pra rotina achando que resolveu.",
+      "**E o banco cobra por esse tempo também.**"], "2ª lição"),
+    ("img-05.png", "50% 40%", "QUANTO MAIS VOCÊ DEVE,", "MENOS A EMPRESA É SUA.",
+     ["Lembra quem pôs dinheiro novo na Chilli Beans? Quem já tinha emprestado.",
+      "**Quando a dívida cresce, o banco ganha lugar na mesa onde você decide.**"], "3ª lição"),
+    ("img-09.jpg", "50% 30%", "EM 38 ANOS DE EMPRESA,", "EU APRENDI UMA COISA.",
+     ["**Quem não olha o número divide a empresa sem perceber.**"], ""),
+    ("img-07.jpg", "50% 60%;background-size:100%", "E A SUA EMPRESA,<br>QUANTO SOBRA", "DEPOIS DE PAGAR<br>O BANCO?",
      ["Se você não sabe responder de cabeça, eu me preocuparia seriamente.",
-      "**Comenta RAIOX que eu te mando o link da aula onde você faz o raio-x da sua empresa.**"]),
+      "**Comenta RAIOX que eu te mando o link da aula onde você faz o raio-x da sua empresa.**"], ""),
 ]
 
 CSS = """
@@ -40,6 +48,7 @@ h1{font-weight:900;text-transform:uppercase;letter-spacing:-0.02em;line-height:1
 h1 .l1{display:block}
 h1 .l2{display:inline;background:#A91C20;color:#fff;padding:2px 14px 4px;line-height:1.32;
   -webkit-box-decoration-break:clone;box-decoration-break:clone;margin-left:-14px}
+.kk{display:inline-block;font-size:22px;font-weight:800;letter-spacing:0.16em;text-transform:uppercase;color:#fff;border:2px solid #A91C20;padding:6px 14px;margin-bottom:22px}
 .body{margin-top:34px}
 .body p{font-weight:500;font-size:33px;line-height:1.38;color:#E6E6E6}
 .body p+p{margin-top:20px}
@@ -61,7 +70,7 @@ def md(p):
     return "".join(out)
 
 
-for i, (img, pos, l1, l2, body) in enumerate(SLIDES, 1):
+for i, (img, pos, l1, l2, body, kick) in enumerate(SLIDES, 1):
     dots = "".join(f'<i class="{"on" if j == i else ""}"></i>' for j in range(1, len(SLIDES) + 1))
     paras = "".join(f"<p>{md(p)}</p>" for p in body)
     seta = " · Arraste" if i < len(SLIDES) else ""
@@ -70,6 +79,7 @@ for i, (img, pos, l1, l2, body) in enumerate(SLIDES, 1):
   <div class="ph" style="background-image:url('../imagens/{img}');background-position:{pos}"></div>
   <div class="fade"></div>
   <div class="txt">
+    {f'<div class="kk">{kick}</div>' if kick else ""}
     <h1><span class="l1">{l1}</span><span class="l2">{l2}</span></h1>
     <div class="body">{paras}</div>
   </div>
