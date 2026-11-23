@@ -1,0 +1,37 @@
+<!doctype html><html lang="pt-br"><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;background:#0A0A0A;overflow:hidden}
+.s{position:relative;width:1080px;height:1350px;background:#0A0A0A;font-family:'Montserrat',sans-serif;color:#fff}
+.ph{position:absolute;left:0;top:0;width:1080px;height:900px;background-size:cover;background-repeat:no-repeat}
+.fade{position:absolute;left:0;top:0;width:1080px;height:1350px;
+  background:linear-gradient(180deg,rgba(10,10,10,0) 0px,rgba(10,10,10,0) 430px,rgba(10,10,10,.55) 620px,rgba(10,10,10,.93) 760px,#0A0A0A 860px)}
+.txt{position:absolute;left:72px;right:72px;bottom:128px}
+h1{font-weight:900;text-transform:uppercase;letter-spacing:-0.02em;line-height:1.06;font-size:64px}
+h1 .l1{display:block}
+h1 .l2{display:inline;background:#A91C20;color:#fff;padding:2px 14px 4px;line-height:1.32;
+  -webkit-box-decoration-break:clone;box-decoration-break:clone;margin-left:-14px}
+.body{margin-top:34px}
+.body p{font-weight:500;font-size:33px;line-height:1.38;color:#E6E6E6}
+.body p+p{margin-top:20px}
+.body b{font-weight:800;color:#fff}
+.ft{position:absolute;left:72px;right:72px;bottom:56px;display:flex;align-items:center;justify-content:space-between;
+  font-size:21px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:#6B6B6B}
+.ft .h{display:flex;align-items:center;gap:14px}
+.ft .dm{width:14px;height:14px;background:#A91C20;transform:rotate(45deg)}
+.dots{display:flex;gap:10px}
+.dots i{width:10px;height:10px;border-radius:50%;background:#3A3A3A;display:block}
+.dots i.on{background:#A91C20}
+</style></head><body>
+<div class="s">
+  <div class="ph" style="background-image:url('../imagens/img-06.jpg');background-position:50% 22%"></div>
+  <div class="fade"></div>
+  <div class="txt">
+    <h1><span class="l1">ALONGAR A DÍVIDA</span><span class="l2">NÃO CONSERTA A EMPRESA.</span></h1>
+    <div class="body"><p>Em 38 anos de empresa, eu aprendi: juro se paga com o que a operação sobra. Se não sobra, renegociar só compra tempo.</p><p><b>E o banco cobra por esse tempo também.</b></p></div>
+  </div>
+  <div class="ft"><div class="h"><span class="dm"></span>@helio.tatsuo · Arraste</div><div class="dots"><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class="on"></i><i class=""></i></div></div>
+</div>
+<script>document.fonts.ready.then(()=>{const h=document.querySelector('h1'),l=h.querySelector('.l1');let f=64;const n=l.querySelectorAll('br').length+1;
+while(l.getBoundingClientRect().height>n*f*1.2&&f>54){f--;h.style.fontSize=f+'px'}});</script>
+</body></html>
