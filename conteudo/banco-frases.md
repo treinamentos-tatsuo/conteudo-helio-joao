@@ -946,15 +946,15 @@ Opções de 09/11 pra última frase da semana:
 
 | # | Preto | Vermelho | Modelo sugerido | Conceito | Status |
 |---|---|---|---|---|---|
-| 178 | O cliente esquece o preço. | Lembra do atendimento. | vidro | o que fideliza é a experiência | candidata; vizinha da 168 (não produzida) |
-| 179 | Chefe manda. | Líder faz o time querer. | vidro | liderança é engajar, não ordenar | candidata |
-| 180 | Funcionário que erra duas vezes no mesmo lugar | está pedindo um processo. | vidro | erro repetido é falha de sistema, não de gente | candidata |
-| 181 | Empresa que só funciona com o dono | não vale nada sem ele. | vidro | dependência do dono tira o valor da empresa | candidata; tese vizinha do 245 (refém), ângulo do valor |
-| 182 | Preço baixo atrai cliente. | Preço certo segura a empresa. | papel | preço é sobrevivência, não isca | candidata |
-| 183 | Quem mistura o dinheiro da casa com o da empresa | nunca sabe se teve lucro. | papel | separar PF e PJ é o primeiro passo do lucro | candidata |
-| 184 | Reunião sem decisão | é só conversa cara. | papel | reunião boa termina com dono e prazo | candidata |
-| 185 | Cliente que reclama ainda quer ficar. | Perigoso é o que vai embora calado. | papel | reclamação é chance; silêncio é perda | candidata; vizinha do carrossel J307 |
-| 186 | Processo não prende o dono. | Processo solta o dono. | flip chart | processo é o que libera o dono do operacional | candidata |
-| 187 | Delegar não é largar. | É acompanhar de perto. | flip chart | delegar com acompanhamento | candidata |
-| 188 | Vender a prazo sem controle | é financiar o cliente com o seu dinheiro. | flip chart | prazo sem gestão come o caixa | candidata; tese dos carrosséis J342 e J353 |
-| 189 | Elogio em público. | Correção em particular. | flip chart | regra básica de liderança | candidata |
+| 178 | O cliente esquece o preço. | Lembra do atendimento. | vidro | o que fideliza é a experiência | descartada (João 23/11: "ficaram muito ruins"); vizinha da 168 (não produzida) |
+| 179 | Chefe manda. | Líder faz o time querer. | vidro | liderança é engajar, não ordenar | descartada (João 23/11: "ficaram muito ruins") |
+| 180 | Funcionário que erra duas vezes no mesmo lugar | está pedindo um processo. | vidro | erro repetido é falha de sistema, não de gente | descartada (João 23/11: "ficaram muito ruins") |
+| 181 | Empresa que só funciona com o dono | não vale nada sem ele. | vidro | dependência do dono tira o valor da empresa | descartada (João 23/11: "ficaram muito ruins"); tese vizinha do 245 (refém), ângulo do valor |
+| 182 | Preço baixo atrai cliente. | Preço certo segura a empresa. | papel | preço é sobrevivência, não isca | descartada (João 23/11: "ficaram muito ruins") |
+| 183 | Quem mistura o dinheiro da casa com o da empresa | nunca sabe se teve lucro. | papel | separar PF e PJ é o primeiro passo do lucro | descartada (João 23/11: "ficaram muito ruins") |
+| 184 | Reunião sem decisão | é só conversa cara. | papel | reunião boa termina com dono e prazo | descartada (João 23/11: "ficaram muito ruins") |
+| 185 | Cliente que reclama ainda quer ficar. | Perigoso é o que vai embora calado. | papel | reclamação é chance; silêncio é perda | descartada (João 23/11: "ficaram muito ruins"); vizinha do carrossel J307 |
+| 186 | Processo não prende o dono. | Processo solta o dono. | flip chart | processo é o que libera o dono do operacional | descartada (João 23/11: "ficaram muito ruins") |
+| 187 | Delegar não é largar. | É acompanhar de perto. | flip chart | delegar com acompanhamento | descartada (João 23/11: "ficaram muito ruins") |
+| 188 | Vender a prazo sem controle | é financiar o cliente com o seu dinheiro. | flip chart | prazo sem gestão come o caixa | descartada (João 23/11: "ficaram muito ruins"); tese dos carrosséis J342 e J353 |
+| 189 | Elogio em público. | Correção em particular. | flip chart | regra básica de liderança | descartada (João 23/11: "ficaram muito ruins") |
