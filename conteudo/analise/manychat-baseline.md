@@ -1555,3 +1555,8 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 
 - Duplicada da CONTROLE; busca "martelo": nenhuma. MONTADA STOPPED ~11h30. content20261120142546_374314.
 - Palavras `MARTELO, martelo, Martelo`; DM do kit "Ouvir todo mundo é obrigação. Bater o martelo é seu. Quer ver como eu ensino isso no MBV?"; 1 botão; link `utm_campaign=2026-11-20-MARTELO` (utm_content entra no post). Presa ao post do J398 até a troca. Timer 20h01. Material em `Desktop/progrmaçao sexta/301_empresa-nao-e-democracia-repost`.
+
+## 23/11/2026 — `IG | 2026-11-23 | 271 | vendedor estrela repost` (repost 316 "tem um câncer na sua empresa", programado pras 17h30)
+
+- Duplicada da MARTELO; busca "271": nenhuma. MONTADA STOPPED ~16h25. content20261123192131_816619.
+- Palavra `271` (grafia única, pedido do Pedro); DM do kit "Venda que mora na mão de um vendedor só é refém. Quer ver como montar a sua máquina de vendas?"; 1 botão; link `utm_campaign=2026-11-23-271` (utm_content entra no post). Presa ao post do 301 até a troca. Timer 17h31. Material em `POSTS/REPOST CARROSSEL/316_vendedor-estrela-repost`.
