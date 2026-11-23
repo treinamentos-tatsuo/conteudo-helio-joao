@@ -33,7 +33,7 @@ O operador é o **João**. Ele está aprendendo: chega sem saber o método e cos
 
 ## As skills
 
-- `/carrossel` — carrossel (modelos: editorial-punch com imagem gerada, fotos-reais com fotos do Hélio, infográfico educativo do MBV no perfil da Tatsuo Academy, fábula, thread-x, handmade com desenho a lápis e bonecos no perfil da Tatsuo Academy, carrossel-notícia com empresa grande em notícia e foto real no topo). Voz em `referencias/voz-tatsuo.md`, gabarito em `referencias/voz-helio-gabarito.md`, doutrina em `referencias/doutrina.md`.
+- `/carrossel` — carrossel (modelos: editorial-punch com imagem gerada, fotos-reais com fotos do Hélio, infográfico educativo do MBV no perfil da Tatsuo Academy, fábula, thread-x, handmade com desenho a lápis e bonecos no perfil da Tatsuo Academy, carrossel-notícia com empresa grande em notícia virando lições pro dono de PME, foto real no topo). Voz em `referencias/voz-tatsuo.md`, gabarito em `referencias/voz-helio-gabarito.md`, doutrina em `referencias/doutrina.md`.
 - `/frase` — frase única do dia com imagem gerada (9h).
 - `/frase-foto` — frase com foto real do Hélio, ou manuscrita no papel ou no vidro. Quem escolhe a variante é o João.
 - `/manychat` — monta e ativa a automação do post na hora da publicação (conversa dedicada).
