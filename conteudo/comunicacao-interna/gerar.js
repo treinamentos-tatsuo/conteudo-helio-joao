@@ -45,7 +45,7 @@ document.fonts.ready.then(() => {
 
 const pagina = (w, h, rem, css, corpo) => `<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Great+Vibes&family=Noto+Serif+JP:wght@600&family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: ${w}mm ${h}mm; margin: 0; }
 html { font-size: ${rem}mm; } html, body { width: ${w}mm; height: ${h}mm; }
 ${BASE}${css}</style></head>
@@ -127,6 +127,58 @@ function lista(w, h, { kicker, titulo, itens, lembrete, anton, estilo }) {
   <main>
     <ol>${itens.map(linha).join('')}</ol>
     ${lembrete ? `<div class="lembrete">${lembrete}</div>` : ''}
+  </main>
+  ${rodape()}`);
+}
+
+// Estilo das paredes da empresa: fundo off-white, ensō de pincel cinza atrás, texto centralizado em grafite,
+// destaque vinho, palavra em letra cursiva, kanji na vertical. Unidade = largura/21.
+function enso(seed = 11) {
+  let x = seed; const r = () => (x = (x * 16807) % 2147483647) / 2147483647;
+  const arco = (R, a0, a1) => {
+    const p = a => [100 + R * Math.cos(a * Math.PI / 180), 100 + R * Math.sin(a * Math.PI / 180)].map(v => v.toFixed(1)).join(' ');
+    return `M${p(a0)}A${R} ${R} 0 ${a1 - a0 > 180 ? 1 : 0} 1 ${p(a1)}`;
+  };
+  let tracos = '';
+  for (let i = 0; i < 90; i++) {
+    const R = 84 + (r() - .5) * (i < 20 ? 6 : 14), a0 = -38 + r() * 30, a1 = 250 + r() * 50;
+    const dash = Array.from({ length: 6 }, () => `${(30 + r() * 220).toFixed(0)} ${(1 + r() * 9).toFixed(0)}`).join(' ');
+    tracos += `<path d="${arco(R, a0, a1)}" stroke-width="${(.3 + r() * (i < 20 ? 3 : 1.3)).toFixed(2)}" stroke-opacity="${(.18 + r() * .5).toFixed(2)}" stroke-dasharray="${dash}"/>`;
+  }
+  return `<svg class="enso" viewBox="0 0 200 200"><defs><filter id="pincel"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="${seed}"/><feDisplacementMap in="SourceGraphic" scale="2.5"/></filter></defs>
+    <g fill="none" stroke="#9E9892" stroke-linecap="round" filter="url(#pincel)">${tracos}</g></svg>`;
+}
+
+function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda }) {
+  const css = `
+  :root { --graf: #3B3A3A; --vinho: #8E2B2F; }
+  body { background: #F4F2EE; color: var(--graf); padding: 2.4rem 2rem 1.2rem; align-items: center; text-align: center; }
+  .enso { position: absolute; width: 27rem; height: 27rem; left: -1.2rem; top: 3.2rem; z-index: 0; opacity: .3; }
+  header, main, .rodape { position: relative; z-index: 1; }
+  .ligacao { display: flex; align-items: center; justify-content: center; gap: .6rem; font-size: .7rem; letter-spacing: .02em; }
+  .ligacao::before, .ligacao::after { content: ""; width: 2.6rem; height: .035rem; background: var(--graf); }
+  .titulo { font-family: 'Anton', sans-serif; font-weight: 400; font-size: 3.4rem; line-height: 1.05; letter-spacing: .02em; margin-top: .9rem; text-transform: uppercase; }
+  .regua { width: 2.4rem; height: .07rem; background: var(--vinho); margin: .8rem auto 0; }
+  .kanji { position: absolute; right: 1.4rem; top: 2.3rem; z-index: 1; display: flex; flex-direction: column; align-items: center; }
+  .kanji b { font-family: 'Noto Serif JP', serif; font-weight: 600; font-size: 2rem; line-height: 1.15; color: #6F6B67; }
+  .kanji span { margin-top: .3rem; font-family: 'Anton', sans-serif; font-size: .42rem; letter-spacing: .08em; color: var(--vinho); border-bottom: .03rem solid var(--vinho); padding-bottom: .1rem; }
+  main { flex: 1; width: 100%; justify-content: center; align-items: center; }
+  ol { list-style: none; width: 14.6rem; text-align: left; }
+  li { display: flex; align-items: center; gap: .75rem; padding: .42rem 0; border-bottom: .03rem solid rgba(59,58,58,.18); font-size: .84rem; line-height: 1.25; }
+  li:last-child { border-bottom: 0; }
+  .ico { flex: none; width: 1.75rem; height: 1.75rem; }
+  .ico svg { width: 100%; height: 100%; display: block; stroke: var(--graf); }
+  .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
+  .lembrete { margin-top: 1.1rem; font-size: .8rem; line-height: 1.2; }
+  .lembrete .cursiva { display: block; font-family: 'Great Vibes', cursive; font-size: 2rem; line-height: 1.05; color: var(--vinho); margin: .05rem 0 .1rem; }
+  .rodape { width: 100%; justify-content: center; border-top: 0; padding-top: .4rem; }
+  .marca { font-size: .4rem; letter-spacing: .3em; color: var(--graf); } .apoio { display: none; }`;
+  return pagina(w, h, w / 21, css, `${enso()}
+  <div class="kanji">${[...kanji].map(k => `<b>${k}</b>`).join('')}<span>${kanjiLegenda}</span></div>
+  <header><div class="ligacao">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
+  <main>
+    <ol>${itens.map(([t, k]) => `<li><span class="ico">${icone(k)}</span><span>${t}</span></li>`).join('')}</ol>
+    <div class="lembrete">${lembrete3[0]}<span class="cursiva">${lembrete3[1]}</span>${lembrete3[2]}</div>
   </main>
   ${rodape()}`);
 }
@@ -245,6 +297,9 @@ const PLACAS = [
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-${letra}-${estilo}`, base[1], base[2], lista, { ...base[4], estilo }]);
+    PLACAS.push([`opcoes-icones/banheiro-${sexo}-D-parede`, base[1], base[2], parede, { ...base[4],
+      kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO',
+      lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] }]);
   }
   const b = await chromium.launch();
   for (const [nome, w, h, modelo, dados, dpi = 300] of PLACAS) {
