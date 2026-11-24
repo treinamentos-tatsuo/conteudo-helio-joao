@@ -82,7 +82,35 @@ const ICONES_C = {
   'nao-chao': `<path d="M28 8s-13 15-13 25a13 13 0 0 0 26 0c0-10-13-25-13-25z" class="r"/>${OLHOS(28, 32, 4)}${TRISTE(28, 35, 3.5)}<path d="M6 54h46M14 60h30"/>${SELO_NAO}`,
   'absorvente': `<rect x="38" y="3" width="20" height="12" rx="4" class="r"/><path d="M43 9h10"/><path d="M47 18c0 4-2 7-5 9" class="v"/><path d="M40 22l1 6 6-1" class="v"/><path d="M12 28h30l-4 31H16z" class="r"/><path d="M8 28h38M21 28v-4h12v4"/>${OLHOS(27, 41)}${SORRI(27, 47)}`,
 };
-const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : ICONES)[k]}</svg>`;
+// Estilo E (personagens): cenas divertidas e informais, nada vulgar.
+const OLHO = (x, y) => `<circle cx="${x}" cy="${y}" r="2.6" class="p"/><circle cx="${x + .9}" cy="${y - .9}" r=".9" class="w"/>`;
+const OLHO_FELIZ = (x, y) => `<path d="M${x - 2.6} ${y + 1}q2.6-3.6 5.2 0"/>`;
+const BOCHECHA = (x, y) => `<ellipse cx="${x}" cy="${y}" rx="2.6" ry="1.6" class="bo"/>`;
+const ESTRELA = (x, y, R) => `<path d="M${x} ${y - R}L${x + R * .3} ${y - R * .3}L${x + R} ${y}L${x + R * .3} ${y + R * .3}L${x} ${y + R}L${x - R * .3} ${y + R * .3}L${x - R} ${y}L${x - R * .3} ${y - R * .3}Z" class="f"/>`;
+const NAO = (x, y) => `<circle cx="${x}" cy="${y}" r="9" class="b"/><path d="M${x - 6} ${y - 6}l12 12" class="bw"/>`;
+const ICONES_E = {
+  'nao-subir': `<rect x="10" y="8" width="18" height="18" rx="3" class="r"/><path d="M4 28h42c0 11-8 17-17 18l2 10H15l2-11C9 43 4 37 4 28z" class="r"/>
+    <circle cx="19" cy="35" r="3.6" class="w" stroke="#3B3A3A"/><circle cx="31" cy="35" r="3.6" class="w" stroke="#3B3A3A"/><circle cx="19.5" cy="35.5" r="1.7" class="p"/><circle cx="30.5" cy="35.5" r="1.7" class="p"/>
+    <ellipse cx="25" cy="42.5" rx="2.2" ry="2.8" class="p"/><path d="M41 9c-2 3-3 5-3 6.5a3 3 0 0 0 6 0c0-1.5-1-3.5-3-6.5z" class="w" stroke="#3B3A3A" stroke-width="2"/>
+    <path d="M34 6v6M48 10l-3 4" class="v"/>${NAO(53, 49)}`,
+  'limpo': `<rect x="18" y="7" width="16" height="11" rx="3" class="r"/><path d="M18 11h-6M34 11h6l-1 8h-4"/><path d="M22 18h8v4h-8z"/>
+    <rect x="14" y="22" width="24" height="36" rx="7" class="r"/>${OLHO_FELIZ(21, 36)}${OLHO(31, 35)}<path d="M20 43q6 6 12 0"/>${BOCHECHA(18, 41)}${BOCHECHA(34, 41)}
+    <circle cx="7" cy="8" r="1.3" class="f"/><circle cx="4" cy="13" r="1.1" class="f"/><circle cx="8" cy="17" r="1.3" class="f"/>${ESTRELA(52, 16, 7)}${ESTRELA(53, 40, 5)}${ESTRELA(47, 55, 3.5)}`,
+  'tampa': `<rect x="6" y="16" width="12" height="16" rx="3" class="r"/><rect x="20" y="4" width="9" height="28" rx="4" class="r"/>
+    <path d="M3 33h42c0 10-7 16-17 17l2 9H14l2-10C9 47 3 41 3 33z" class="r"/>${OLHO_FELIZ(18, 39)}${OLHO_FELIZ(30, 39)}<path d="M18 43h12q0 6-6 6t-6-6z" class="p"/>${BOCHECHA(13, 44)}${BOCHECHA(35, 44)}
+    <path d="M55 38V10M48 17l7-7 7 7" class="v"/>${ESTRELA(44, 10, 4)}`,
+  'papel': `<g transform="rotate(-14 18 27)"><rect x="8" y="14" width="20" height="26" rx="5" class="r"/><ellipse cx="18" cy="14" rx="10" ry="4" class="w" stroke="#3B3A3A"/><circle cx="18" cy="14" r="1.8"/>
+    ${OLHO(14, 26)}${OLHO(22, 26)}<path d="M14 31q4 4 8 0"/></g><path d="M7 25l-5-7M29 21l4-8"/><path d="M4 46h8M7 51h8" class="v"/>
+    <path d="M32 8c10-6 19-2 21 11" class="v"/><path d="M48 16l5 4 3-6" class="v"/><path d="M38 36h20l-3 22H41z" class="r"/><path d="M35 36h26"/>${OLHO_FELIZ(44, 45)}${OLHO_FELIZ(52, 45)}<path d="M45 50q3 3.5 6 0"/>`,
+  'descarga': `<path d="M8 36a24 24 0 0 0 38 17" class="v"/><path d="M41 56l5-3-4-4" class="v"/><path d="M56 30a24 24 0 0 0-38-17" class="v"/><path d="M23 8l-5 4 4 4" class="v"/>
+    <path d="M32 12S19 28 19 37a13 13 0 0 0 26 0C45 28 32 12 32 12z" class="r"/>${OLHO_FELIZ(27, 36)}${OLHO_FELIZ(37, 36)}<path d="M27 41h10q0 5-5 5t-5-5z" class="p"/>${BOCHECHA(24, 41)}${BOCHECHA(40, 41)}`,
+  'nao-chao': `<path d="M28 14c-3 5-5 8-5 10a5 5 0 0 0 10 0c0-2-2-5-5-10z" class="r"/><path d="M6 46c0-6 9-9 21-9s22 3 22 9-9 9-22 9S6 52 6 46z" class="r"/>
+    ${OLHO(21, 44)}${OLHO(33, 44)}<path d="M23 51q2-2 4 0t4 0"/><path d="M2 61h52"/>${NAO(52, 14)}`,
+  'absorvente': `<path d="M12 32h30l-4 26H16z" class="r"/><path d="M9 31l27-12"/><path d="M20 26l4-2 1 3"/>${OLHO(22, 41)}${OLHO(32, 41)}<path d="M22 46h10q0 6-5 6t-5-6z" class="p"/>${BOCHECHA(18, 46)}${BOCHECHA(36, 46)}
+    <g transform="rotate(20 49 9)"><rect x="40" y="4" width="18" height="11" rx="4" class="r"/><path d="M45 9.5h8"/></g><path d="M45 19c-2 5-5 8-9 9" class="v"/><path d="M39 24l-3 4 5 1" class="v"/>
+    <path d="M55 36c-4-3-6-5-6-7a3 3 0 0 1 6-1 3 3 0 0 1 6 1c0 2-2 4-6 7z" class="f"/>`,
+};
+const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : estilo === 'divertido' ? ICONES_E : ICONES)[k]}</svg>`;
 // Variações de ícone: linha (A, padrão), selo (B: desenho branco no círculo vermelho), carinha (C).
 const ESTILO_ICONE = {
   selo: `body { background: #F2ECE4; } .lembrete { background: #fff; } ol, li { border-color: #E2DBD0 !important; } .rodape { border-top-color: #E2DBD0; }
@@ -171,6 +199,9 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
   ${estilo === 'selo' ? `.ico { width: 2rem; height: 2rem; border-radius: 50%; background: var(--vinho); padding: .3rem; }
     .ico svg { stroke: #fff; } .ico .v { stroke: #EBC9C9; } .ico .f { fill: #EBC9C9; }` : ''}
+  ${estilo === 'divertido' ? `.ico { width: 2.25rem; height: 2.25rem; } .ico svg { stroke-width: 2.6; } li { padding: .2rem 0; gap: .7rem; } .lembrete { margin-top: .7rem; }
+    .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .bo { fill: #E6A4A1; stroke: none; }
+    .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.2; }` : ''}
   ${estilo === 'carinha' ? `.ico { width: 2rem; height: 2rem; } .ico .r { fill: #EAD9D6; } .ico .p { fill: var(--graf); stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.4; }` : ''}
   .lembrete { margin-top: 1.1rem; font-size: .8rem; line-height: 1.2; }
@@ -301,7 +332,7 @@ const PLACAS = [
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-${letra}-${estilo}`, base[1], base[2], lista, { ...base[4], estilo }]);
-    for (const [sufixo, estilo] of [['', 'linha'], ['-selo', 'selo'], ['-carinha', 'carinha']])
+    for (const [sufixo, estilo] of [['', 'linha'], ['-selo', 'selo'], ['-carinha', 'carinha'], ['-divertido', 'divertido']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-D-parede${sufixo}`, base[1], base[2], parede, { ...base[4], estilo,
         kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO',
         lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] }]);
