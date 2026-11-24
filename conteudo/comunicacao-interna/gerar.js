@@ -111,7 +111,34 @@ const ICONES_E = {
     <g transform="rotate(20 49 9)"><rect x="40" y="4" width="18" height="11" rx="4" class="r"/><path d="M45 9.5h8"/></g><path d="M45 19c-2 5-5 8-9 9" class="v"/><path d="M39 24l-3 4 5 1" class="v"/>
     <path d="M55 36c-4-3-6-5-6-7a3 3 0 0 1 6-1 3 3 0 0 1 6 1c0 2-2 4-6 7z" class="f"/>`,
 };
-const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : estilo === 'divertido' ? ICONES_E : ICONES)[k]}</svg>`;
+// Estilo F (bonequinhos): o boneco fazendo o errado (selo de proibido) ou o certo (selo de ok).
+const CABECA = (x, y, cara = 'feliz') => `<circle cx="${x}" cy="${y}" r="5.2" class="r"/><circle cx="${x - 2}" cy="${y - 1}" r="1" class="p"/><circle cx="${x + 2}" cy="${y - 1}" r="1" class="p"/>`
+  + (cara === 'susto' ? `<ellipse cx="${x}" cy="${y + 2.4}" rx="1.1" ry="1.5" class="p"/>` : `<path d="M${x - 2} ${y + 1.6}q2 2.2 4 0" stroke-width="1.6"/>`);
+const OK = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="ok"/><path d="M${x - 3.6} ${y + .2}l2.6 2.8 4.8-5.6" class="okw"/>`;
+const NAO8 = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="b"/><path d="M${x - 5} ${y - 5}l10 10" class="bw"/>`;
+const ICONES_F = {
+  'nao-subir': `<rect x="36" y="32" width="10" height="16" rx="2" class="r"/><path d="M6 48h34c0 6-5 9-12 10l1 5H16l1-5C10 57 6 54 6 48z" class="r"/>
+    <path d="M21 36v-13M21 36l-7 11M21 36l7 11M21 27l-9-6M21 27l9-7"/>${CABECA(21, 15, 'susto')}<path d="M7 16q-3 3 0 6M35 16q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
+  'limpo': `<path d="M16 36V18M16 36l-6 18M16 36l6 18M16 24l12-6M16 27l-6 7"/>${CABECA(16, 12)}
+    <rect x="27" y="13" width="7" height="11" rx="2" class="r"/><path d="M28 13v-3h5v3M33 10h4"/>
+    <circle cx="41" cy="9" r="1.2" class="f"/><circle cx="44" cy="13" r="1.2" class="f"/><circle cx="40" cy="15" r="1.1" class="f"/>
+    <path d="M32 54h26"/>${ESTRELA(48, 36, 5)}${ESTRELA(56, 44, 3.2)}${ESTRELA(38, 42, 3)}${OK(54, 11)}`,
+  'tampa': `<rect x="48" y="26" width="10" height="18" rx="2" class="r"/><rect x="42" y="12" width="5.5" height="30" rx="2.5" class="r"/>
+    <path d="M24 44h34c0 6-5 9-12 10l1 6H35l1-6C29 53 24 50 24 44z" class="r"/>
+    <path d="M13 38V19M13 38l-6 20M13 38l6 20M13 24l28-7M13 27l-6 8"/>${CABECA(13, 13)}<path d="M35 9q4-5 9-5" class="v"/><path d="M41 2l3 2-2 3" class="v"/>${OK(56, 9)}`,
+  'papel': `<path d="M12 36V17M12 36l-6 20M12 36l6 20M12 22l9-9M12 24l-7 7"/>${CABECA(12, 11)}<circle cx="25" cy="10" r="3.4" class="w"/>
+    <path d="M29 12q13-2 18 15" class="v" stroke-dasharray="3 3"/><path d="M43 24l4 4 3-5" class="v"/>
+    <path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/>${OK(54, 10)}`,
+  'descarga': `<rect x="34" y="22" width="24" height="13" rx="2" class="r"/><circle cx="46" cy="20" r="2.6" class="f"/>
+    <path d="M33 37h26c0 7-5 11-12 11l1 8h-4l1-8C38 48 33 44 33 37z" class="r"/><path d="M39 41q7 5 14 0" class="v"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l31-5M12 27l-6 7"/>${CABECA(12, 13)}<path d="M44 12l2-4M49 13l3-3" class="v"/>${OK(57, 6.5)}`,
+  'nao-chao': `<rect x="48" y="24" width="10" height="16" rx="2" class="r"/><path d="M30 40h28c0 6-5 9-11 10l1 6H38l1-6C34 49 30 46 30 40z" class="r"/>
+    <ellipse cx="17" cy="59" rx="13" ry="3.6" class="r"/><path d="M16 38V20M16 38l-5 14M16 38l5 14M16 25l-6-8M16 25l6-8"/>${CABECA(16, 13, 'susto')}
+    <path d="M4 50l-2-3M30 50l2-3" class="v"/>${NAO8(54, 11)}`,
+  'absorvente': `<path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/><path d="M14 38V19M14 38l-6 20M14 38l6 20M14 24l22-3M14 27l-6 7"/>${CABECA(14, 13)}
+    <rect x="40" y="22" width="11" height="6.5" rx="2.5" class="w"/><path d="M45.5 30v3" class="v"/>${OK(55, 10)}`,
+};
+const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : estilo === 'divertido' ? ICONES_E : estilo === 'bonecos' ? ICONES_F : ICONES)[k]}</svg>`;
 // Variações de ícone: linha (A, padrão), selo (B: desenho branco no círculo vermelho), carinha (C).
 const ESTILO_ICONE = {
   selo: `body { background: #F2ECE4; } .lembrete { background: #fff; } ol, li { border-color: #E2DBD0 !important; } .rodape { border-top-color: #E2DBD0; }
@@ -200,6 +227,10 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
   ${estilo === 'selo' ? `.ico { width: 2rem; height: 2rem; border-radius: 50%; background: var(--vinho); padding: .3rem; }
     .ico svg { stroke: #fff; } .ico .v { stroke: #EBC9C9; } .ico .f { fill: #EBC9C9; }` : ''}
+  ${estilo === 'bonecos' ? `.ico { width: 2.75rem; height: 2.75rem; } .ico svg { stroke-width: 2.4; } li { padding: .08rem 0; gap: .6rem; } .lembrete { margin-top: .35rem; } .lembrete .cursiva { font-size: 1.75rem; }
+    .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .f { fill: var(--vinho); stroke: none; }
+    .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
+    .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }` : ''}
   ${estilo === 'divertido' ? `.ico { width: 2.25rem; height: 2.25rem; } .ico svg { stroke-width: 2.6; } li { padding: .2rem 0; gap: .7rem; } .lembrete { margin-top: .7rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .bo { fill: #E6A4A1; stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.2; }` : ''}
@@ -217,35 +248,6 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
     <div class="lembrete">${lembrete3[0]}<span class="cursiva">${lembrete3[1]}</span>${lembrete3[2]}</div>
   </main>
   ${rodape()}`);
-}
-
-// Placa "cena do crime": fundo preto, fitas listradas, Anton em caixas. Unidade = largura/20.
-function crime(w, h, { linhas, icones }) {
-  const css = `
-  body { background: #0E0E0E; color: #fff; }
-  .fita { flex: none; height: 1.3rem; background: repeating-linear-gradient(-45deg, #A91C20 0 .9rem, #0E0E0E .9rem 1.8rem); }
-  main { flex: 1; padding: .9rem 1.4rem .4rem; justify-content: center; align-items: center; text-align: center; gap: .15rem; }
-  main > div { width: 100%; }
-  .l { font-family: 'Anton', sans-serif; text-transform: uppercase; line-height: 1.08; letter-spacing: .01em; }
-  .l.caixa { background: #A91C20; padding: .05rem .5rem .12rem; }
-  .l.branca { background: #fff; color: #0E0E0E; padding: .28rem .5rem .12rem; margin-top: .25rem; display: inline-block; }
-  .pequena { display: flex; align-items: center; gap: .6rem; justify-content: center; }
-  .pequena::before, .pequena::after { content: ""; flex: 1; height: .08rem; background: #fff; }
-  .icones { display: grid; grid-template-columns: repeat(${icones.length}, 1fr); gap: .5rem; margin-top: .9rem; padding-top: .8rem; border-top: .06rem solid rgba(255,255,255,.35); }
-  .icones div { display: flex; flex-direction: column; align-items: center; }
-  .icones svg { width: 2.2rem; height: 2.2rem; border: .08rem solid #fff; border-radius: 50%; padding: .4rem; stroke: #fff; }
-  .icones .v { stroke: #E0393E; } .icones .f { fill: #E0393E; stroke: none; }
-  .icones span { margin-top: .35rem; font-family: 'Anton', sans-serif; font-size: .5rem; letter-spacing: .06em; line-height: 1.1; }
-  .marca { flex: none; text-align: center; font-size: .32rem; letter-spacing: .35em; color: rgba(255,255,255,.6); padding: .35rem 0 .4rem; }`;
-  return pagina(w, h, w / 20, css, `<div class="fita"></div>
-  <main>
-    ${linhas.map(([t, tam, tipo]) => tipo === 'pequena'
-      ? `<div class="pequena"><span class="fit l" style="font-size:${tam}rem">${t}</span></div>`
-      : `<div><span class="fit l ${tipo || ''}" style="font-size:${tam}rem">${t}</span></div>`).join('')}
-    <div class="icones">${icones.map(([k, rot]) => `<div>${icone(k)}<span>${rot}</span></div>`).join('')}</div>
-  </main>
-  <span class="marca">TATSUO ACADEMY</span>
-  <div class="fita"></div>`);
 }
 
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
@@ -358,14 +360,11 @@ const PLACAS = [
 (async () => {
   const filtro = process.argv.slice(2);
   // Opções de ícone pra comparar: só com "node gerar.js opcoes"
-  if (filtro.includes('crime')) PLACAS.push(['opcoes-icones/banheiro-cena-do-crime', 200, 300, crime, {
-    linhas: [['Use o', 1.5, 'pequena'], ['Banheiro', 3.8, 'caixa'], ['como se tivesse', 2.2], ['cometido', 3.8, 'caixa'], ['um crime.', 3.8], ['Não deixe vestígios.', 1.7, 'branca']],
-    icones: [['higiene', 'HIGIENE'], ['descarga', 'DESCARGA'], ['papel', 'PAPEL NO LIXO'], ['limpo', 'MANTENHA LIMPO']] }]);
   if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-${letra}-${estilo}`, base[1], base[2], lista, { ...base[4], estilo }]);
-    for (const [sufixo, estilo] of [['', 'linha'], ['-selo', 'selo'], ['-carinha', 'carinha'], ['-divertido', 'divertido']])
+    for (const [sufixo, estilo] of [['', 'linha'], ['-selo', 'selo'], ['-carinha', 'carinha'], ['-divertido', 'divertido'], ['-bonecos', 'bonecos']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-D-parede${sufixo}`, base[1], base[2], parede, { ...base[4], estilo,
         kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO',
         lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] }]);
