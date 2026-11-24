@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: 210mm 297mm; margin: 0; }
 html { font-size: 10mm; } html, body { width: 210mm; height: 297mm; }
 
@@ -32,12 +32,22 @@ html { font-size: 10mm; } html, body { width: 210mm; height: 297mm; }
   .lembrete { margin-top: 1.3rem; background: var(--card); border-left: .12rem solid var(--verm);
               padding: .75rem .9rem; font-size: .72rem; line-height: 1.4; }
   .lembrete strong { font-weight: 700; }
-  .rodape { padding-top: .5rem; } .marca { font-size: .46rem; } .apoio { font-size: .42rem; }</style></head>
+  .rodape { padding-top: .5rem; } .marca { font-size: .46rem; } .apoio { font-size: .42rem; }
+  
+  body { padding-top: 1.8rem; }
+  .titulo { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .01em; font-size: 2.9rem; line-height: 1.1; margin-top: .3rem; }
+  .regua { margin-top: .7rem; }
+  .lembrete { margin-top: 1rem; }
+  .lembrete strong { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .03em; color: var(--verm); }
+  li.ic { align-items: center; gap: .9rem; padding: .38rem 0; }
+  li .ico { flex: none; width: 2.1rem; height: 2.1rem; border-radius: 50%; background: var(--card); padding: .3rem; }
+  li .ico svg { width: 100%; height: 100%; display: block; }
+  li .ico .v { stroke: var(--verm); } li .ico .f { fill: var(--verm); stroke: none; }</style></head>
 <body><svg class="diag" style="width:7rem;height:7rem" viewBox="0 0 100 100">
   <line x1="34" y1="0" x2="100" y2="66" stroke-width="0.5"/><line x1="48" y1="0" x2="100" y2="52" stroke-width="0.5"/><line x1="62" y1="0" x2="100" y2="38" stroke-width="0.5"/><line x1="76" y1="0" x2="100" y2="24" stroke-width="0.5"/><line x1="90" y1="0" x2="100" y2="10" stroke-width="0.5"/></svg>
   <header><div class="kicker">Banheiro feminino</div><h1 class="titulo">Atenção</h1><div class="regua"></div></header>
   <main>
-    <ol><li><b>01</b><span>Não suba no vaso sanitário</span></li><li><b>02</b><span>Não urine no chão</span></li><li><b>03</b><span>Jogue o absorvente no lixo</span></li><li><b>04</b><span>Jogue o papel higiênico no lixo</span></li><li><b>05</b><span>Após o uso, dê a descarga</span></li></ol>
+    <ol><li class="ic"><span class="ico"><svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M17 10h13v19H17z" rx="2"/><path d="M12 30h40c0 9-7 15-17 16l2 8H22l2-9c-7-2-12-8-12-15z"/><circle cx="32" cy="32" r="27" class="v"/><path d="M13 13l38 38" class="v"/></svg></span><span>Não suba no vaso sanitário</span></li><li class="ic"><span class="ico"><svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M32 9s-11 13-11 21a11 11 0 0 0 22 0c0-8-11-21-11-21z"/><path d="M10 50h44M16 56h32"/><circle cx="32" cy="32" r="27" class="v"/><path d="M13 13l38 38" class="v"/></svg></span><span>Não urine no chão</span></li><li class="ic"><span class="ico"><svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="6" width="24" height="15" rx="4"/><path d="M10 13.5h12"/><path d="M14 25c1 9 9 12 17 8" class="v"/><path d="M27 30l5 3-3 5" class="v"/><path d="M36 32h20l-3 24H39z"/><path d="M34 32h24M42 32v-3h8v3M43 38v13M49 38v13"/></svg></span><span>Jogue o absorvente no lixo</span></li><li class="ic"><span class="ico"><svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="22" r="9"/><circle cx="16" cy="22" r="3"/><path d="M25 22v16H13"/><path d="M20 10c10-8 24-6 29 12" class="v"/><path d="M43 18l6 5 3-7" class="v"/><path d="M36 32h20l-3 24H39z"/><path d="M34 32h24M42 32v-3h8v3M43 38v13M49 38v13"/></svg></span><span>Jogue o papel higiênico no lixo</span></li><li class="ic"><span class="ico"><svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M32 7s-16 19-16 30a16 16 0 0 0 32 0C48 26 32 7 32 7z"/><path d="M25 39a7 7 0 0 0 11 5" class="v"/><path d="M52 12a5 5 0 0 1 0 7M56 8a10 10 0 0 1 0 15" class="v"/></svg></span><span>Após o uso, dê a descarga</span></li></ol>
     <div class="lembrete"><strong>Lembre-se:</strong> depois de você, outras pessoas vão usar este banheiro.</div>
   </main>
   <div class="rodape"><span class="marca">TATSUO ACADEMY</span><span class="apoio">Comunicação interna</span></div><script>

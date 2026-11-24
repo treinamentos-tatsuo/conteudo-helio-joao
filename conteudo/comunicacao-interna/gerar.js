@@ -45,7 +45,7 @@ document.fonts.ready.then(() => {
 
 const pagina = (w, h, rem, css, corpo) => `<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,600;1,500&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>@page { size: ${w}mm ${h}mm; margin: 0; }
 html { font-size: ${rem}mm; } html, body { width: ${w}mm; height: ${h}mm; }
 ${BASE}${css}</style></head>
@@ -54,8 +54,24 @@ ${BASE}${css}</style></head>
 const rodape = (apoio = 'Comunicação interna') =>
   `<div class="rodape"><span class="marca">TATSUO ACADEMY</span><span class="apoio">${apoio}</span></div>`;
 
+// Ícones de linha das placas (viewBox 64x64): traço preto, detalhe vermelho. Divertidos, nada vulgar.
+const VASO = `<path d="M17 10h13v19H17z" rx="2"/><path d="M12 30h40c0 9-7 15-17 16l2 8H22l2-9c-7-2-12-8-12-15z"/>`;
+const PROIBIDO = `<circle cx="32" cy="32" r="27" class="v"/><path d="M13 13l38 38" class="v"/>`;
+const LIXEIRA = `<path d="M36 32h20l-3 24H39z"/><path d="M34 32h24M42 32v-3h8v3M43 38v13M49 38v13"/>`;
+const ICONES = {
+  'nao-subir': `${VASO}${PROIBIDO}`,
+  'limpo': `<path d="M27 5l5.5 16.5L49 27l-16.5 5.5L27 49l-5.5-16.5L5 27l16.5-5.5z"/><path d="M49 39l2.5 7 7 2.5-7 2.5-2.5 7-2.5-7-7-2.5 7-2.5z" class="v f"/><path d="M52 6l1.8 4.2L58 12l-4.2 1.8L52 18l-1.8-4.2L46 12l4.2-1.8z" class="v f"/><path d="M8 50l1.5 3.5L13 55l-3.5 1.5L8 60l-1.5-3.5L3 55l3.5-1.5z" class="v f"/>`,
+  'tampa': `<path d="M6 14h12v20H6z"/><path d="M21 4h7v30h-7z" class="v"/><path d="M4 35h42c0 10-7 15-17 16l2 9H16l2-10C10 48 4 43 4 35z"/><path d="M54 36V8M46 16l8-8 8 8" class="v"/>`,
+  'papel': `<circle cx="16" cy="22" r="9"/><circle cx="16" cy="22" r="3"/><path d="M25 22v16H13"/><path d="M20 10c10-8 24-6 29 12" class="v"/><path d="M43 18l6 5 3-7" class="v"/>${LIXEIRA}`,
+  'descarga': `<path d="M32 7s-16 19-16 30a16 16 0 0 0 32 0C48 26 32 7 32 7z"/><path d="M25 39a7 7 0 0 0 11 5" class="v"/><path d="M52 12a5 5 0 0 1 0 7M56 8a10 10 0 0 1 0 15" class="v"/>`,
+  'nao-chao': `<path d="M32 9s-11 13-11 21a11 11 0 0 0 22 0c0-8-11-21-11-21z"/><path d="M10 50h44M16 56h32"/>${PROIBIDO}`,
+  'absorvente': `<rect x="4" y="6" width="24" height="15" rx="4"/><path d="M10 13.5h12"/><path d="M14 25c1 9 9 12 17 8" class="v"/><path d="M27 30l5 3-3 5" class="v"/>${LIXEIRA}`,
+};
+const icone = k => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${ICONES[k]}</svg>`;
+
 // Aviso em lista: rótulo, título em serifa, itens numerados entre fios, lembrete em card. Unidade = largura/21.
-function lista(w, h, { kicker, titulo, itens, lembrete }) {
+function lista(w, h, { kicker, titulo, itens, lembrete, anton }) {
+  // itens: texto, ou [texto, ícone] para a versão com ícones; anton: título e destaques na fonte Anton
   const css = `
   body { padding: 2.2rem 1.9rem 1.3rem; }
   .kicker { font-size: .5rem; letter-spacing: .22em; }
@@ -69,11 +85,24 @@ function lista(w, h, { kicker, titulo, itens, lembrete }) {
   .lembrete { margin-top: 1.3rem; background: var(--card); border-left: .12rem solid var(--verm);
               padding: .75rem .9rem; font-size: .72rem; line-height: 1.4; }
   .lembrete strong { font-weight: 700; }
-  .rodape { padding-top: .5rem; } .marca { font-size: .46rem; } .apoio { font-size: .42rem; }`;
+  .rodape { padding-top: .5rem; } .marca { font-size: .46rem; } .apoio { font-size: .42rem; }
+  ${anton ? `
+  body { padding-top: 1.8rem; }
+  .titulo { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .01em; font-size: 2.9rem; line-height: 1.1; margin-top: .3rem; }
+  .regua { margin-top: .7rem; }
+  .lembrete { margin-top: 1rem; }
+  .lembrete strong { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .03em; color: var(--verm); }` : ''}
+  li.ic { align-items: center; gap: .9rem; padding: .38rem 0; }
+  li .ico { flex: none; width: 2.1rem; height: 2.1rem; border-radius: 50%; background: var(--card); padding: .3rem; }
+  li .ico svg { width: 100%; height: 100%; display: block; }
+  li .ico .v { stroke: var(--verm); } li .ico .f { fill: var(--verm); stroke: none; }`;
+  const linha = (it, i) => Array.isArray(it)
+    ? `<li class="ic"><span class="ico">${icone(it[1])}</span><span>${it[0]}</span></li>`
+    : `<li><b>${String(i + 1).padStart(2, '0')}</b><span>${it}</span></li>`;
   return pagina(w, h, w / 21, css, `${DIAG(7, .5)}
   <header><div class="kicker">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
   <main>
-    <ol>${itens.map((t, i) => `<li><b>${String(i + 1).padStart(2, '0')}</b><span>${t}</span></li>`).join('')}</ol>
+    <ol>${itens.map(linha).join('')}</ol>
     ${lembrete ? `<div class="lembrete">${lembrete}</div>` : ''}
   </main>
   ${rodape()}`);
@@ -147,12 +176,14 @@ const LEMBRETE_BANHEIRO = '<strong>Lembre-se:</strong> depois de você, outras p
 const PLACAS = [
   // Avisos em lista
   ['placa-banheiro-feminino', 210, 297, lista, {
-    kicker: 'Banheiro feminino', titulo: 'Atenção',
-    itens: ['Não suba no vaso sanitário', 'Não urine no chão', 'Jogue o absorvente no lixo', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
+    kicker: 'Banheiro feminino', titulo: 'Atenção', anton: true,
+    itens: [['Não suba no vaso sanitário', 'nao-subir'], ['Não urine no chão', 'nao-chao'], ['Jogue o absorvente no lixo', 'absorvente'],
+            ['Jogue o papel higiênico no lixo', 'papel'], ['Após o uso, dê a descarga', 'descarga']],
     lembrete: LEMBRETE_BANHEIRO }],
   ['placa-banheiro-masculino', 210, 297, lista, {
-    kicker: 'Banheiro masculino', titulo: 'Atenção',
-    itens: ['Não suba no vaso sanitário', 'Mantenha este ambiente limpo', 'Levante a tampa antes de usar', 'Jogue o papel higiênico no lixo', 'Após o uso, dê a descarga'],
+    kicker: 'Banheiro masculino', titulo: 'Atenção', anton: true,
+    itens: [['Não suba no vaso sanitário', 'nao-subir'], ['Mantenha este ambiente limpo', 'limpo'], ['Levante a tampa antes de usar', 'tampa'],
+            ['Jogue o papel higiênico no lixo', 'papel'], ['Após o uso, dê a descarga', 'descarga']],
     lembrete: LEMBRETE_BANHEIRO }],
   ['placa-copa', 200, 300, lista, {
     kicker: 'Área comum', titulo: 'Copa',
