@@ -67,10 +67,31 @@ const ICONES = {
   'nao-chao': `<path d="M32 9s-11 13-11 21a11 11 0 0 0 22 0c0-8-11-21-11-21z"/><path d="M10 50h44M16 56h32"/>${PROIBIDO}`,
   'absorvente': `<rect x="4" y="6" width="24" height="15" rx="4"/><path d="M10 13.5h12"/><path d="M14 25c1 9 9 12 17 8" class="v"/><path d="M27 30l5 3-3 5" class="v"/>${LIXEIRA}`,
 };
-const icone = k => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${ICONES[k]}</svg>`;
+// Estilo C (carinhas): objetos com rostinho e preenchimento rosado.
+const OLHOS = (x, y, d = 5) => `<circle cx="${x - d}" cy="${y}" r="2.2" class="p"/><circle cx="${x + d}" cy="${y}" r="2.2" class="p"/>`;
+const SORRI = (x, y, w = 4) => `<path d="M${x - w} ${y}q${w} ${w * .9} ${w * 2} 0"/>`;
+const TRISTE = (x, y, w = 4) => `<path d="M${x - w} ${y + 3}q${w} ${-w * .9} ${w * 2} 0"/>`;
+const SELO_NAO = `<circle cx="51" cy="13" r="10" class="b"/><path d="M44 6l14 14" class="bw"/>`;
+const LIXO_C = `<path d="M36 34h22l-3 24H39z" class="r"/><path d="M33 34h28M43 34v-3h8v3"/>`;
+const ICONES_C = {
+  'nao-subir': `<rect x="12" y="8" width="16" height="20" rx="3" class="r"/><path d="M6 30h44c0 11-8 17-18 18l2 9H16l2-10C11 45 6 39 6 30z" class="r"/>${OLHOS(26, 36)}${TRISTE(26, 40)}${SELO_NAO}`,
+  'limpo': `<path d="M30 4l6 18 18 6-18 6-6 18-6-18-18-6 18-6z" class="r"/>${OLHOS(30, 26, 4)}${SORRI(30, 31, 3.5)}<path d="M52 42l2 5 5 2-5 2-2 5-2-5-5-2 5-2z" class="f"/><path d="M10 48l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" class="f"/>`,
+  'tampa': `<rect x="5" y="14" width="12" height="18" rx="3" class="r"/><rect x="20" y="3" width="8" height="29" rx="3" class="r"/><path d="M3 33h42c0 10-7 16-17 17l2 9H14l2-10C9 47 3 41 3 33z" class="r"/>${OLHOS(24, 39)}${SORRI(24, 43)}<path d="M55 34V8M48 15l7-7 7 7" class="v"/>`,
+  'papel': `<rect x="6" y="12" width="20" height="30" rx="5" class="r"/><ellipse cx="16" cy="13" rx="10" ry="4" fill="#fff"/><circle cx="16" cy="13" r="2"/>${OLHOS(16, 26, 4)}${SORRI(16, 31, 3.5)}<path d="M26 8c11-7 22-3 26 14" class="v"/><path d="M46 18l6 5 4-6" class="v"/>${LIXO_C}`,
+  'descarga': `<path d="M30 5S13 24 13 36a17 17 0 0 0 34 0C47 24 30 5 30 5z" class="r"/>${OLHOS(30, 36)}${SORRI(30, 42)}<path d="M50 13a5 5 0 0 1 0 8M55 9a10 10 0 0 1 0 16" class="v"/>`,
+  'nao-chao': `<path d="M28 8s-13 15-13 25a13 13 0 0 0 26 0c0-10-13-25-13-25z" class="r"/>${OLHOS(28, 32, 4)}${TRISTE(28, 35, 3.5)}<path d="M6 54h46M14 60h30"/>${SELO_NAO}`,
+  'absorvente': `<rect x="38" y="3" width="20" height="12" rx="4" class="r"/><path d="M43 9h10"/><path d="M47 18c0 4-2 7-5 9" class="v"/><path d="M40 22l1 6 6-1" class="v"/><path d="M12 28h30l-4 31H16z" class="r"/><path d="M8 28h38M21 28v-4h12v4"/>${OLHOS(27, 41)}${SORRI(27, 47)}`,
+};
+const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : ICONES)[k]}</svg>`;
+// Variações de ícone: linha (A, padrão), selo (B: desenho branco no círculo vermelho), carinha (C).
+const ESTILO_ICONE = {
+  selo: `li .ico { background: var(--verm); } li .ico svg { stroke: #fff; } li .ico .v { stroke: #F0BEBF; } li .ico .f { fill: #F0BEBF; }`,
+  carinha: `li .ico { padding: .16rem; background: #FBF4F4; } li .ico .r { fill: #F7DADB; } li .ico .p { fill: #1E1E1E; stroke: none; }
+    li .ico .b { fill: var(--verm); stroke: #fff; stroke-width: 2; } li .ico .bw { stroke: #fff; stroke-width: 3.4; }`,
+};
 
 // Aviso em lista: rótulo, título em serifa, itens numerados entre fios, lembrete em card. Unidade = largura/21.
-function lista(w, h, { kicker, titulo, itens, lembrete, anton }) {
+function lista(w, h, { kicker, titulo, itens, lembrete, anton, estilo }) {
   // itens: texto, ou [texto, ícone] para a versão com ícones; anton: título e destaques na fonte Anton
   const css = `
   body { padding: 2.2rem 1.9rem 1.3rem; }
@@ -95,9 +116,10 @@ function lista(w, h, { kicker, titulo, itens, lembrete, anton }) {
   li.ic { align-items: center; gap: .9rem; padding: .38rem 0; }
   li .ico { flex: none; width: 2.1rem; height: 2.1rem; border-radius: 50%; background: var(--card); padding: .3rem; }
   li .ico svg { width: 100%; height: 100%; display: block; }
-  li .ico .v { stroke: var(--verm); } li .ico .f { fill: var(--verm); stroke: none; }`;
+  li .ico .v { stroke: var(--verm); } li .ico .f { fill: var(--verm); stroke: none; }
+  ${ESTILO_ICONE[estilo] || ''}`;
   const linha = (it, i) => Array.isArray(it)
-    ? `<li class="ic"><span class="ico">${icone(it[1])}</span><span>${it[0]}</span></li>`
+    ? `<li class="ic"><span class="ico">${icone(it[1], estilo)}</span><span>${it[0]}</span></li>`
     : `<li><b>${String(i + 1).padStart(2, '0')}</b><span>${it}</span></li>`;
   return pagina(w, h, w / 21, css, `${DIAG(7, .5)}
   <header><div class="kicker">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
@@ -217,6 +239,12 @@ const PLACAS = [
 
 (async () => {
   const filtro = process.argv.slice(2);
+  // Opções de ícone pra comparar: só com "node gerar.js opcoes"
+  if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
+    const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
+    for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
+      PLACAS.push([`opcoes-icones/banheiro-${sexo}-${letra}-${estilo}`, base[1], base[2], lista, { ...base[4], estilo }]);
+  }
   const b = await chromium.launch();
   for (const [nome, w, h, modelo, dados, dpi = 300] of PLACAS) {
     if (filtro.length && !filtro.some(f => nome.includes(f))) continue;
