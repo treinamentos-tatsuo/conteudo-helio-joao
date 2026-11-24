@@ -384,6 +384,27 @@ function paredePorta(w, h, { nome, sub, ico }) {
   <span class="marca">TATSUO ACADEMY</span>`);
 }
 
+
+// Só fundo e fonte das paredes sobre um modelo original (sem ícones, kanji ou cursiva):
+// fundo off-white com ensō, títulos em Anton, grafite e vinho no lugar de preto e vermelho.
+const comParede = modelo => (w, h, dados) => {
+  const largo = w > h;
+  const lado = largo ? h * 1.3 : w * 1.25;
+  const pos = largo ? `right:${-h * .3}mm;top:${-h * .15}mm` : `left:${-w * .08}mm;top:${h * .16}mm`;
+  const css = `
+  :root { --verm: #8E2B2F; --capa: #F4F2EE; --tinta: #3B3A3A; --cinza: #6F6B67; --fio: rgba(59,58,58,.18); --card: #EAE5DE; --papel: #F4F2EE; }
+  body { background: #F4F2EE !important; color: #3B3A3A !important; }
+  .diag { display: none; }
+  .enso { position: absolute; z-index: 0; opacity: .3; width: ${lado}mm; height: ${lado}mm; ${pos}; }
+  header, main, ol, .rodape, .lembrete { position: relative; z-index: 1; }
+  .titulo, .titulo .fit { font-family: 'Anton', sans-serif !important; font-weight: 400 !important; text-transform: uppercase; letter-spacing: .02em; }
+  .kicker { color: var(--verm) !important; }
+  .regua { background: var(--verm) !important; }
+  .linha { color: #3B3A3A; }
+  .rodape { border-top-color: var(--fio) !important; }
+  .marca { color: #3B3A3A !important; }</style>`;
+  return modelo(w, h, dados).replace('</style>', css).replace('<body>', `<body>${enso(7)}`).replace(/#A00F0F/g, '#8E2B2F');
+};
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
 function destaque(w, h, { kicker, titulo, linhas }) {
   const css = `
@@ -501,22 +522,12 @@ const PLACAS = [
     const lista2 = (nome, base, extra) => PLACAS.push([D + nome, base[1], base[2], parede, { ...base[4], estilo: 'bonecos', ...extra }]);
     for (const sexo of ['masculino', 'feminino']) lista2(`placa-banheiro-${sexo}`, P(`placa-banheiro-${sexo}`), {
       kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO', lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] });
-    lista2('placa-copa', P('placa-copa'), { kicker: 'área comum', titulo: 'Copa', kanji: '共有', kanjiLegenda: 'DE TODOS',
-      itens: [['Lave, seque e guarde a sua louça', 'louca'], ['Identifique seus alimentos com nome e data', 'etiqueta'], ['Não deixe comida vencida na geladeira', 'vencida'],
-              [`Limpe o que sujar: pia, mesa e micro${NBH}ondas`, 'limpar'], ['Jogue o lixo no lugar certo', 'lixo-certo']],
-      lembrete3: ['A copa é de todos. Deixe como', 'você gostaria', 'de encontrar.'] });
-    lista2('placa-sala-reuniao', P('placa-sala-reuniao'), { kicker: 'sala de reunião', titulo: 'Ao sair', kanji: '整頓', kanjiLegenda: 'ORGANIZAÇÃO',
-      itens: [['Coloque as cadeiras no lugar', 'cadeiras'], ['Deixe a mesa limpa', 'mesa'], ['Apague o quadro', 'quadro'],
-              [`Desligue luzes, TV e ar${NBH}condicionado`, 'desligar'], ['Feche a porta', 'fechar-porta']],
-      lembrete3: ['A próxima reunião começa', 'do jeito', 'que você deixar a sala.'] });
-    PLACAS.push([D + 'placa-sala-aula', 150, 200, paredeDestaque, { kicker: 'sala de aula', titulo: 'Silêncio', cursiva: 'em aula', ico: 'silencio',
-      linhas: ['Celular no silencioso.', 'Entre sem interromper.'], kanji: '静粛', legenda: 'SILÊNCIO' }]);
-    PLACAS.push([D + 'placa-luzes-ar', 100, 150, paredeDestaque, { kicker: 'ao sair', titulo: 'Desligue', cursiva: 'as luzes', ico: 'interruptor',
-      linhas: [`e o ar${NBH}condicionado.`], kanji: '節約', legenda: 'ECONOMIA' }]);
-    PLACAS.push([D + 'placa-buffet-banheiros', 600, 800, paredeDirecao, { seta: 'cima', nomes: ['Buffet', 'Banheiros'], onde: 'no andar de cima', kanji: '上階', legenda: 'ANDAR DE CIMA' }, 150]);
-    for (const [slug, nome, sub, ico] of [['banheiro-masculino', 'Banheiro', 'masculino', 'homem'], ['banheiro-feminino', 'Banheiro', 'feminino', 'mulher'],
-      ['sala-de-aula', 'Sala de aula'], ['sala-de-reuniao', 'Sala de reunião'], ['copa', 'Copa'], ['recepcao', 'Recepção'], ['restrito', 'Restrito', 'somente funcionários']])
-      PLACAS.push([`${D}placas-porta/porta-${slug}`, 200, 80, paredePorta, { nome, sub, ico }]);
+    // Demais placas: desenho original, só com fundo e fonte das paredes
+    for (const nome of ['placa-copa', 'placa-sala-reuniao', 'placa-sala-aula', 'placa-luzes-ar', 'placa-buffet-banheiros',
+      ...['banheiro-masculino', 'banheiro-feminino', 'sala-de-aula', 'sala-de-reuniao', 'copa', 'recepcao', 'restrito'].map(x => `placas-porta/porta-${x}`)]) {
+      const [n, w, h, modelo, dados, dpi] = P(nome);
+      PLACAS.push([D + n, w, h, comParede(modelo), dados, dpi]);
+    }
   }
   if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
