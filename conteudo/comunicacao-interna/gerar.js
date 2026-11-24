@@ -118,23 +118,18 @@ const OK = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="ok"/><path d="M
 const NAO8 = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="b"/><path d="M${x - 5} ${y - 5}l10 10" class="bw"/>`;
 // Bonequinho fofo: cabeça grande com topete, olhinhos com brilho e bochechas; corpo arredondado; mãos e pés.
 // x, y = centro da cabeça. bracos = pontas das mãos [[x, y], [x, y]]. pernas = deslocamento dos pés a partir do quadril.
-const BONECO = (x, y, bracos, { cara = 'feliz', pernas = [[-6, 21], [6, 21]] } = {}) => {
-  const ombro = y + 10, quadril = y + 23;
-  const membros = bracos.map(([ex, ey], k) => `<path d="M${x + (k ? 3 : -3)} ${ombro}L${ex} ${ey}" class="m"/>`).join('')
-    + pernas.map(([dx, dy], k) => `<path d="M${x + (k ? 2.5 : -2.5)} ${quadril}l${dx - (k ? 2.5 : -2.5)} ${dy - 1.5}" class="m"/>`).join('');
-  const maos = bracos.map(([ex, ey]) => `<circle cx="${ex}" cy="${ey}" r="2.1" class="r" stroke-width="1.6"/>`).join('');
-  const pes = pernas.map(([dx, dy]) => `<ellipse cx="${x + dx + (dx < 0 ? -1 : 1)}" cy="${quadril + dy - .6}" rx="2.8" ry="1.6" class="ped"/>`).join('');
-  const boca = cara === 'susto' ? `<ellipse cx="${x}" cy="${y + 2.6}" rx="1.2" ry="1.6" class="p"/>`
-    : `<path d="M${x - 2} ${y + 1.8}q2 2.4 4 0" stroke-width="1.5"/>`;
-  return `${membros}${pes}<rect x="${x - 5}" y="${y + 6.5}" width="10" height="${quadril - y - 5}" rx="4.5" class="corpo" stroke-width="2"/>${maos}
-    <circle cx="${x}" cy="${y}" r="6.4" class="r" stroke-width="2"/><path d="M${x - 1.5} ${y - 6.2}q1.5-3.6 4-1.6" stroke-width="1.6"/>
-    <circle cx="${x - 2.3}" cy="${y - .6}" r="1.15" class="p"/><circle cx="${x + 2.3}" cy="${y - .6}" r="1.15" class="p"/>
-    <circle cx="${x - 1.9}" cy="${y - 1}" r=".4" class="w" stroke="none"/><circle cx="${x + 2.7}" cy="${y - 1}" r=".4" class="w" stroke="none"/>
-    <ellipse cx="${x - 3.9}" cy="${y + 1.6}" rx="1.4" ry=".9" class="bo"/><ellipse cx="${x + 3.9}" cy="${y + 1.6}" rx="1.4" ry=".9" class="bo"/>${boca}`;
+// Bonequinho no estilo pictograma de placa: silhueta cheia em grafite, cabeça redonda sem rosto,
+// corpo e membros grossos e arredondados. x, y = centro da cabeça; bracos = pontas das mãos; pernas = deslocamento dos pés.
+const BONECO = (x, y, bracos, { pernas = [[-6, 21], [6, 21]] } = {}) => {
+  const ombro = y + 11, quadril = y + 24;
+  const membros = bracos.map(([ex, ey], k) => `<path d="M${x + (k ? 3.2 : -3.2)} ${ombro}L${ex} ${ey}" class="sm"/>`).join('')
+    + pernas.map(([dx, dy], k) => `<path d="M${x + (k ? 2.6 : -2.6)} ${quadril - 1}l${dx - (k ? 2.6 : -2.6)} ${dy - 1}" class="sm"/>`).join('');
+  return `${membros}<rect x="${x - 5.6}" y="${y + 7.6}" width="11.2" height="${quadril - y - 6.6}" rx="4.4" class="sf"/>
+    <circle cx="${x}" cy="${y - .4}" r="6" class="sf"/>`;
 };
 const ICONES_F = {
   'nao-subir': `<rect x="36" y="32" width="10" height="16" rx="2" class="r"/><path d="M6 48h34c0 6-5 9-12 10l1 5H16l1-5C10 57 6 54 6 48z" class="r"/>
-    ${BONECO(21, 13, [[11, 18], [31, 17]], { cara: 'susto', pernas: [[-7, 11], [7, 11]] })}<path d="M6 12q-3 3 0 6M36 12q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
+    ${BONECO(21, 13, [[11, 18], [31, 17]], { pernas: [[-7, 11], [7, 11]] })}<path d="M6 12q-3 3 0 6M36 12q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
   'limpo': `<rect x="27" y="13" width="7" height="11" rx="2" class="r"/><path d="M28 13v-3h5v3M33 10h4"/>
     <circle cx="41" cy="9" r="1.2" class="f"/><circle cx="44" cy="13" r="1.2" class="f"/><circle cx="40" cy="15" r="1.1" class="f"/>
     <path d="M32 58h26"/>${ESTRELA(48, 40, 5)}${ESTRELA(56, 48, 3.2)}${ESTRELA(38, 47, 3)}
@@ -149,7 +144,7 @@ const ICONES_F = {
     <path d="M33 37h26c0 7-5 11-12 11l1 8h-4l1-8C38 48 33 44 33 37z" class="r"/><path d="M39 41q7 5 14 0" class="v"/>
     ${BONECO(12, 12, [[43, 19], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M44 12l2-4M49 13l3-3" class="v"/>${OK(57, 6.5)}`,
   'nao-chao': `<rect x="48" y="24" width="10" height="16" rx="2" class="r"/><path d="M30 40h28c0 6-5 9-11 10l1 6H38l1-6C34 49 30 46 30 40z" class="r"/>
-    <ellipse cx="17" cy="60" rx="13" ry="3.4" class="r"/>${BONECO(16, 13, [[10, 15], [22, 15]], { cara: 'susto', pernas: [[-5, 18], [5, 18]] })}
+    <ellipse cx="17" cy="60" rx="13" ry="3.4" class="r"/>${BONECO(16, 13, [[10, 15], [22, 15]], { pernas: [[-5, 18], [5, 18]] })}
     <path d="M4 50l-2-3M30 50l2-3" class="v"/>${NAO8(54, 11)}`,
   'absorvente': `<path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/>${BONECO(13, 12, [[36, 20], [7, 33]], { pernas: [[-5, 23], [5, 23]] })}
     <rect x="40" y="22" width="11" height="6.5" rx="2.5" class="w"/><path d="M45.5 30v3" class="v"/>${OK(55, 10)}`,
@@ -160,7 +155,7 @@ const ICONES_F = {
   'etiqueta': `<path d="M30 32h28"/><rect x="32" y="32" width="24" height="22" rx="3" class="r"/><rect x="37" y="38" width="14" height="9" rx="1" class="w"/>
     <path d="M40 41h8M40 44h5" stroke-width="1.6"/>${BONECO(12, 12, [[31, 35], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M32 35l5-6" class="v"/>${OK(55, 10)}`,
   'vencida': `<rect x="32" y="8" width="24" height="50" rx="3" class="r"/><path d="M32 24h24M37 14v5M37 30v8"/>
-    <path d="M60 30q3-3 0-6t0-6M60 46q3-3 0-6t0-6" class="v"/>${BONECO(14, 12, [[15, 15], [7, 32]], { cara: 'susto', pernas: [[-5, 23], [5, 23]] })}
+    <path d="M60 30q3-3 0-6t0-6M60 46q3-3 0-6t0-6" class="v"/>${BONECO(14, 12, [[15, 15], [7, 32]], { pernas: [[-5, 23], [5, 23]] })}
     <path d="M24 9q3-2 0-5M26 17q3-2 0-5" class="v" stroke-width="2"/>${NAO8(55, 6)}`,
   'limpar': `<path d="M26 44h34M30 44v14M56 44v14"/><rect x="44" y="30" width="14" height="14" rx="2" class="r"/><rect x="46" y="33" width="7" height="8" rx="1" class="w"/>
     <rect x="32" y="40" width="9" height="4" rx="1" class="w"/>${BONECO(12, 12, [[34, 39], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}
@@ -286,7 +281,7 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   ${estilo === 'bonecos' ? `ol { width: 15.6rem; } .ico { width: 2.75rem; height: 2.75rem; } .ico svg { stroke-width: 2.4; } li { padding: .08rem 0; gap: .6rem; } .lembrete { margin-top: .35rem; } .lembrete .cursiva { font-size: 1.75rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .f { fill: var(--vinho); stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
-    .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .m { stroke-width: 3.4; } .ico .corpo { fill: #D9B1AD; } .ico .bo { fill: #E9A3A0; stroke: none; } .ico .ped { fill: var(--graf); stroke: none; }` : ''}
+    .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .sf { fill: var(--graf); stroke: none; } .ico .sm { stroke: var(--graf); stroke-width: 5.4; } .ico .corpo { fill: var(--graf); stroke: none; }` : ''}
   ${estilo === 'divertido' ? `.ico { width: 2.25rem; height: 2.25rem; } .ico svg { stroke-width: 2.6; } li { padding: .2rem 0; gap: .7rem; } .lembrete { margin-top: .7rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .bo { fill: #E6A4A1; stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.2; }` : ''}
@@ -323,7 +318,7 @@ const PAREDE_CSS = `
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
   .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; }
   .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
-  .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .m { stroke-width: 3.4; } .ico .corpo { fill: #D9B1AD; } .ico .bo { fill: #E9A3A0; stroke: none; } .ico .ped { fill: var(--graf); stroke: none; }
+  .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .sf { fill: var(--graf); stroke: none; } .ico .sm { stroke: var(--graf); stroke-width: 5.4; } .ico .corpo { fill: var(--graf); stroke: none; }
   .marca { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--graf); }`;
 const KANJI = (k, legenda) => `<div class="kanji">${[...k].map(c => `<b>${c}</b>`).join('')}${legenda ? `<span>${legenda}</span>` : ''}</div>`;
 
@@ -443,19 +438,50 @@ function destaque(w, h, { kicker, titulo, linhas }) {
 }
 
 // Placa de porta: fio vermelho, nome em serifa, complemento em rótulo. Unidade = largura/20.
-function porta(w, h, { nome, sub }) {
+// Pictogramas das portas dos banheiros: executivo de terno e executiva de blazer (busto, grafite chapado).
+const G = '#3B3A3A', V = '#8E2B2F', PELE = '#F4F2EE';
+const PICTO = {
+  executivo: `<svg viewBox="0 0 64 64" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 64c0-13 7-20 22-22 15 2 22 9 22 22z" fill="${G}"/>
+    <path d="M26 42.5l6 11 6-11c-2-.6-4-.9-6-.9s-4 .3-6 .9z" fill="#fff"/>
+    <path d="M32 45l-2.6 3 2.6 12 2.6-12z" fill="${V}"/><path d="M29.6 44.6h4.8l-2.4 2.6z" fill="${V}"/>
+    <path d="M25.5 42.5l5 13M38.5 42.5l-5 13" stroke="#fff" stroke-width="1.4" fill="none"/>
+    <path d="M28 33v8.5c2.6 1.2 5.4 1.2 8 0V33" fill="${PELE}" stroke="${G}" stroke-width="2.2"/>
+    <ellipse cx="32" cy="22" rx="10.5" ry="12" fill="${PELE}" stroke="${G}" stroke-width="2.4"/>
+    <path d="M21.4 21c-1.4-9 4-15 11.2-15C40 6 44 11 42.8 21c-1.2-3.4-3-5.6-5.4-6.8-5 2.2-10.8 2.4-15 .2-.6 2.2-.9 4.4-1 6.6z" fill="${G}"/>
+    <circle cx="28" cy="23" r="1.4" fill="${G}"/><circle cx="36" cy="23" r="1.4" fill="${G}"/>
+    <path d="M28.6 28.4q3.4 2.8 6.8 0" fill="none" stroke="${G}" stroke-width="1.8"/></svg>`,
+  executiva: `<svg viewBox="0 0 64 64" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 64c0-13 7-20 22-22 15 2 22 9 22 22z" fill="${G}"/>
+    <path d="M25 42.6l7 10 7-10c-2.2-.6-4.6-.9-7-.9s-4.8.3-7 .9z" fill="#fff"/>
+    <path d="M25 42.6l6 14M39 42.6l-6 14" stroke="#fff" stroke-width="1.4" fill="none"/>
+    <circle cx="27" cy="58" r="1.6" fill="${V}"/>
+    <path d="M28 33v8.5c2.6 1.2 5.4 1.2 8 0V33" fill="${PELE}" stroke="${G}" stroke-width="2.2"/>
+    <circle cx="32" cy="5.4" r="5" fill="${G}"/>
+    <ellipse cx="32" cy="22" rx="10" ry="11.6" fill="${PELE}" stroke="${G}" stroke-width="2.4"/>
+    <path d="M21.6 23c-2-10 3-16.4 10.4-16.4S44.4 13 42.4 23c-.8-4.6-3-7.6-6-9.2-3 2.4-8.6 3.6-12.6 3.4-1.2 1.8-1.9 3.8-2.2 5.8z" fill="${G}"/>
+    <rect x="24.2" y="20.4" width="7" height="5.2" rx="2.4" fill="none" stroke="${G}" stroke-width="1.6"/>
+    <rect x="32.8" y="20.4" width="7" height="5.2" rx="2.4" fill="none" stroke="${G}" stroke-width="1.6"/>
+    <path d="M31.2 22.4h1.6" stroke="${G}" stroke-width="1.4"/>
+    <circle cx="27.7" cy="23" r="1.1" fill="${G}"/><circle cx="36.3" cy="23" r="1.1" fill="${G}"/>
+    <path d="M29.4 29q2.6 2.2 5.2 0q-2.6.6-5.2 0z" fill="${V}" stroke="${V}" stroke-width="1"/>
+    <circle cx="21.6" cy="27" r="1.3" fill="${V}"/><circle cx="42.4" cy="27" r="1.3" fill="${V}"/></svg>`,
+};
+
+function porta(w, h, { nome, sub, ico }) {
   const css = `
   main { flex: 1; justify-content: center; padding: 0 1.5rem; }
   .regua { width: 1.4rem; height: .08rem; margin-bottom: .55rem; }
   .titulo .fit { font-size: 1.7rem; }
   .kicker { margin-top: .4rem; font-size: .4rem; letter-spacing: .24em; }
   .marca { position: absolute; right: 1.5rem; bottom: .55rem; font-size: .26rem; letter-spacing: .3em; color: var(--cinza); }`;
-  return pagina(w, h, w / 20, css, `${DIAG(3.4, .7)}
-  <main>
-    <div class="regua"></div>
+  const texto = `<div class="regua"></div>
     <div class="titulo"><span class="fit">${nome}</span></div>
-    ${sub ? `<div class="kicker">${sub}</div>` : ''}
-  </main>
+    ${sub ? `<div class="kicker">${sub}</div>` : ''}`;
+  return pagina(w, h, w / 20, css + (ico ? `
+  main.com-ico { flex-direction: row; align-items: center; justify-content: flex-start; gap: 1.1rem; }
+  .pic { flex: none; width: 5.4rem; height: 5.4rem; } .pic svg { width: 100%; height: 100%; display: block; }` : ''), `${DIAG(3.4, .7)}
+  ${ico ? `<main class="com-ico"><span class="pic">${PICTO[ico]}</span><div>${texto}</div></main>` : `<main>${texto}</main>`}
   <span class="marca">TATSUO ACADEMY</span>`);
 }
 
@@ -541,7 +567,8 @@ const PLACAS = [
     for (const nome of ['placa-copa', 'placa-sala-reuniao', 'placa-sala-aula', 'placa-luzes-ar', 'placa-buffet-banheiros',
       ...['banheiro-masculino', 'banheiro-feminino', 'sala-de-aula', 'sala-de-reuniao', 'copa', 'recepcao', 'restrito'].map(x => `placas-porta/porta-${x}`)]) {
       const [n, w, h, modelo, dados, dpi] = P(nome);
-      PLACAS.push([D + n, w, h, comParede(modelo), dados, dpi]);
+      const ico = n.endsWith('porta-banheiro-masculino') ? 'executivo' : n.endsWith('porta-banheiro-feminino') ? 'executiva' : null;
+      PLACAS.push([D + n, w, h, comParede(modelo), ico ? { ...dados, ico } : dados, dpi]);
     }
   }
   if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
