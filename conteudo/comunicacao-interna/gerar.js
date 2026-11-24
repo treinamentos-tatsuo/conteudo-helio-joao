@@ -393,7 +393,7 @@ const comParede = modelo => (w, h, dados) => {
   const pos = largo ? `right:${-h * .3}mm;top:${-h * .15}mm` : `left:${-w * .08}mm;top:${h * .16}mm`;
   const css = `
   :root { --verm: #8E2B2F; --capa: #F4F2EE; --tinta: #3B3A3A; --cinza: #6F6B67; --fio: rgba(59,58,58,.18); --card: #EAE5DE; --papel: #F4F2EE; }
-  body { background: #F4F2EE !important; color: #3B3A3A !important; }
+  html, body { overflow: hidden; } body { background: #F4F2EE !important; color: #3B3A3A !important; }
   .diag { display: none; }
   .enso { position: absolute; z-index: 0; opacity: .3; width: ${lado}mm; height: ${lado}mm; ${pos}; }
   header, main, ol, .rodape, .lembrete { position: relative; z-index: 1; }
