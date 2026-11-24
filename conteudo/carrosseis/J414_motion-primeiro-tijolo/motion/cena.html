@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'MontB';src:url('file:///C:/Users/DELL/AppData/Local/Microsoft/Windows/Fonts/Montserrat-Bold.otf');}
+@font-face{font-family:'MontXB';src:url('file:///C:/Users/DELL/AppData/Local/Microsoft/Windows/Fonts/Montserrat-ExtraBold.otf');}
+html,body{margin:0;padding:0;background:#120405;}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;background:#120405;}
+svg{position:absolute;left:0;top:0;}
+.mono{font-family:Consolas,'Courier New',monospace;text-transform:uppercase;}
+#eyebrow{position:absolute;left:64px;top:206px;font-size:19px;letter-spacing:.32em;color:rgba(255,255,255,.55);}
+#pill{position:absolute;left:58px;top:246px;display:flex;align-items:center;gap:14px;padding:9px 20px 9px 12px;border:1.5px solid rgba(255,255,255,.35);border-radius:999px;font-size:18px;letter-spacing:.25em;color:rgba(255,255,255,.8);}
+#pill .dot{width:16px;height:16px;border-radius:50%;background:#fff;box-shadow:0 0 10px rgba(255,255,255,.8);}
+#center{position:absolute;left:50%;top:352px;transform:translateX(-50%);padding:10px 26px;border:1.5px solid rgba(255,255,255,.35);border-radius:999px;font-size:18px;letter-spacing:.25em;color:rgba(255,255,255,.8);white-space:nowrap;}
+.tag{position:absolute;padding:6px 10px;border:1.5px solid rgba(255,255,255,.7);font-size:17px;letter-spacing:.16em;line-height:1.35;color:#fff;background:rgba(18,4,5,.35);white-space:nowrap;}
+#cap{position:absolute;left:50%;top:1290px;transform:translateX(-50%);width:max-content;max-width:900px;padding:16px 28px;background:rgba(20,5,6,.88);border:1.5px solid rgba(255,255,255,.12);border-radius:8px;font-family:'MontB';font-size:44px;line-height:1.25;text-align:center;color:#fff;}
+#cap b{font-family:'MontXB';font-weight:normal;}
+#cap span{transition:none;}
+</style>
+</head>
+<body>
+<div id="stage">
+  <svg id="bg" width="1080" height="1920" viewBox="0 0 1080 1920"></svg>
+  <svg id="sc" width="1080" height="1920" viewBox="0 0 1080 1920"></svg>
+  <div id="eyebrow" class="mono">Tatsuo · MBV</div>
+  <div id="pill" class="mono"><div class="dot"></div><span id="pilltxt"></span></div>
+  <div id="center" class="mono">Pilar crescimento</div>
+  <div id="tagL" class="tag mono"></div>
+  <div id="tagR" class="tag mono"></div>
+  <div id="cap"></div>
+</div>
+<script>
+const W=1080,H=1920,F=1040;               // F = linha do chão
+const D2R=Math.PI/180;
+const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+const lerp=(a,b,k)=>a+(b-a)*k;
+const eio=k=>k<.5?4*k*k*k:1-Math.pow(-2*k+2,3)/2;
+const eout=k=>1-Math.pow(1-k,3);
+const prog=(t,t0,d)=>clamp((t-t0)/d,0,1);
+const P=(x,y)=>({x,y});
+const lp=(a,b,k)=>P(lerp(a.x,b.x,k),lerp(a.y,b.y,k));
+
+// ---------- fundo (estático) ----------
+function rnd(s){return()=>{s=(s*16807)%2147483647;return s/2147483647;}}
+const R=rnd(7);
+const STARS=[...Array(80)].map(()=>({x:R()*W,y:R()*H*.62,r:.8+R()*1.8,ph:R()*6.28,sp:.4+R()*1.2,dr:4+R()*10}));
+document.getElementById('bg').innerHTML=`
+<defs>
+ <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#130405"/><stop offset=".30" stop-color="#2a0709"/>
+  <stop offset=".46" stop-color="#5e1014"/><stop offset=".52" stop-color="#8a1a1e"/>
+  <stop offset=".60" stop-color="#5a0f12"/><stop offset=".80" stop-color="#2a0708"/>
+  <stop offset="1" stop-color="#140405"/></linearGradient>
+ <radialGradient id="vig" cx=".5" cy=".5" r=".75">
+  <stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".65"/></radialGradient>
+ <radialGradient id="spot" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#d43a3e" stop-opacity=".35"/><stop offset="1" stop-color="#d43a3e" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1080" height="1920" fill="url(#g1)"/>
+<ellipse cx="540" cy="${F+10}" rx="700" ry="190" fill="url(#spot)"/>
+<rect width="1080" height="1920" fill="url(#vig)"/>`;
+
+// ---------- boneco ----------
+const L={T:100,U:56,Fo:54,Th:64,Sh:62,hr:27,lw:22,tw:44};
+function ik(a,b,l1,l2,s){
+  let dx=b.x-a.x,dy=b.y-a.y,d=Math.hypot(dx,dy);
+  const m=l1+l2-.5; if(d>m){b=P(a.x+dx/d*m,a.y+dy/d*m);dx=b.x-a.x;dy=b.y-a.y;d=m;}
+  d=Math.max(d,Math.abs(l1-l2)+1);
+  const al=Math.acos(clamp((l1*l1+d*d-l2*l2)/(2*l1*d),-1,1)),base=Math.atan2(dy,dx);
+  return {j:P(a.x+l1*Math.cos(base+s*al),a.y+l1*Math.sin(base+s*al)),e:b};
+}
+function figPts(o){
+  const ld=o.lean*D2R, up=P(Math.sin(ld),-Math.cos(ld));
+  const neck=P(o.hip.x+up.x*L.T,o.hip.y+up.y*L.T);
+  const sh=P(o.hip.x+up.x*L.T*.86,o.hip.y+up.y*L.T*.86);
+  const hd=(o.lean+o.head)*D2R;
+  const head=P(neck.x+Math.sin(hd)*(L.hr+10),neck.y-Math.cos(hd)*(L.hr+10));
+  const f=o.face;
+  const aN=ik(sh,o.handN,L.U,L.Fo,o.elbN??f), aF=ik(sh,o.handF,L.U,L.Fo,o.elbF??f);
+  const gN=ik(o.hip,o.footN,L.Th,L.Sh,-f), gF=ik(o.hip,o.footF,L.Th,L.Sh,-f);
+  return {hip:o.hip,neck,sh,head,aN,aF,gN,gF};
+}
+function seg(a,b,w,c){return `<line x1="${a.x.toFixed(1)}" y1="${a.y.toFixed(1)}" x2="${b.x.toFixed(1)}" y2="${b.y.toFixed(1)}" stroke="${c}" stroke-width="${w}" stroke-linecap="round"/>`;}
+function limb(a,k,w,c){return seg(a,k.j,w,c)+seg(k.j,k.e,w*.92,c);}
+function figSVG(p){
+  const back='#cfc7c7',fr='#fbf8f8';
+  return `<g filter="url(#glow)">`+
+   limb(p.sh,p.aF,L.lw,back)+limb(p.hip,p.gF,L.lw+2,back)+
+   seg(p.hip,p.neck,L.tw,fr)+
+   `<circle cx="${p.head.x.toFixed(1)}" cy="${p.head.y.toFixed(1)}" r="${L.hr}" fill="${fr}"/>`+
+   limb(p.hip,p.gN,L.lw+2,fr)+limb(p.sh,p.aN,L.lw,fr)+`</g>`;
+}
+
+// ---------- tijolos ----------
+const BW=60,BH=30,GAP=3,WX=588,ROWS=10;
+const SLOTS=[];
+for(let r=0;r<ROWS;r++){
+  const y=F-(r+1)*(BH+GAP)+GAP;
+  if(r%2===0){for(let i=0;i<5;i++)SLOTS.push({x:WX+i*(BW+GAP),y,w:BW,r});}
+  else{SLOTS.push({x:WX,y,w:BW/2-1,r});for(let i=0;i<4;i++)SLOTS.push({x:WX+BW/2+GAP-1+i*(BW+GAP)+1,y,w:BW,r});SLOTS.push({x:WX+BW/2+GAP+4*(BW+GAP),y,w:BW/2-1,r});}
+}
+const NB=SLOTS.length, B0=.45, B1=6.35, DT=(B1-B0)/NB;
+function brick(x,y,w,rot=0,sc=1,op=1){
+  const cx=x+w/2,cy=y+BH/2;
+  return `<g transform="translate(${cx.toFixed(1)},${cy.toFixed(1)}) rotate(${rot.toFixed(2)}) scale(${sc.toFixed(3)})" opacity="${op}">
+   <rect x="${-w/2}" y="${-BH/2}" width="${w}" height="${BH}" rx="2.5" fill="#efe9e9"/>
+   <rect x="${-w/2}" y="${-BH/2}" width="${w}" height="5" rx="2" fill="#ffffff"/>
+   <rect x="${-w/2}" y="${BH/2-6}" width="${w}" height="6" rx="2" fill="#c9bdbd"/></g>`;
+}
+function wallTopAt(t){ // topo contínuo do que já está pronto
+  const k=clamp((t-B0)/DT,0,NB); const kk=Math.floor(k);
+  if(kk>=NB) return F-ROWS*(BH+GAP)+GAP;
+  const r=SLOTS[kk].r; return F-r*(BH+GAP);
+}
+
+// ---------- legendas ----------
+const CAPS=[
+ [0.30,3.40,'Um ainda está acertando o *primeiro* *tijolo.*'],
+ [3.55,6.65,'O outro já levantou a *parede* *inteira.*'],
+ [6.85,10.0,'Plano perfeito *não* *paga* *boleto.*'],
+ [10.2,14.4,'Quem executa *erra,* *corrige* *e* *chega* *primeiro.*'],
+];
+const PILLS=[[0,'O plano'],[3.55,'A execução'],[6.85,'O resultado']];
+const TOTAL=15.2;
+
+// ---------- quadro ----------
+function renderAt(t){
+  // ===== perfeccionista (esquerda) =====
+  const per=2.6, ph=((t+.3)%per)/per;
+  const bump=(a,b,c,d)=> ph<a?0: ph<b?eio((ph-a)/(b-a)): ph<c?1: ph<d?1-eio((ph-c)/(d-c)):0;
+  const lift=bump(.30,.45,.70,.88)*38;
+  const wig=(ph>.47&&ph<.70)?Math.sin((ph-.47)/.23*Math.PI*3)*3.2:0;
+  const brk={x:400,y:F-BH,w:BW};
+  const lvY=F-BH-12-lift, lvX=brk.x+brk.w/2;
+  const st=eio(prog(t,10.9,.8)); // levanta e olha a parede
+  const kneel={hip:P(332,F-84),lean:48,head:22+lift*.15,face:1,
+     handN:P(lvX+32,lvY-2),handF:P(lvX-30,lvY-2),footN:P(392,F-4),footF:P(278,F-10),elbN:1,elbF:1};
+  const stand={hip:P(322,F-122),lean:-4,head:-24,face:1,
+     handN:P(350,F-58),handF:P(296,F-60),footN:P(340,F-4),footF:P(306,F-4),elbN:-1,elbF:1};
+  const pA=figPts(kneel),pB=figPts(stand);
+  const mix=(a,b)=>lp(a,b,st);
+  const mixL=(a,b)=>({j:mix(a.j,b.j),e:mix(a.e,b.e)});
+  const pp={hip:mix(pA.hip,pB.hip),neck:mix(pA.neck,pB.neck),sh:mix(pA.sh,pB.sh),head:mix(pA.head,pB.head),
+     aN:mixL(pA.aN,pB.aN),aF:mixL(pA.aF,pB.aF),gN:mixL(pA.gN,pB.gN),gF:mixL(pA.gF,pB.gF)};
+  // nível: na mão enquanto ajoelhado; ao levantar, fica em cima do tijolo
+  const lvLift=lerp(lift,0,st), lvYY=F-BH-12-lvLift;
+  const lvRot=wig*.6*(1-st);
+  const level=`<g transform="translate(${lvX},${lvYY.toFixed(1)}) rotate(${lvRot.toFixed(2)})">
+     <rect x="-52" y="-9" width="104" height="18" rx="3" fill="#120405" stroke="#ffffff" stroke-width="2"/>
+     <rect x="-14" y="-5" width="28" height="10" rx="5" fill="none" stroke="#ffffff" stroke-opacity=".8" stroke-width="1.5"/>
+     <circle cx="${(Math.sin(t*5.3)*5).toFixed(1)}" cy="0" r="3.2" fill="#ffffff"/></g>`;
+  // pilha parada atrás dele
+  const pile=brick(185,F-BH,BW)+brick(185+BW+GAP,F-BH,BW)+brick(185+BW/2,F-2*BH-GAP,BW);
+  const leftG=pile+brick(brk.x,brk.y,brk.w,wig*(1-st))+figSVG(pp)+level;
+
+  // ===== quem executa (direita) =====
+  const k=clamp((t-B0)/DT,0,NB);
+  let bricks='';
+  for(let i=0;i<NB;i++){
+    const s=SLOTS[i], t0=B0+i*DT, a=prog(t,t0,.16);
+    if(t<t0) break;
+    const e=eout(a);
+    bricks+=brick(s.x,s.y-(1-e)*46,s.w,(1-e)*-8,lerp(.7,1,e),Math.min(1,a*3));
+  }
+  const top=wallTopAt(t);
+  const cur=SLOTS[Math.min(NB-1,Math.floor(k))];
+  const tgt=P(cur.x+cur.w/2,cur.y-(1-eout(prog(t,B0+Math.floor(k)*DT,.16)))*46);
+  // construtor atrás da parede
+  const fx=clamp(tgt.x+70,640,905);
+  const feetY=Math.min(F,top+46);
+  const bob=Math.sin(t*14)*4;
+  const builder={hip:P(fx,feetY-104+bob),lean:-26,head:-8,face:-1,
+     handN:P(tgt.x+8,tgt.y+4),handF:P(tgt.x+30,tgt.y+10),
+     footN:P(fx-12,feetY),footF:P(fx+16,feetY),elbN:1,elbF:1};
+  // senta no topo (6.45 → 7.35)
+  const WT=F-ROWS*(BH+GAP)+GAP;
+  const cs=prog(t,6.45,.9), ce=eio(cs);
+  const sx=780, swing=Math.sin(t*2.2)*7;
+  const seat={hip:P(sx,WT-8),lean:-10,head:-26,face:-1,
+     handN:P(sx-46,WT+2),handF:P(sx+44,WT+2),
+     footN:P(sx-18+swing,WT+92),footF:P(sx+20-swing*.8,WT+90),elbN:-1,elbF:1};
+  let rightFig,front;
+  if(t<6.45){rightFig=figPts(builder);front=false;}
+  else{
+    const bA=figPts(Object.assign({},builder,{hip:P(clamp(SLOTS[NB-1].x+SLOTS[NB-1].w/2+70,640,905),WT+46-104),handN:P(860,WT-20),handF:P(890,WT-10),footN:P(890,WT+46),footF:P(918,WT+46)}));
+    const bB=figPts(seat);
+    const arc=Math.sin(cs*Math.PI)*16;
+    const m=(a,b)=>{const q=lp(a,b,ce);return P(q.x,q.y-arc);};
+    const mL=(a,b)=>({j:m(a.j,b.j),e:m(a.e,b.e)});
+    rightFig={hip:m(bA.hip,bB.hip),neck:m(bA.neck,bB.neck),sh:m(bA.sh,bB.sh),head:m(bA.head,bB.head),
+      aN:mL(bA.aN,bB.aN),aF:mL(bA.aF,bB.aF),gN:mL(bA.gN,bB.gN),gF:mL(bA.gF,bB.gF)};
+    front=cs>.5;
+  }
+  const rightG= front? bricks+figSVG(rightFig) : figSVG(rightFig)+bricks;
+
+  // ===== estrelas =====
+  let stars='';
+  for(const s of STARS){
+    const o=.25+.55*(.5+.5*Math.sin(t*s.sp+s.ph));
+    stars+=`<circle cx="${s.x.toFixed(1)}" cy="${((s.y-t*s.dr+H)%(H*.62)).toFixed(1)}" r="${s.r.toFixed(2)}" fill="#ffb3b3" opacity="${o.toFixed(2)}"/>`;
+  }
+  const SC=1.3, X=q=>P(540+(q.x-540)*SC,F+(q.y-F)*SC);
+  const scene=`<g transform="translate(540,${F}) scale(${SC}) translate(-540,${-F})">`+leftG+rightG+'</g>';
+  // linhas das etiquetas
+  const hL=X(pp.head), hR=X(rightFig.head);
+  const tagLx=60,tagLy=620, tagRx=790,tagRy=250;
+  const leader=(x1,y1,x2,y2)=>`<polyline points="${x1},${y1} ${x2.toFixed(1)},${y2.toFixed(1)}" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="1.5"/><circle cx="${x2.toFixed(1)}" cy="${y2.toFixed(1)}" r="3.5" fill="#fff"/>`;
+  const tagIn=eout(prog(t,.15,.4)), tagInR=eout(prog(t,.35,.4));
+  document.getElementById('sc').innerHTML=`
+   <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9" result="b"/>
+     <feColorMatrix in="b" type="matrix" values="1 0 0 0 0  0 .85 0 0 0  0 0 .85 0 0  0 0 0 .55 0" result="g"/>
+     <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="rf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="rm"><rect x="0" y="${F}" width="1080" height="500" fill="url(#rf)"/></mask>
+   </defs>
+   ${stars}
+   <line x1="0" y1="${F}" x2="1080" y2="${F}" stroke="#ff8a8a" stroke-opacity=".18" stroke-width="1.5"/>
+   <g mask="url(#rm)"><g transform="translate(0,${2*F}) scale(1,-1)">${scene}</g></g>
+   ${scene}
+   <text x="540" y="${F+40}" text-anchor="middle" font-family="Consolas,monospace" font-size="20" letter-spacing="5" fill="#fff" fill-opacity=".22">@TATSUO.ACADEMY</text>
+   <g opacity="${tagIn}">${leader(tagLx+150,tagLy+64,hL.x-18,hL.y-20)}</g>
+   <g opacity="${tagInR}">${leader(tagRx+40,tagRy+64,hR.x+12,hR.y-28)}</g>`;
+  // etiquetas
+  const tl=document.getElementById('tagL'),tr=document.getElementById('tagR');
+  tl.style.left=tagLx+'px';tl.style.top=tagLy+'px';tl.style.opacity=tagIn;
+  tl.innerHTML='Perfeccionista<br>1 tijolo';
+  tr.style.left=tagRx+'px';tr.style.top=tagRy+'px';tr.style.opacity=tagInR;
+  const n=Math.min(NB,Math.floor(clamp((t-B0)/DT+.6,0,NB)));
+  tr.innerHTML='Quem executa<br>'+n+(n===1?' tijolo':' tijolos');
+  // pílula
+  let pl=PILLS[0][1]; for(const p of PILLS) if(t>=p[0]) pl=p[1];
+  document.getElementById('pilltxt').textContent='• '+pl;
+  // legenda com revelação palavra a palavra
+  const cap=document.getElementById('cap'); let c=null;
+  for(const q of CAPS) if(t>=q[0]-.05&&t<q[1]) c=q;
+  if(!c){cap.style.opacity=0;}
+  else{
+    const words=c[2].split(' '), dur=Math.min(1.6,(c[1]-c[0])*.55);
+    const inA=prog(t,c[0],.18), outA=1-prog(t,c[1]-.18,.18);
+    cap.style.opacity=Math.min(inA,outA);
+    cap.innerHTML=words.map((w,i)=>{
+      const on=t>=c[0]+dur*i/words.length; const kw=w.startsWith('*'); const tx=w.replace(/\*/g,'');
+      return `<span style="color:${on?'#fff':'rgba(255,215,215,.38)'}">${kw?'<b>'+tx+'</b>':tx}</span>`;
+    }).join(' ');
+  }
+}
+window.renderAt=renderAt; window.TOTAL=TOTAL;
+renderAt(parseFloat(new URLSearchParams(location.search).get('t')||'4'));
+</script>
+</body>
+</html>
