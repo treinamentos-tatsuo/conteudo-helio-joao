@@ -443,6 +443,41 @@ const comBordo = modelo => (w, h, dados) => {
   .ico .w { fill: #fff; } .ico .r { fill: #F1E1DE; } .ico .v { stroke: #8E2B2F; } .ico .f { fill: #8E2B2F; stroke: none; }</style>`;
   return modelo(w, h, dados).replace('</style>', css).replace('<body>', `<body>${enso(7)}`).replace('stroke="#9E9892"', 'stroke="#5A0F10"');
 };
+
+// Placa de direção estilo shopping (faixa horizontal): fundo bordô, ensō escuro, quadro branco com a seta,
+// destinos com ícone branco e nome em Anton. Unidade = altura/10.
+const ICONE_FAIXA = {
+  buffet: `<svg viewBox="0 0 64 64" fill="none" stroke="#fff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 6v14M23 6v14M30 6v14"/><path d="M16 20q0 8 7 8t7-8"/><path d="M23 28v30"/>
+    <path d="M44 58V6c7 3 9 12 9 26h-9" fill="#fff"/></svg>`,
+  banheiros: `<svg viewBox="0 0 64 64" fill="#fff" stroke="none">
+    <circle cx="17" cy="9" r="5.4"/><rect x="10.5" y="16.5" width="13" height="21" rx="3.5"/><rect x="11.5" y="34" width="4.6" height="24" rx="2.3"/><rect x="17.9" y="34" width="4.6" height="24" rx="2.3"/>
+    <rect x="5.8" y="17" width="4.2" height="18" rx="2.1"/><rect x="24" y="17" width="4.2" height="18" rx="2.1"/>
+    <path d="M32 4v56" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="47" cy="9" r="5.4"/><path d="M42 16.5h10c1.8 0 3 1 3.4 2.6L60 40H34l4.6-20.9c.4-1.6 1.6-2.6 3.4-2.6z"/>
+    <rect x="41.6" y="38" width="4.6" height="20" rx="2.3"/><rect x="47.8" y="38" width="4.6" height="20" rx="2.3"/>
+    <rect x="35.6" y="18" width="4.2" height="16" rx="2.1" transform="rotate(14 37.7 26)"/><rect x="54.2" y="18" width="4.2" height="16" rx="2.1" transform="rotate(-14 56.3 26)"/></svg>`,
+};
+function faixaDirecao(w, h, { seta, rotulo, destinos }) {
+  const giro = { cima: 0, direita: 90, baixo: 180, esquerda: 270 }[seta];
+  const css = `
+  html, body { overflow: hidden; }
+  body { background: #8C1C1C; color: #fff; flex-direction: row; align-items: center; justify-content: space-between; padding: 0 1.8rem; gap: 1rem; }
+  .enso { position: absolute; z-index: 0; opacity: .55; width: 26rem; height: 26rem; left: 13rem; top: -8rem; }
+  .quadro, .destino, .div, .marca { position: relative; z-index: 1; }
+  .quadro { flex: none; width: 6.2rem; height: 6.2rem; background: #fff; border-radius: .5rem; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .quadro svg { width: 3.8rem; height: 3.8rem; transform: rotate(${giro}deg); }
+  .quadro span { margin-top: .15rem; font-family: 'Anton', sans-serif; font-size: .74rem; letter-spacing: .06em; color: #8C1C1C; line-height: 1; }
+  .div { flex: none; width: .05rem; height: 6.4rem; background: rgba(255,255,255,.55); }
+  .destino { flex: none; display: flex; align-items: center; gap: .8rem; }
+  .destino svg { flex: none; width: 3.5rem; height: 3.5rem; }
+  .destino b { font-family: 'Anton', sans-serif; font-weight: 400; font-size: 2.35rem; line-height: 1; letter-spacing: .02em; text-transform: uppercase; }
+  .marca { position: absolute; right: 1.4rem; bottom: .55rem; font-family: 'Poppins', sans-serif; font-weight: 700; font-size: .42rem; letter-spacing: .3em; color: rgba(255,255,255,.85); }`;
+  return pagina(w, h, h / 10, css, `${enso(9).replace('stroke="#9E9892"', 'stroke="#5A0F10"')}
+  <div class="quadro"><svg viewBox="0 0 100 100" fill="none" stroke="#8C1C1C" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"><path d="M50 90V14M20 42l30-30 30 30"/></svg><span>${rotulo}</span></div>
+  ${destinos.map(([nome, ico]) => `<div class="div"></div><div class="destino">${ICONE_FAIXA[ico]}<b>${nome}</b></div>`).join('')}
+  <span class="marca">TATSUO ACADEMY</span>`);
+}
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
 function destaque(w, h, { kicker, titulo, linhas, ico }) {
   const css = `
@@ -594,7 +629,9 @@ const PLACAS = [
     for (const sexo of ['masculino', 'feminino']) lista2(`placa-banheiro-${sexo}`, P(`placa-banheiro-${sexo}`), {
       kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO', lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] });
     // Demais placas: desenho original, só com fundo e fonte das paredes
-    for (const nome of ['placa-copa', 'placa-sala-reuniao', 'placa-sala-aula', 'placa-luzes-ar', 'placa-buffet-banheiros',
+    PLACAS.push([D + 'placa-buffet-banheiros', 1000, 250, faixaDirecao, { seta: 'cima', rotulo: 'ANDAR DE CIMA',
+      destinos: [['Buffet', 'buffet'], ['Banheiros', 'banheiros']] }, 150]);
+    for (const nome of ['placa-copa', 'placa-sala-reuniao', 'placa-sala-aula', 'placa-luzes-ar',
       ...['banheiro-masculino', 'banheiro-feminino', 'sala-de-aula', 'sala-de-reuniao', 'copa', 'recepcao', 'restrito'].map(x => `placas-porta/porta-${x}`)]) {
       const [n, w, h, modelo, dados, dpi] = P(nome);
       const extra = n === 'placa-copa' ? { estilo: 'bonecos', itens: [['Lave, seque e guarde a sua louça', 'louca'], ['Identifique seus alimentos com nome e data', 'etiqueta'],
