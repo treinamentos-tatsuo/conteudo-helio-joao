@@ -117,6 +117,46 @@ const CABECA = (x, y, cara = 'feliz') => `<circle cx="${x}" cy="${y}" r="5.2" cl
 const OK = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="ok"/><path d="M${x - 3.6} ${y + .2}l2.6 2.8 4.8-5.6" class="okw"/>`;
 const NAO8 = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="b"/><path d="M${x - 5} ${y - 5}l10 10" class="bw"/>`;
 const ICONES_F = {
+  // Copa
+  'louca': `<path d="M28 40h32"/><path d="M33 40v5q0 7 7 7h10q7 0 7-7v-5" class="r"/><path d="M45 40V30h7v4"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l15 5M12 28l15 3"/>${CABECA(12, 13)}<ellipse cx="30" cy="30.5" rx="5.5" ry="2.2" class="w"/>
+    <circle cx="37" cy="24" r="2" class="v"/><circle cx="42" cy="19" r="1.5" class="v"/><circle cx="35" cy="17" r="1.2" class="v"/>${OK(55, 10)}`,
+  'etiqueta': `<path d="M30 32h28"/><rect x="32" y="32" width="24" height="22" rx="3" class="r"/><rect x="37" y="38" width="14" height="9" rx="1" class="w"/>
+    <path d="M40 41h8M40 44h5" stroke-width="1.6"/><path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l20 12M12 28l-6 7"/>${CABECA(12, 13)}<path d="M32 36l5-6" class="v"/>${OK(55, 10)}`,
+  'vencida': `<rect x="32" y="8" width="24" height="50" rx="3" class="r"/><path d="M32 24h24M37 14v5M37 30v8"/>
+    <path d="M60 30q3-3 0-6t0-6M60 46q3-3 0-6t0-6" class="v"/><path d="M14 38V20M14 38l-6 20M14 38l6 20M14 25l3-9M14 27l-7 6"/>${CABECA(14, 13, 'susto')}
+    <path d="M24 10q3-2 0-5M26 18q3-2 0-5" class="v" stroke-width="2"/>${NAO8(55, 6)}`,
+  'limpar': `<path d="M26 44h34M30 44v14M56 44v14"/><rect x="44" y="30" width="14" height="14" rx="2" class="r"/><rect x="46" y="33" width="7" height="8" rx="1" class="w"/>
+    <rect x="32" y="40" width="9" height="4" rx="1" class="w"/><path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l22 16M12 28l-6 7"/>${CABECA(12, 13)}
+    ${ESTRELA(30, 30, 3.5)}${ESTRELA(38, 33, 2.5)}${OK(55, 10)}`,
+  'lixo-certo': `<path d="M34 38h12l-2 18h-8zM48 38h12l-2 18h-8z" class="r"/><path d="M32 38h16M46 38h16"/><path d="M38 46h4M52 46l2 3 2-3" stroke-width="1.6"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l8-9M12 27l-7 6"/>${CABECA(12, 13)}<rect x="20" y="9" width="5" height="5" rx="1" class="w"/>
+    <path d="M27 12q12-4 14 20" class="v" stroke-dasharray="3 3"/><path d="M37 29l4 4 3-5" class="v"/>${OK(55, 10)}`,
+  // Sala de reunião
+  'cadeiras': `<path d="M40 34h22M44 34v24M58 34v24"/><path d="M24 44h12v4H24z" class="r"/><path d="M24 28v30M24 44h12M36 44v14"/>
+    <path d="M10 38V19M10 38l-6 20M10 38l6 20M10 24l14 6M10 28l14 3"/>${CABECA(10, 13)}<path d="M28 22h9M34 19l3 3-3 3" class="v"/>${OK(55, 10)}`,
+  'mesa': `<path d="M28 42h32M32 42v16M56 42v16"/>${ESTRELA(38, 34, 4)}${ESTRELA(50, 36, 3)}
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l12-2M12 28l-6 7"/>${CABECA(12, 13)}<path d="M24 16h7l-1 9h-5z" class="w"/><path d="M31 18h2v4h-2"/>${OK(55, 10)}`,
+  'quadro': `<rect x="30" y="8" width="30" height="24" rx="1" class="w"/><path d="M36 32v24M54 32v24"/>
+    <path d="M34 14q3-3 6 0t6 0" class="v" stroke-width="2"/><rect x="40" y="19" width="9" height="5" rx="1" class="r"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l28-3M12 28l-6 7"/>${CABECA(12, 13)}${OK(56, 44)}`,
+  'desligar': `<rect x="32" y="16" width="12" height="18" rx="2" class="w"/><path d="M38 21v4" stroke-width="2.6"/>
+    <circle cx="53" cy="14" r="6" class="w"/><path d="M50 21h6M51 24h4"/>
+    <rect x="44" y="40" width="18" height="8" rx="2" class="w"/><path d="M47 45h12" stroke-width="1.4"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l21 1M12 28l-6 7"/>${CABECA(12, 13)}${OK(54, 58)}`,
+  'fechar-porta': `<path d="M36 6h22v52"/><path d="M38 8l14 4v42l-14 4z" class="r"/><circle cx="48" cy="34" r="1.6" class="p"/>
+    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l28 10M12 28l-6 7"/>${CABECA(12, 13)}<path d="M56 16q6 8 0 16" class="v"/><path d="M53 30l3 3 3-4" class="v"/>${OK(56, 52)}`,
+  // Aula, luzes, portas
+  'silencio': `<path d="M26 40V22M26 40l-7 20M26 40l7 20M26 27l-6-6l1-6M26 30l7 6"/>${CABECA(26, 14)}<path d="M23 15v4" class="v"/>
+    <rect x="42" y="26" width="12" height="22" rx="2.5" class="w"/><path d="M45 31h6" stroke-width="1.4"/>
+    <path d="M45 40q0-5 3-5t3 5l1 2H44z" stroke-width="1.6"/><path d="M43 34l10 10" class="v" stroke-width="2"/>
+    <path d="M9 12q-3 3 0 6M5 9q-5 6 0 12" class="v" stroke-width="2" stroke-dasharray="2 2"/>`,
+  'interruptor': `<rect x="34" y="18" width="12" height="18" rx="2" class="w"/><path d="M40 23v4" stroke-width="2.6"/>
+    <circle cx="54" cy="16" r="6" class="w"/><path d="M51 23h6M52 26h4"/><path d="M50 12l8 8" class="v" stroke-width="2"/>
+    <path d="M14 38V19M14 38l-6 20M14 38l6 20M14 24l20 1M14 28l-6 7"/>${CABECA(14, 13)}
+    <rect x="38" y="44" width="22" height="9" rx="2" class="w"/><path d="M41 49h16" stroke-width="1.4"/><path d="M44 56l12-14" class="v" stroke-width="2"/>`,
+  'homem': `<circle cx="32" cy="10" r="7" class="r"/><path d="M22 20h20v20H22z" class="r"/><path d="M26 40v20M38 40v20M22 22l-4 16M42 22l4 16" stroke-width="4"/>`,
+  'mulher': `<circle cx="32" cy="10" r="7" class="r"/><path d="M26 20h12l8 24H18z" class="r"/><path d="M27 44v16M37 44v16M25 22l-6 14M39 22l6 14" stroke-width="4"/>`,
   'nao-subir': `<rect x="36" y="32" width="10" height="16" rx="2" class="r"/><path d="M6 48h34c0 6-5 9-12 10l1 5H16l1-5C10 57 6 54 6 48z" class="r"/>
     <path d="M21 36v-13M21 36l-7 11M21 36l7 11M21 27l-9-6M21 27l9-7"/>${CABECA(21, 15, 'susto')}<path d="M7 16q-3 3 0 6M35 16q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
   'limpo': `<path d="M16 36V18M16 36l-6 18M16 36l6 18M16 24l12-6M16 27l-6 7"/>${CABECA(16, 12)}
@@ -250,6 +290,100 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   ${rodape()}`);
 }
 
+
+// ---- Estilo parede para as demais placas ----
+const PAREDE_CSS = `
+  :root { --graf: #3B3A3A; --vinho: #8E2B2F; }
+  body { background: #F4F2EE; color: var(--graf); }
+  .enso { position: absolute; z-index: 0; opacity: .3; }
+  header, main, .rodape, .kanji, .marca { position: relative; z-index: 1; }
+  .anton { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .02em; line-height: 1.05; }
+  .cursiva { font-family: 'Great Vibes', cursive; color: var(--vinho); line-height: 1; }
+  .ligacao { display: flex; align-items: center; justify-content: center; letter-spacing: .02em; }
+  .ligacao::before, .ligacao::after { content: ""; flex: none; background: var(--graf); }
+  .kanji { position: absolute; z-index: 1; display: flex; flex-direction: column; align-items: center; }
+  .kanji b { font-family: 'Noto Serif JP', serif; font-weight: 600; line-height: 1.15; color: #6F6B67; }
+  .kanji span { font-family: 'Anton', sans-serif; letter-spacing: .08em; color: var(--vinho); border-bottom: .03rem solid var(--vinho); }
+  .ico svg { width: 100%; height: 100%; display: block; stroke: var(--graf); stroke-width: 2.4; }
+  .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
+  .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; }
+  .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
+  .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }
+  .marca { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--graf); }`;
+const KANJI = (k, legenda) => `<div class="kanji">${[...k].map(c => `<b>${c}</b>`).join('')}${legenda ? `<span>${legenda}</span>` : ''}</div>`;
+
+// Destaque (sala de aula, luzes): título Anton, palavra em cursiva, bonequinho, linhas. Unidade = largura/10.
+function paredeDestaque(w, h, { kicker, titulo, cursiva, ico, linhas, kanji, legenda }) {
+  const css = PAREDE_CSS + `
+  body { padding: .9rem .8rem .5rem; align-items: center; text-align: center; }
+  .enso { width: 12rem; height: 12rem; left: -1.5rem; top: 2rem; }
+  .kanji { position: absolute; right: .45rem; top: .75rem; } .kanji b { font-size: .8rem; } .kanji span { margin-top: .12rem; font-size: .2rem; padding-bottom: .04rem; }
+  main { flex: 1; width: 100%; align-items: center; justify-content: center; }
+  .ligacao { gap: .25rem; font-size: .34rem; } .ligacao::before, .ligacao::after { width: 1rem; height: .02rem; }
+  .titulo { font-size: 1.65rem; }
+  .cursiva { font-size: 1.15rem; margin-top: -.05rem; }
+  .ico { display: block; width: 2.6rem; height: 2.6rem; margin: .3rem 0 .2rem; }
+  .linha { font-size: .4rem; line-height: 1.35; }
+  .regua { width: 1rem; height: .04rem; background: var(--vinho); margin: .2rem auto .25rem; }
+  .marca { font-size: .19rem; letter-spacing: .3em; padding-top: .2rem; }`;
+  return pagina(w, h, w / 10, css, `${enso(5)}${KANJI(kanji, legenda)}
+  <main>
+    <div class="ligacao">${kicker}</div>
+    <div style="margin-top:.25rem"><span class="fit anton titulo">${titulo}</span></div>
+    <div class="cursiva">${cursiva}</div>
+    <span class="ico">${icone(ico, 'bonecos')}</span>
+    <div class="regua"></div>
+    ${linhas.map(l => `<div class="linha">${l}</div>`).join('')}
+  </main>
+  <span class="marca">TATSUO ACADEMY</span>`);
+}
+
+// Direção: seta, ambientes em Anton, "e" em cursiva, onde fica entre fios. Unidade = largura/20.
+function paredeDirecao(w, h, { seta, nomes, onde, kanji, legenda }) {
+  const giro = { cima: 0, direita: 90, baixo: 180, esquerda: 270 }[seta];
+  const css = PAREDE_CSS + `
+  body { padding: 2rem 1.6rem 1rem; align-items: center; text-align: center; }
+  .enso { width: 25rem; height: 25rem; left: -2.5rem; top: 3.5rem; }
+  .kanji { position: absolute; right: 1.3rem; top: 1.8rem; } .kanji b { font-size: 2rem; } .kanji span { margin-top: .3rem; font-size: .42rem; padding-bottom: .1rem; }
+  main { flex: 1; width: 100%; align-items: center; justify-content: center; }
+  .seta { width: 4.2rem; height: 4.2rem; margin-bottom: 1rem; }
+  .nome { font-size: 3.8rem; }
+  .cursiva { font-size: 2.6rem; margin: .1rem 0 .2rem; }
+  .regua { width: 2.4rem; height: .08rem; background: var(--vinho); margin: 1.2rem auto .9rem; }
+  .ligacao { gap: .6rem; font-size: .95rem; } .ligacao::before, .ligacao::after { width: 2.4rem; height: .04rem; }
+  .marca { font-size: .42rem; letter-spacing: .3em; }`;
+  return pagina(w, h, w / 20, css, `${enso(9)}${KANJI(kanji, legenda)}
+  <main>
+    <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(${giro}deg)" fill="none" stroke="#8E2B2F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M50 92 V10 M18 42 L50 10 L82 42"/></svg>
+    ${nomes.map((n, i) => (i ? '<div class="cursiva">e</div>' : '') + `<div><span class="fit anton nome">${n}</span></div>`).join('')}
+    <div class="regua"></div>
+    <div class="ligacao">${onde}</div>
+  </main>
+  <span class="marca">TATSUO ACADEMY</span>`);
+}
+
+// Porta (20x8): pictograma opcional, nome em Anton, complemento em cursiva, ensō à direita. Unidade = largura/20.
+function paredePorta(w, h, { nome, sub, ico }) {
+  const css = PAREDE_CSS + `
+  body { flex-direction: row; align-items: center; padding: 0 1.5rem; gap: 1rem; }
+  .enso { width: 10rem; height: 10rem; left: auto; right: -2.6rem; top: -1rem; opacity: .28; }
+  .ico { position: relative; z-index: 1; flex: none; width: 4.4rem; height: 5.4rem; }
+  .ico svg { stroke-width: 3; }
+  main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .regua { width: 1.4rem; height: .07rem; background: var(--vinho); margin-bottom: .75rem; }
+  .nome { font-size: 2.3rem; }
+  .cursiva { font-size: 1.5rem; margin-top: .05rem; }
+  .marca { position: absolute; right: 1.5rem; bottom: .5rem; font-size: .24rem; letter-spacing: .3em; }`;
+  return pagina(w, h, w / 20, css, `${enso(3)}
+  ${ico ? `<span class="ico">${icone(ico, 'bonecos')}</span>` : ''}
+  <main>
+    <div class="regua"></div>
+    <div><span class="fit anton nome">${nome}</span></div>
+    ${sub ? `<div class="cursiva">${sub}</div>` : ''}
+  </main>
+  <span class="marca">TATSUO ACADEMY</span>`);
+}
+
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
 function destaque(w, h, { kicker, titulo, linhas }) {
   const css = `
@@ -360,6 +494,30 @@ const PLACAS = [
 (async () => {
   const filtro = process.argv.slice(2);
   // Opções de ícone pra comparar: só com "node gerar.js opcoes"
+  // Conjunto completo no estilo das paredes: só com "node gerar.js parede"
+  if (filtro.includes('parede')) {
+    const D = 'estilo-parede/';
+    const P = n => PLACAS.find(p => p[0] === n);
+    const lista2 = (nome, base, extra) => PLACAS.push([D + nome, base[1], base[2], parede, { ...base[4], estilo: 'bonecos', ...extra }]);
+    for (const sexo of ['masculino', 'feminino']) lista2(`placa-banheiro-${sexo}`, P(`placa-banheiro-${sexo}`), {
+      kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO', lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] });
+    lista2('placa-copa', P('placa-copa'), { kicker: 'área comum', titulo: 'Copa', kanji: '共有', kanjiLegenda: 'DE TODOS',
+      itens: [['Lave, seque e guarde a sua louça', 'louca'], ['Identifique seus alimentos com nome e data', 'etiqueta'], ['Não deixe comida vencida na geladeira', 'vencida'],
+              [`Limpe o que sujar: pia, mesa e micro${NBH}ondas`, 'limpar'], ['Jogue o lixo no lugar certo', 'lixo-certo']],
+      lembrete3: ['A copa é de todos. Deixe como', 'você gostaria', 'de encontrar.'] });
+    lista2('placa-sala-reuniao', P('placa-sala-reuniao'), { kicker: 'sala de reunião', titulo: 'Ao sair', kanji: '整頓', kanjiLegenda: 'ORGANIZAÇÃO',
+      itens: [['Coloque as cadeiras no lugar', 'cadeiras'], ['Deixe a mesa limpa', 'mesa'], ['Apague o quadro', 'quadro'],
+              [`Desligue luzes, TV e ar${NBH}condicionado`, 'desligar'], ['Feche a porta', 'fechar-porta']],
+      lembrete3: ['A próxima reunião começa', 'do jeito', 'que você deixar a sala.'] });
+    PLACAS.push([D + 'placa-sala-aula', 150, 200, paredeDestaque, { kicker: 'sala de aula', titulo: 'Silêncio', cursiva: 'em aula', ico: 'silencio',
+      linhas: ['Celular no silencioso.', 'Entre sem interromper.'], kanji: '静粛', legenda: 'SILÊNCIO' }]);
+    PLACAS.push([D + 'placa-luzes-ar', 100, 150, paredeDestaque, { kicker: 'ao sair', titulo: 'Desligue', cursiva: 'as luzes', ico: 'interruptor',
+      linhas: [`e o ar${NBH}condicionado.`], kanji: '節約', legenda: 'ECONOMIA' }]);
+    PLACAS.push([D + 'placa-buffet-banheiros', 600, 800, paredeDirecao, { seta: 'cima', nomes: ['Buffet', 'Banheiros'], onde: 'no andar de cima', kanji: '上階', legenda: 'ANDAR DE CIMA' }, 150]);
+    for (const [slug, nome, sub, ico] of [['banheiro-masculino', 'Banheiro', 'masculino', 'homem'], ['banheiro-feminino', 'Banheiro', 'feminino', 'mulher'],
+      ['sala-de-aula', 'Sala de aula'], ['sala-de-reuniao', 'Sala de reunião'], ['copa', 'Copa'], ['recepcao', 'Recepção'], ['restrito', 'Restrito', 'somente funcionários']])
+      PLACAS.push([`${D}placas-porta/porta-${slug}`, 200, 80, paredePorta, { nome, sub, ico }]);
+  }
   if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
