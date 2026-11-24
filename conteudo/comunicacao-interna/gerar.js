@@ -281,7 +281,6 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   .rodape { width: 100%; justify-content: center; border-top: 0; padding-top: .4rem; }
   .marca { font-size: .4rem; letter-spacing: .3em; color: var(--graf); } .apoio { display: none; }`;
   return pagina(w, h, w / 21, css, `${enso()}
-  <div class="kanji">${[...kanji].map(k => `<b>${k}</b>`).join('')}<span>${kanjiLegenda}</span></div>
   <header><div class="ligacao">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
   <main>
     <ol>${itens.map(([t, k]) => `<li><span class="ico">${icone(k, estilo)}</span><span>${t}</span></li>`).join('')}</ol>
@@ -326,7 +325,7 @@ function paredeDestaque(w, h, { kicker, titulo, cursiva, ico, linhas, kanji, leg
   .linha { font-size: .4rem; line-height: 1.35; }
   .regua { width: 1rem; height: .04rem; background: var(--vinho); margin: .2rem auto .25rem; }
   .marca { font-size: .19rem; letter-spacing: .3em; padding-top: .2rem; }`;
-  return pagina(w, h, w / 10, css, `${enso(5)}${KANJI(kanji, legenda)}
+  return pagina(w, h, w / 10, css, `${enso(5)}
   <main>
     <div class="ligacao">${kicker}</div>
     <div style="margin-top:.25rem"><span class="fit anton titulo">${titulo}</span></div>
@@ -352,7 +351,7 @@ function paredeDirecao(w, h, { seta, nomes, onde, kanji, legenda }) {
   .regua { width: 2.4rem; height: .08rem; background: var(--vinho); margin: 1.2rem auto .9rem; }
   .ligacao { gap: .6rem; font-size: .95rem; } .ligacao::before, .ligacao::after { width: 2.4rem; height: .04rem; }
   .marca { font-size: .42rem; letter-spacing: .3em; }`;
-  return pagina(w, h, w / 20, css, `${enso(9)}${KANJI(kanji, legenda)}
+  return pagina(w, h, w / 20, css, `${enso(9)}
   <main>
     <svg class="seta" viewBox="0 0 100 100" style="transform:rotate(${giro}deg)" fill="none" stroke="#8E2B2F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M50 92 V10 M18 42 L50 10 L82 42"/></svg>
     ${nomes.map((n, i) => (i ? '<div class="cursiva">e</div>' : '') + `<div><span class="fit anton nome">${n}</span></div>`).join('')}
