@@ -65,6 +65,7 @@ const ICONES = {
   'papel': `<circle cx="16" cy="22" r="9"/><circle cx="16" cy="22" r="3"/><path d="M25 22v16H13"/><path d="M20 10c10-8 24-6 29 12" class="v"/><path d="M43 18l6 5 3-7" class="v"/>${LIXEIRA}`,
   'descarga': `<path d="M32 7s-16 19-16 30a16 16 0 0 0 32 0C48 26 32 7 32 7z"/><path d="M25 39a7 7 0 0 0 11 5" class="v"/><path d="M52 12a5 5 0 0 1 0 7M56 8a10 10 0 0 1 0 15" class="v"/>`,
   'nao-chao': `<path d="M32 9s-11 13-11 21a11 11 0 0 0 22 0c0-8-11-21-11-21z"/><path d="M10 50h44M16 56h32"/>${PROIBIDO}`,
+  'higiene': `<rect x="6" y="32" width="36" height="20" rx="9"/><path d="M13 39h12"/><circle cx="44" cy="18" r="7" class="v"/><circle cx="28" cy="14" r="4" class="v"/><circle cx="55" cy="34" r="4" class="v"/>`,
   'absorvente': `<rect x="4" y="6" width="24" height="15" rx="4"/><path d="M10 13.5h12"/><path d="M14 25c1 9 9 12 17 8" class="v"/><path d="M27 30l5 3-3 5" class="v"/>${LIXEIRA}`,
 };
 // Estilo C (carinhas): objetos com rostinho e preenchimento rosado.
@@ -218,6 +219,35 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   ${rodape()}`);
 }
 
+// Placa "cena do crime": fundo preto, fitas listradas, Anton em caixas. Unidade = largura/20.
+function crime(w, h, { linhas, icones }) {
+  const css = `
+  body { background: #0E0E0E; color: #fff; }
+  .fita { flex: none; height: 1.3rem; background: repeating-linear-gradient(-45deg, #A91C20 0 .9rem, #0E0E0E .9rem 1.8rem); }
+  main { flex: 1; padding: .9rem 1.4rem .4rem; justify-content: center; align-items: center; text-align: center; gap: .15rem; }
+  main > div { width: 100%; }
+  .l { font-family: 'Anton', sans-serif; text-transform: uppercase; line-height: 1.08; letter-spacing: .01em; }
+  .l.caixa { background: #A91C20; padding: .05rem .5rem .12rem; }
+  .l.branca { background: #fff; color: #0E0E0E; padding: .28rem .5rem .12rem; margin-top: .25rem; display: inline-block; }
+  .pequena { display: flex; align-items: center; gap: .6rem; justify-content: center; }
+  .pequena::before, .pequena::after { content: ""; flex: 1; height: .08rem; background: #fff; }
+  .icones { display: grid; grid-template-columns: repeat(${icones.length}, 1fr); gap: .5rem; margin-top: .9rem; padding-top: .8rem; border-top: .06rem solid rgba(255,255,255,.35); }
+  .icones div { display: flex; flex-direction: column; align-items: center; }
+  .icones svg { width: 2.2rem; height: 2.2rem; border: .08rem solid #fff; border-radius: 50%; padding: .4rem; stroke: #fff; }
+  .icones .v { stroke: #E0393E; } .icones .f { fill: #E0393E; stroke: none; }
+  .icones span { margin-top: .35rem; font-family: 'Anton', sans-serif; font-size: .5rem; letter-spacing: .06em; line-height: 1.1; }
+  .marca { flex: none; text-align: center; font-size: .32rem; letter-spacing: .35em; color: rgba(255,255,255,.6); padding: .35rem 0 .4rem; }`;
+  return pagina(w, h, w / 20, css, `<div class="fita"></div>
+  <main>
+    ${linhas.map(([t, tam, tipo]) => tipo === 'pequena'
+      ? `<div class="pequena"><span class="fit l" style="font-size:${tam}rem">${t}</span></div>`
+      : `<div><span class="fit l ${tipo || ''}" style="font-size:${tam}rem">${t}</span></div>`).join('')}
+    <div class="icones">${icones.map(([k, rot]) => `<div>${icone(k)}<span>${rot}</span></div>`).join('')}</div>
+  </main>
+  <span class="marca">TATSUO ACADEMY</span>
+  <div class="fita"></div>`);
+}
+
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
 function destaque(w, h, { kicker, titulo, linhas }) {
   const css = `
@@ -328,6 +358,9 @@ const PLACAS = [
 (async () => {
   const filtro = process.argv.slice(2);
   // Opções de ícone pra comparar: só com "node gerar.js opcoes"
+  if (filtro.includes('crime')) PLACAS.push(['opcoes-icones/banheiro-cena-do-crime', 200, 300, crime, {
+    linhas: [['Use o', 1.5, 'pequena'], ['Banheiro', 3.8, 'caixa'], ['como se tivesse', 2.2], ['cometido', 3.8, 'caixa'], ['um crime.', 3.8], ['Não deixe vestígios.', 1.7, 'branca']],
+    icones: [['higiene', 'HIGIENE'], ['descarga', 'DESCARGA'], ['papel', 'PAPEL NO LIXO'], ['limpo', 'MANTENHA LIMPO']] }]);
   if (filtro.includes('opcoes')) for (const sexo of ['masculino', 'feminino']) {
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
