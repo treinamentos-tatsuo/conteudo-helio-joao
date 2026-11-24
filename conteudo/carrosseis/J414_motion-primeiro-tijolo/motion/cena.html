@@ -115,13 +115,13 @@ function wallTopAt(t){ // topo contínuo do que já está pronto
 }
 
 // ---------- legendas ----------
-const CAPS=[
- [0.30,3.40,'Um ainda está acertando o *primeiro* *tijolo.*'],
- [3.55,6.65,'O outro já levantou a *parede* *inteira.*'],
- [6.85,10.0,'Plano perfeito *não* *paga* *boleto.*'],
- [10.2,14.4,'Quem executa *erra,* *corrige* *e* *chega* *primeiro.*'],
+const CAPS=[ // [início, fim, texto, duração da fala]
+ [0.25,3.55,'Um ainda está acertando o *primeiro* *tijolo.*',3.0],
+ [3.65,6.85,'O outro já levantou a *parede* *inteira.*',2.9],
+ [7.00,10.1,'Plano perfeito *não* *paga* *boleto.*',2.7],
+ [10.3,14.5,'Quem executa *erra,* *corrige* *e* *chega* *primeiro.*',3.6],
 ];
-const PILLS=[[0,'O plano'],[3.55,'A execução'],[6.85,'O resultado']];
+const PILLS=[[0,'O plano'],[3.65,'A execução'],[7.0,'O resultado']];
 const TOTAL=15.2;
 
 // ---------- quadro ----------
@@ -237,11 +237,12 @@ function renderAt(t){
   for(const q of CAPS) if(t>=q[0]-.05&&t<q[1]) c=q;
   if(!c){cap.style.opacity=0;}
   else{
-    const words=c[2].split(' '), dur=Math.min(1.6,(c[1]-c[0])*.55);
+    const words=c[2].split(' '), dur=c[3]*.92, tot=c[2].replace(/\*/g,'').length; let acc=0;
+    const starts=words.map(w=>{const v=acc/tot; acc+=w.replace(/\*/g,'').length+1; return v;});
     const inA=prog(t,c[0],.18), outA=1-prog(t,c[1]-.18,.18);
     cap.style.opacity=Math.min(inA,outA);
     cap.innerHTML=words.map((w,i)=>{
-      const on=t>=c[0]+dur*i/words.length; const kw=w.startsWith('*'); const tx=w.replace(/\*/g,'');
+      const on=t>=c[0]+.12+dur*starts[i]; const kw=w.startsWith('*'); const tx=w.replace(/\*/g,'');
       return `<span style="color:${on?'#fff':'rgba(255,215,215,.38)'}">${kw?'<b>'+tx+'</b>':tx}</span>`;
     }).join(' ');
   }
