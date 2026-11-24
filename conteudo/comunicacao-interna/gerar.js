@@ -85,7 +85,8 @@ const ICONES_C = {
 const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : ICONES)[k]}</svg>`;
 // Variações de ícone: linha (A, padrão), selo (B: desenho branco no círculo vermelho), carinha (C).
 const ESTILO_ICONE = {
-  selo: `li .ico { background: var(--verm); } li .ico svg { stroke: #fff; } li .ico .v { stroke: #F0BEBF; } li .ico .f { fill: #F0BEBF; }`,
+  selo: `body { background: #F2ECE4; } .lembrete { background: #fff; } ol, li { border-color: #E2DBD0 !important; } .rodape { border-top-color: #E2DBD0; }
+    li .ico { background: var(--verm); } li .ico svg { stroke: #fff; } li .ico .v { stroke: #F0BEBF; } li .ico .f { fill: #F0BEBF; }`,
   carinha: `li .ico { padding: .16rem; background: #FBF4F4; } li .ico .r { fill: #F7DADB; } li .ico .p { fill: #1E1E1E; stroke: none; }
     li .ico .b { fill: var(--verm); stroke: #fff; stroke-width: 2; } li .ico .bw { stroke: #fff; stroke-width: 3.4; }`,
 };
