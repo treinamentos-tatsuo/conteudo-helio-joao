@@ -178,10 +178,11 @@ const ICONES_F = {
   'fechar-porta': `<path d="M36 6h22v52"/><path d="M38 8l14 4v42l-14 4z" class="r"/><circle cx="48" cy="34" r="1.6" class="p"/>
     ${BONECO(12, 12, [[39, 33], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M56 16q6 8 0 16" class="v"/><path d="M53 30l3 3 3-4" class="v"/>${OK(56, 52)}`,
   // Aula, luzes, portas
-  'silencio': `${BONECO(26, 14, [[24, 17], [34, 34]], { pernas: [[-6, 22], [6, 22]] })}<path d="M23.5 15v5" class="v" stroke-width="2"/>
-    <rect x="42" y="26" width="12" height="22" rx="2.5" class="w"/><path d="M45 31h6" stroke-width="1.4"/>
-    <path d="M45 40q0-5 3-5t3 5l1 2H44z" stroke-width="1.6"/><path d="M43 34l10 10" class="v" stroke-width="2"/>
-    <path d="M9 12q-3 3 0 6M5 9q-5 6 0 12" class="v" stroke-width="2" stroke-dasharray="2 2"/>`,
+  'silencio': `${BONECO(30, 16, [[24, 36], [38, 34]], { pernas: [[-6, 21], [6, 21]] })}
+    <path d="M3 3h16a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3h-6l-5 5v-5H3a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3z" class="w" stroke-width="2"/>
+    <text x="11" y="12.6" font-family="Anton" font-size="7.6" fill="#8E2B2F" stroke="none" text-anchor="middle">SHH!</text>
+    <rect x="44" y="26" width="12" height="22" rx="2.5" class="w"/><path d="M47 31h6" stroke-width="1.4"/>
+    <path d="M47 40q0-5 3-5t3 5l1 2H46z" stroke-width="1.6"/><path d="M45 34l10 10" class="v" stroke-width="2"/>`,
   'interruptor': `<rect x="34" y="18" width="12" height="18" rx="2" class="w"/><path d="M40 23v4" stroke-width="2.6"/>
     <circle cx="54" cy="16" r="6" class="w"/><path d="M51 23h6M52 26h4"/><path d="M50 12l8 8" class="v" stroke-width="2"/>
     ${BONECO(14, 12, [[34, 25], [8, 33]], { pernas: [[-5, 23], [5, 23]] })}
@@ -412,11 +413,38 @@ const comParede = modelo => (w, h, dados) => {
   .regua { background: var(--verm) !important; }
   .linha { color: #3B3A3A; }
   .rodape { border-top-color: var(--fio) !important; }
-  .marca { color: #3B3A3A !important; }</style>`;
+  .marca { color: #3B3A3A !important; }
+  li .ico, .ico { background: none !important; border-radius: 0 !important; padding: 0 !important; }
+  li.ic .ico { width: 2.7rem; height: 2.7rem; } li.ic { padding: .22rem 0; gap: .7rem; }
+  .ico svg { width: 100%; height: 100%; display: block; stroke: #3B3A3A; stroke-width: 2.4; }
+  .ico .v { stroke: #8E2B2F; } .ico .f { fill: #8E2B2F; stroke: none; } .ico .r { fill: #F1E1DE; } .ico .p { fill: #3B3A3A; stroke: none; } .ico .w { fill: #fff; }
+  .ico .b { fill: #8E2B2F; stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
+  .ico .ok { fill: #3B3A3A; stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }
+  .ico .sf { fill: #3B3A3A; stroke: none; } .ico .sm { stroke: #3B3A3A; stroke-width: 5.4; }</style>`;
   return modelo(w, h, dados).replace('</style>', css).replace('<body>', `<body>${enso(7)}`).replace(/#A00F0F/g, '#8E2B2F');
 };
+
+// Placas de destaque em bordô: fundo bordô, ensō num bordô mais escuro, títulos em Anton branco, bonequinho branco.
+const comBordo = modelo => (w, h, dados) => {
+  const lado = w * 1.25;
+  const css = `
+  html, body { overflow: hidden; }
+  body { background: #8C1C1C !important; color: #fff !important; }
+  .diag { display: none; }
+  .enso { position: absolute; z-index: 0; opacity: .55; width: ${lado}mm; height: ${lado}mm; left: ${-w * .08}mm; top: ${h * .16}mm; }
+  header, main, .rodape { position: relative; z-index: 1; }
+  .titulo, .titulo .fit { font-family: 'Anton', sans-serif !important; font-weight: 400 !important; text-transform: uppercase; letter-spacing: .02em; color: #fff; }
+  .kicker { color: rgba(255,255,255,.8) !important; }
+  .regua { background: #fff !important; }
+  .linha, .marca { color: #fff !important; }
+  .rodape { border-top-color: rgba(255,255,255,.3) !important; }
+  .ico svg { width: 100%; height: 100%; display: block; stroke: #3B3A3A; stroke-width: 2.4; }
+  .ico .sf { fill: #fff; stroke: none; } .ico .sm { stroke: #fff; stroke-width: 5.4; }
+  .ico .w { fill: #fff; } .ico .r { fill: #F1E1DE; } .ico .v { stroke: #8E2B2F; } .ico .f { fill: #8E2B2F; stroke: none; }</style>`;
+  return modelo(w, h, dados).replace('</style>', css).replace('<body>', `<body>${enso(7)}`).replace('stroke="#9E9892"', 'stroke="#5A0F10"');
+};
 // Aviso de destaque: fundo vermelho da capa, título branco em serifa. Unidade = largura/10.
-function destaque(w, h, { kicker, titulo, linhas }) {
+function destaque(w, h, { kicker, titulo, linhas, ico }) {
   const css = `
   body { background: var(--capa); color: #fff; padding: 1rem .85rem .6rem; }
   .diag line { stroke: #fff; stroke-opacity: .22; }
@@ -426,11 +454,13 @@ function destaque(w, h, { kicker, titulo, linhas }) {
   .regua { background: #fff; width: 1.3rem; height: .05rem; margin: .55rem 0 .5rem; }
   .linha { font-size: .46rem; line-height: 1.45; }
   .rodape { border-top-color: rgba(255,255,255,.3); padding-top: .3rem; }
-  .marca { font-size: .22rem; letter-spacing: .3em; } .apoio { display: none; }`;
+  .marca { font-size: .22rem; letter-spacing: .3em; } .apoio { display: none; }
+  .dico { display: block; width: 3rem; height: 3rem; margin: .45rem 0 0 -.2rem; }`;
   return pagina(w, h, w / 10, css, `${DIAG(4.2, .6)}
   <main>
     <div class="kicker">${kicker}</div>
     <h1 class="titulo">${titulo.map(t => `<div><span class="fit">${t}</span></div>`).join('')}</h1>
+    ${ico ? `<span class="ico dico">${icone(ico, 'bonecos')}</span>` : ''}
     <div class="regua"></div>
     ${linhas.map(l => `<div class="linha">${l}</div>`).join('')}
   </main>
@@ -567,6 +597,12 @@ const PLACAS = [
     for (const nome of ['placa-copa', 'placa-sala-reuniao', 'placa-sala-aula', 'placa-luzes-ar', 'placa-buffet-banheiros',
       ...['banheiro-masculino', 'banheiro-feminino', 'sala-de-aula', 'sala-de-reuniao', 'copa', 'recepcao', 'restrito'].map(x => `placas-porta/porta-${x}`)]) {
       const [n, w, h, modelo, dados, dpi] = P(nome);
+      const extra = n === 'placa-copa' ? { estilo: 'bonecos', itens: [['Lave, seque e guarde a sua louça', 'louca'], ['Identifique seus alimentos com nome e data', 'etiqueta'],
+          ['Não deixe comida vencida na geladeira', 'vencida'], [`Limpe o que sujar: pia, mesa e micro${NBH}ondas`, 'limpar'], ['Jogue o lixo no lugar certo', 'lixo-certo']] }
+        : null;
+      if (extra) { PLACAS.push([D + n, w, h, comParede(modelo), { ...dados, ...extra }, dpi]); continue; }
+      if (n === 'placa-sala-aula' || n === 'placa-luzes-ar') {
+        PLACAS.push([D + n, w, h, comBordo(modelo), { ...dados, ico: n === 'placa-sala-aula' ? 'silencio' : 'interruptor' }, dpi]); continue; }
       const ico = n.endsWith('porta-banheiro-masculino') ? 'executivo' : n.endsWith('porta-banheiro-feminino') ? 'executiva' : null;
       PLACAS.push([D + n, w, h, comParede(modelo), ico ? { ...dados, ico } : dados, dpi]);
     }
