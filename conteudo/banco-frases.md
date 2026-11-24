@@ -769,7 +769,7 @@ compartilha. Advertências continuam válidas como variação, mas com previsão
 - **De quem é:** Aristóteles (o caráter se forma com hábito guiado). **Lei:** quem está crescendo precisa de estrutura, não de grito. **Cena:** muda pequena amarrada a uma estaca de bambu. **Atenção:** planta já no 249 (vaso seco, 20/10); espaçar.
 - **Construções:** A. "Muda torta se endireita com estaca, não com bronca." · B. "Ninguém endireita planta no grito." · C. "Quem cresce precisa de estaca."
 
-### 106. Faca cega corta mais o dedo. — `em produção (post J420, 24/11, semana 24-30/11)`
+### 106. Faca cega corta mais o dedo. — `descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal)`
 - **De quem é:** Sêneca (o despreparo é mais perigoso que o risco). **Lei:** o que você deixa de afiar machuca quem usa; força no lugar de preparo escorrega. **Atenção:** a faca já apareceu no 76 (a pedra que amola), com outra tese.
 - **Construções:** A. "Faca cega corta mais o dedo." · B. "Quem não afia faz força. E quem faz força se corta." · C. "O perigo é a faca sem fio."
 
@@ -897,9 +897,9 @@ Opções de 09/11 pra última frase da semana:
 | # | Frase | Conceito | Imagem possível | Atenção / status |
 |---|---|---|---|---|
 | 149 | Planta não cresce mais rápido porque você puxa. | pressa não acelera o que tem tempo próprio | a mão puxando a muda no vaso | candidata |
-| 150 | Quem empurra com a barriga engorda o problema. | o que se adia cresce | a pilha de envelopes fechados na mesa | em produção (post J428, 24/11, semana 24-30/11) |
+| 150 | Quem empurra com a barriga engorda o problema. | o que se adia cresce | a pilha de envelopes fechados na mesa | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
 | 151 | Ferida que você cutuca não fecha. | remoer o que doeu impede de sarar | o joelho com o curativo descolado | em produção (post J387, 16/11, versão curta \"Ferida cutucada não fecha.\") |
-| 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | em produção (post J426, 24/11, semana 24-30/11) |
+| 152 | Quem guarda tudo não acha nada. | acumular tira a clareza do que importa | a gaveta entulhada | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
 | 153 | Ponte se constrói antes de precisar atravessar. | relação se cultiva antes da necessidade | a ponte de madeira sobre o riacho | em produção (post J378, 16/11) |
 | 154 | Peso na mochila se resolve tirando, não aguentando. | aliviar o que não precisa em vez de só suportar | a mochila aberta com pedras dentro | candidata |
 
@@ -911,10 +911,10 @@ Opções de 09/11 pra última frase da semana:
 |---|---|---|---|
 | 155 | Mapa não anda por você. | saber o caminho não substitui caminhar | em produção (post J382, 16/11) |
 | 156 | Semente não mostra a raiz. | o que sustenta cresce primeiro, escondido | em produção (post J383, 16/11) |
-| 157 | Corda esticada demais arrebenta. | todo mundo tem limite; descanso é parte do esforço | em produção (post J419, 24/11, semana 24-30/11) |
-| 158 | Fósforo só acende uma vez. | tem momento que não volta | em produção (post J423, 24/11, semana 24-30/11) |
+| 157 | Corda esticada demais arrebenta. | todo mundo tem limite; descanso é parte do esforço | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 158 | Fósforo só acende uma vez. | tem momento que não volta | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
 | 159 | Sapato novo aperta antes de servir. | toda mudança incomoda antes de ajustar | em produção (post J384, 16/11) |
-| 160 | Nó apertado se desfaz com calma. | problema embolado piora com pressa | em produção (post J424, 24/11, semana 24-30/11) |
+| 160 | Nó apertado se desfaz com calma. | problema embolado piora com pressa | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
 | 161 | Raiz funda não teme vento. | quem tem base atravessa a crise | em produção (post J385, 16/11) |
 | 162 | Ninguém tropeça em montanha. | o que derruba é o pequeno que ninguém olhou | em produção (post J386, 16/11); vizinha da goteira (148) |
 | 163 | Promessa não enche panela. | o que alimenta é o feito, não o dito | em produção (post J388, 16/11) |
@@ -965,11 +965,30 @@ Opções de 09/11 pra última frase da semana:
 
 | # | Dia | Frase | Conceito | Status |
 |---|---|---|---|---|
-| 190 | ter 24 | Pão de ontem não mata a fome de hoje. | não dá pra viver do resultado passado | em produção (post J416, 24/11) |
-| 191 | ter 24 | Mão fechada não recebe. | quem não se abre não recebe | em produção (post J417, 24/11) |
-| 192 | qua 25 | Quem dirige pelo retrovisor bate. | viver olhando pra trás tira o caminho da frente | em produção (post J418, 24/11) |
-| 193 | qui 26 | Vento não empurra barco amarrado. | oportunidade não ajuda quem não se solta | em produção (post J421, 24/11) |
-| 194 | sex 27 | Fruta colhida verde não adoça. | pressa estraga o que precisava de tempo | em produção (post J422, 24/11) |
-| 195 | sáb 28 | Água parada cria bicho. | o que não se mexe apodrece | em produção (post J425, 24/11) |
-| 196 | dom 29 | O rio não briga com a pedra. | contornar também é chegar | em produção (post J427, 24/11) |
-| 197 | seg 30 | Freio de mão puxado cansa o motor. | medo trava e ainda gasta energia | em produção (post J429, 24/11) |
+| 190 | ter 24 | Pão de ontem não mata a fome de hoje. | não dá pra viver do resultado passado | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 191 | ter 24 | Mão fechada não recebe. | quem não se abre não recebe | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 192 | qua 25 | Quem dirige pelo retrovisor bate. | viver olhando pra trás tira o caminho da frente | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 193 | qui 26 | Vento não empurra barco amarrado. | oportunidade não ajuda quem não se solta | em produção (post J421, aprovada 24/11, vai na qui 26/11) |
+| 194 | sex 27 | Fruta colhida verde não adoça. | pressa estraga o que precisava de tempo | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 195 | sáb 28 | Água parada cria bicho. | o que não se mexe apodrece | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 196 | dom 29 | O rio não briga com a pedra. | contornar também é chegar | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+| 197 | seg 30 | Freio de mão puxado cansa o motor. | medo trava e ainda gasta energia | descartada (João 24/11: só a 6 aprovada; refazer partindo da lei universal) |
+
+## Lote 29 — refação da semana 24-30/11 partindo da lei universal (24/11, a crivar pelo João)
+
+> João em 24/11: "ao construir uma frase, partir da idéia da lei universal primeiro, e depois de elementos do cotidiano para construir a frase como metáfora". Do lote 28 só a 193 (barco, J421) passou. Cada linha abaixo nasce da lei; o objeto vem depois. Qui 26/11 já tem a J421.
+
+| # | Dia | Lei universal | Frase (metáfora) | Status |
+|---|---|---|---|---|
+| 198 | ter 24 | quem tem conteúdo não precisa se exibir | Espiga cheia se curva. | candidata |
+| 199 | ter 24 | a gente colhe o que planta | Quem planta chuchu não colhe manga. | candidata |
+| 200 | qua 25 | ninguém dá o que não tem | Poço seco não mata a sede de ninguém. | candidata |
+| 201 | qua 25 | sozinho ninguém sustenta nada grande | Um fio sozinho não faz rede. | candidata |
+| 202 | sex 27 | o que não se cuida se perde | Jardim sem dono vira mato. | candidata |
+| 203 | sex 27 | a mentira cobre de um lado e descobre do outro | Mentira é cobertor curto. | candidata |
+| 204 | sáb 28 | palavra dita não volta | Pena solta no vento não volta pro travesseiro. | candidata |
+| 205 | sáb 28 | quem quer tudo fica sem nada | Quem corre atrás de duas galinhas não pega nenhuma. | candidata |
+| 206 | dom 29 | o exemplo ensina mais que a palavra | Patinho aprende a nadar atrás da mãe. | candidata |
+| 207 | dom 29 | quem se adapta resiste | Bambu enverga, mas não quebra. | candidata (= 113) |
+| 208 | seg 30 | o que não se alimenta morre | Fogo que ninguém alimenta apaga. | candidata |
+| 209 | seg 30 | é na dificuldade que se conhece o valor | Telhado bom se conhece na chuva. | candidata |

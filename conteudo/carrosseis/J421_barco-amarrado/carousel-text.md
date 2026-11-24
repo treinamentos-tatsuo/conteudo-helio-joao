@@ -8,6 +8,6 @@
 
 **Legenda:** `legenda.txt` v1, termina no CTA fixo (legenda.py: OK).
 
-**Status:** aguardando o João escolher uma das duas do dia. Etiqueta só da escolhida.
+**Status:** APROVADA pelo João em 24/11 ("a única que foi aprovada foi a 6"), a única das 14 da semana; as outras 13 foram descartadas pra refazer partindo da lei universal. Vai na quinta 26/11. Etiquetada em 24/11 (mediana, 45-200 shares).
 
-**Entrega:** `~/Desktop/FRASES DA SEMANA 24-11 a 30-11/3 QUI 26-11/Opção 2 - J421_barco-amarrado/`.
+**Entrega:** `~/Desktop/POSTS/Frase sem rosto/NP J421_barco-amarrado/` (antes em `~/Desktop/FRASES DA SEMANA 24-11 a 30-11/3 QUI 26-11/Opção 2 - J421_barco-amarrado/`.
