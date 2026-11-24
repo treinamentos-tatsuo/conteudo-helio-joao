@@ -149,7 +149,7 @@ function enso(seed = 11) {
     <g fill="none" stroke="#9E9892" stroke-linecap="round" filter="url(#pincel)">${tracos}</g></svg>`;
 }
 
-function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda }) {
+function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, estilo }) {
   const css = `
   :root { --graf: #3B3A3A; --vinho: #8E2B2F; }
   body { background: #F4F2EE; color: var(--graf); padding: 2.4rem 2rem 1.2rem; align-items: center; text-align: center; }
@@ -169,6 +169,10 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda })
   .ico { flex: none; width: 1.75rem; height: 1.75rem; }
   .ico svg { width: 100%; height: 100%; display: block; stroke: var(--graf); }
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
+  ${estilo === 'selo' ? `.ico { width: 2rem; height: 2rem; border-radius: 50%; background: var(--vinho); padding: .3rem; }
+    .ico svg { stroke: #fff; } .ico .v { stroke: #EBC9C9; } .ico .f { fill: #EBC9C9; }` : ''}
+  ${estilo === 'carinha' ? `.ico { width: 2rem; height: 2rem; } .ico .r { fill: #EAD9D6; } .ico .p { fill: var(--graf); stroke: none; }
+    .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.4; }` : ''}
   .lembrete { margin-top: 1.1rem; font-size: .8rem; line-height: 1.2; }
   .lembrete .cursiva { display: block; font-family: 'Great Vibes', cursive; font-size: 2rem; line-height: 1.05; color: var(--vinho); margin: .05rem 0 .1rem; }
   .rodape { width: 100%; justify-content: center; border-top: 0; padding-top: .4rem; }
@@ -177,7 +181,7 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda })
   <div class="kanji">${[...kanji].map(k => `<b>${k}</b>`).join('')}<span>${kanjiLegenda}</span></div>
   <header><div class="ligacao">${kicker}</div><h1 class="titulo">${titulo}</h1><div class="regua"></div></header>
   <main>
-    <ol>${itens.map(([t, k]) => `<li><span class="ico">${icone(k)}</span><span>${t}</span></li>`).join('')}</ol>
+    <ol>${itens.map(([t, k]) => `<li><span class="ico">${icone(k, estilo)}</span><span>${t}</span></li>`).join('')}</ol>
     <div class="lembrete">${lembrete3[0]}<span class="cursiva">${lembrete3[1]}</span>${lembrete3[2]}</div>
   </main>
   ${rodape()}`);
@@ -297,9 +301,10 @@ const PLACAS = [
     const base = PLACAS.find(p => p[0] === `placa-banheiro-${sexo}`);
     for (const [letra, estilo] of [['A', 'linha'], ['B', 'selo'], ['C', 'carinha']])
       PLACAS.push([`opcoes-icones/banheiro-${sexo}-${letra}-${estilo}`, base[1], base[2], lista, { ...base[4], estilo }]);
-    PLACAS.push([`opcoes-icones/banheiro-${sexo}-D-parede`, base[1], base[2], parede, { ...base[4],
-      kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO',
-      lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] }]);
+    for (const [sufixo, estilo] of [['', 'linha'], ['-selo', 'selo'], ['-carinha', 'carinha']])
+      PLACAS.push([`opcoes-icones/banheiro-${sexo}-D-parede${sufixo}`, base[1], base[2], parede, { ...base[4], estilo,
+        kicker: `banheiro ${sexo}`, kanji: '清潔', kanjiLegenda: 'ASSEIO',
+        lembrete3: ['Lembre-se: depois de você,', 'outras pessoas', 'vão usar este banheiro.'] }]);
   }
   const b = await chromium.launch();
   for (const [nome, w, h, modelo, dados, dpi = 300] of PLACAS) {
