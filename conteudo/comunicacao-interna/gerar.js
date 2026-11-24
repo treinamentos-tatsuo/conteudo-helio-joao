@@ -116,67 +116,83 @@ const CABECA = (x, y, cara = 'feliz') => `<circle cx="${x}" cy="${y}" r="5.2" cl
   + (cara === 'susto' ? `<ellipse cx="${x}" cy="${y + 2.4}" rx="1.1" ry="1.5" class="p"/>` : `<path d="M${x - 2} ${y + 1.6}q2 2.2 4 0" stroke-width="1.6"/>`);
 const OK = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="ok"/><path d="M${x - 3.6} ${y + .2}l2.6 2.8 4.8-5.6" class="okw"/>`;
 const NAO8 = (x, y) => `<circle cx="${x}" cy="${y}" r="7.5" class="b"/><path d="M${x - 5} ${y - 5}l10 10" class="bw"/>`;
+// Bonequinho fofo: cabeça grande com topete, olhinhos com brilho e bochechas; corpo arredondado; mãos e pés.
+// x, y = centro da cabeça. bracos = pontas das mãos [[x, y], [x, y]]. pernas = deslocamento dos pés a partir do quadril.
+const BONECO = (x, y, bracos, { cara = 'feliz', pernas = [[-6, 21], [6, 21]] } = {}) => {
+  const ombro = y + 10, quadril = y + 23;
+  const membros = bracos.map(([ex, ey], k) => `<path d="M${x + (k ? 3 : -3)} ${ombro}L${ex} ${ey}" class="m"/>`).join('')
+    + pernas.map(([dx, dy], k) => `<path d="M${x + (k ? 2.5 : -2.5)} ${quadril}l${dx - (k ? 2.5 : -2.5)} ${dy - 1.5}" class="m"/>`).join('');
+  const maos = bracos.map(([ex, ey]) => `<circle cx="${ex}" cy="${ey}" r="2.1" class="r" stroke-width="1.6"/>`).join('');
+  const pes = pernas.map(([dx, dy]) => `<ellipse cx="${x + dx + (dx < 0 ? -1 : 1)}" cy="${quadril + dy - .6}" rx="2.8" ry="1.6" class="ped"/>`).join('');
+  const boca = cara === 'susto' ? `<ellipse cx="${x}" cy="${y + 2.6}" rx="1.2" ry="1.6" class="p"/>`
+    : `<path d="M${x - 2} ${y + 1.8}q2 2.4 4 0" stroke-width="1.5"/>`;
+  return `${membros}${pes}<rect x="${x - 5}" y="${y + 6.5}" width="10" height="${quadril - y - 5}" rx="4.5" class="corpo" stroke-width="2"/>${maos}
+    <circle cx="${x}" cy="${y}" r="6.4" class="r" stroke-width="2"/><path d="M${x - 1.5} ${y - 6.2}q1.5-3.6 4-1.6" stroke-width="1.6"/>
+    <circle cx="${x - 2.3}" cy="${y - .6}" r="1.15" class="p"/><circle cx="${x + 2.3}" cy="${y - .6}" r="1.15" class="p"/>
+    <circle cx="${x - 1.9}" cy="${y - 1}" r=".4" class="w" stroke="none"/><circle cx="${x + 2.7}" cy="${y - 1}" r=".4" class="w" stroke="none"/>
+    <ellipse cx="${x - 3.9}" cy="${y + 1.6}" rx="1.4" ry=".9" class="bo"/><ellipse cx="${x + 3.9}" cy="${y + 1.6}" rx="1.4" ry=".9" class="bo"/>${boca}`;
+};
 const ICONES_F = {
+  'nao-subir': `<rect x="36" y="32" width="10" height="16" rx="2" class="r"/><path d="M6 48h34c0 6-5 9-12 10l1 5H16l1-5C10 57 6 54 6 48z" class="r"/>
+    ${BONECO(21, 13, [[11, 18], [31, 17]], { cara: 'susto', pernas: [[-7, 11], [7, 11]] })}<path d="M6 12q-3 3 0 6M36 12q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
+  'limpo': `<rect x="27" y="13" width="7" height="11" rx="2" class="r"/><path d="M28 13v-3h5v3M33 10h4"/>
+    <circle cx="41" cy="9" r="1.2" class="f"/><circle cx="44" cy="13" r="1.2" class="f"/><circle cx="40" cy="15" r="1.1" class="f"/>
+    <path d="M32 58h26"/>${ESTRELA(48, 40, 5)}${ESTRELA(56, 48, 3.2)}${ESTRELA(38, 47, 3)}
+    ${BONECO(15, 12, [[27, 19], [8, 33]], { pernas: [[-5, 22], [5, 22]] })}${OK(54, 11)}`,
+  'tampa': `<rect x="48" y="26" width="10" height="18" rx="2" class="r"/><rect x="42" y="12" width="5.5" height="30" rx="2.5" class="r"/>
+    <path d="M24 44h34c0 6-5 9-12 10l1 6H35l1-6C29 53 24 50 24 44z" class="r"/>
+    ${BONECO(12, 12, [[40, 17], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M35 9q4-5 9-5" class="v"/><path d="M41 2l3 2-2 3" class="v"/>${OK(56, 9)}`,
+  'papel': `${BONECO(12, 12, [[21, 8], [5, 31]], { pernas: [[-5, 23], [5, 23]] })}<circle cx="25" cy="7" r="3.4" class="w"/>
+    <path d="M29 9q13-2 18 18" class="v" stroke-dasharray="3 3"/><path d="M43 24l4 4 3-5" class="v"/>
+    <path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/>${OK(54, 10)}`,
+  'descarga': `<rect x="34" y="22" width="24" height="13" rx="2" class="r"/><circle cx="46" cy="20" r="2.6" class="f"/>
+    <path d="M33 37h26c0 7-5 11-12 11l1 8h-4l1-8C38 48 33 44 33 37z" class="r"/><path d="M39 41q7 5 14 0" class="v"/>
+    ${BONECO(12, 12, [[43, 19], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M44 12l2-4M49 13l3-3" class="v"/>${OK(57, 6.5)}`,
+  'nao-chao': `<rect x="48" y="24" width="10" height="16" rx="2" class="r"/><path d="M30 40h28c0 6-5 9-11 10l1 6H38l1-6C34 49 30 46 30 40z" class="r"/>
+    <ellipse cx="17" cy="60" rx="13" ry="3.4" class="r"/>${BONECO(16, 13, [[10, 15], [22, 15]], { cara: 'susto', pernas: [[-5, 18], [5, 18]] })}
+    <path d="M4 50l-2-3M30 50l2-3" class="v"/>${NAO8(54, 11)}`,
+  'absorvente': `<path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/>${BONECO(13, 12, [[36, 20], [7, 33]], { pernas: [[-5, 23], [5, 23]] })}
+    <rect x="40" y="22" width="11" height="6.5" rx="2.5" class="w"/><path d="M45.5 30v3" class="v"/>${OK(55, 10)}`,
   // Copa
   'louca': `<path d="M28 40h32"/><path d="M33 40v5q0 7 7 7h10q7 0 7-7v-5" class="r"/><path d="M45 40V30h7v4"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l15 5M12 28l15 3"/>${CABECA(12, 13)}<ellipse cx="30" cy="30.5" rx="5.5" ry="2.2" class="w"/>
+    ${BONECO(12, 12, [[26, 29], [26, 32]], { pernas: [[-5, 23], [5, 23]] })}<ellipse cx="30" cy="30.5" rx="5.5" ry="2.2" class="w"/>
     <circle cx="37" cy="24" r="2" class="v"/><circle cx="42" cy="19" r="1.5" class="v"/><circle cx="35" cy="17" r="1.2" class="v"/>${OK(55, 10)}`,
   'etiqueta': `<path d="M30 32h28"/><rect x="32" y="32" width="24" height="22" rx="3" class="r"/><rect x="37" y="38" width="14" height="9" rx="1" class="w"/>
-    <path d="M40 41h8M40 44h5" stroke-width="1.6"/><path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l20 12M12 28l-6 7"/>${CABECA(12, 13)}<path d="M32 36l5-6" class="v"/>${OK(55, 10)}`,
+    <path d="M40 41h8M40 44h5" stroke-width="1.6"/>${BONECO(12, 12, [[31, 35], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M32 35l5-6" class="v"/>${OK(55, 10)}`,
   'vencida': `<rect x="32" y="8" width="24" height="50" rx="3" class="r"/><path d="M32 24h24M37 14v5M37 30v8"/>
-    <path d="M60 30q3-3 0-6t0-6M60 46q3-3 0-6t0-6" class="v"/><path d="M14 38V20M14 38l-6 20M14 38l6 20M14 25l3-9M14 27l-7 6"/>${CABECA(14, 13, 'susto')}
-    <path d="M24 10q3-2 0-5M26 18q3-2 0-5" class="v" stroke-width="2"/>${NAO8(55, 6)}`,
+    <path d="M60 30q3-3 0-6t0-6M60 46q3-3 0-6t0-6" class="v"/>${BONECO(14, 12, [[15, 15], [7, 32]], { cara: 'susto', pernas: [[-5, 23], [5, 23]] })}
+    <path d="M24 9q3-2 0-5M26 17q3-2 0-5" class="v" stroke-width="2"/>${NAO8(55, 6)}`,
   'limpar': `<path d="M26 44h34M30 44v14M56 44v14"/><rect x="44" y="30" width="14" height="14" rx="2" class="r"/><rect x="46" y="33" width="7" height="8" rx="1" class="w"/>
-    <rect x="32" y="40" width="9" height="4" rx="1" class="w"/><path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l22 16M12 28l-6 7"/>${CABECA(12, 13)}
+    <rect x="32" y="40" width="9" height="4" rx="1" class="w"/>${BONECO(12, 12, [[34, 39], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}
     ${ESTRELA(30, 30, 3.5)}${ESTRELA(38, 33, 2.5)}${OK(55, 10)}`,
   'lixo-certo': `<path d="M34 38h12l-2 18h-8zM48 38h12l-2 18h-8z" class="r"/><path d="M32 38h16M46 38h16"/><path d="M38 46h4M52 46l2 3 2-3" stroke-width="1.6"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l8-9M12 27l-7 6"/>${CABECA(12, 13)}<rect x="20" y="9" width="5" height="5" rx="1" class="w"/>
-    <path d="M27 12q12-4 14 20" class="v" stroke-dasharray="3 3"/><path d="M37 29l4 4 3-5" class="v"/>${OK(55, 10)}`,
+    ${BONECO(12, 12, [[20, 8], [5, 31]], { pernas: [[-5, 23], [5, 23]] })}<rect x="20" y="3" width="5" height="5" rx="1" class="w"/>
+    <path d="M27 7q12-4 14 22" class="v" stroke-dasharray="3 3"/><path d="M37 26l4 4 3-5" class="v"/>${OK(55, 10)}`,
   // Sala de reunião
   'cadeiras': `<path d="M40 34h22M44 34v24M58 34v24"/><path d="M24 44h12v4H24z" class="r"/><path d="M24 28v30M24 44h12M36 44v14"/>
-    <path d="M10 38V19M10 38l-6 20M10 38l6 20M10 24l14 6M10 28l14 3"/>${CABECA(10, 13)}<path d="M28 22h9M34 19l3 3-3 3" class="v"/>${OK(55, 10)}`,
+    ${BONECO(10, 12, [[23, 30], [23, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M28 22h9M34 19l3 3-3 3" class="v"/>${OK(55, 10)}`,
   'mesa': `<path d="M28 42h32M32 42v16M56 42v16"/>${ESTRELA(38, 34, 4)}${ESTRELA(50, 36, 3)}
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l12-2M12 28l-6 7"/>${CABECA(12, 13)}<path d="M24 16h7l-1 9h-5z" class="w"/><path d="M31 18h2v4h-2"/>${OK(55, 10)}`,
+    ${BONECO(12, 12, [[24, 21], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M24 14h7l-1 9h-5z" class="w"/><path d="M31 16h2v4h-2"/>${OK(55, 10)}`,
   'quadro': `<rect x="30" y="8" width="30" height="24" rx="1" class="w"/><path d="M36 32v24M54 32v24"/>
     <path d="M34 14q3-3 6 0t6 0" class="v" stroke-width="2"/><rect x="40" y="19" width="9" height="5" rx="1" class="r"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l28-3M12 28l-6 7"/>${CABECA(12, 13)}${OK(56, 44)}`,
+    ${BONECO(12, 12, [[40, 22], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}${OK(56, 44)}`,
   'desligar': `<rect x="32" y="16" width="12" height="18" rx="2" class="w"/><path d="M38 21v4" stroke-width="2.6"/>
     <circle cx="53" cy="14" r="6" class="w"/><path d="M50 21h6M51 24h4"/>
     <rect x="44" y="40" width="18" height="8" rx="2" class="w"/><path d="M47 45h12" stroke-width="1.4"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l21 1M12 28l-6 7"/>${CABECA(12, 13)}${OK(54, 58)}`,
+    ${BONECO(12, 12, [[33, 25], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}${OK(54, 58)}`,
   'fechar-porta': `<path d="M36 6h22v52"/><path d="M38 8l14 4v42l-14 4z" class="r"/><circle cx="48" cy="34" r="1.6" class="p"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l28 10M12 28l-6 7"/>${CABECA(12, 13)}<path d="M56 16q6 8 0 16" class="v"/><path d="M53 30l3 3 3-4" class="v"/>${OK(56, 52)}`,
+    ${BONECO(12, 12, [[39, 33], [6, 33]], { pernas: [[-5, 23], [5, 23]] })}<path d="M56 16q6 8 0 16" class="v"/><path d="M53 30l3 3 3-4" class="v"/>${OK(56, 52)}`,
   // Aula, luzes, portas
-  'silencio': `<path d="M26 40V22M26 40l-7 20M26 40l7 20M26 27l-6-6l1-6M26 30l7 6"/>${CABECA(26, 14)}<path d="M23 15v4" class="v"/>
+  'silencio': `${BONECO(26, 14, [[24, 17], [34, 34]], { pernas: [[-6, 22], [6, 22]] })}<path d="M23.5 15v5" class="v" stroke-width="2"/>
     <rect x="42" y="26" width="12" height="22" rx="2.5" class="w"/><path d="M45 31h6" stroke-width="1.4"/>
     <path d="M45 40q0-5 3-5t3 5l1 2H44z" stroke-width="1.6"/><path d="M43 34l10 10" class="v" stroke-width="2"/>
     <path d="M9 12q-3 3 0 6M5 9q-5 6 0 12" class="v" stroke-width="2" stroke-dasharray="2 2"/>`,
   'interruptor': `<rect x="34" y="18" width="12" height="18" rx="2" class="w"/><path d="M40 23v4" stroke-width="2.6"/>
     <circle cx="54" cy="16" r="6" class="w"/><path d="M51 23h6M52 26h4"/><path d="M50 12l8 8" class="v" stroke-width="2"/>
-    <path d="M14 38V19M14 38l-6 20M14 38l6 20M14 24l20 1M14 28l-6 7"/>${CABECA(14, 13)}
+    ${BONECO(14, 12, [[34, 25], [8, 33]], { pernas: [[-5, 23], [5, 23]] })}
     <rect x="38" y="44" width="22" height="9" rx="2" class="w"/><path d="M41 49h16" stroke-width="1.4"/><path d="M44 56l12-14" class="v" stroke-width="2"/>`,
-  'homem': `<circle cx="32" cy="10" r="7" class="r"/><path d="M22 20h20v20H22z" class="r"/><path d="M26 40v20M38 40v20M22 22l-4 16M42 22l4 16" stroke-width="4"/>`,
-  'mulher': `<circle cx="32" cy="10" r="7" class="r"/><path d="M26 20h12l8 24H18z" class="r"/><path d="M27 44v16M37 44v16M25 22l-6 14M39 22l6 14" stroke-width="4"/>`,
-  'nao-subir': `<rect x="36" y="32" width="10" height="16" rx="2" class="r"/><path d="M6 48h34c0 6-5 9-12 10l1 5H16l1-5C10 57 6 54 6 48z" class="r"/>
-    <path d="M21 36v-13M21 36l-7 11M21 36l7 11M21 27l-9-6M21 27l9-7"/>${CABECA(21, 15, 'susto')}<path d="M7 16q-3 3 0 6M35 16q3 3 0 6" class="v"/>${NAO8(54, 11)}`,
-  'limpo': `<path d="M16 36V18M16 36l-6 18M16 36l6 18M16 24l12-6M16 27l-6 7"/>${CABECA(16, 12)}
-    <rect x="27" y="13" width="7" height="11" rx="2" class="r"/><path d="M28 13v-3h5v3M33 10h4"/>
-    <circle cx="41" cy="9" r="1.2" class="f"/><circle cx="44" cy="13" r="1.2" class="f"/><circle cx="40" cy="15" r="1.1" class="f"/>
-    <path d="M32 54h26"/>${ESTRELA(48, 36, 5)}${ESTRELA(56, 44, 3.2)}${ESTRELA(38, 42, 3)}${OK(54, 11)}`,
-  'tampa': `<rect x="48" y="26" width="10" height="18" rx="2" class="r"/><rect x="42" y="12" width="5.5" height="30" rx="2.5" class="r"/>
-    <path d="M24 44h34c0 6-5 9-12 10l1 6H35l1-6C29 53 24 50 24 44z" class="r"/>
-    <path d="M13 38V19M13 38l-6 20M13 38l6 20M13 24l28-7M13 27l-6 8"/>${CABECA(13, 13)}<path d="M35 9q4-5 9-5" class="v"/><path d="M41 2l3 2-2 3" class="v"/>${OK(56, 9)}`,
-  'papel': `<path d="M12 36V17M12 36l-6 20M12 36l6 20M12 22l9-9M12 24l-7 7"/>${CABECA(12, 11)}<circle cx="25" cy="10" r="3.4" class="w"/>
-    <path d="M29 12q13-2 18 15" class="v" stroke-dasharray="3 3"/><path d="M43 24l4 4 3-5" class="v"/>
-    <path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/>${OK(54, 10)}`,
-  'descarga': `<rect x="34" y="22" width="24" height="13" rx="2" class="r"/><circle cx="46" cy="20" r="2.6" class="f"/>
-    <path d="M33 37h26c0 7-5 11-12 11l1 8h-4l1-8C38 48 33 44 33 37z" class="r"/><path d="M39 41q7 5 14 0" class="v"/>
-    <path d="M12 38V19M12 38l-6 20M12 38l6 20M12 24l31-5M12 27l-6 7"/>${CABECA(12, 13)}<path d="M44 12l2-4M49 13l3-3" class="v"/>${OK(57, 6.5)}`,
-  'nao-chao': `<rect x="48" y="24" width="10" height="16" rx="2" class="r"/><path d="M30 40h28c0 6-5 9-11 10l1 6H38l1-6C34 49 30 46 30 40z" class="r"/>
-    <ellipse cx="17" cy="59" rx="13" ry="3.6" class="r"/><path d="M16 38V20M16 38l-5 14M16 38l5 14M16 25l-6-8M16 25l6-8"/>${CABECA(16, 13, 'susto')}
-    <path d="M4 50l-2-3M30 50l2-3" class="v"/>${NAO8(54, 11)}`,
-  'absorvente': `<path d="M38 36h22l-3 22H41z" class="r"/><path d="M36 36h26"/><path d="M14 38V19M14 38l-6 20M14 38l6 20M14 24l22-3M14 27l-6 7"/>${CABECA(14, 13)}
-    <rect x="40" y="22" width="11" height="6.5" rx="2.5" class="w"/><path d="M45.5 30v3" class="v"/>${OK(55, 10)}`,
+  'homem': `${BONECO(32, 12, [[22, 36], [42, 36]], { pernas: [[-5, 26], [5, 26]] })}`,
+  'mulher': `${BONECO(32, 12, [[21, 34], [43, 34]], { pernas: [[-5, 26], [5, 26]] })}<path d="M27 22h10l6 17H21z" class="corpo" stroke-width="2"/>`,
 };
 const icone = (k, estilo) => `<svg viewBox="0 0 64 64" fill="none" stroke="#1E1E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">${(estilo === 'carinha' ? ICONES_C : estilo === 'divertido' ? ICONES_E : estilo === 'bonecos' ? ICONES_F : ICONES)[k]}</svg>`;
 // Variações de ícone: linha (A, padrão), selo (B: desenho branco no círculo vermelho), carinha (C).
@@ -270,7 +286,7 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   ${estilo === 'bonecos' ? `ol { width: 15.6rem; } .ico { width: 2.75rem; height: 2.75rem; } .ico svg { stroke-width: 2.4; } li { padding: .08rem 0; gap: .6rem; } .lembrete { margin-top: .35rem; } .lembrete .cursiva { font-size: 1.75rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .f { fill: var(--vinho); stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
-    .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }` : ''}
+    .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .m { stroke-width: 3.4; } .ico .corpo { fill: #D9B1AD; } .ico .bo { fill: #E9A3A0; stroke: none; } .ico .ped { fill: var(--graf); stroke: none; }` : ''}
   ${estilo === 'divertido' ? `.ico { width: 2.25rem; height: 2.25rem; } .ico svg { stroke-width: 2.6; } li { padding: .2rem 0; gap: .7rem; } .lembrete { margin-top: .7rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .bo { fill: #E6A4A1; stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3.2; }` : ''}
@@ -307,7 +323,7 @@ const PAREDE_CSS = `
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
   .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; }
   .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
-  .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }
+  .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; } .ico .m { stroke-width: 3.4; } .ico .corpo { fill: #D9B1AD; } .ico .bo { fill: #E9A3A0; stroke: none; } .ico .ped { fill: var(--graf); stroke: none; }
   .marca { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--graf); }`;
 const KANJI = (k, legenda) => `<div class="kanji">${[...k].map(c => `<b>${c}</b>`).join('')}${legenda ? `<span>${legenda}</span>` : ''}</div>`;
 
