@@ -227,7 +227,7 @@ function parede(w, h, { kicker, titulo, itens, lembrete3, kanji, kanjiLegenda, e
   .ico .v { stroke: var(--vinho); } .ico .f { fill: var(--vinho); stroke: none; }
   ${estilo === 'selo' ? `.ico { width: 2rem; height: 2rem; border-radius: 50%; background: var(--vinho); padding: .3rem; }
     .ico svg { stroke: #fff; } .ico .v { stroke: #EBC9C9; } .ico .f { fill: #EBC9C9; }` : ''}
-  ${estilo === 'bonecos' ? `.ico { width: 2.75rem; height: 2.75rem; } .ico svg { stroke-width: 2.4; } li { padding: .08rem 0; gap: .6rem; } .lembrete { margin-top: .35rem; } .lembrete .cursiva { font-size: 1.75rem; }
+  ${estilo === 'bonecos' ? `ol { width: 15.6rem; } .ico { width: 2.75rem; height: 2.75rem; } .ico svg { stroke-width: 2.4; } li { padding: .08rem 0; gap: .6rem; } .lembrete { margin-top: .35rem; } .lembrete .cursiva { font-size: 1.75rem; }
     .ico .r { fill: #F1E1DE; } .ico .p { fill: var(--graf); stroke: none; } .ico .w { fill: #fff; } .ico .f { fill: var(--vinho); stroke: none; }
     .ico .b { fill: var(--vinho); stroke: #F4F2EE; stroke-width: 2; } .ico .bw { stroke: #fff; stroke-width: 3; }
     .ico .ok { fill: var(--graf); stroke: #F4F2EE; stroke-width: 2; } .ico .okw { stroke: #fff; stroke-width: 2.8; }` : ''}
