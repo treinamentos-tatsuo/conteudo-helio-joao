@@ -14,4 +14,4 @@
 
 **Legenda:** `legenda.txt`, curta, primeira pessoa, CTA pro link da bio.
 
-**Status:** aguardando o João escolher v1 ou v2. Etiqueta depois da escolha.
+**Status:** APROVADA pelo João em 25/11 ("aprovado salve na pasta com a legenda"), versão v1 (`instagram/vidro.png`). Etiquetada em 25/11 (mediana, 60-280 shares). Publicação a definir.
