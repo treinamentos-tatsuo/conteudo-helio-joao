@@ -1,0 +1,67 @@
+<!doctype html><html lang="pt-br"><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;background:#0A0A0A;overflow:hidden}
+.s{position:relative;width:1080px;height:1350px;background:#0A0A0A;font-family:'Montserrat',sans-serif;color:#fff}
+.ph{position:absolute;left:0;top:0;width:1080px;height:900px;background-size:cover;background-repeat:no-repeat}
+.fade{position:absolute;left:0;top:0;width:1080px;height:1350px;
+  background:linear-gradient(180deg,rgba(10,10,10,0) 0px,rgba(10,10,10,0) 430px,rgba(10,10,10,.55) 620px,rgba(10,10,10,.93) 760px,#0A0A0A 860px)}
+.txt{position:absolute;left:72px;right:72px;bottom:128px}
+h1{font-weight:900;text-transform:uppercase;letter-spacing:-0.02em;line-height:1.06;font-size:64px}
+h1 .l1{display:block}
+h1 .l2{display:inline;background:#A91C20;color:#fff;padding:2px 14px 4px;line-height:1.32;
+  -webkit-box-decoration-break:clone;box-decoration-break:clone;margin-left:-14px}
+.kk{display:inline-block;font-size:22px;font-weight:800;letter-spacing:0.16em;text-transform:uppercase;color:#fff;border:2px solid #A91C20;padding:6px 14px;margin-bottom:22px}
+.body{margin-top:34px}
+.body p{font-weight:500;font-size:33px;line-height:1.38;color:#E6E6E6}
+.body p+p{margin-top:20px}
+.body b{font-weight:800;color:#fff}
+.ft{position:absolute;left:72px;right:72px;bottom:56px;display:flex;align-items:center;justify-content:space-between;
+  font-size:21px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:#6B6B6B}
+.ft .h{display:flex;align-items:center;gap:14px}
+.ft .dm{width:14px;height:14px;background:#A91C20;transform:rotate(45deg)}
+.dots{display:flex;gap:10px}
+.dots i{width:10px;height:10px;border-radius:50%;background:#3A3A3A;display:block}
+.dots i.on{background:#A91C20}
+.half{position:absolute;top:0;width:540px;height:900px;background-size:cover;background-repeat:no-repeat}
+.half::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.72) 0,rgba(10,10,10,.62) 50%,rgba(10,10,10,.12) 60%,rgba(10,10,10,.12) 76%,rgba(10,10,10,.6) 100%)}
+.fade.fc{background:linear-gradient(180deg,rgba(10,10,10,0) 0px,rgba(10,10,10,0) 690px,rgba(10,10,10,.85) 800px,#0A0A0A 870px)}
+.hL{left:0}.hR{left:540px}
+.sep{position:absolute;left:537px;top:0;width:6px;height:900px;background:#fff}
+.tag{position:absolute;left:0;right:0;top:56px;text-align:center}
+.tag span{display:inline-block;background:#0A0A0A;border:2px solid #A91C20;color:#fff;font-weight:800;font-size:24px;letter-spacing:.14em;text-transform:uppercase;padding:10px 22px}
+.nb{position:absolute;top:150px;width:540px;text-align:center;padding:0 28px}
+.nb .br{font-weight:900;font-size:34px;letter-spacing:.22em;color:#fff;text-transform:uppercase;margin-bottom:22px}
+.nb .px{font-weight:800;font-size:30px;color:#fff;text-transform:uppercase;letter-spacing:.04em}
+.nb .vl{display:inline-block;font-weight:900;font-size:150px;line-height:1;letter-spacing:-0.03em;color:#fff;padding:8px 18px 12px;margin:6px 0}
+.nb .vl.win{background:#A91C20}
+.nb .vl.lose{color:#fff;text-shadow:0 4px 24px rgba(0,0,0,.8)}
+.nb .un{font-weight:800;font-size:26px;color:#fff;text-transform:uppercase;letter-spacing:.08em;line-height:1.25}
+
+.ih{position:absolute;left:0;right:0;top:52px;text-align:center}
+.ih h2{font-weight:900;font-size:76px;letter-spacing:-0.02em;line-height:1}
+.ih p{margin-top:14px;font-weight:700;font-size:26px;letter-spacing:.16em;text-transform:uppercase;color:#BDBDBD}
+.cards{position:absolute;top:212px;left:56px;right:56px;display:flex;gap:28px}
+.card{flex:1;height:170px;background-size:cover;background-position:center;border:2px solid #2A2A2A;position:relative}
+.card span{position:absolute;left:0;right:0;bottom:0;background:rgba(10,10,10,.82);text-align:center;font-weight:900;font-size:28px;letter-spacing:.2em;padding:8px 0}
+.rows{position:absolute;top:410px;left:56px;right:56px}
+.row{position:relative;height:160px;border-top:1px solid #2A2A2A}
+.row .lb{text-align:center;padding-top:16px;font-weight:700;font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:#9A9A9A}
+.row .c{position:absolute;top:56px;width:440px;text-align:center}
+.row .c.l{left:0}.row .c.r{right:0}
+.row .v{display:inline-block;font-weight:900;font-size:62px;line-height:1;letter-spacing:-0.02em;padding:6px 14px 8px}
+.row .v.win{background:#A91C20}
+.row .u{margin-top:6px;font-weight:600;font-size:19px;color:#BDBDBD;text-transform:uppercase;letter-spacing:.06em}
+.row .vs{position:absolute;left:50%;top:66px;transform:translateX(-50%);width:54px;height:54px;border-radius:50%;border:2px solid #A91C20;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:20px}
+.bar{position:absolute;left:56px;right:56px;top:1066px;background:#A91C20;padding:20px 26px}
+.bar b{display:block;font-weight:900;font-size:31px;text-transform:uppercase;letter-spacing:-0.01em}
+.bar i{display:block;font-style:normal;margin-top:6px;font-weight:600;font-size:24px}
+</style></head><body>
+<div class="s">
+  <div class="ih"><h2>HAVAN X MAGALU</h2><p>Os números de 2025, lado a lado</p></div>
+  <div class="cards"><div class="card" style="background-image:url(../imagens/card-havan.jpg)"></div>
+  <div class="card" style="background-image:url(../imagens/card-magalu.jpg)"></div></div>
+  <div class="rows"><div class="row"><div class="lb">Receita líquida 2025</div><div class="c l"><div class="v ">R$ 13,7 bi</div><div class="u"></div></div><div class="vs">VS</div><div class="c r"><div class="v win">R$ 38,7 bi</div><div class="u"></div></div></div><div class="row"><div class="lb">Lucro líquido 2025</div><div class="c l"><div class="v win">R$ 3,4 bi</div><div class="u"></div></div><div class="vs">VS</div><div class="c r"><div class="v ">R$ 205 mi</div><div class="u"></div></div></div><div class="row"><div class="lb">De cada R$ 100 vendidos, ficaram</div><div class="c l"><div class="v win">R$ 20+</div><div class="u">mesmo sem o ganho na Justiça</div></div><div class="vs">VS</div><div class="c r"><div class="v ">R$ 0,53</div><div class="u"></div></div></div><div class="row"><div class="lb">Juros em 2025</div><div class="c l"><div class="v win">+R$ 800 mi</div><div class="u">recebeu de receita financeira</div></div><div class="vs">VS</div><div class="c r"><div class="v ">−R$ 2 bi</div><div class="u">pagou de despesa financeira</div></div></div></div>
+  <div class="bar"><b>O Magalu vendeu quase 3x mais. E lucrou 17x menos.</b><i>De cada R$ 100, ficaram 53 centavos. Guarda esse número.</i></div>
+  <div class="ft"><div class="h"><span class="dm"></span>@helio.tatsuo · Arraste</div><div class="dots"><i class=""></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</div></body></html>
