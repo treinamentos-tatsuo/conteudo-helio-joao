@@ -1578,3 +1578,13 @@ Caminho **imersão MBV**; duplicada da ORGULHO (J362, intocada, LIVE); easy buil
 
 - 2026-11-26 — **REDEA montada, STOPPED** (repost 329 "Você não delega. Você delarga.", programado pelo João pras 19h40; o kit dizia 19h50). Automação content20261126200514_011928 (`IG | 2026-11-26 | REDEA | delargar repost`), duplicada da 271. Palavras `RÉDEA, rédea, Rédea, REDEA, redea, Redea` (busca por "redea" e "rédea" no painel: nenhuma). DM do kit: "A rédea da empresa tem que estar na sua mão. Quer conhecer o meu treinamento de gestão?" Botão ">> Quero ver <<" → `/v2` com `utm_campaign=2026-11-26-REDEA` (sem `utm_content` até amarrar). Conferida recarregando: parada, palavras, DM, campaign novo, nada da 271, 1 botão. Timer 19h41.
   - Na hora de montar, apareceu na lista uma cópia parada `IG | 2026-11-09 | RAIO-X | cinco passos 30 dias copy`, criada segundos depois de um clique meu no menu; pode ter sido um clique em "Duplicar" na linha errada. Ficou intocada (STOPPED, não dispara); avisado ao João.
+
+## 26/11/2026 — `IG | 2026-11-26 | RAIOX | havan x magalu` (carrossel J423) — MONTADA STOPPED ~17h10, LIVE ~17h34 (post das 17h30)
+
+Caminho **RAIO-X**; `utm_campaign=2026-11-26-RAIOX`; `utm_content=https://www.instagram.com/p/DgN967CGzpp/`; link `https://tatsuoacademy.com/raio-x-empresa-lucrativa/?utm_source=manychat&utm_medium=dm&utm_campaign=2026-11-26-RAIOX&utm_content=https://www.instagram.com/p/DgN967CGzpp/` (168 caracteres, o tamanho exato); palavras: as 12 grafias de RAIO-X (herdadas do modelo); DM "Vender mais não é sobrar mais. Pega a aula em que eu mostro quanto fica na sua empresa de cada R$ 100." (102 chars; escrita pelo Claude); botão `>> Quero a aula <<` (herdado). Duplicada da `IG | 2026-11-09 | RAIO-X | cinco passos 30 dias` (intocada). URL: https://app.manychat.com/fb2015128/cms/easy-builder/content20261126200551_689924.
+
+- Colisão: as outras RAIO-X da busca são de post específico, story ou live; a global `RAIO - X` (qualquer publicação) segue LIVE, mesma página, como nos outros RAIO-X.
+- Post achado no perfil: DgN967CGzpp, legenda "Eu não vou comparar o Luciano com a Luiza...", 17h30 (collab com a Tatsuo Academy); na grade do Manychat era o 1º card ("há 3 minutos", capa Havan x Magalu).
+- Conferido recarregando: LIVE, post novo, campaign novo, DM nova inteira, nada do modelo, 1 botão só.
+- Horário mudou de 17h25 pra 17h30 a pedido do João; o timer velho foi parado e o novo (17h31) armado. No Windows, timer sem caffeinate.
+- A duplicação demorou a aparecer na busca filtrada ("raio"); na lista sem filtro a cópia já estava no topo.
